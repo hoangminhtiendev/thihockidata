@@ -1,0 +1,6434 @@
+[
+  {
+    "id": 11,
+    "text": "My family",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit11.png",
+    "scenes": [
+      {
+        "id": 1,
+        "audioUrl": "",
+        "question": " ",
+        "correctAnswer": [
+          "I",
+          "am",
+          "a",
+          "student."
+        ],
+        "scramble": [
+          "I",
+          "am",
+          "a",
+          "student."
+        ],
+        "hint": "I am a student. → Tôi là một học sinh."
+      },
+      {
+        "id": 2,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This is",
+          "my brother.",
+          "He is",
+          "seventeen",
+          "years",
+          "old."
+        ],
+        "scramble": [
+          "This is",
+          "my brother.",
+          "He is",
+          "seventeen",
+          "years",
+          "old.",
+          "She's",
+          "It's"
+        ],
+        "hint": "This is my brother. He is seventeen years old. → Đây là anh/em trai tôi. Anh ấy mười bảy tuổi."
+      },
+      {
+        "id": 3,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "my",
+          "family",
+          "photo."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "my",
+          "family",
+          "photo."
+        ],
+        "hint": "This is my family photo. → Đây là ảnh gia đình tôi."
+      },
+      {
+        "id": 4,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Who",
+          "is",
+          "this?",
+          "It's",
+          "my",
+          "father."
+        ],
+        "scramble": [
+          "Who",
+          "is",
+          "this?",
+          "It's",
+          "my",
+          "father.",
+          "ten",
+          "I"
+        ],
+        "hint": "Who is this? It's my father. → Đây là ai? Đó là bố tôi."
+      },
+      {
+        "id": 5,
+        "audioUrl": "",
+        "question": "This is my brother. He is sixteen years old.",
+        "correctAnswer": [
+          "Đây là",
+          "anh trai",
+          "của tôi.",
+          "Anh ấy",
+          "mười sáu",
+          "tuổi."
+        ],
+        "scramble": [
+          "Đây là",
+          "anh trai",
+          "của tôi.",
+          "Anh ấy",
+          "mười sáu",
+          "tuổi.",
+          "sáu",
+          "mười tám"
+        ],
+        "hint": "This is my brother. He is sixteen years old. → Đây là anh trai của tôi. Anh ấy mười sáu tuổi."
+      },
+      {
+        "id": 6,
+        "audioUrl": "",
+        "question": "Anh trai bạn bao nhiêu tuổi? – Anh ấy hai mươi tuổi.",
+        "correctAnswer": [
+          "How old",
+          "is",
+          "your brother?",
+          "– He is",
+          "twenty",
+          "years old."
+        ],
+        "scramble": [
+          "How old",
+          "is",
+          "your brother?",
+          "– He is",
+          "twenty",
+          "years old.",
+          "twelve"
+        ],
+        "hint": "How old is your brother? – He is twenty years old. → Anh trai bạn bao nhiêu tuổi? – Anh ấy hai mươi tuổi."
+      },
+      {
+        "id": 7,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Who",
+          "is",
+          "this?",
+          "– It's",
+          "my",
+          "sister."
+        ],
+        "scramble": [
+          "Who",
+          "is",
+          "this?",
+          "– It's",
+          "my",
+          "sister."
+        ],
+        "hint": "Who is this? – It's my sister. → Đây là ai? – Đó là chị/em gái tôi."
+      },
+      {
+        "id": 8,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "That is",
+          "my",
+          "sister.",
+          "She is",
+          "nineteen",
+          "years old."
+        ],
+        "scramble": [
+          "That is",
+          "my",
+          "sister.",
+          "She is",
+          "nineteen",
+          "years old.",
+          " year old.",
+          "He"
+        ],
+        "hint": "That is my sister. She is nineteen years old. → Kia là chị/em gái tôi. Chị ấy mười chín tuổi."
+      },
+      {
+        "id": 9,
+        "audioUrl": "",
+        "question": "Mai's brother is eighteen years old.",
+        "correctAnswer": [
+          "Anh trai",
+          "của",
+          "Mai",
+          "mười",
+          "tám",
+          "tuổi."
+        ],
+        "scramble": [
+          "Anh trai",
+          "của",
+          "Mai",
+          "mười",
+          "tám",
+          "tuổi.",
+          "chín",
+          "bảy"
+        ],
+        "hint": "Mai's brother is eighteen years old. → Anh trai của Mai mười tám tuổi."
+      },
+      {
+        "id": 10,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "old",
+          "is",
+          "she?"
+        ],
+        "scramble": [
+          "How",
+          "old",
+          "is",
+          "she?"
+        ],
+        "hint": "How old is she? → Cô ấy bao nhiêu tuổi?"
+      },
+      {
+        "id": 11,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My",
+          "brother",
+          "is",
+          "fourteen",
+          "years",
+          "old."
+        ],
+        "scramble": [
+          "My",
+          "brother",
+          "is",
+          "fourteen",
+          "years",
+          "old.",
+          "year",
+          "are"
+        ],
+        "hint": "My brother is fourteen years old. → Anh/em trai tôi mười bốn tuổi."
+      },
+      {
+        "id": 12,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Lan",
+          "is",
+          "eleven",
+          "years",
+          "old."
+        ],
+        "scramble": [
+          "Lan",
+          "is",
+          "eleven",
+          "years",
+          "old."
+        ],
+        "hint": "Lan is eleven years old. → Lan mười một tuổi."
+      },
+      {
+        "id": 13,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Who",
+          "is",
+          "that?",
+          "– It's",
+          "my",
+          "brother."
+        ],
+        "scramble": [
+          "Who",
+          "is",
+          "that?",
+          "– It's",
+          "my",
+          "brother.",
+          "She",
+          "are"
+        ],
+        "hint": "Who is that? – It's my brother. → Kia là ai? – Đó là anh/em trai tôi."
+      },
+      {
+        "id": 14,
+        "audioUrl": "",
+        "question": "Đây là chị của Peter. Cô ấy mười chín tuổi.",
+        "correctAnswer": [
+          "This is",
+          "Peter's",
+          "sister.",
+          "She's",
+          "nineteen",
+          "years old."
+        ],
+        "scramble": [
+          "This is",
+          "Peter's",
+          "sister.",
+          "She's",
+          "nineteen",
+          "years old.",
+          "nine",
+          "eighteen."
+        ],
+        "hint": "This is Peter's sister. She's nineteen years old. → Đây là chị của Peter. Cô ấy mười chín tuổi."
+      },
+      {
+        "id": 15,
+        "audioUrl": "",
+        "question": "Who is that? – That is my grandmother.",
+        "correctAnswer": [
+          "Kia",
+          "là",
+          "ai?",
+          "– Đó là",
+          "bà",
+          "của tôi."
+        ],
+        "scramble": [
+          "Kia",
+          "là",
+          "ai?",
+          "– Đó là",
+          "bà",
+          "của tôi.",
+          "mẹ",
+          "ông "
+        ],
+        "hint": "Who is that? – That is my grandmother. → Kia là ai? – Đó là bà của tôi."
+      },
+      {
+        "id": 16,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Phong",
+          "is",
+          "sixteen",
+          "years",
+          "old."
+        ],
+        "scramble": [
+          "Phong",
+          "is",
+          "sixteen",
+          "years",
+          "old."
+        ],
+        "hint": "Phong is sixteen years old. → Phong mười sáu tuổi."
+      },
+      {
+        "id": 17,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "old",
+          "is",
+          "Helen?"
+        ],
+        "scramble": [
+          "How",
+          "old",
+          "is",
+          "Helen?"
+        ],
+        "hint": "How old is Helen? → Helen bao nhiêu tuổi?"
+      },
+      {
+        "id": 18,
+        "audioUrl": "",
+        "question": "My name is Kim. This is my sister.",
+        "correctAnswer": [
+          "Tên tôi",
+          "là",
+          "Kim.",
+          "Đây là",
+          "chị gái",
+          "của tôi."
+        ],
+        "scramble": [
+          "Tên tôi",
+          "là",
+          "Kim.",
+          "Đây là",
+          "chị gái",
+          "của tôi.",
+          "anh trai",
+          "cô ấy"
+        ],
+        "hint": "My name is Kim. This is my sister. → Tên tôi là Kim. Đây là chị gái của tôi."
+      },
+      {
+        "id": 19,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "old",
+          "are",
+          "you?"
+        ],
+        "scramble": [
+          "How",
+          "old",
+          "are",
+          "you?"
+        ],
+        "hint": "How old are you? → Bạn bao nhiêu tuổi?"
+      },
+      {
+        "id": 20,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I'm",
+          "eighteen",
+          "years",
+          "old."
+        ],
+        "scramble": [
+          "I'm",
+          "eighteen",
+          "years",
+          "old."
+        ],
+        "hint": "I'm eighteen years old. → Tôi mười tám tuổi."
+      },
+      {
+        "id": 21,
+        "audioUrl": "",
+        "question": "Hãy nhìn vào bức ảnh này. Đây là tôi.",
+        "correctAnswer": [
+          "Look",
+          "at",
+          "this",
+          "photo.",
+          "This is",
+          "me."
+        ],
+        "scramble": [
+          "Look",
+          "at",
+          "this",
+          "photo.",
+          "This is",
+          "me.",
+          "And look!",
+          "my"
+        ],
+        "hint": "Look at this photo. This is me. → Hãy nhìn vào bức ảnh này. Đây là tôi."
+      },
+      {
+        "id": 22,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Are",
+          "you",
+          "sure?"
+        ],
+        "scramble": [
+          "Are",
+          "you",
+          "sure?"
+        ],
+        "hint": "Are you sure? → Bạn chắc chứ?"
+      },
+      {
+        "id": 23,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "my",
+          "mother."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "my",
+          "mother."
+        ],
+        "hint": "This is my mother. → Đây là mẹ tôi."
+      },
+      {
+        "id": 24,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "old",
+          "is",
+          "your",
+          "mother?"
+        ],
+        "scramble": [
+          "How",
+          "old",
+          "is",
+          "your",
+          "mother?"
+        ],
+        "hint": "How old is your mother? → Mẹ bạn bao nhiêu tuổi?"
+      },
+      {
+        "id": 25,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "That",
+          "is",
+          "my",
+          "father."
+        ],
+        "scramble": [
+          "That",
+          "is",
+          "my",
+          "father."
+        ],
+        "hint": "That is my father. → Kia là bố tôi."
+      },
+      {
+        "id": 26,
+        "audioUrl": "",
+        "question": "Đây là ai? – Đây là mẹ của tôi.",
+        "correctAnswer": [
+          "Who",
+          "is",
+          "this?",
+          "– It's",
+          "my",
+          "mother."
+        ],
+        "scramble": [
+          "Who",
+          "is",
+          "this?",
+          "– It's",
+          "my",
+          "mother.",
+          "father",
+          "that"
+        ],
+        "hint": "Who is this? – It's my mother. → Đây là ai? – Đó là mẹ tôi."
+      },
+      {
+        "id": 27,
+        "audioUrl": "",
+        "question": "How old is Linh's sister? – She is thirteen years old.",
+        "correctAnswer": [
+          "Em gái",
+          "của Linh",
+          "bao nhiêu tuổi?",
+          "– Cô ấy",
+          "mười ba",
+          "tuổi."
+        ],
+        "scramble": [
+          "Em gái",
+          "của Linh",
+          "bao nhiêu tuổi?",
+          "– Cô ấy",
+          "mười ba",
+          "tuổi.",
+          "mười bốn",
+          "Linh"
+        ],
+        "hint": "How old is Linh's sister? – She is thirteen years old. → Em gái của Linh bao nhiêu tuổi? – Cô ấy mười ba tuổi."
+      },
+      {
+        "id": 28,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "old",
+          "is",
+          "your",
+          "father?"
+        ],
+        "scramble": [
+          "How",
+          "old",
+          "is",
+          "your",
+          "father?"
+        ],
+        "hint": "How old is your father? → Bố bạn bao nhiêu tuổi?"
+      },
+      {
+        "id": 29,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Is",
+          "this",
+          "your",
+          "sister?"
+        ],
+        "scramble": [
+          "Is",
+          "this",
+          "your",
+          "sister?"
+        ],
+        "hint": "Is this your sister? → Đây có phải là chị/em gái của bạn không?"
+      },
+      {
+        "id": 30,
+        "audioUrl": "",
+        "question": "Kia là bạn của tôi. Cậu ấy mười một tuổi.",
+        "correctAnswer": [
+          "That is",
+          "my",
+          "friend.",
+          "He's ",
+          "eleven",
+          "years old."
+        ],
+        "scramble": [
+          "That is",
+          "my",
+          "friend.",
+          "He's ",
+          "eleven",
+          "years old.",
+          "year old.",
+          "This is"
+        ],
+        "hint": "That is my friend. He's eleven years old. → Kia là bạn của tôi. Cậu ấy mười một tuổi."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Jobs",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit12.png",
+    "scenes": [
+      {
+        "id": 31,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What's",
+          "her",
+          "job?",
+          "– She",
+          "is a",
+          "doctor."
+        ],
+        "scramble": [
+          "What's",
+          "her",
+          "job?",
+          "– She",
+          "is a",
+          "doctor."
+        ],
+        "hint": "What's her job? – She is a doctor. → Cô ấy làm nghề gì? – Cô ấy là bác sĩ."
+      },
+      {
+        "id": 32,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Is he",
+          "a",
+          "singer?",
+          "– No,",
+          "he isn't. ",
+          "He is a farmer."
+        ],
+        "scramble": [
+          "Is he",
+          "a",
+          "singer?",
+          "– No,",
+          "he isn't. ",
+          "He is a farmer.",
+          "she isn't",
+          "he is"
+        ],
+        "hint": "Is he a singer? – No, he isn't. He is a farmer. → Anh ấy có phải là ca sĩ không? Không, anh ấy là nông dân."
+      },
+      {
+        "id": 33,
+        "audioUrl": "",
+        "question": "Bạn có phải là công nhân không?",
+        "correctAnswer": [
+          "Are",
+          "you",
+          "a",
+          "worker?"
+        ],
+        "scramble": [
+          "Are",
+          "you",
+          "a",
+          "worker?"
+        ],
+        "hint": "Are you a worker? → Bạn có phải là công nhân không?"
+      },
+      {
+        "id": 34,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What's",
+          "his",
+          "job?",
+          "– He",
+          "is a",
+          "teacher."
+        ],
+        "scramble": [
+          "What's",
+          "his",
+          "job?",
+          "– He",
+          "is a",
+          "teacher."
+        ],
+        "hint": "What's his job? – He is a teacher. → Anh ấy làm nghề gì? – Anh ấy là giáo viên."
+      },
+      {
+        "id": 35,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My",
+          "father",
+          "is",
+          "a",
+          "worker."
+        ],
+        "scramble": [
+          "My",
+          "father",
+          "is",
+          "a",
+          "worker."
+        ],
+        "hint": "My father is a worker. → Bố tôi là công nhân."
+      },
+      {
+        "id": 36,
+        "audioUrl": "",
+        "question": "This is a photo of my family.",
+        "correctAnswer": [
+          "Đây",
+          "là",
+          "bức ảnh",
+          "của",
+          "gia đình",
+          "tôi."
+        ],
+        "scramble": [
+          "Đây",
+          "là",
+          "bức ảnh",
+          "của",
+          "gia đình",
+          "tôi.",
+          "cô ấy",
+          "bức tranh"
+        ],
+        "hint": "This is a photo of my family. → Đây là bức ảnh của gia đình tôi."
+      },
+      {
+        "id": 37,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "am",
+          "a",
+          "driver."
+        ],
+        "scramble": [
+          "I",
+          "am",
+          "a",
+          "driver."
+        ],
+        "hint": "I am a driver. → Tôi là tài xế."
+      },
+      {
+        "id": 38,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Is",
+          "she",
+          "a",
+          "nurse?",
+          "– Yes,",
+          "she is."
+        ],
+        "scramble": [
+          "Is",
+          "she",
+          "a",
+          "nurse?",
+          "– Yes,",
+          "she is.",
+          "he is",
+          "Are"
+        ],
+        "hint": "Is she a nurse? – Yes, she is. → Cô ấy có phải là y tá không? – Vâng, đúng vậy."
+      },
+      {
+        "id": 39,
+        "audioUrl": "",
+        "question": "Em gái tôi là học sinh. Tôi cũng là học sinh.",
+        "correctAnswer": [
+          "My sister",
+          "is a",
+          "pupil.",
+          "I'm",
+          "a pupil,",
+          "too."
+        ],
+        "scramble": [
+          "My sister",
+          "is a",
+          "pupil.",
+          "I'm",
+          "a pupil,",
+          "too."
+        ],
+        "hint": "My sister is a pupil. I'm a pupil, too. → Em gái tôi là học sinh. Tôi cũng là học sinh."
+      },
+      {
+        "id": 40,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Is he",
+          "a farmer?",
+          "– No,",
+          "he isn't.",
+          "He's",
+          "a cook."
+        ],
+        "scramble": [
+          "Is he",
+          "a farmer?",
+          "– No,",
+          "he isn't.",
+          "He's",
+          "a cook.",
+          "he is",
+          "an cook."
+        ],
+        "hint": "Is he a farmer? – No, he isn't. He's a cook. → Anh ấy có phải là nông dân không? Không, anh ấy là đầu bếp."
+      },
+      {
+        "id": 41,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Is",
+          "your",
+          "father",
+          "a",
+          "singer?"
+        ],
+        "scramble": [
+          "Is",
+          "your",
+          "father",
+          "a",
+          "singer?"
+        ],
+        "hint": "Is your father a singer? → Bố bạn có phải là ca sĩ không?"
+      },
+      {
+        "id": 42,
+        "audioUrl": "",
+        "question": "Mẹ bạn có phải là bác sĩ không? – Không, bà ấy là y tá.",
+        "correctAnswer": [
+          "Is",
+          "your mom",
+          "a doctor?",
+          "– No,",
+          "she's",
+          "a nurse."
+        ],
+        "scramble": [
+          "Is",
+          "your mom",
+          "a doctor?",
+          "– No,",
+          "she's",
+          "a nurse.",
+          "he's",
+          "isn't"
+        ],
+        "hint": "Is your mom a doctor? – No, she's a nurse. → Mẹ bạn có phải là bác sĩ không? – Không, bà ấy là y tá."
+      },
+      {
+        "id": 43,
+        "audioUrl": "",
+        "question": "Is your father a farmer?",
+        "correctAnswer": [
+          "Bố",
+          "của bạn",
+          "có phải là",
+          "nông dân",
+          "không?"
+        ],
+        "scramble": [
+          "Bố",
+          "của bạn",
+          "có phải là",
+          "nông dân",
+          "không?",
+          "công nhân",
+          "Mẹ"
+        ],
+        "hint": "Is your father a farmer? → Bố của bạn có phải là nông dân không?"
+      },
+      {
+        "id": 44,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Hi.",
+          "My",
+          "name",
+          "is",
+          "Minh."
+        ],
+        "scramble": [
+          "Hi.",
+          "My",
+          "name",
+          "is",
+          "Minh.",
+          "me",
+          "are"
+        ],
+        "hint": "Hi. My name is Minh. → Xin chào. Tôi tên là Minh."
+      },
+      {
+        "id": 45,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "my",
+          "family."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "my",
+          "family."
+        ],
+        "hint": "This is my family. → Đây là gia đình tôi."
+      },
+      {
+        "id": 46,
+        "audioUrl": "",
+        "question": "Mẹ của bạn có phải là giáo viên không? – Vâng, đúng vậy.",
+        "correctAnswer": [
+          "Is",
+          "your mom",
+          "a",
+          "teacher?",
+          "– Yes,",
+          "she is."
+        ],
+        "scramble": [
+          "Is",
+          "your mom",
+          "a",
+          "teacher?",
+          "– Yes,",
+          "she is.",
+          "isn't",
+          "my mom"
+        ],
+        "hint": "Is your mom a teacher? – Yes, she is. → Mẹ của bạn có phải là giáo viên không? – Vâng, đúng vậy."
+      },
+      {
+        "id": 47,
+        "audioUrl": "",
+        "question": "This is my father. He's a singer.",
+        "correctAnswer": [
+          "Đây là",
+          "bố",
+          "của tôi.",
+          "Ông ấy",
+          "là một",
+          "ca sĩ."
+        ],
+        "scramble": [
+          "Đây là",
+          "bố",
+          "của tôi.",
+          "Ông ấy",
+          "là một",
+          "ca sĩ.",
+          "Kia là",
+          "giáo viên"
+        ],
+        "hint": "This is my father. He's a singer. → Đây là bố của tôi. Ông ấy là một ca sĩ."
+      },
+      {
+        "id": 48,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "about",
+          "your",
+          "family?"
+        ],
+        "scramble": [
+          "What",
+          "about",
+          "your",
+          "family?"
+        ],
+        "hint": "What about your family? → Còn gia đình bạn thì sao?"
+      },
+      {
+        "id": 49,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What's",
+          "her",
+          "job?",
+          "– She's",
+          "a",
+          "cook."
+        ],
+        "scramble": [
+          "What's",
+          "her",
+          "job?",
+          "– She's",
+          "a",
+          "cook.",
+          "How",
+          "is"
+        ],
+        "hint": "What's her job? – She's a cook. → Cô ấy làm nghề gì? – Cô ấy là đầu bếp."
+      },
+      {
+        "id": 50,
+        "audioUrl": "",
+        "question": "What's his job? – He's a farmer.",
+        "correctAnswer": [
+          "Công việc",
+          "của anh ấy",
+          "là gì?",
+          "– Anh ấy",
+          "là",
+          "nông dân."
+        ],
+        "scramble": [
+          "Công việc",
+          "của anh ấy",
+          "là gì?",
+          "– Anh ấy",
+          "là",
+          "nông dân.",
+          "công nhân.",
+          "cô ấy"
+        ],
+        "hint": "What's his job? – He's a farmer. → Công việc của anh ấy là gì? – Anh ấy là nông dân."
+      },
+      {
+        "id": 51,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My",
+          "mother",
+          "is",
+          "a",
+          "nurse."
+        ],
+        "scramble": [
+          "My",
+          "mother",
+          "is",
+          "a",
+          "nurse."
+        ],
+        "hint": "My mother is a nurse. → Mẹ tôi là y tá."
+      },
+      {
+        "id": 52,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Is",
+          "your mother",
+          "a doctor?",
+          "– No, she isn't.",
+          "She's",
+          "a nurse."
+        ],
+        "scramble": [
+          "Is",
+          "your mother",
+          "a doctor?",
+          "– No, she isn't.",
+          "She's",
+          "a nurse.",
+          "No, she is",
+          "No, he is"
+        ],
+        "hint": "Is your mother a doctor? – No, she isn't. She's a nurse. → Mẹ bạn có phải là bác sĩ không? – Không, mẹ tôi là y tá."
+      },
+      {
+        "id": 53,
+        "audioUrl": "",
+        "question": "Không, cô ấy không phải là y tá. Cô ấy là bác sĩ.",
+        "correctAnswer": [
+          "No,",
+          "she isn't",
+          "a nurse.",
+          "She's",
+          "a",
+          "doctor."
+        ],
+        "scramble": [
+          "No,",
+          "she isn't",
+          "a nurse.",
+          "She's",
+          "a",
+          "doctor.",
+          "He's",
+          "Yes,"
+        ],
+        "hint": "No, she isn't a nurse. She's a doctor. → Không, cô ấy không phải là y tá. Cô ấy là bác sĩ."
+      },
+      {
+        "id": 54,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "a photo",
+          "of",
+          "my",
+          "grandmother."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "a photo",
+          "of",
+          "my",
+          "grandmother."
+        ],
+        "hint": "This is a photo of my grandmother. → Đây là ảnh của bà tôi."
+      },
+      {
+        "id": 55,
+        "audioUrl": "",
+        "question": "Chị gái của bạn là ca sĩ phải không?",
+        "correctAnswer": [
+          "Is",
+          "your",
+          "sister",
+          "a",
+          "singer?"
+        ],
+        "scramble": [
+          "Is",
+          "your",
+          "sister",
+          "a",
+          "singer?",
+          "teacher?",
+          "nurse?"
+        ],
+        "hint": "Is your sister a singer? → Chị gái của bạn là ca sĩ phải không?"
+      },
+      {
+        "id": 56,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "is",
+          "his",
+          "job?"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "his",
+          "job?"
+        ],
+        "hint": "What is his job? → Anh ấy làm nghề gì?"
+      },
+      {
+        "id": 57,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Is",
+          "your",
+          "father",
+          "a",
+          "doctor?"
+        ],
+        "scramble": [
+          "Is",
+          "your",
+          "father",
+          "a",
+          "doctor?"
+        ],
+        "hint": "Is your father a doctor? → Bố bạn có phải là bác sĩ không?"
+      },
+      {
+        "id": 58,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My sister",
+          "is",
+          "a pupil.",
+          "I am a pupil,",
+          "too."
+        ],
+        "scramble": [
+          "My sister",
+          "is",
+          "a pupil.",
+          "I am a pupil,",
+          "too.",
+          "to.",
+          "are"
+        ],
+        "hint": "My sister is a pupil. I am a pupil, too. → Chị/em gái tôi là học sinh. Tôi cũng là học sinh."
+      },
+      {
+        "id": 59,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "a",
+          "photo",
+          "of my",
+          "family."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "a",
+          "photo",
+          "of my",
+          "family."
+        ],
+        "hint": "This is a photo of my family. → Đây là ảnh gia đình tôi."
+      },
+      {
+        "id": 60,
+        "audioUrl": "",
+        "question": "My grandmother and my grandfather are farmers.",
+        "correctAnswer": [
+          "Bà của tôi",
+          "và",
+          "ông của tôi",
+          "là",
+          "nông dân."
+        ],
+        "scramble": [
+          "Bà của tôi",
+          "và",
+          "ông của tôi",
+          "là",
+          "nông dân.",
+          "công nhân",
+          "mẹ của tôi"
+        ],
+        "hint": "My grandmother and my grandfather are farmers. → Bà của tôi và ông của tôi là nông dân."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "My house",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit13.png",
+    "scenes": [
+      {
+        "id": 61,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Come",
+          "in,",
+          "please!"
+        ],
+        "scramble": [
+          "Come",
+          "in,",
+          "please!"
+        ],
+        "hint": "Come in, please! → Mời vào!"
+      },
+      {
+        "id": 62,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "teddy",
+          "bear",
+          "is",
+          "on the",
+          "bed."
+        ],
+        "scramble": [
+          "The",
+          "teddy",
+          "bear",
+          "is",
+          "on the",
+          "bed.",
+          "are",
+          "in the"
+        ],
+        "hint": "The teddy bear is on the bed. → Con gấu bông ở trên giường."
+      },
+      {
+        "id": 63,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Wow,",
+          "I",
+          "like",
+          "your",
+          "house!"
+        ],
+        "scramble": [
+          "Wow,",
+          "I",
+          "like",
+          "your",
+          "house!"
+        ],
+        "hint": "Wow, I like your house! → Wow, tớ thích ngôi nhà của cậu!"
+      },
+      {
+        "id": 64,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "chairs",
+          "and",
+          "the table",
+          "are",
+          "in the kitchen."
+        ],
+        "scramble": [
+          "The",
+          "chairs",
+          "and",
+          "the table",
+          "are",
+          "in the kitchen.",
+          "is",
+          "on the kitchen."
+        ],
+        "hint": "The chairs and the table are in the kitchen. → Những cái ghế và cái bàn ở trong bếp."
+      },
+      {
+        "id": 65,
+        "audioUrl": "",
+        "question": "Phòng tắm ở đâu?",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the",
+          "bathroom?"
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the",
+          "bathroom?",
+          "bedroom?",
+          "dining room?"
+        ],
+        "hint": "Where is the bathroom? → Phòng tắm ở đâu?"
+      },
+      {
+        "id": 66,
+        "audioUrl": "",
+        "question": "My schoolbag is on the table.",
+        "correctAnswer": [
+          "Cặp sách",
+          "của tôi",
+          "ở",
+          "trên",
+          "bàn."
+        ],
+        "scramble": [
+          "Cặp sách",
+          "của tôi",
+          "ở",
+          "trên",
+          "bàn.",
+          "ghế.",
+          "phòng."
+        ],
+        "hint": "My schoolbag is on the table. → Cặp sách của tôi ở trên bàn."
+      },
+      {
+        "id": 67,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Here",
+          "is",
+          "my",
+          "doll's",
+          "house."
+        ],
+        "scramble": [
+          "Here",
+          "is",
+          "my",
+          "doll's",
+          "house."
+        ],
+        "hint": "Here is my doll's house. → Đây là ngôi nhà búp bê của tớ."
+      },
+      {
+        "id": 68,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This is",
+          "the kitchen",
+          "and",
+          "that is",
+          "the",
+          "bathroom."
+        ],
+        "scramble": [
+          "This is",
+          "the kitchen",
+          "and",
+          "that is",
+          "the",
+          "bathroom."
+        ],
+        "hint": "This is the kitchen and that is the bathroom. → Đây là nhà bếp và kia là phòng tắm."
+      },
+      {
+        "id": 69,
+        "audioUrl": "",
+        "question": "Gấu bông ở trên giường.",
+        "correctAnswer": [
+          "The",
+          "teddy bear",
+          "is",
+          "on",
+          "the bed."
+        ],
+        "scramble": [
+          "The",
+          "teddy bear",
+          "is",
+          "on",
+          "the bed.",
+          "in",
+          "bedroom."
+        ],
+        "hint": "The teddy bear is on the bed. → Gấu bông ở trên giường."
+      },
+      {
+        "id": 70,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Here",
+          "is",
+          "my",
+          "house."
+        ],
+        "scramble": [
+          "Here",
+          "is",
+          "my",
+          "house."
+        ],
+        "hint": "Here is my house. → Đây là ngôi nhà của tớ."
+      },
+      {
+        "id": 71,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This is",
+          "the",
+          "living room",
+          "and",
+          "that is",
+          "the bedroom."
+        ],
+        "scramble": [
+          "This is",
+          "the",
+          "living room",
+          "and",
+          "that is",
+          "the bedroom."
+        ],
+        "hint": "This is the living room and that is the bedroom. → Đây là phòng khách và kia là phòng ngủ."
+      },
+      {
+        "id": 72,
+        "audioUrl": "",
+        "question": "Phòng khách ở đâu? – Nó ở đằng kia.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the",
+          "living room?",
+          "– It's",
+          "there."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the",
+          "living room?",
+          "– It's",
+          "there.",
+          "kitchen?",
+          "here."
+        ],
+        "hint": "Where is the living room? – It's there. → Phòng khách ở đâu? – Nó ở đằng kia."
+      },
+      {
+        "id": 73,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "are",
+          "the",
+          "tables?",
+          "– They",
+          "are in the living room."
+        ],
+        "scramble": [
+          "Where",
+          "are",
+          "the",
+          "tables?",
+          "– They",
+          "are in the living room."
+        ],
+        "hint": "Where are the tables? – They are in the living room. → Những cái bàn ở đâu? – Chúng ở trong phòng khách."
+      },
+      {
+        "id": 74,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "books",
+          "are",
+          "on",
+          "the",
+          "tables."
+        ],
+        "scramble": [
+          "The",
+          "books",
+          "are",
+          "on",
+          "the",
+          "tables."
+        ],
+        "hint": "The books are on the tables. → Những quyển sách ở trên bàn."
+      },
+      {
+        "id": 75,
+        "audioUrl": "",
+        "question": "Phòng ngủ của bạn ở đâu? – Nó ở đây.",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "your",
+          "bedroom?",
+          "– It's",
+          "here."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "your",
+          "bedroom?",
+          "– It's",
+          "here.",
+          "there.",
+          "over there."
+        ],
+        "hint": "Where is your bedroom? – It's here. → Phòng ngủ của bạn ở đâu? – Nó ở đây."
+      },
+      {
+        "id": 76,
+        "audioUrl": "",
+        "question": "Cái đèn ở trên bàn trong phòng ngủ của tôi.",
+        "correctAnswer": [
+          "The lamp",
+          "is on",
+          "the table",
+          "in",
+          "my",
+          "bedroom."
+        ],
+        "scramble": [
+          "The lamp",
+          "is on",
+          "the table",
+          "in",
+          "my",
+          "bedroom.",
+          "bathroom.",
+          "are on"
+        ],
+        "hint": "The lamp is on the table in my bedroom. → Cái đèn ở trên bàn trong phòng ngủ của tôi."
+      },
+      {
+        "id": 77,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "don't",
+          "like",
+          "a",
+          "small",
+          "house."
+        ],
+        "scramble": [
+          "I",
+          "don't",
+          "like",
+          "a",
+          "small",
+          "house."
+        ],
+        "hint": "I don't like a small house. → Tôi không thích ngôi nhà nhỏ."
+      },
+      {
+        "id": 78,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the",
+          "bathroom?"
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the",
+          "bathroom?"
+        ],
+        "hint": "Where is the bathroom? → Phòng tắm ở đâu?"
+      },
+      {
+        "id": 79,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "That",
+          "is",
+          "the",
+          "dining",
+          "room."
+        ],
+        "scramble": [
+          "That",
+          "is",
+          "the",
+          "dining",
+          "room."
+        ],
+        "hint": "That is the dining room. → Kia là phòng ăn."
+      },
+      {
+        "id": 80,
+        "audioUrl": "",
+        "question": "There are two beds in my bedroom.",
+        "correctAnswer": [
+          "Có",
+          "hai",
+          "cái giường",
+          "trong",
+          "phòng ngủ",
+          "của tôi."
+        ],
+        "scramble": [
+          "Có",
+          "hai",
+          "cái giường",
+          "trong",
+          "phòng ngủ",
+          "của tôi."
+        ],
+        "hint": "There are two beds in my bedroom. → Có hai cái giường trong phòng ngủ của tôi."
+      },
+      {
+        "id": 81,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "the",
+          "livingroom?",
+          "– It's",
+          "there."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "the",
+          "livingroom?",
+          "– It's",
+          "there."
+        ],
+        "hint": "Where is the living room? – It's there. → Phòng khách ở đâu? – Nó ở đằng kia."
+      },
+      {
+        "id": 82,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "the",
+          "kitchen."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "the",
+          "kitchen."
+        ],
+        "hint": "This is the kitchen. → Đây là nhà bếp."
+      },
+      {
+        "id": 83,
+        "audioUrl": "",
+        "question": "There is a big window in the living room.",
+        "correctAnswer": [
+          "Có",
+          "một",
+          "cửa sổ",
+          "lớn",
+          "trong",
+          "phòng khách."
+        ],
+        "scramble": [
+          "Có",
+          "một",
+          "cửa sổ",
+          "lớn",
+          "trong",
+          "phòng khách.",
+          "phòng ăn.",
+          "cửa chính"
+        ],
+        "hint": "There is a big window in the living room. → Có một cửa sổ lớn trong phòng khách."
+      },
+      {
+        "id": 84,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "lamps",
+          "are",
+          "in",
+          "the",
+          "bedroom."
+        ],
+        "scramble": [
+          "The",
+          "lamps",
+          "are",
+          "in",
+          "the",
+          "bedroom."
+        ],
+        "hint": "The lamps are in the bedroom. → Những chiếc đèn ở trong phòng ngủ."
+      },
+      {
+        "id": 85,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "like",
+          "a",
+          "big",
+          "house."
+        ],
+        "scramble": [
+          "I",
+          "like",
+          "a",
+          "big",
+          "house."
+        ],
+        "hint": "I like a big house. → Tôi thích một ngôi nhà lớn."
+      },
+      {
+        "id": 86,
+        "audioUrl": "",
+        "question": "Những quyển sách ở trên bàn.",
+        "correctAnswer": [
+          "The",
+          "books",
+          "are",
+          "on",
+          "the desk."
+        ],
+        "scramble": [
+          "The",
+          "books",
+          "are",
+          "on",
+          "the desk.",
+          "notebooks",
+          "in"
+        ],
+        "hint": "The books are on the desk. → Những quyển sách ở trên bàn học."
+      },
+      {
+        "id": 87,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "your",
+          "bedroom?",
+          "– It's",
+          "here."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "your",
+          "bedroom?",
+          "– It's",
+          "here."
+        ],
+        "hint": "Where is your bedroom? – It's here. → Phòng ngủ của bạn ở đâu? – Nó ở đây."
+      },
+      {
+        "id": 88,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "are",
+          "the",
+          "chairs?",
+          "– They",
+          "are in the kitchen."
+        ],
+        "scramble": [
+          "Where",
+          "are",
+          "the",
+          "chairs?",
+          "– They",
+          "are in the kitchen."
+        ],
+        "hint": "Where are the chairs? – They are in the kitchen. → Những cái ghế ở đâu? – Chúng ở trong bếp."
+      },
+      {
+        "id": 89,
+        "audioUrl": "",
+        "question": "Đây là phòng khách, còn kia là phòng ngủ.",
+        "correctAnswer": [
+          "This is",
+          "the living room",
+          "and",
+          "that is",
+          "the",
+          "bedroom."
+        ],
+        "scramble": [
+          "This is",
+          "the living room",
+          "and",
+          "that is",
+          "the",
+          "bedroom.",
+          "dining room",
+          "bathroom."
+        ],
+        "hint": "This is the living room and that is the bedroom. → Đây là phòng khách, còn kia là phòng ngủ."
+      },
+      {
+        "id": 90,
+        "audioUrl": "",
+        "question": "Where are your toys? – They’re in my bedroom.",
+        "correctAnswer": [
+          "Đồ chơi",
+          "của bạn",
+          "ở đâu?",
+          "– Chúng ở trong",
+          "phòng ngủ",
+          "của tôi."
+        ],
+        "scramble": [
+          "Đồ chơi",
+          "của bạn",
+          "ở đâu?",
+          "– Chúng ở trong",
+          "phòng ngủ",
+          "của tôi.",
+          "phòng khách",
+          "phòng ăn"
+        ],
+        "hint": "Where are your toys? – They're in my bedroom. → Đồ chơi của bạn ở đâu? – Chúng ở trong phòng ngủ của tôi."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "My bedroom",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit14.png",
+    "scenes": [
+      {
+        "id": 91,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There",
+          "is",
+          "a",
+          "desk",
+          "in the",
+          "room."
+        ],
+        "scramble": [
+          "There",
+          "is",
+          "a",
+          "desk",
+          "in the",
+          "room.",
+          "on the",
+          "are"
+        ],
+        "hint": "There is a desk in the room. → Có một cái bàn trong phòng."
+      },
+      {
+        "id": 92,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "my",
+          "bedroom."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "my",
+          "bedroom."
+        ],
+        "hint": "This is my bedroom. → Đây là phòng ngủ của tôi."
+      },
+      {
+        "id": 93,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There",
+          "are",
+          "two",
+          "chairs",
+          "in the",
+          "room."
+        ],
+        "scramble": [
+          "There",
+          "are",
+          "two",
+          "chairs",
+          "in the",
+          "room.",
+          "chair",
+          "There is"
+        ],
+        "hint": "There are two chairs in the room. → Có hai cái ghế trong phòng."
+      },
+      {
+        "id": 94,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There's",
+          "a",
+          "desk",
+          "in the",
+          "room."
+        ],
+        "scramble": [
+          "There's",
+          "a",
+          "desk",
+          "in the",
+          "room."
+        ],
+        "hint": "There's a desk in the room. → Có một cái bàn trong phòng."
+      },
+      {
+        "id": 95,
+        "audioUrl": "",
+        "question": "Có hai cái đèn trong phòng. Chúng thì cũ.",
+        "correctAnswer": [
+          "There are",
+          "two lamps",
+          "in",
+          "the room.",
+          "They're",
+          "old."
+        ],
+        "scramble": [
+          "There are",
+          "two lamps",
+          "in",
+          "the room.",
+          "They're",
+          "old.",
+          "new.",
+          "two desks"
+        ],
+        "hint": "There are two lamps in the room. They're old. → Có hai cái đèn trong phòng. Chúng thì cũ."
+      },
+      {
+        "id": 96,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There",
+          "are",
+          "two",
+          "doors",
+          "in the",
+          "room."
+        ],
+        "scramble": [
+          "There",
+          "are",
+          "two",
+          "doors",
+          "in the",
+          "room.",
+          "door"
+        ],
+        "hint": "There are two doors in the room. → Có hai cái cửa trong phòng."
+      },
+      {
+        "id": 97,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There's",
+          "a",
+          "bed",
+          "in the",
+          "room."
+        ],
+        "scramble": [
+          "There's",
+          "a",
+          "bed",
+          "in the",
+          "room."
+        ],
+        "hint": "There's a bed in the room. → Có một cái giường trong phòng."
+      },
+      {
+        "id": 98,
+        "audioUrl": "",
+        "question": "Có hai cái cửa trong phòng khách.",
+        "correctAnswer": [
+          "There are",
+          "two",
+          "doors",
+          "in",
+          "the",
+          "living room."
+        ],
+        "scramble": [
+          "There are",
+          "two",
+          "doors",
+          "in",
+          "the",
+          "living room.",
+          "windows"
+        ],
+        "hint": "There are two doors in the living room. → Có hai cái cửa trong phòng khách."
+      },
+      {
+        "id": 99,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There",
+          "are",
+          "two",
+          "windows",
+          "in the",
+          "living room."
+        ],
+        "scramble": [
+          "There",
+          "are",
+          "two",
+          "windows",
+          "in the",
+          "living room.",
+          "door",
+          "on the"
+        ],
+        "hint": "There are two windows in the living room. → Có hai cái cửa sổ trong phòng khách."
+      },
+      {
+        "id": 100,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There",
+          "are",
+          "two",
+          "lamps",
+          "in the",
+          "bathroom."
+        ],
+        "scramble": [
+          "There",
+          "are",
+          "two",
+          "lamps",
+          "in the",
+          "bathroom."
+        ],
+        "hint": "There are two lamps in the bathroom. → Có hai cái đèn trong phòng tắm."
+      },
+      {
+        "id": 101,
+        "audioUrl": "",
+        "question": "Có một cái giường trong phòng ngủ. Nó thì mới.",
+        "correctAnswer": [
+          "There is",
+          "a bed",
+          "in",
+          "the bedroom.",
+          "It's",
+          "new."
+        ],
+        "scramble": [
+          "There is",
+          "a bed",
+          "in",
+          "the bedroom.",
+          "It's",
+          "new.",
+          "old",
+          "bathroom."
+        ],
+        "hint": "There is a bed in the bedroom. It's new. → Có một cái giường trong phòng ngủ. Nó thì mới."
+      },
+      {
+        "id": 102,
+        "audioUrl": "",
+        "question": "Có ba cái cửa sổ trong bếp.",
+        "correctAnswer": [
+          "There",
+          "are",
+          "three",
+          "windows",
+          "in the",
+          "kitchen."
+        ],
+        "scramble": [
+          "There",
+          "are",
+          "three",
+          "windows",
+          "in the",
+          "kitchen.",
+          "dining room.",
+          "window"
+        ],
+        "hint": "There are three windows in the kitchen. → Có ba cái cửa sổ trong bếp."
+      },
+      {
+        "id": 103,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "And",
+          "look!",
+          "The",
+          "windows",
+          "are",
+          "small."
+        ],
+        "scramble": [
+          "And",
+          "look!",
+          "The",
+          "windows",
+          "are",
+          "small."
+        ],
+        "hint": "And look! The windows are small. → Và nhìn kìa! Những cái cửa sổ nhỏ."
+      },
+      {
+        "id": 104,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "door",
+          "is",
+          "big."
+        ],
+        "scramble": [
+          "The",
+          "door",
+          "is",
+          "big."
+        ],
+        "hint": "The door is big. → Cánh cửa này to."
+      },
+      {
+        "id": 105,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "my",
+          "house."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "my",
+          "house.",
+          "me",
+          "are"
+        ],
+        "hint": "This is my house. → Đây là ngôi nhà của tôi."
+      },
+      {
+        "id": 106,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "chairs",
+          "are",
+          "new."
+        ],
+        "scramble": [
+          "The",
+          "chairs",
+          "are",
+          "new."
+        ],
+        "hint": "The chairs are new. → Những cái ghế thì mới."
+      },
+      {
+        "id": 107,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "bed",
+          "in my",
+          "room",
+          "is",
+          "old."
+        ],
+        "scramble": [
+          "The",
+          "bed",
+          "in my",
+          "room",
+          "is",
+          "old.",
+          "on my",
+          "A"
+        ],
+        "hint": "The bed in my room is old. → Cái giường trong phòng của tôi thì cũ."
+      },
+      {
+        "id": 108,
+        "audioUrl": "",
+        "question": "Có hai cái ghế và hai cái cửa sổ trong phòng ngủ của tôi.",
+        "correctAnswer": [
+          "There are",
+          "two chairs",
+          "and",
+          "two windows",
+          "in",
+          "my bedroom."
+        ],
+        "scramble": [
+          "There are",
+          "two chairs",
+          "and",
+          "two windows",
+          "in",
+          "my bedroom.",
+          "There is",
+          "on"
+        ],
+        "hint": "There are two chairs and two windows in my bedroom. → Có hai cái ghế và hai cái cửa sổ trong phòng ngủ của tôi."
+      },
+      {
+        "id": 109,
+        "audioUrl": "",
+        "question": "There are books on the desk.",
+        "correctAnswer": [
+          "Có",
+          "những",
+          "quyển sách",
+          "ở trên",
+          "bàn."
+        ],
+        "scramble": [
+          "Có",
+          "những",
+          "quyển sách",
+          "ở trên",
+          "bàn.",
+          "quyển vở",
+          "dưới"
+        ],
+        "hint": "There are books on the desk. → Có những quyển sách ở trên bàn."
+      },
+      {
+        "id": 110,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "my",
+          "bedroom.",
+          "It",
+          "is small."
+        ],
+        "scramble": [
+          "This",
+          "is",
+          "my",
+          "bedroom.",
+          "It",
+          "is small."
+        ],
+        "hint": "This is my bedroom. It is small. → Đây là phòng ngủ của tôi. Nó nhỏ."
+      },
+      {
+        "id": 111,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There are",
+          "two chairs",
+          "and two",
+          "windows",
+          "in",
+          "my bedrooom."
+        ],
+        "scramble": [
+          "There are",
+          "two chairs",
+          "and two",
+          "windows",
+          "in",
+          "my bedrooom.",
+          "two chair",
+          "There is"
+        ],
+        "hint": "There are two chairs and two windows in my bedroom. → Có hai cái ghế và hai cái cửa sổ trong phòng ngủ của tôi."
+      },
+      {
+        "id": 112,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "windows",
+          "are",
+          "small."
+        ],
+        "scramble": [
+          "The",
+          "windows",
+          "are",
+          "small.",
+          "is",
+          "A"
+        ],
+        "hint": "The windows are small. → Những cái cửa sổ thì nhỏ."
+      },
+      {
+        "id": 113,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "desk",
+          "is",
+          "old."
+        ],
+        "scramble": [
+          "The",
+          "desk",
+          "is",
+          "old."
+        ],
+        "hint": "The desk is old. → Cái bàn thì cũ."
+      },
+      {
+        "id": 114,
+        "audioUrl": "",
+        "question": "Đây là phòng ngủ của tôi. Nó thì nhỏ.",
+        "correctAnswer": [
+          "This is",
+          "my",
+          "bedroom.",
+          "It",
+          "is",
+          "small."
+        ],
+        "scramble": [
+          "This is",
+          "my",
+          "bedroom.",
+          "It",
+          "is",
+          "small.",
+          "large.",
+          "bathroom."
+        ],
+        "hint": "This is my bedroom. It is small. → Đây là phòng ngủ của tôi. Nó nhỏ."
+      },
+      {
+        "id": 115,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There",
+          "are",
+          "two",
+          "doors",
+          "in the",
+          "living room."
+        ],
+        "scramble": [
+          "There",
+          "are",
+          "two",
+          "doors",
+          "in the",
+          "living room."
+        ],
+        "hint": "There are two doors in the living room. → Có hai cái cửa trong phòng khách."
+      },
+      {
+        "id": 116,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There is",
+          "a bed",
+          "in the",
+          "bedroom.",
+          "It's",
+          "new."
+        ],
+        "scramble": [
+          "There is",
+          "a bed",
+          "in the",
+          "bedroom.",
+          "It's",
+          "new.",
+          "There are",
+          "on the"
+        ],
+        "hint": "There is a bed in the bedroom. It's new. → Có một cái giường trong phòng ngủ. Nó mới."
+      },
+      {
+        "id": 117,
+        "audioUrl": "",
+        "question": "Cái giường trong phòng của tôi thì cũ.",
+        "correctAnswer": [
+          "The bed",
+          "in",
+          "my",
+          "room",
+          "is",
+          "old."
+        ],
+        "scramble": [
+          "The bed",
+          "in",
+          "my",
+          "room",
+          "is",
+          "old.",
+          "new.",
+          "bathroom"
+        ],
+        "hint": "The bed in my room is old. → Cái giường trong phòng của tôi thì cũ."
+      },
+      {
+        "id": 118,
+        "audioUrl": "",
+        "question": "The room has a big bed and two small windows.",
+        "correctAnswer": [
+          "Căn phòng",
+          "có một",
+          "cái giường lớn",
+          "và",
+          "hai cửa sổ",
+          "nhỏ."
+        ],
+        "scramble": [
+          "Căn phòng",
+          "có một",
+          "cái giường lớn",
+          "và",
+          "hai cửa sổ",
+          "nhỏ."
+        ],
+        "hint": "The room has a big bed and two small windows. → Căn phòng có một cái giường lớn và hai cửa sổ nhỏ."
+      },
+      {
+        "id": 119,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There are",
+          "two lamps",
+          "in the",
+          "room.",
+          "They're",
+          "old."
+        ],
+        "scramble": [
+          "There are",
+          "two lamps",
+          "in the",
+          "room.",
+          "They're",
+          "old.",
+          "two lamp",
+          "They is"
+        ],
+        "hint": "There are two lamps in the room. They're old. → Có hai cái đèn trong phòng. Chúng thì cũ."
+      },
+      {
+        "id": 120,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "bed",
+          "is",
+          "big."
+        ],
+        "scramble": [
+          "The",
+          "bed",
+          "is",
+          "big."
+        ],
+        "hint": "The bed is big. → Cái giường thì to."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "At the dinning table",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit15.png",
+    "scenes": [
+      {
+        "id": 121,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Would",
+          "you",
+          "like",
+          "some rice?",
+          "– Yes,",
+          "please."
+        ],
+        "scramble": [
+          "Would",
+          "you",
+          "like",
+          "some rice?",
+          "– Yes,",
+          "please."
+        ],
+        "hint": "Would you like some rice? – Yes, please. → Bạn có muốn một ít cơm không? – Vâng, làm ơn."
+      },
+      {
+        "id": 122,
+        "audioUrl": "",
+        "question": "What would you like to eat?",
+        "correctAnswer": [
+          "Bạn",
+          "muốn",
+          "ăn",
+          "gì?"
+        ],
+        "scramble": [
+          "Bạn",
+          "muốn",
+          "ăn",
+          "gì?",
+          "uống",
+          "tôi"
+        ],
+        "hint": "What would you like to eat? → Bạn muốn ăn gì?"
+      },
+      {
+        "id": 123,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Would",
+          "you",
+          "like",
+          "some juice?",
+          "– No,",
+          "thanks."
+        ],
+        "scramble": [
+          "Would",
+          "you",
+          "like",
+          "some juice?",
+          "– No,",
+          "thanks."
+        ],
+        "hint": "Would you like some juice? – No, thanks. → Bạn có muốn một ít nước trái cây không? – Không, cảm ơn."
+      },
+      {
+        "id": 124,
+        "audioUrl": "",
+        "question": "Tôi muốn một ít cơm, cá và một ít nước trái cây.",
+        "correctAnswer": [
+          "I",
+          "would like",
+          "some rice,",
+          "fish,",
+          "and",
+          "some juice."
+        ],
+        "scramble": [
+          "I",
+          "would like",
+          "some rice,",
+          "fish,",
+          "and",
+          "some juice."
+        ],
+        "hint": "I would like some rice, fish, and some juice. → Tôi muốn một ít cơm, cá và một ít nước trái cây."
+      },
+      {
+        "id": 125,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Would",
+          "you",
+          "like",
+          "some beans?",
+          "– Yes,",
+          "please."
+        ],
+        "scramble": [
+          "Would",
+          "you",
+          "like",
+          "some beans?",
+          "– Yes,",
+          "please."
+        ],
+        "hint": "Would you like some beans? – Yes, please. → Bạn có muốn một ít đậu không? – Vâng, làm ơn."
+      },
+      {
+        "id": 126,
+        "audioUrl": "",
+        "question": "Nam's sister would like some bread, meat, and some milk.",
+        "correctAnswer": [
+          "Em gái của Nam",
+          "muốn một ít",
+          "bánh mì,",
+          "thịt",
+          "và",
+          "một ít sữa."
+        ],
+        "scramble": [
+          "Em gái của Nam",
+          "muốn một ít",
+          "bánh mì,",
+          "thịt",
+          "và",
+          "một ít sữa."
+        ],
+        "hint": "Nam's sister would like some bread, meat, and some milk. → Em gái của Nam muốn một ít bánh mì, thịt và một ít sữa."
+      },
+      {
+        "id": 127,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Would",
+          "you",
+          "like",
+          "some fish?",
+          "– No,",
+          "thanks."
+        ],
+        "scramble": [
+          "Would",
+          "you",
+          "like",
+          "some fish?",
+          "– No,",
+          "thanks."
+        ],
+        "hint": "Would you like some fish? – No, thanks. → Bạn có muốn một ít cá không? – Không, cảm ơn."
+      },
+      {
+        "id": 128,
+        "audioUrl": "",
+        "question": "Tôi muốn một ít thịt, làm ơn.",
+        "correctAnswer": [
+          "I'd",
+          "like",
+          "some",
+          "meat,",
+          "please."
+        ],
+        "scramble": [
+          "I'd",
+          "like",
+          "some",
+          "meat,",
+          "please."
+        ],
+        "hint": "I'd like some meat, please. → Tôi muốn một ít thịt, làm ơn."
+      },
+      {
+        "id": 129,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to eat?"
+        ],
+        "scramble": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to eat?"
+        ],
+        "hint": "What would you like to eat? → Bạn muốn ăn gì?"
+      },
+      {
+        "id": 130,
+        "audioUrl": "",
+        "question": "There is a lot of food on the table.",
+        "correctAnswer": [
+          "Có",
+          "rất nhiều",
+          "đồ ăn",
+          "trên",
+          "bàn."
+        ],
+        "scramble": [
+          "Có",
+          "rất nhiều",
+          "đồ ăn",
+          "trên",
+          "bàn.",
+          "đồ uống",
+          "ghế."
+        ],
+        "hint": "There is a lot of food on the table. → Có rất nhiều đồ ăn trên bàn."
+      },
+      {
+        "id": 131,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to drink?"
+        ],
+        "scramble": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to drink?"
+        ],
+        "hint": "What would you like to drink? → Bạn muốn uống gì?"
+      },
+      {
+        "id": 132,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I'd",
+          "like",
+          "some",
+          "bread,",
+          "please."
+        ],
+        "scramble": [
+          "I'd",
+          "like",
+          "some",
+          "bread,",
+          "please."
+        ],
+        "hint": "I'd like some bread, please. → Tôi muốn một ít bánh mì, làm ơn."
+      },
+      {
+        "id": 133,
+        "audioUrl": "",
+        "question": "Phong and his family are at the dining table.",
+        "correctAnswer": [
+          "Phong",
+          "và",
+          "gia đình",
+          "cậu ấy",
+          "đang ở",
+          "bàn ăn."
+        ],
+        "scramble": [
+          "Phong",
+          "và",
+          "gia đình",
+          "cậu ấy",
+          "đang ở",
+          "bàn ăn."
+        ],
+        "hint": "Phong and his family are at the dining table. → Phong và gia đình cậu ấy đang ở bàn ăn."
+      },
+      {
+        "id": 134,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I'd",
+          "like",
+          "some",
+          "milk,",
+          "please."
+        ],
+        "scramble": [
+          "I'd",
+          "like",
+          "some",
+          "milk,",
+          "please."
+        ],
+        "hint": "I'd like some milk, please. → Tôi muốn một ít sữa, làm ơn."
+      },
+      {
+        "id": 135,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What would",
+          "you",
+          "like",
+          "to eat?",
+          "– I'd like some eggs,",
+          "please."
+        ],
+        "scramble": [
+          "What would",
+          "you",
+          "like",
+          "to eat?",
+          "– I'd like some eggs,",
+          "please.",
+          "I do like some eggs,"
+        ],
+        "hint": "What would you like to eat? – I'd like some eggs, please. → Bạn muốn ăn gì? – Tôi muốn một ít trứng, làm ơn."
+      },
+      {
+        "id": 136,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to drink?",
+          "– I'd like some water, please."
+        ],
+        "scramble": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to drink?",
+          "– I'd like some water, please."
+        ],
+        "hint": "What would you like to drink? – I'd like some water, please. → Bạn muốn uống gì? – Tôi muốn một ít nước, làm ơn."
+      },
+      {
+        "id": 137,
+        "audioUrl": "",
+        "question": "Would you like some rice?",
+        "correctAnswer": [
+          "Bạn có",
+          "muốn",
+          "một ít",
+          "cơm",
+          "không?"
+        ],
+        "scramble": [
+          "Bạn có",
+          "muốn",
+          "một ít",
+          "cơm",
+          "không?"
+        ],
+        "hint": "Would you like some rice? → Bạn có muốn một ít cơm không?"
+      },
+      {
+        "id": 138,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I'd",
+          "like",
+          "some",
+          "chicken,",
+          "please."
+        ],
+        "scramble": [
+          "I'd",
+          "like",
+          "some",
+          "chicken,",
+          "please."
+        ],
+        "hint": "I'd like some chicken, please. → Tôi muốn một ít thịt gà, làm ơn."
+      },
+      {
+        "id": 139,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to drink?",
+          "– I'd like some juice, please."
+        ],
+        "scramble": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to drink?",
+          "– I'd like some juice, please."
+        ],
+        "hint": "What would you like to drink? – I'd like some juice, please. → Bạn muốn uống gì? – Tôi muốn một ít nước trái cây, làm ơn."
+      },
+      {
+        "id": 140,
+        "audioUrl": "",
+        "question": "What would you like to eat?",
+        "correctAnswer": [
+          "Bạn",
+          "muốn",
+          "ăn",
+          "gì?"
+        ],
+        "scramble": [
+          "Bạn",
+          "muốn",
+          "ăn",
+          "gì?",
+          "uống",
+          "nước"
+        ],
+        "hint": "What would you like to eat? → Bạn muốn ăn gì?"
+      },
+      {
+        "id": 141,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Would",
+          "you",
+          "like",
+          "some meat?"
+        ],
+        "scramble": [
+          "Would",
+          "you",
+          "like",
+          "some meat?"
+        ],
+        "hint": "Would you like some meat? → Bạn có muốn một ít thịt không?"
+      },
+      {
+        "id": 142,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Phong",
+          "and",
+          "his",
+          "family",
+          "are at",
+          "the dining table."
+        ],
+        "scramble": [
+          "Phong",
+          "and",
+          "his",
+          "family",
+          "are at",
+          "the dining table."
+        ],
+        "hint": "Phong and his family are at the dining table. → Phong và gia đình anh ấy đang ở bàn ăn."
+      },
+      {
+        "id": 143,
+        "audioUrl": "",
+        "question": "Bạn muốn ăn gì? – Tôi muốn một ít trứng, làm ơn.",
+        "correctAnswer": [
+          "What",
+          "would you like",
+          "to eat?",
+          "– I'd like",
+          "some eggs,",
+          "please."
+        ],
+        "scramble": [
+          "What",
+          "would you like",
+          "to eat?",
+          "– I'd like",
+          "some eggs,",
+          "please.",
+          "meat,",
+          "chicken,"
+        ],
+        "hint": "What would you like to eat? – I'd like some eggs, please. → Bạn muốn ăn gì? – Tôi muốn một ít trứng, làm ơn."
+      },
+      {
+        "id": 144,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There",
+          "is",
+          "a lot",
+          "of food",
+          "on the",
+          "table."
+        ],
+        "scramble": [
+          "There",
+          "is",
+          "a lot",
+          "of food",
+          "on the",
+          "table."
+        ],
+        "hint": "There is a lot of food on the table. → Có rất nhiều thức ăn trên bàn."
+      },
+      {
+        "id": 145,
+        "audioUrl": "",
+        "question": "I would like some fish, please.",
+        "correctAnswer": [
+          "Tôi",
+          "muốn",
+          "một ít",
+          "cá,",
+          "làm ơn."
+        ],
+        "scramble": [
+          "Tôi",
+          "muốn",
+          "một ít",
+          "cá,",
+          "làm ơn.",
+          "thịt",
+          "đậu"
+        ],
+        "hint": "I would like some fish, please. → Tôi muốn một ít cá, làm ơn."
+      },
+      {
+        "id": 146,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My",
+          "mother",
+          "would",
+          "like some",
+          "rice, beans",
+          "and some water."
+        ],
+        "scramble": [
+          "My",
+          "mother",
+          "would",
+          "like some",
+          "rice, beans",
+          "and some water."
+        ],
+        "hint": "My mother would like some rice, beans and some water. → Mẹ tôi muốn một ít cơm, đậu và một ít nước."
+      },
+      {
+        "id": 147,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Nam's",
+          "sister",
+          "would",
+          "like some",
+          "bread, meat",
+          "and some milk."
+        ],
+        "scramble": [
+          "Nam's",
+          "sister",
+          "would",
+          "like some",
+          "bread, meat",
+          "and some milk."
+        ],
+        "hint": "Nam's sister would like some bread, meat and some milk. → Chị gái của Nam muốn một ít bánh mì, thịt và một ít sữa."
+      },
+      {
+        "id": 148,
+        "audioUrl": "",
+        "question": "Bạn muốn uống gì?",
+        "correctAnswer": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to",
+          "drink?"
+        ],
+        "scramble": [
+          "What",
+          "would",
+          "you",
+          "like",
+          "to",
+          "drink?",
+          "eat",
+          "How"
+        ],
+        "hint": "What would you like to drink? → Bạn muốn uống gì?"
+      },
+      {
+        "id": 149,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "would",
+          "like",
+          "some rice,",
+          "fish and",
+          "some juice."
+        ],
+        "scramble": [
+          "I",
+          "would",
+          "like",
+          "some rice,",
+          "fish and",
+          "some juice."
+        ],
+        "hint": "I would like some rice, fish and some juice. → Tôi muốn một ít cơm, cá và một ít nước trái cây."
+      },
+      {
+        "id": 150,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There is",
+          "a lot of food",
+          "and",
+          "drink",
+          "on the",
+          "table."
+        ],
+        "scramble": [
+          "There is",
+          "a lot of food",
+          "and",
+          "drink",
+          "on the",
+          "table.",
+          "many",
+          "in the table."
+        ],
+        "hint": "There is a lot of food and drink on the table. → Có rất nhiều thức ăn và đồ uống trên bàn."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "My pets",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit16.png",
+    "scenes": [
+      {
+        "id": 151,
+        "audioUrl": "",
+        "question": "Tôi có một con chó. Bạn có con chó nào không?",
+        "correctAnswer": [
+          "I",
+          "have",
+          "a",
+          "dog.",
+          "Do you",
+          "have any dogs?"
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "a",
+          "dog.",
+          "Do you",
+          "have any dogs?"
+        ],
+        "hint": "I have a dog. Do you have any dogs? → Tôi có một con chó. Bạn có con chó nào không?"
+      },
+      {
+        "id": 152,
+        "audioUrl": "",
+        "question": "I don’t have any parrots.",
+        "correctAnswer": [
+          "Tôi",
+          "không có",
+          "con vẹt",
+          "nào."
+        ],
+        "scramble": [
+          "Tôi",
+          "không có",
+          "con vẹt",
+          "nào.",
+          "có",
+          "con mèo"
+        ],
+        "hint": "I don't have any parrots. → Tôi không có con vẹt nào."
+      },
+      {
+        "id": 153,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How many",
+          "cats",
+          "do you have?",
+          "– I",
+          "have",
+          "two",
+          "cats."
+        ],
+        "scramble": [
+          "How many",
+          "cats",
+          "do you have?",
+          "– I",
+          "have",
+          "two",
+          "cats."
+        ],
+        "hint": "How many cats do you have? – I have two cats. → Bạn có mấy con mèo? – Tôi có hai con mèo. "
+      },
+      {
+        "id": 154,
+        "audioUrl": "",
+        "question": "How many goldfish do you have? – I have some.",
+        "correctAnswer": [
+          "Bạn",
+          "có bao nhiêu",
+          "con cá vàng?",
+          "– Tôi",
+          "có",
+          "một ít."
+        ],
+        "scramble": [
+          "Bạn",
+          "có bao nhiêu",
+          "con cá vàng?",
+          "– Tôi",
+          "có",
+          "một ít."
+        ],
+        "hint": "How many goldfish do you have? – I have some. → Bạn có bao nhiêu con cá vàng? – Tôi có một ít."
+      },
+      {
+        "id": 155,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Do",
+          "you",
+          "have",
+          "any parrots?",
+          "– Yes,",
+          "I do."
+        ],
+        "scramble": [
+          "Do",
+          "you",
+          "have",
+          "any parrots?",
+          "– Yes,",
+          "I do."
+        ],
+        "hint": "Do you have any parrots? – Yes, I do. → Bạn có con vẹt nào không? – Có, tôi có."
+      },
+      {
+        "id": 156,
+        "audioUrl": "",
+        "question": "Tôi có năm con mèo.",
+        "correctAnswer": [
+          "I",
+          "have",
+          "five",
+          "cats."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "five",
+          "cats.",
+          "nine",
+          "dogs."
+        ],
+        "hint": "I have five cats. → Tôi có năm con mèo."
+      },
+      {
+        "id": 157,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Do",
+          "you",
+          "have",
+          "any rabbits?",
+          "– No",
+          "I don't."
+        ],
+        "scramble": [
+          "Do",
+          "you",
+          "have",
+          "any rabbits?",
+          "– No",
+          "I don't."
+        ],
+        "hint": "Do you have any rabbits? – No, I don't. → Bạn có con thỏ nào không? – Không, tôi không có."
+      },
+      {
+        "id": 158,
+        "audioUrl": "",
+        "question": "Tên tôi là Mai. Tôi yêu cá vàng.",
+        "correctAnswer": [
+          "My name",
+          "is",
+          "Mai.",
+          "I",
+          "love",
+          "goldfish."
+        ],
+        "scramble": [
+          "My name",
+          "is",
+          "Mai.",
+          "I",
+          "love",
+          "goldfish.",
+          "fish.",
+          "bird."
+        ],
+        "hint": "My name is Mai. I love goldfish. → Tên tôi là Mai. Tôi yêu cá vàng."
+      },
+      {
+        "id": 159,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "four",
+          "peacocks."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "four",
+          "peacocks."
+        ],
+        "hint": "I have four peacocks. → Tôi có bốn con công."
+      },
+      {
+        "id": 160,
+        "audioUrl": "",
+        "question": "Tôi có nhiều thú cưng trong nhà.",
+        "correctAnswer": [
+          "I",
+          "have",
+          "many",
+          "pets",
+          "in",
+          "my house."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "many",
+          "pets",
+          "in",
+          "my house.",
+          "fish",
+          "bean"
+        ],
+        "hint": "I have many pets in my house. → Tôi có nhiều thú cưng trong nhà."
+      },
+      {
+        "id": 161,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "many",
+          "goldfish."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "many",
+          "goldfish."
+        ],
+        "hint": "I have many goldfish. → Tôi có nhiều con cá vàng."
+      },
+      {
+        "id": 162,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "rabbits",
+          "do you",
+          "have?"
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "rabbits",
+          "do you",
+          "have?"
+        ],
+        "hint": "How many rabbits do you have? → Bạn có bao nhiêu con thỏ?"
+      },
+      {
+        "id": 163,
+        "audioUrl": "",
+        "question": "How many rabbits do you have?",
+        "correctAnswer": [
+          "Bạn",
+          "có",
+          "bao nhiêu",
+          "con thỏ?"
+        ],
+        "scramble": [
+          "Bạn",
+          "có",
+          "bao nhiêu",
+          "con thỏ?",
+          "con mèo?",
+          "con hổ?"
+        ],
+        "hint": "How many rabbits do you have? → Bạn có bao nhiêu con thỏ?"
+      },
+      {
+        "id": 164,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "These",
+          "are",
+          "my",
+          "parrots."
+        ],
+        "scramble": [
+          "These",
+          "are",
+          "my",
+          "parrots."
+        ],
+        "hint": "These are my parrots. → Đây là những con vẹt của tôi."
+      },
+      {
+        "id": 165,
+        "audioUrl": "",
+        "question": "I have a dog. Do you have any dogs?",
+        "correctAnswer": [
+          "Tôi",
+          "có",
+          "một con chó.",
+          "Bạn có",
+          "con chó",
+          "nào không?"
+        ],
+        "scramble": [
+          "Tôi",
+          "có",
+          "một con chó.",
+          "Bạn có",
+          "con chó",
+          "nào không?",
+          "con mèo",
+          "thích"
+        ],
+        "hint": "I have a dog. Do you have any dogs? → Tôi có một con chó. Bạn có con chó nào không?"
+      },
+      {
+        "id": 166,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "goldfish",
+          "do you",
+          "have?",
+          "– I have some."
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "goldfish",
+          "do you",
+          "have?",
+          "– I have some."
+        ],
+        "hint": "How many goldfish do you have? – I have some. → Bạn có bao nhiêu con cá vàng? – Tôi có vài con."
+      },
+      {
+        "id": 167,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "many",
+          "pets",
+          "in my",
+          "house."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "many",
+          "pets",
+          "in my",
+          "house."
+        ],
+        "hint": "I have many pets in my house. → Tôi có nhiều thú cưng trong nhà."
+      },
+      {
+        "id": 168,
+        "audioUrl": "",
+        "question": "Bạn có con hổ nào không?",
+        "correctAnswer": [
+          "Do",
+          "you",
+          "have",
+          "any",
+          "tigers?"
+        ],
+        "scramble": [
+          "Do",
+          "you",
+          "have",
+          "any",
+          "tigers?",
+          "many",
+          "rabbits?"
+        ],
+        "hint": "Do you have any tigers? → Bạn có con hổ nào không?"
+      },
+      {
+        "id": 169,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "twenty",
+          "goldfish."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "twenty",
+          "goldfish."
+        ],
+        "hint": "I have twenty goldfish. → Tôi có hai mươi con cá vàng."
+      },
+      {
+        "id": 170,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "pets",
+          "do you",
+          "have?"
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "pets",
+          "do you",
+          "have?"
+        ],
+        "hint": "How many pets do you have? → Bạn có bao nhiêu thú cưng?"
+      },
+      {
+        "id": 171,
+        "audioUrl": "",
+        "question": "Nam có bốn con chim.",
+        "correctAnswer": [
+          "Nam",
+          "has",
+          "four",
+          "birds."
+        ],
+        "scramble": [
+          "Nam",
+          "has",
+          "four",
+          "birds.",
+          "chicken.",
+          "have"
+        ],
+        "hint": "Nam has four birds. → Nam có bốn con chim."
+      },
+      {
+        "id": 172,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My",
+          "name",
+          "is",
+          "Mai.",
+          "I love",
+          "pets."
+        ],
+        "scramble": [
+          "My",
+          "name",
+          "is",
+          "Mai.",
+          "I love",
+          "pets."
+        ],
+        "hint": "My name is Mai. I love pets. → Tên tôi là Mai. Tôi yêu thú cưng."
+      },
+      {
+        "id": 173,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "a",
+          "cat.",
+          "It is",
+          "big."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "a",
+          "cat.",
+          "It is",
+          "big."
+        ],
+        "hint": "I have a cat. It is big. → Tôi có một con mèo. Nó to."
+      },
+      {
+        "id": 174,
+        "audioUrl": "",
+        "question": "Bạn có con vẹt nào không? – Có, tôi có.",
+        "correctAnswer": [
+          "Do",
+          "you",
+          "have",
+          "any",
+          "parrots?",
+          "– Yes, I do."
+        ],
+        "scramble": [
+          "Do",
+          "you",
+          "have",
+          "any",
+          "parrots?",
+          "– Yes, I do.",
+          "– No, I do.",
+          "peacocks?"
+        ],
+        "hint": "Do you have any parrots? – Yes, I do. → Bạn có con vẹt nào không? – Có, tôi có."
+      },
+      {
+        "id": 175,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "a",
+          "dog.",
+          "It is",
+          "small."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "a",
+          "dog.",
+          "It is",
+          "small."
+        ],
+        "hint": "I have a dog. It is small. → Tôi có một con chó. Nó nhỏ."
+      },
+      {
+        "id": 176,
+        "audioUrl": "",
+        "question": "Tôi có một con mèo. Nó to.",
+        "correctAnswer": [
+          "I",
+          "have",
+          "a cat.",
+          "It",
+          "is",
+          "big."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "a cat.",
+          "It",
+          "is",
+          "big."
+        ],
+        "hint": "I have a cat. It is big. → Tôi có một con mèo. Nó to."
+      },
+      {
+        "id": 177,
+        "audioUrl": "",
+        "question": "Do you have any dogs? – Yes, I do. I have one dog.",
+        "correctAnswer": [
+          "Bạn có",
+          "con chó",
+          "nào không?",
+          "– Có,",
+          "tôi có",
+          "một con chó."
+        ],
+        "scramble": [
+          "Bạn có",
+          "con chó",
+          "nào không?",
+          "– Có,",
+          "tôi có",
+          "một con chó."
+        ],
+        "hint": "Do you have any dogs? – Yes, I do. I have one dog. → Bạn có con chó nào không? – Có, tôi có một con chó."
+      },
+      {
+        "id": 178,
+        "audioUrl": "",
+        "question": "Bạn có bao nhiêu con chó và mèo?",
+        "correctAnswer": [
+          "How many",
+          "dogs",
+          "and",
+          "cats",
+          "do you",
+          "have?"
+        ],
+        "scramble": [
+          "How many",
+          "dogs",
+          "and",
+          "cats",
+          "do you",
+          "have?",
+          "rabbits"
+        ],
+        "hint": "How many dogs and cats do you have? → Bạn có bao nhiêu con chó và mèo?"
+      },
+      {
+        "id": 179,
+        "audioUrl": "",
+        "question": "I like my pets very much.",
+        "correctAnswer": [
+          "Tôi",
+          "thích",
+          "những",
+          "con thú cưng",
+          "của tôi",
+          "rất nhiều."
+        ],
+        "scramble": [
+          "Tôi",
+          "thích",
+          "những",
+          "con thú cưng",
+          "của tôi",
+          "rất nhiều.",
+          "con mèo"
+        ],
+        "hint": "I like my pets very much. → Tôi thích những con thú cưng của tôi rất nhiều."
+      },
+      {
+        "id": 180,
+        "audioUrl": "",
+        "question": "Linh có hai con chó và bốn con mèo.",
+        "correctAnswer": [
+          "Linh",
+          "has",
+          "two dogs",
+          "and",
+          "four",
+          "cats."
+        ],
+        "scramble": [
+          "Linh",
+          "has",
+          "two dogs",
+          "and",
+          "four",
+          "cats.",
+          "peacocks"
+        ],
+        "hint": "Linh has two dogs and four cats. → Linh có hai con chó và bốn con mèo."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Our toys",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit17.png",
+    "scenes": [
+      {
+        "id": 182,
+        "audioUrl": "",
+        "question": "Anh trai tôi có một chiếc ô tô.",
+        "correctAnswer": [
+          "My",
+          "brother",
+          "has",
+          "a",
+          "car."
+        ],
+        "scramble": [
+          "My",
+          "brother",
+          "has",
+          "a",
+          "car."
+        ],
+        "hint": "My brother has a car. → Anh trai tôi có một chiếc ô tô."
+      },
+      {
+        "id": 183,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My",
+          "sister",
+          "has",
+          "two dolls."
+        ],
+        "scramble": [
+          "My",
+          "sister",
+          "has",
+          "two dolls."
+        ],
+        "hint": "My sister has two dolls. → Em gái tôi có hai con búp bê."
+      },
+      {
+        "id": 184,
+        "audioUrl": "",
+        "question": "Chúng tôi có nhiều tàu hỏa.",
+        "correctAnswer": [
+          "We",
+          "have",
+          "many",
+          "trains."
+        ],
+        "scramble": [
+          "We",
+          "have",
+          "many",
+          "trains."
+        ],
+        "hint": "We have many trains. → Chúng tôi có nhiều tàu hỏa."
+      },
+      {
+        "id": 185,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "She",
+          "has",
+          "a",
+          "kite."
+        ],
+        "scramble": [
+          "She",
+          "has",
+          "a",
+          "kite."
+        ],
+        "hint": "She has a kite. → Cô ấy có một con diều."
+      },
+      {
+        "id": 186,
+        "audioUrl": "",
+        "question": "Linh and Lucy are my friends. They like toys.",
+        "correctAnswer": [
+          "Linh và Lucy",
+          "là",
+          "bạn của tôi.",
+          "Họ",
+          "thích",
+          "đồ chơi."
+        ],
+        "scramble": [
+          "Linh và Lucy",
+          "là",
+          "bạn của tôi.",
+          "Họ",
+          "thích",
+          "đồ chơi."
+        ],
+        "hint": "Linh and Lucy are my friends. They like toys. → Linh và Lucy là bạn của tôi. Họ thích đồ chơi."
+      },
+      {
+        "id": 187,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Nam",
+          "has",
+          "three",
+          "planes."
+        ],
+        "scramble": [
+          "Nam",
+          "has",
+          "three",
+          "planes."
+        ],
+        "hint": "Nam has three planes. → Nam có ba chiếc máy bay."
+      },
+      {
+        "id": 188,
+        "audioUrl": "",
+        "question": "They have five teddy bears.",
+        "correctAnswer": [
+          "Họ",
+          "có",
+          "năm",
+          "gấu",
+          "bông."
+        ],
+        "scramble": [
+          "Họ",
+          "có",
+          "năm",
+          "gấu",
+          "bông."
+        ],
+        "hint": "They have five teddy bears. → Họ có năm gấu bông."
+      },
+      {
+        "id": 189,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Linh",
+          "has",
+          "trains",
+          "and planes."
+        ],
+        "scramble": [
+          "Linh",
+          "has",
+          "trains",
+          "and planes."
+        ],
+        "hint": "Linh has trains and planes. → Linh có tàu hỏa và máy bay."
+      },
+      {
+        "id": 190,
+        "audioUrl": "",
+        "question": "They have a train, a truck, and three ships.",
+        "correctAnswer": [
+          "Họ có",
+          "một",
+          "chiếc tàu hỏa,",
+          "một chiếc xe tải",
+          "và",
+          "ba con tàu."
+        ],
+        "scramble": [
+          "Họ có",
+          "một",
+          "chiếc tàu hỏa,",
+          "một chiếc xe tải",
+          "và",
+          "ba con tàu."
+        ],
+        "hint": "They have a train, a truck and three ships. → Họ có một chiếc tàu hỏa, một chiếc xe tải và ba chiếc tàu."
+      },
+      {
+        "id": 191,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Ben",
+          "and Bill",
+          "have",
+          "three buses."
+        ],
+        "scramble": [
+          "Ben",
+          "and Bill",
+          "have",
+          "three buses."
+        ],
+        "hint": "Ben and Bill have three buses. → Ben và Bill có ba chiếc xe buýt."
+      },
+      {
+        "id": 192,
+        "audioUrl": "",
+        "question": "Lucy và Mai có ba con búp bê.",
+        "correctAnswer": [
+          "Lucy",
+          "and",
+          "Mai",
+          "have",
+          "three",
+          "dolls."
+        ],
+        "scramble": [
+          "Lucy",
+          "and",
+          "Mai",
+          "have",
+          "three",
+          "dolls."
+        ],
+        "hint": "Lucy and Mai have three dolls. → Lucy và Mai có ba con búp bê."
+      },
+      {
+        "id": 193,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "two",
+          "ships."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "two",
+          "ships."
+        ],
+        "hint": "I have two ships. → Tôi có hai chiếc tàu."
+      },
+      {
+        "id": 196,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "They",
+          "have",
+          "five",
+          "teddy bears."
+        ],
+        "scramble": [
+          "They",
+          "have",
+          "five",
+          "teddy bears."
+        ],
+        "hint": "They have five teddy bears. → Họ có năm gấu bông."
+      },
+      {
+        "id": 197,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Phong",
+          "has",
+          "many",
+          "trucks."
+        ],
+        "scramble": [
+          "Phong",
+          "has",
+          "many",
+          "trucks."
+        ],
+        "hint": "Phong has many trucks. → Phong có nhiều chiếc xe tải."
+      },
+      {
+        "id": 198,
+        "audioUrl": "",
+        "question": "Ben and Bill have three buses.",
+        "correctAnswer": [
+          "Ben",
+          "và Bill",
+          "có",
+          "ba",
+          "chiếc xe buýt."
+        ],
+        "scramble": [
+          "Ben",
+          "và Bill",
+          "có",
+          "ba",
+          "chiếc xe buýt.",
+          "xe tải.",
+          "xe đạp."
+        ],
+        "hint": "Ben and Bill have three buses. → Ben và Bill có ba chiếc xe buýt."
+      },
+      {
+        "id": 199,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "We",
+          "have",
+          "many",
+          "trains."
+        ],
+        "scramble": [
+          "We",
+          "have",
+          "many",
+          "trains."
+        ],
+        "hint": "We have many trains. → Chúng tôi có nhiều tàu hỏa."
+      },
+      {
+        "id": 200,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Linh",
+          "and Lucy",
+          "are",
+          "my friends.",
+          "They like",
+          "toys."
+        ],
+        "scramble": [
+          "Linh",
+          "and Lucy",
+          "are",
+          "my friends.",
+          "They like",
+          "toys."
+        ],
+        "hint": "Linh and Lucy are my friends. They like toys. → Linh và Lucy là bạn của tôi. Họ thích đồ chơi."
+      },
+      {
+        "id": 201,
+        "audioUrl": "",
+        "question": "Linh có những chiếc tàu hỏa và máy bay.",
+        "correctAnswer": [
+          "Linh",
+          "has",
+          "trains",
+          "and",
+          "planes."
+        ],
+        "scramble": [
+          "Linh",
+          "has",
+          "trains",
+          "and",
+          "planes.",
+          "trucks",
+          "kites"
+        ],
+        "hint": "Linh has trains and planes. → Linh có những chiếc tàu hỏa và máy bay."
+      },
+      {
+        "id": 202,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "We",
+          "have",
+          "many",
+          "toys."
+        ],
+        "scramble": [
+          "We",
+          "have",
+          "many",
+          "toys."
+        ],
+        "hint": "We have many toys. → Chúng tôi có nhiều đồ chơi."
+      },
+      {
+        "id": 203,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "They",
+          "have",
+          "a train,",
+          "a truck",
+          "and three",
+          "ships."
+        ],
+        "scramble": [
+          "They",
+          "have",
+          "a train,",
+          "a truck",
+          "and three",
+          "ships."
+        ],
+        "hint": "They have a train, a truck and three ships. → Họ có một tàu hỏa, một xe tải và ba chiếc tàu."
+      },
+      {
+        "id": 204,
+        "audioUrl": "",
+        "question": "Nam has three planes.",
+        "correctAnswer": [
+          "Nam",
+          "có",
+          "ba",
+          "chiếc",
+          "máy bay."
+        ],
+        "scramble": [
+          "Nam",
+          "có",
+          "ba",
+          "chiếc",
+          "máy bay.",
+          "bốn",
+          "xe tải"
+        ],
+        "hint": "Nam has three planes. → Nam có ba chiếc máy bay."
+      },
+      {
+        "id": 205,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "They",
+          "have",
+          "two",
+          "planes."
+        ],
+        "scramble": [
+          "They",
+          "have",
+          "two",
+          "planes."
+        ],
+        "hint": "They have two planes. → Họ có hai chiếc máy bay."
+      },
+      {
+        "id": 206,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "How",
+          "many",
+          "toys",
+          "do they",
+          "have?"
+        ],
+        "scramble": [
+          "How",
+          "many",
+          "toys",
+          "do they",
+          "have?"
+        ],
+        "hint": "How many toys do they have? → Họ có bao nhiêu đồ chơi?"
+      },
+      {
+        "id": 207,
+        "audioUrl": "",
+        "question": "She has a kite.",
+        "correctAnswer": [
+          "She",
+          "has",
+          "a",
+          "kite."
+        ],
+        "scramble": [
+          "She",
+          "has",
+          "a",
+          "kite."
+        ],
+        "hint": "She has a kite. → Cô ấy có một con diều."
+      },
+      {
+        "id": 208,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Lucy",
+          "is",
+          "my",
+          "friend.",
+          "She has",
+          "a doll."
+        ],
+        "scramble": [
+          "Lucy",
+          "is",
+          "my",
+          "friend.",
+          "She has",
+          "a doll."
+        ],
+        "hint": "Lucy is my friend. She has a doll. → Lucy là bạn của tôi. Cô ấy có một con búp bê."
+      },
+      {
+        "id": 209,
+        "audioUrl": "",
+        "question": "My sister has two dolls.",
+        "correctAnswer": [
+          "Em gái",
+          "của tôi",
+          "có",
+          "hai",
+          "búp bê."
+        ],
+        "scramble": [
+          "Em gái",
+          "của tôi",
+          "có",
+          "hai",
+          "búp bê.",
+          "con mèo.",
+          "con thỏ."
+        ],
+        "hint": "My sister has two dolls. → Em gái của tôi có hai búp bê."
+      },
+      {
+        "id": 210,
+        "audioUrl": "",
+        "question": "Phong có nhiều xe tải.",
+        "correctAnswer": [
+          "Phong",
+          "has",
+          "many",
+          "trucks."
+        ],
+        "scramble": [
+          "Phong",
+          "has",
+          "many",
+          "trucks.",
+          "much",
+          "trains"
+        ],
+        "hint": "Phong has many trucks. → Phong có nhiều xe tải."
+      },
+      {
+        "id": 181,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My",
+          "brother",
+          "has",
+          "a car."
+        ],
+        "scramble": [
+          "My",
+          "brother",
+          "has",
+          "a car."
+        ],
+        "hint": "My brother has a car. → Anh trai tôi có một chiếc ô tô."
+      },
+      {
+        "id": 194,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Lucy",
+          "and Mai",
+          "have",
+          "three dolls."
+        ],
+        "scramble": [
+          "Lucy",
+          "and Mai",
+          "have",
+          "three dolls."
+        ],
+        "hint": "Lucy and Mai have three dolls. → Lucy và Mai có ba con búp bê."
+      },
+      {
+        "id": 195,
+        "audioUrl": "",
+        "question": "Tôi có hai con tàu.",
+        "correctAnswer": [
+          "I",
+          "have",
+          "two",
+          "ships."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "two",
+          "ships."
+        ],
+        "hint": "I have two ships. → Tôi có hai chiếc tàu."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Playing and doing",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit18.png",
+    "scenes": [
+      {
+        "id": 211,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "are",
+          "you,",
+          "Linh?",
+          "– I'm in",
+          "my room."
+        ],
+        "scramble": [
+          "Where",
+          "are",
+          "you,",
+          "Linh?",
+          "– I'm in",
+          "my room."
+        ],
+        "hint": "Where are you, Linh? – I'm in my room. → Bạn ở đâu vậy, Linh? – Mình đang ở trong phòng."
+      },
+      {
+        "id": 212,
+        "audioUrl": "",
+        "question": "Phong và tôi đang hát một bài hát cùng nhau.",
+        "correctAnswer": [
+          "Phong",
+          "and I",
+          "are",
+          "singing",
+          "a song",
+          " together."
+        ],
+        "scramble": [
+          "Phong",
+          "and I",
+          "are",
+          "singing",
+          "a song",
+          " together."
+        ],
+        "hint": "Phong and I are singing a song together. → Phong và tôi đang hát một bài hát cùng nhau."
+      },
+      {
+        "id": 213,
+        "audioUrl": "",
+        "question": "Mẹ ơi, con đang nhảy múa. – Chúc con vui vẻ nhé.",
+        "correctAnswer": [
+          "Mum,",
+          "I'm",
+          "dancing.",
+          "– Have",
+          "fun."
+        ],
+        "scramble": [
+          "Mum,",
+          "I'm",
+          "dancing.",
+          "– Have",
+          "fun."
+        ],
+        "hint": "Mum, I'm dancing. Have fun. → Mẹ ơi, con đang nhảy múa. Chúc con vui vẻ nhé."
+      },
+      {
+        "id": 214,
+        "audioUrl": "",
+        "question": "My sister is dancing in the bedroom.",
+        "correctAnswer": [
+          "Em gái",
+          "của tôi",
+          "đang",
+          "nhảy múa",
+          "trong",
+          "phòng ngủ."
+        ],
+        "scramble": [
+          "Em gái",
+          "của tôi",
+          "đang",
+          "nhảy múa",
+          "trong",
+          "phòng ngủ.",
+          "phòng khách.",
+          "phòng ăn."
+        ],
+        "hint": "My sister is dancing in the bedroom. → Em gái của tôi đang nhảy múa trong phòng ngủ."
+      },
+      {
+        "id": 215,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "am",
+          "dancing."
+        ],
+        "scramble": [
+          "I",
+          "am",
+          "dancing."
+        ],
+        "hint": "I am dancing. → Tôi đang nhảy múa."
+      },
+      {
+        "id": 216,
+        "audioUrl": "",
+        "question": "Hưng đang ở phòng khách. Cậu ấy đang xem TV.",
+        "correctAnswer": [
+          "Hung",
+          "is in",
+          "the living room.",
+          "He's",
+          "watching",
+          "TV."
+        ],
+        "scramble": [
+          "Hung",
+          "is in",
+          "the living room.",
+          "He's",
+          "watching",
+          "TV.",
+          "bedroom.",
+          "looking"
+        ],
+        "hint": "Hung is in the living room. He's watching TV. → Hưng đang ở phòng khách. Cậu ấy đang xem TV."
+      },
+      {
+        "id": 217,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "am",
+          "reading",
+          "a book."
+        ],
+        "scramble": [
+          "I",
+          "am",
+          "reading",
+          "a book."
+        ],
+        "hint": "I am reading a book. → Tôi đang đọc sách."
+      },
+      {
+        "id": 218,
+        "audioUrl": "",
+        "question": "Look! Bill is drawing a cat.",
+        "correctAnswer": [
+          "Nhìn",
+          "kìa!",
+          "Bill",
+          "đang vẽ",
+          "một",
+          "con mèo."
+        ],
+        "scramble": [
+          "Nhìn",
+          "kìa!",
+          "Bill",
+          "đang vẽ",
+          "một",
+          "con mèo."
+        ],
+        "hint": "Look! Bill is drawing a cat. → Nhìn kìa! Bill đang vẽ một con mèo."
+      },
+      {
+        "id": 219,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "am",
+          "writing."
+        ],
+        "scramble": [
+          "I",
+          "am",
+          "writing."
+        ],
+        "hint": "I am writing. → Tôi đang viết."
+      },
+      {
+        "id": 220,
+        "audioUrl": "",
+        "question": "Nam đang ở trong phòng của cậu ấy. Cậu ấy đang viết.",
+        "correctAnswer": [
+          "Nam",
+          "is in",
+          "his",
+          "room.",
+          "He's",
+          "writing."
+        ],
+        "scramble": [
+          "Nam",
+          "is in",
+          "his",
+          "room.",
+          "He's",
+          "writing.",
+          "reading.",
+          "singing."
+        ],
+        "hint": "Nam is in his room. He's writing. → Nam đang ở trong phòng của cậu ấy. Cậu ấy đang viết."
+      },
+      {
+        "id": 221,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "am",
+          "singing",
+          "a song."
+        ],
+        "scramble": [
+          "I",
+          "am",
+          "singing",
+          "a song."
+        ],
+        "hint": "I am singing a song. → Tôi đang hát một bài hát."
+      },
+      {
+        "id": 222,
+        "audioUrl": "",
+        "question": "Are Nam and Phong playing basketball? – Yes, they are.",
+        "correctAnswer": [
+          "Nam và Phong",
+          "đang chơi",
+          "bóng rổ",
+          "phải không?",
+          "– Vâng,",
+          "đúng vậy."
+        ],
+        "scramble": [
+          "Nam và Phong",
+          "đang chơi",
+          "bóng rổ",
+          "phải không?",
+          "– Vâng,",
+          "đúng vậy."
+        ],
+        "hint": "Are Nam and Phong playing basketball? Yes, they are. → Nam và Phong đang chơi bóng rổ phải không? Vâng, đúng vậy."
+      },
+      {
+        "id": 223,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Hi,",
+          "Lucy.",
+          "What",
+          "are you",
+          "doing?"
+        ],
+        "scramble": [
+          "Hi,",
+          "Lucy.",
+          "What",
+          "are you",
+          "doing?"
+        ],
+        "hint": "Hi, Lucy. What are you doing? → Chào Lucy. Bạn đang làm gì vậy?"
+      },
+      {
+        "id": 224,
+        "audioUrl": "",
+        "question": "Is she singing a song? – Yes, she is.",
+        "correctAnswer": [
+          "Cô ấy",
+          "đang",
+          "hát",
+          "một bài hát",
+          "phải không?",
+          "– Vâng, đúng rồi."
+        ],
+        "scramble": [
+          "Cô ấy",
+          "đang",
+          "hát",
+          "một bài hát",
+          "phải không?",
+          "– Vâng, đúng rồi."
+        ],
+        "hint": "Is she singing a song? Yes, she is. → Cô ấy đang hát một bài hát phải không? Vâng, đúng rồi."
+      },
+      {
+        "id": 225,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "She",
+          "is",
+          "watching",
+          "TV."
+        ],
+        "scramble": [
+          "She",
+          "is",
+          "watching",
+          "TV."
+        ],
+        "hint": "She is watching TV. → Cô ấy đang xem TV."
+      },
+      {
+        "id": 226,
+        "audioUrl": "",
+        "question": "Họ đang làm gì vậy? – Họ đang tô màu trong phòng mỹ thuật.",
+        "correctAnswer": [
+          "What",
+          "are they",
+          "doing?",
+          "– They're",
+          "painting",
+          "in the art room."
+        ],
+        "scramble": [
+          "What",
+          "are they",
+          "doing?",
+          "– They're",
+          "painting",
+          "in the art room.",
+          "drawing",
+          "do they"
+        ],
+        "hint": "What are they doing? – They're painting in the art room. → Họ đang làm gì vậy? – Họ đang tô màu trong phòng mỹ thuật."
+      },
+      {
+        "id": 227,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Nam",
+          "and Phong",
+          "are",
+          "playing",
+          "basketball."
+        ],
+        "scramble": [
+          "Nam",
+          "and Phong",
+          "are",
+          "playing",
+          "basketball."
+        ],
+        "hint": "Nam and Phong are playing basketball. → Nam và Phong đang chơi bóng rổ."
+      },
+      {
+        "id": 228,
+        "audioUrl": "",
+        "question": "Mình đang vẽ một bức tranh về con chó.",
+        "correctAnswer": [
+          "I",
+          "am",
+          "painting",
+          "a",
+          "picture",
+          "of a dog."
+        ],
+        "scramble": [
+          "I",
+          "am",
+          "painting",
+          "a",
+          "picture",
+          "of a dog.",
+          "of a cat.",
+          "photo"
+        ],
+        "hint": "I am painting a picture of a dog. → Mình đang vẽ một bức tranh về con chó."
+      },
+      {
+        "id": 229,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Ben",
+          "is",
+          "listening",
+          "to music."
+        ],
+        "scramble": [
+          "Ben",
+          "is",
+          "listening",
+          "to music."
+        ],
+        "hint": "Ben is listening to music. → Ben đang nghe nhạc."
+      },
+      {
+        "id": 230,
+        "audioUrl": "",
+        "question": "Lucy is dancing. – Wow, she dances very well!",
+        "correctAnswer": [
+          "Lucy",
+          "đang nhảy múa.",
+          "– Wow,",
+          "cô ấy",
+          " nhảy",
+          "rất giỏi!"
+        ],
+        "scramble": [
+          "Lucy",
+          "đang nhảy múa.",
+          "– Wow,",
+          "cô ấy",
+          " nhảy",
+          "rất giỏi!"
+        ],
+        "hint": "Lucy is dancing. Wow, she dances very well! → Lucy đang nhảy múa. Wow, cô ấy nhảy rất giỏi!"
+      },
+      {
+        "id": 231,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Bill",
+          "is",
+          "drawing",
+          "picture."
+        ],
+        "scramble": [
+          "Bill",
+          "is",
+          "drawing",
+          "picture."
+        ],
+        "hint": "Bill is drawing a picture. → Bill đang vẽ tranh."
+      },
+      {
+        "id": 232,
+        "audioUrl": "",
+        "question": "They are playing football in the playground.",
+        "correctAnswer": [
+          "Họ",
+          "đang chơi",
+          "bóng đá",
+          "ở",
+          "sân chơi."
+        ],
+        "scramble": [
+          "Họ",
+          "đang chơi",
+          "bóng đá",
+          "ở",
+          "sân chơi."
+        ],
+        "hint": "They are playing football in the playground. → Họ đang chơi bóng đá ở sân chơi."
+      },
+      {
+        "id": 233,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "My",
+          "name's",
+          "Linh.",
+          "I am",
+          "in the",
+          "library."
+        ],
+        "scramble": [
+          "My",
+          "name's",
+          "Linh.",
+          "I am",
+          "in the",
+          "library."
+        ],
+        "hint": "My name's Linh. I am in the library. → Tên mình là Linh. Mình đang ở thư viện."
+      },
+      {
+        "id": 234,
+        "audioUrl": "",
+        "question": "Mai, bạn đang ở đâu? – Mình đang ở trong bếp.",
+        "correctAnswer": [
+          "Where",
+          "are",
+          "you,",
+          "Mai?",
+          "– I’m",
+          "in the kitchen."
+        ],
+        "scramble": [
+          "Where",
+          "are",
+          "you,",
+          "Mai?",
+          "– I’m",
+          "in the kitchen."
+        ],
+        "hint": "Where are you, Mai? – I'm in the kitchen. → Mai, bạn đang ở đâu? – Mình đang ở trong bếp."
+      },
+      {
+        "id": 235,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Nga",
+          "is",
+          "in the",
+          "music room.",
+          "She is",
+          "listening to music."
+        ],
+        "scramble": [
+          "Nga",
+          "is",
+          "in the",
+          "music room.",
+          "She is",
+          "listening to music."
+        ],
+        "hint": "Nga is in the music room. She is listening to music. → Nga đang ở phòng âm nhạc. Cô ấy đang nghe nhạc."
+      },
+      {
+        "id": 236,
+        "audioUrl": "",
+        "question": "Linh đang đọc sách trong thư viện.",
+        "correctAnswer": [
+          "Linh",
+          "is reading",
+          "books",
+          "in",
+          "the",
+          "library."
+        ],
+        "scramble": [
+          "Linh",
+          "is reading",
+          "books",
+          "in",
+          "the",
+          "library.",
+          "is learning",
+          "class"
+        ],
+        "hint": "Linh is reading books in the library. → Linh đang đọc sách trong thư viện."
+      },
+      {
+        "id": 237,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Kim",
+          "is",
+          "in the",
+          "art room.",
+          "She is",
+          "drawing a goldfish."
+        ],
+        "scramble": [
+          "Kim",
+          "is",
+          "in the",
+          "art room.",
+          "She is",
+          "drawing a goldfish."
+        ],
+        "hint": "Kim is in the art room. She is drawing a goldfish. → Kim đang ở phòng mỹ thuật. Cô ấy đang vẽ một con cá vàng."
+      },
+      {
+        "id": 238,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "like",
+          "playing",
+          "volleyball.",
+          "What about",
+          "you?"
+        ],
+        "scramble": [
+          "I",
+          "like",
+          "playing",
+          "volleyball.",
+          "What about",
+          "you?"
+        ],
+        "hint": "I like playing volleyball. What about you? → Tôi thích chơi bóng chuyền. Còn bạn thì sao?"
+      },
+      {
+        "id": 239,
+        "audioUrl": "",
+        "question": "Where is Kim? – She’s in the art room.",
+        "correctAnswer": [
+          "Kim",
+          "ở đâu?",
+          "– Cô ấy",
+          "đang ở",
+          "phòng mỹ thuật."
+        ],
+        "scramble": [
+          "Kim",
+          "ở đâu?",
+          "– Cô ấy",
+          "đang ở",
+          "phòng mỹ thuật."
+        ],
+        "hint": "Where is Kim? – She's in the art room. → Kim ở đâu? – Cô ấy đang ở phòng mỹ thuật."
+      },
+      {
+        "id": 240,
+        "audioUrl": "",
+        "question": "Bạn đang làm gì vậy, Ben? – Mình đang nghe nhạc.",
+        "correctAnswer": [
+          "What",
+          "are you",
+          "doing, Ben?",
+          "– I'm",
+          "listening to",
+          "music."
+        ],
+        "scramble": [
+          "What",
+          "are you",
+          "doing, Ben?",
+          "– I'm",
+          "listening to",
+          "music.",
+          "singing",
+          "listen to"
+        ],
+        "hint": "What are you doing, Ben? – I'm listening to music. → Bạn đang làm gì vậy, Ben? – Mình đang nghe nhạc."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Outdoor activities",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit19.png",
+    "scenes": [
+      {
+        "id": 241,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Look!",
+          "Nam",
+          "is",
+          "running."
+        ],
+        "scramble": [
+          "Look!",
+          "Nam",
+          "is",
+          "running."
+        ],
+        "hint": "Look! Nam is running. → Nhìn kìa! Nam đang chạy."
+      },
+      {
+        "id": 242,
+        "audioUrl": "",
+        "question": "We like singing and playing sports.",
+        "correctAnswer": [
+          "Chúng",
+          "tôi",
+          "thích",
+          "hát",
+          "và",
+          "chơi thể thao."
+        ],
+        "scramble": [
+          "Chúng",
+          "tôi",
+          "thích",
+          "hát",
+          "và",
+          "chơi thể thao."
+        ],
+        "hint": "We like singing and playing sports. → Chúng tôi thích hát và chơi thể thao."
+      },
+      {
+        "id": 243,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Linh",
+          "is",
+          "painting."
+        ],
+        "scramble": [
+          "Linh",
+          "is",
+          "painting."
+        ],
+        "hint": "Linh is painting. → Linh đang vẽ tranh."
+      },
+      {
+        "id": 244,
+        "audioUrl": "",
+        "question": "Na đang trượt ván với chị gái.",
+        "correctAnswer": [
+          "Na",
+          "is",
+          "skating",
+          "with",
+          "her",
+          "sister."
+        ],
+        "scramble": [
+          "Na",
+          "is",
+          "skating",
+          "with",
+          "her",
+          "sister.",
+          "brother",
+          "his"
+        ],
+        "hint": "Na is skating with her sister. → Na đang trượt ván với chị gái."
+      },
+      {
+        "id": 245,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Bi",
+          "is",
+          "playing",
+          "badminton."
+        ],
+        "scramble": [
+          "Bi",
+          "is",
+          "playing",
+          "badminton."
+        ],
+        "hint": "Bi is playing badminton. → Bi đang chơi cầu lông."
+      },
+      {
+        "id": 246,
+        "audioUrl": "",
+        "question": "Ben is not playing football. He is running.",
+        "correctAnswer": [
+          "Ben",
+          "không",
+          "chơi",
+          "bóng đá.",
+          "Cậu ấy",
+          "đang chạy."
+        ],
+        "scramble": [
+          "Ben",
+          "không",
+          "chơi",
+          "bóng đá.",
+          "Cậu ấy",
+          "đang chạy.",
+          "bóng rổ.",
+          "cầu lông."
+        ],
+        "hint": "Ben is not playing football. He is running. → Ben không chơi bóng đá. Cậu ấy đang chạy."
+      },
+      {
+        "id": 247,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "That's",
+          "Mary.",
+          "She",
+          "is painting",
+          "a picture."
+        ],
+        "scramble": [
+          "That's",
+          "Mary.",
+          "She",
+          "is painting",
+          "a picture."
+        ],
+        "hint": "That's Mary. She is painting a picture. → Kia là Mary. Cô ấy đang vẽ một bức tranh."
+      },
+      {
+        "id": 248,
+        "audioUrl": "",
+        "question": "Is Minh skipping with his friends? – Yes, he is.",
+        "correctAnswer": [
+          "Minh",
+          "đang nhảy dây",
+          "với bạn",
+          "của cậu ấy",
+          "phải không?",
+          "– Vâng, đúng rồi."
+        ],
+        "scramble": [
+          "Minh",
+          "đang nhảy dây",
+          "với bạn",
+          "của cậu ấy",
+          "phải không?",
+          "– Vâng, đúng rồi."
+        ],
+        "hint": "Is Minh skipping with his friends? – Yes, he is. → Minh đang nhảy dây với bạn của cậu ấy phải không? – Vâng, đúng rồi."
+      },
+      {
+        "id": 249,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "That's",
+          "Minh.",
+          "He",
+          "is singing",
+          "a song."
+        ],
+        "scramble": [
+          "That's",
+          "Minh.",
+          "He",
+          "is singing",
+          "a song."
+        ],
+        "hint": "That's Minh. He is singing a song. → Kia là Minh. Cậu ấy đang hát một bài hát."
+      },
+      {
+        "id": 250,
+        "audioUrl": "",
+        "question": "Lucy đang đi xe đạp. – Cô ấy đạp xe rất nhanh!",
+        "correctAnswer": [
+          "Lucy",
+          "is",
+          "cycling.",
+          "– She",
+          "rides",
+          "very fast!"
+        ],
+        "scramble": [
+          "Lucy",
+          "is",
+          "cycling.",
+          "– She",
+          "rides",
+          "very fast!"
+        ],
+        "hint": "Lucy is cycling. She rides very fast! → Lucy đang đi xe đạp. Cô ấy đạp xe rất nhanh!"
+      },
+      {
+        "id": 251,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "is",
+          "Bill?",
+          "He is",
+          "in the",
+          "the park."
+        ],
+        "scramble": [
+          "Where",
+          "is",
+          "Bill?",
+          "He is",
+          "in the",
+          "the park."
+        ],
+        "hint": "Where is Bill? He is in the park. → Bill đang ở đâu? Cậu ấy đang ở trong công viên."
+      },
+      {
+        "id": 252,
+        "audioUrl": "",
+        "question": "They are having fun at the playground.",
+        "correctAnswer": [
+          "Họ",
+          "đang",
+          "chơi",
+          "vui vẻ",
+          "ở",
+          "sân chơi."
+        ],
+        "scramble": [
+          "Họ",
+          "đang",
+          "chơi",
+          "vui vẻ",
+          "ở",
+          "sân chơi."
+        ],
+        "hint": "They are having fun at the playground. → Họ đang chơi vui vẻ ở sân chơi."
+      },
+      {
+        "id": 253,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What's",
+          "Kate",
+          "doing?",
+          "– She is",
+          "skating."
+        ],
+        "scramble": [
+          "What's",
+          "Kate",
+          "doing?",
+          "– She is",
+          "skating."
+        ],
+        "hint": "What's Kate doing? – She is skating. → Kate đang làm gì vậy? – Cô ấy đang trượt ván."
+      },
+      {
+        "id": 254,
+        "audioUrl": "",
+        "question": "John và tôi đang vẽ tranh.",
+        "correctAnswer": [
+          "John",
+          "and",
+          "I",
+          "are",
+          "drawing",
+          "pictures."
+        ],
+        "scramble": [
+          "John",
+          "and",
+          "I",
+          "are",
+          "drawing",
+          "pictures.",
+          "am",
+          "writing"
+        ],
+        "hint": "John and I are drawing pictures. → John và tôi đang vẽ tranh."
+      },
+      {
+        "id": 255,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Mai",
+          "and Hoa",
+          "are",
+          "skipping."
+        ],
+        "scramble": [
+          "Mai",
+          "and Hoa",
+          "are",
+          "skipping."
+        ],
+        "hint": "Mai and Hoa are skipping. → Mai và Hoa đang nhảy dây."
+      },
+      {
+        "id": 256,
+        "audioUrl": "",
+        "question": "Hoa is running and singing.",
+        "correctAnswer": [
+          "Hoa",
+          "đang",
+          "chạy",
+          "và",
+          "hát."
+        ],
+        "scramble": [
+          "Hoa",
+          "đang",
+          "chạy",
+          "và",
+          "hát."
+        ],
+        "hint": "Hoa is running and singing. → Hoa đang chạy và hát."
+      },
+      {
+        "id": 257,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "John",
+          "is",
+          "flying",
+          "a kite."
+        ],
+        "scramble": [
+          "John",
+          "is",
+          "flying",
+          "a kite."
+        ],
+        "hint": "John is flying a kite. → John đang thả diều."
+      },
+      {
+        "id": 258,
+        "audioUrl": "",
+        "question": "Chúng tôi đang trượt ván ở sân chơi.",
+        "correctAnswer": [
+          "We",
+          "are",
+          "skating",
+          "in",
+          "the",
+          "playground."
+        ],
+        "scramble": [
+          "We",
+          "are",
+          "skating",
+          "in",
+          "the",
+          "playground.",
+          "skipping",
+          "park."
+        ],
+        "hint": "We are skating in the playground. → Chúng tôi đang trượt ván ở sân chơi."
+      },
+      {
+        "id": 259,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Na",
+          "and her",
+          "friends",
+          "are in",
+          "the park."
+        ],
+        "scramble": [
+          "Na",
+          "and her",
+          "friends",
+          "are in",
+          "the park."
+        ],
+        "hint": "Na and her friends are in the park. → Na và các bạn của cô ấy đang ở trong công viên."
+      },
+      {
+        "id": 260,
+        "audioUrl": "",
+        "question": "Are you playing football? – No, I’m playing badminton.",
+        "correctAnswer": [
+          "Bạn",
+          "đang",
+          "chơi",
+          "bóng đá",
+          "à?",
+          "– Không, mình đang chơi cầu lông."
+        ],
+        "scramble": [
+          "Bạn",
+          "đang",
+          "chơi",
+          "bóng đá",
+          "à?",
+          "– Không, mình đang chơi cầu lông."
+        ],
+        "hint": "Are you playing football? – No, I'm playing badminton. → Bạn đang chơi bóng đá à? – Không, mình đang chơi cầu lông."
+      },
+      {
+        "id": 261,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "We",
+          "like",
+          "sports",
+          "and games."
+        ],
+        "scramble": [
+          "We",
+          "like",
+          "sports",
+          "and games."
+        ],
+        "hint": "We like sports and games. → Chúng tôi thích thể thao và trò chơi."
+      },
+      {
+        "id": 262,
+        "audioUrl": "",
+        "question": "Nam đang thả diều phải không? – Vâng, đúng rồi.",
+        "correctAnswer": [
+          "Is",
+          "Nam",
+          "flying",
+          "a kite?",
+          "– Yes,",
+          "he is."
+        ],
+        "scramble": [
+          "Is",
+          "Nam",
+          "flying",
+          "a kite?",
+          "– Yes,",
+          "he is.",
+          "she is.",
+          "painting"
+        ],
+        "hint": "Is Nam flying a kite? – Yes, he is. → Nam đang thả diều phải không? – Vâng, đúng rồi."
+      },
+      {
+        "id": 263,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Ben",
+          "is",
+          "playing",
+          "football",
+          "with Minh."
+        ],
+        "scramble": [
+          "Ben",
+          "is",
+          "playing",
+          "football",
+          "with Minh."
+        ],
+        "hint": "Ben is playing football with Minh. → Ben đang chơi bóng đá với Minh."
+      },
+      {
+        "id": 264,
+        "audioUrl": "",
+        "question": "Mary đang làm gì vậy? Cô ấy đang vẽ một con mèo.",
+        "correctAnswer": [
+          "What",
+          "is",
+          "Mary",
+          "doing?",
+          "– She’s",
+          "drawing a cat."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "Mary",
+          "doing?",
+          "– She’s",
+          "drawing a cat.",
+          "He's",
+          "are"
+        ],
+        "hint": "What is Mary doing? – She's drawing a cat. → Mary đang làm gì vậy? – Cô ấy đang vẽ một con mèo."
+      },
+      {
+        "id": 265,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "They",
+          "have",
+          "a lot",
+          "of fun",
+          "in the",
+          "park."
+        ],
+        "scramble": [
+          "They",
+          "have",
+          "a lot",
+          "of fun",
+          "in the",
+          "park."
+        ],
+        "hint": "They have a lot of fun in the park. → Họ rất vui vẻ ở công viên."
+      },
+      {
+        "id": 266,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Long and Mai",
+          "are",
+          "playing",
+          "volleyball."
+        ],
+        "scramble": [
+          "Long and Mai",
+          "are",
+          "playing",
+          "volleyball."
+        ],
+        "hint": "Long and Mai are playing volleyball. → Long và Mai đang chơi bóng chuyền."
+      },
+      {
+        "id": 267,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Alice",
+          "is",
+          "playing",
+          "badminton",
+          "with Lucy."
+        ],
+        "scramble": [
+          "Alice",
+          "is",
+          "playing",
+          "badminton",
+          "with Lucy."
+        ],
+        "hint": "Alice is playing badminton with Lucy. → Alice đang chơi cầu lông với Lucy."
+      },
+      {
+        "id": 268,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Mai",
+          "is",
+          "cycling",
+          "in the",
+          "park."
+        ],
+        "scramble": [
+          "Mai",
+          "is",
+          "cycling",
+          "in the",
+          "park."
+        ],
+        "hint": "Mai is cycling in the park. → Mai đang đạp xe trong công viên."
+      },
+      {
+        "id": 269,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "are",
+          "you",
+          "doing?"
+        ],
+        "scramble": [
+          "What",
+          "are",
+          "you",
+          "doing?"
+        ],
+        "hint": "What are you doing? → Bạn đang làm gì vậy?"
+      },
+      {
+        "id": 270,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Do",
+          "you",
+          "like",
+          "playing",
+          "badminton?"
+        ],
+        "scramble": [
+          "Do",
+          "you",
+          "like",
+          "playing",
+          "badminton?"
+        ],
+        "hint": "Do you like playing badminton? → Bạn có thích chơi cầu lông không?"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "At the zoo",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit20.png",
+    "scenes": [
+      {
+        "id": 271,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Where",
+          "are",
+          "you,",
+          "Mai?",
+          "– I am",
+          "at the zoo."
+        ],
+        "scramble": [
+          "Where",
+          "are",
+          "you,",
+          "Mai?",
+          "– I am",
+          "at the zoo."
+        ],
+        "hint": "Where are you, Mai? – I am at the zoo. → Mai ơi, bạn đang ở đâu? – Mình đang ở sở thú."
+      },
+      {
+        "id": 272,
+        "audioUrl": "",
+        "question": "The monkey is eating a banana.",
+        "correctAnswer": [
+          "Con khỉ",
+          "đang ăn",
+          "quả chuối."
+        ],
+        "scramble": [
+          "Con khỉ",
+          "đang ăn",
+          "quả chuối.",
+          "quả cam.",
+          "quả táo."
+        ],
+        "hint": "The monkey is eating a banana. → Con khỉ đang ăn một quả chuối."
+      },
+      {
+        "id": 273,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "can",
+          "you see",
+          "at the",
+          "zoo?"
+        ],
+        "scramble": [
+          "What",
+          "can",
+          "you see",
+          "at the",
+          "zoo?"
+        ],
+        "hint": "What can you see at the zoo? → Bạn có thể thấy gì ở sở thú?"
+      },
+      {
+        "id": 274,
+        "audioUrl": "",
+        "question": "Bạn có thấy một con ngựa vằn không? – Có, mình thấy.",
+        "correctAnswer": [
+          "Can",
+          "you",
+          "see",
+          "a zebra?",
+          "– Yes,",
+          "I can."
+        ],
+        "scramble": [
+          "Can",
+          "you",
+          "see",
+          "a zebra?",
+          "– Yes,",
+          "I can."
+        ],
+        "hint": "Can you see a zebra? Yes, I can. → Bạn có thấy một con ngựa vằn không? Có, mình thấy."
+      },
+      {
+        "id": 275,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "can",
+          "you see?",
+          "– I can",
+          "see a",
+          "tiger."
+        ],
+        "scramble": [
+          "What",
+          "can",
+          "you see?",
+          "– I can",
+          "see a",
+          "tiger."
+        ],
+        "hint": "What can you see? – I can see a tiger. → Bạn có thể thấy gì? – Mình có thể thấy một con hổ."
+      },
+      {
+        "id": 276,
+        "audioUrl": "",
+        "question": "They can see a monkey, a tiger, and many peacocks.",
+        "correctAnswer": [
+          "Họ",
+          "có thể thấy",
+          "một con khỉ,",
+          "một con hổ",
+          "và",
+          "nhiều con công."
+        ],
+        "scramble": [
+          "Họ",
+          "có thể thấy",
+          "một con khỉ,",
+          "một con hổ",
+          "và",
+          "nhiều con công."
+        ],
+        "hint": "They can see a monkey, a tiger and many peacocks. → Họ có thể thấy một con khỉ, một con hổ và nhiều con công."
+      },
+      {
+        "id": 277,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "can",
+          "see a",
+          "peacock",
+          "at the",
+          "zoo."
+        ],
+        "scramble": [
+          "I",
+          "can",
+          "see a",
+          "peacock",
+          "at the",
+          "zoo."
+        ],
+        "hint": "I can see a peacock at the zoo. → Mình có thể thấy một con công ở sở thú."
+      },
+      {
+        "id": 278,
+        "audioUrl": "",
+        "question": "Mình thấy nhiều con vật ở sở thú.",
+        "correctAnswer": [
+          "I",
+          "can",
+          "see",
+          "many",
+          "animals",
+          "at the zoo."
+        ],
+        "scramble": [
+          "I",
+          "can",
+          "see",
+          "many",
+          "animals",
+          "at the zoo.",
+          "much",
+          "in the park"
+        ],
+        "hint": "I can see many animals at the zoo. → Mình thấy nhiều con vật ở sở thú."
+      },
+      {
+        "id": 279,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "can",
+          "see a",
+          "horse."
+        ],
+        "scramble": [
+          "I",
+          "can",
+          "see a",
+          "horse."
+        ],
+        "hint": "I can see a horse. → Mình có thể thấy một con ngựa."
+      },
+      {
+        "id": 280,
+        "audioUrl": "",
+        "question": "Nga and her mother are at the zoo.",
+        "correctAnswer": [
+          "Nga",
+          "và",
+          "mẹ",
+          "của cô ấy",
+          "đang",
+          "ở sở thú."
+        ],
+        "scramble": [
+          "Nga",
+          "và",
+          "mẹ",
+          "của cô ấy",
+          "đang",
+          "ở sở thú."
+        ],
+        "hint": "Nga and her mother are at the zoo. → Nga và mẹ của cô ấy đang ở sở thú."
+      },
+      {
+        "id": 281,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "is",
+          "the",
+          "elephant",
+          "doing?"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "the",
+          "elephant",
+          "doing?"
+        ],
+        "hint": "What is the elephant doing? → Con voi đang làm gì vậy?"
+      },
+      {
+        "id": 282,
+        "audioUrl": "",
+        "question": "Con khỉ đang làm gì vậy? – Nó đang nhảy múa.",
+        "correctAnswer": [
+          "What",
+          "is",
+          "the",
+          "monkey",
+          "doing?",
+          "– It's dancing."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "the",
+          "monkey",
+          "doing?",
+          "– It's dancing.",
+          "tiger",
+          "singing"
+        ],
+        "hint": "What is the monkey doing? – It's dancing. → Con khỉ đang làm gì vậy? – Nó đang nhảy múa."
+      },
+      {
+        "id": 283,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "parrot",
+          "is",
+          "counting."
+        ],
+        "scramble": [
+          "The",
+          "parrot",
+          "is",
+          "counting."
+        ],
+        "hint": "The parrot is counting. → Con vẹt đang đếm."
+      },
+      {
+        "id": 284,
+        "audioUrl": "",
+        "question": "A cat is climbing a tree.",
+        "correctAnswer": [
+          "Một",
+          "con mèo",
+          "đang",
+          "trèo",
+          "cây."
+        ],
+        "scramble": [
+          "Một",
+          "con mèo",
+          "đang",
+          "trèo",
+          "cây."
+        ],
+        "hint": "A cat is climbing a tree. → Một con mèo đang trèo cây."
+      },
+      {
+        "id": 285,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "The",
+          "monkey",
+          "is",
+          "swinging."
+        ],
+        "scramble": [
+          "The",
+          "monkey",
+          "is",
+          "swinging."
+        ],
+        "hint": "The monkey is swinging. → Con khỉ đang đu mình."
+      },
+      {
+        "id": 286,
+        "audioUrl": "",
+        "question": "Where are you, Mai? – I am at the zoo.",
+        "correctAnswer": [
+          "Bạn",
+          "đang ở đâu vậy",
+          "Mai?",
+          "– Mình",
+          "đang ở",
+          "sở thú."
+        ],
+        "scramble": [
+          "Bạn",
+          "đang ở đâu vậy",
+          "Mai?",
+          "– Mình",
+          "đang ở",
+          "sở thú.",
+          "thư viện.",
+          "phòng khách."
+        ],
+        "hint": "Where are you, Mai? – I am at the zoo. → Bạn đang ở đâu vậy Mai? – Mình đang ở sở thú."
+      },
+      {
+        "id": 287,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "A",
+          "bear",
+          "is",
+          "climbing",
+          "a tree."
+        ],
+        "scramble": [
+          "A",
+          "bear",
+          "is",
+          "climbing",
+          "a tree."
+        ],
+        "hint": "A bear is climbing a tree. → Một con gấu đang trèo cây."
+      },
+      {
+        "id": 288,
+        "audioUrl": "",
+        "question": "Con vẹt đang nói chuyện.",
+        "correctAnswer": [
+          "The",
+          "parrot",
+          "is",
+          "talking."
+        ],
+        "scramble": [
+          "The",
+          "parrot",
+          "is",
+          "talking."
+        ],
+        "hint": "The parrot is talking. → Con vẹt đang nói chuyện."
+      },
+      {
+        "id": 289,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "is",
+          "the",
+          "monkey doing?",
+          "– It's",
+          "dancing."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "the",
+          "monkey doing?",
+          "– It's",
+          "dancing."
+        ],
+        "hint": "What is the monkey doing? – It's dancing. → Con khỉ đang làm gì vậy? – Nó đang nhảy múa."
+      },
+      {
+        "id": 290,
+        "audioUrl": "",
+        "question": "What is the peacock doing? – It is dancing.",
+        "correctAnswer": [
+          "Con công",
+          "đang",
+          "làm gì",
+          "vậy?",
+          "– Nó",
+          "đang nhảy múa."
+        ],
+        "scramble": [
+          "Con công",
+          "đang",
+          "làm gì",
+          "vậy?",
+          "– Nó",
+          "đang nhảy múa."
+        ],
+        "hint": "What is the peacock doing? – It is dancing. → Con công đang làm gì vậy? – Nó đang nhảy múa."
+      },
+      {
+        "id": 291,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What",
+          "is",
+          "the",
+          "peacock doing?"
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "the",
+          "peacock doing?"
+        ],
+        "hint": "What is the peacock doing? → Con công đang làm gì vậy?"
+      },
+      {
+        "id": 292,
+        "audioUrl": "",
+        "question": "Bạn có thể thấy gì ở sở thú? – Mình có thể thấy một con hổ.",
+        "correctAnswer": [
+          "What",
+          "can you see",
+          "at the zoo?",
+          "– I",
+          "can see",
+          "a tiger."
+        ],
+        "scramble": [
+          "What",
+          "can you see",
+          "at the zoo?",
+          "– I",
+          "can see",
+          "an elephant.",
+          "a tiger.",
+          "a bird."
+        ],
+        "hint": "What can you see at the zoo? – I can see a tiger. → Bạn có thể thấy gì ở sở thú? – Mình có thể thấy một con hổ."
+      },
+      {
+        "id": 293,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Nga",
+          "and her",
+          "mother",
+          "are at",
+          "the zoo."
+        ],
+        "scramble": [
+          "Nga",
+          "and her",
+          "mother",
+          "are at",
+          "the zoo."
+        ],
+        "hint": "Nga and her mother are at the zoo. → Nga và mẹ cô ấy đang ở sở thú."
+      },
+      {
+        "id": 294,
+        "audioUrl": "",
+        "question": "Con voi đang làm gì vậy? – Nó đang ăn chuối.",
+        "correctAnswer": [
+          "What",
+          "is",
+          "the elephant",
+          "doing?",
+          "– It is eating",
+          "bananas."
+        ],
+        "scramble": [
+          "What",
+          "is",
+          "the elephant",
+          "doing?",
+          "– It is eating",
+          "bananas.",
+          "apples"
+        ],
+        "hint": "What is the elephant doing? – It is eating bananas. → Con voi đang làm gì vậy? – Nó đang ăn chuối."
+      },
+      {
+        "id": 295,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "can",
+          "see many",
+          "animals",
+          "at the",
+          "zoo."
+        ],
+        "scramble": [
+          "I",
+          "can",
+          "see many",
+          "animals",
+          "at the",
+          "zoo."
+        ],
+        "hint": "I can see many animals at the zoo. → Mình có thể thấy nhiều con vật ở sở thú."
+      },
+      {
+        "id": 296,
+        "audioUrl": "",
+        "question": "The monkey is swinging in the tree.",
+        "correctAnswer": [
+          "Con khỉ",
+          "đang",
+          "đu",
+          "cây."
+        ],
+        "scramble": [
+          "Con khỉ",
+          "đang",
+          "đu",
+          "cây."
+        ],
+        "hint": "The monkey is swinging in the tree. → Con khỉ đang đu cây."
+      },
+      {
+        "id": 297,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "They",
+          "can",
+          "see a",
+          "monkey,",
+          "a tiger",
+          "and many peacocks."
+        ],
+        "scramble": [
+          "They",
+          "can",
+          "see a",
+          "monkey,",
+          "a tiger",
+          "and many peacocks."
+        ],
+        "hint": "They can see a monkey, a tiger and many peacocks. → Họ có thể thấy một con khỉ, một con hổ và nhiều con công."
+      },
+      {
+        "id": 298,
+        "audioUrl": "",
+        "question": "I can see a big elephant.",
+        "correctAnswer": [
+          "Mình",
+          "có thể thấy",
+          "một",
+          "con voi",
+          "to."
+        ],
+        "scramble": [
+          "Mình",
+          "có thể thấy",
+          "một",
+          "con voi",
+          "to."
+        ],
+        "hint": "I can see a big elephant. → Mình có thể thấy một con voi to."
+      },
+      {
+        "id": 299,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "A",
+          "peacock",
+          "is",
+          "dancing."
+        ],
+        "scramble": [
+          "A",
+          "peacock",
+          "is",
+          "dancing.",
+          "sing.",
+          "play."
+        ],
+        "hint": "A peacock is dancing. → Một con công đang nhảy múa."
+      },
+      {
+        "id": 300,
+        "audioUrl": "",
+        "question": "Mình có thể thấy một con công và một con vẹt.",
+        "correctAnswer": [
+          "I",
+          "can",
+          "see",
+          "a",
+          "peacock",
+          "and a parrot."
+        ],
+        "scramble": [
+          "I",
+          "can",
+          "see",
+          "a",
+          "peacock",
+          "and a parrot.",
+          "tiger",
+          "bird"
+        ],
+        "hint": "I can see a peacock and a parrot. → Mình có thể thấy một con công và một con vẹt."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2375 @@
+[
+  {
+    "id": 11,
+    "text": "My family",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/brother.png",
+    "scenes": [
+      {
+        "id": 1,
+        "word": "brother",
+        "meaning": "anh/em trai",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/brother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/brother.mp3"
+      },
+      {
+        "id": 2,
+        "word": "family",
+        "meaning": "gia đình",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/family.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/family.mp3"
+      },
+      {
+        "id": 3,
+        "word": "father",
+        "meaning": "bố",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/father.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/father.mp3"
+      },
+      {
+        "id": 4,
+        "word": "grandfather",
+        "meaning": "ông nội/ông ngoại",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandfather.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/grandfather.mp3"
+      },
+      {
+        "id": 5,
+        "word": "grandmother",
+        "meaning": "bà nội/bà ngoại",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandmother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/grandmother.mp3"
+      },
+      {
+        "id": 6,
+        "word": "grandparents",
+        "meaning": "ông bà",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandparents.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/grandparents.mp3"
+      },
+      {
+        "id": 7,
+        "word": "mother",
+        "meaning": "mẹ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mother.mp3"
+      },
+      {
+        "id": 8,
+        "word": "parents",
+        "meaning": "bố mẹ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/parents.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/parents.mp3"
+      },
+      {
+        "id": 9,
+        "word": "sister",
+        "meaning": "chị/em gái",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sister.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sister.mp3"
+      },
+      {
+        "id": 10,
+        "word": "son",
+        "meaning": "con trai",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/son.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/son.mp3"
+      },
+      {
+        "id": 11,
+        "word": "eleven",
+        "meaning": "mười một",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/eleven.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/eleven.mp3"
+      },
+      {
+        "id": 12,
+        "word": "twelve",
+        "meaning": "mười hai",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/twelve.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/twelve.mp3"
+      },
+      {
+        "id": 13,
+        "word": "thirteen",
+        "meaning": "mười ba",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thirteen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thirteen.mp3"
+      },
+      {
+        "id": 14,
+        "word": "fourteen",
+        "meaning": "mười bốn",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/fourteen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/fourteen.mp3"
+      },
+      {
+        "id": 15,
+        "word": "fifteen",
+        "meaning": "mười lăm",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/fifteen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/fifteen.mp3"
+      },
+      {
+        "id": 16,
+        "word": "sixteen",
+        "meaning": "mười sáu",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sixteen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sixteen.mp3"
+      },
+      {
+        "id": 17,
+        "word": "seventeen",
+        "meaning": "mười bảy",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/seventeen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/seventeen.mp3"
+      },
+      {
+        "id": 18,
+        "word": "eighteen",
+        "meaning": "mười tám",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/eighteen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/eighteen.mp3"
+      },
+      {
+        "id": 19,
+        "word": "nineteen",
+        "meaning": "mười chín",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/nineteen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/nineteen.mp3"
+      },
+      {
+        "id": 20,
+        "word": "twenty",
+        "meaning": "hai mươi",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/twenty.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/twenty.mp3"
+      },
+      {
+        "id": 21,
+        "word": "photo",
+        "meaning": "ảnh",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/photo.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/photo.mp3"
+      },
+      {
+        "id": 22,
+        "word": "Are you sure",
+        "meaning": "Bạn có chắc không?",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/areyousure.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/areyousure.mp3"
+      },
+      {
+        "id": 125,
+        "word": "My grandmother likes a cat",
+        "meaning": "Bà thích con mèo",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mygrandmotherlikesacat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mygrandmotherlikesacat.mp3"
+      },
+      {
+        "id": 126,
+        "word": "My mother likes a cat",
+        "meaning": "Mẹ thích con mèo",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mymotherlikesacat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mymotherlikesacat.mp3"
+      },
+      {
+        "id": 127,
+        "word": "My sister likes a cat",
+        "meaning": "Em/chị gái tôi thích con mèo",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mysisterlikesacat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mysisterlikesacat.mp3"
+      },
+      {
+        "id": 174,
+        "word": "My mother is a teacher",
+        "meaning": "Mẹ của tôi là một giáo viên",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mymotherisateacher.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mymotherisateacher.mp3"
+      },
+      {
+        "id": 236,
+        "word": "Tom has twenty two stickers",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/tomhastwentytwostickers.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/tomhastwentytwostickers.mp3"
+      },
+      {
+        "id": 237,
+        "word": "My class has twelve school desks",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/myclasshastwelveschooldesks.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/myclasshastwelveschooldesks.mp3"
+      },
+      {
+        "id": 238,
+        "word": "We have nineteen balloons for the party",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/wehavenineteenballoonsfortheparty.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/wehavenineteenballoonsfortheparty.mp3"
+      },
+      {
+        "id": 293,
+        "word": "four balloons",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/fourballoons.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/fourballoons.mp3"
+      },
+      {
+        "id": 294,
+        "word": "eight balloons",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/eightballoons.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/eightballoons.mp3"
+      },
+      {
+        "id": 295,
+        "word": "nine desks",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ninedesks.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ninedesks.mp3"
+      },
+      {
+        "id": 296,
+        "word": "six desks",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sixdesks.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sixdesks.mp3"
+      },
+      {
+        "id": 297,
+        "word": "ten stickers",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/tenstickers.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/tenstickers.mp3"
+      },
+      {
+        "id": 298,
+        "word": "thirteen stickers",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thirteenstickers.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thirteenstickers.mp3"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Jobs",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/family.png",
+    "scenes": [
+      {
+        "id": 23,
+        "word": "cook",
+        "meaning": "đầu bếp",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/cook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/cook.mp3"
+      },
+      {
+        "id": 24,
+        "word": "doctor",
+        "meaning": "bác sĩ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/doctor.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/doctor.mp3"
+      },
+      {
+        "id": 25,
+        "word": "driver",
+        "meaning": "tài xế",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/driver.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/driver.mp3"
+      },
+      {
+        "id": 26,
+        "word": "farmer",
+        "meaning": "nông dân",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/farmer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/farmer.mp3"
+      },
+      {
+        "id": 27,
+        "word": "job",
+        "meaning": "công việc",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/job.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/job.mp3"
+      },
+      {
+        "id": 28,
+        "word": "nurse",
+        "meaning": "y tá",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/nurse.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/nurse.mp3"
+      },
+      {
+        "id": 29,
+        "word": "singer",
+        "meaning": "ca sĩ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/singer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/singer.mp3"
+      },
+      {
+        "id": 30,
+        "word": "teacher",
+        "meaning": "giáo viên",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/teacher.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/teacher.mp3"
+      },
+      {
+        "id": 31,
+        "word": "worker",
+        "meaning": "công nhân",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/worker.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/worker.mp3"
+      },
+      {
+        "id": 32,
+        "word": "pupil",
+        "meaning": "học sinh",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pupil.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/pupil.mp3"
+      },
+      {
+        "id": 128,
+        "word": "My mother is a nurse",
+        "meaning": "Mẹ tôi là y tá",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mymotherisanurse.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mymotherisanurse.mp3"
+      },
+      {
+        "id": 129,
+        "word": "My father is a driver",
+        "meaning": "Bố tôi là người lái xe",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/myfatherisadriver.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/myfatherisadriver.mp3"
+      },
+      {
+        "id": 130,
+        "word": "He is a good cook",
+        "meaning": "Anh ấy là một người nấu ăn ngon",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/heisagoodcook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/heisagoodcook.mp3"
+      },
+      {
+        "id": 131,
+        "word": "This nurse is very kind",
+        "meaning": "Cô y tá này rất tốt bụng",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thisnurseisverykind.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thisnurseisverykind.mp3"
+      },
+      {
+        "id": 132,
+        "word": "They are pupils",
+        "meaning": "Họ là học sinh",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theyarepupils.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theyarepupils.mp3"
+      },
+      {
+        "id": 133,
+        "word": "She is a famous singer",
+        "meaning": "Cô ấy là một ca sĩ nổi tiếng",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sheisafamoussinger.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sheisafamoussinger.mp3"
+      },
+      {
+        "id": 134,
+        "word": "The cook is thirty years old",
+        "meaning": "Người đầu bếp ba mươi tuổi",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thecookisthirtyyearsold.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thecookisthirtyyearsold.mp3"
+      },
+      {
+        "id": 135,
+        "word": "My uncle is a doctor",
+        "meaning": "Chú (bác) tôi là bác sĩ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/myuncleisadoctor.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/myuncleisadoctor.mp3"
+      },
+      {
+        "id": 136,
+        "word": "What are their jobs",
+        "meaning": "Nghề nghiệp của họ là gì",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/whataretheirjobs.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whataretheirjobs.mp3"
+      },
+      {
+        "id": 137,
+        "word": "The worker is strong",
+        "meaning": "Người công nhân khỏe mạnh",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theworkerisstrong.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theworkerisstrong.mp3"
+      },
+      {
+        "id": 138,
+        "word": "She is a pupil",
+        "meaning": "Cô ấy là học sinh",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sheisapupil.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sheisapupil.mp3"
+      },
+      {
+        "id": 139,
+        "word": "She wants to be a singer",
+        "meaning": "Cô ấy muốn trở thành ca sĩ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/shewantstobeasinger.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/shewantstobeasinger.mp3"
+      },
+      {
+        "id": 140,
+        "word": "He is a good teacher",
+        "meaning": "Anh ấy là một giáo viên tốt",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/heisagoodteacher.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/heisagoodteacher.mp3"
+      },
+      {
+        "id": 141,
+        "word": "My grandfather is a farmer",
+        "meaning": "Ông tôi là nông dân",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mygrandfatherisafarmer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mygrandfatherisafarmer.mp3"
+      },
+      {
+        "id": 300,
+        "word": "police officer",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/policeofficer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/policeofficer.mp3"
+      },
+      {
+        "id": 301,
+        "word": "firefighter",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/firefighter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/firefighter.mp3"
+      },
+      {
+        "id": 302,
+        "word": "pilot",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pilot.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/pilot.mp3"
+      },
+      {
+        "id": 303,
+        "word": "engineer",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/engineer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/engineer.mp3"
+      },
+      {
+        "id": 304,
+        "word": "dentist",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/dentist.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/dentist.mp3"
+      },
+      {
+        "id": 305,
+        "word": "vet",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/vet.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/vet.mp3"
+      },
+      {
+        "id": 306,
+        "word": "scientist",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/scientist.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/scientist.mp3"
+      },
+      {
+        "id": 307,
+        "word": "artist",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/artist.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/artist.mp3"
+      },
+      {
+        "id": 308,
+        "word": "actor",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/actor.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/actor.mp3"
+      },
+      {
+        "id": 309,
+        "word": "actress",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/actress.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/actress.mp3"
+      },
+      {
+        "id": 310,
+        "word": "baker",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/baker.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/baker.mp3"
+      },
+      {
+        "id": 311,
+        "word": "shop assistant",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/shopassistant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/shopassistant.mp3"
+      },
+      {
+        "id": 312,
+        "word": "journalist",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/journalist.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/journalist.mp3"
+      },
+      {
+        "id": 313,
+        "word": "photographer",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/photographer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/photographer.mp3"
+      },
+      {
+        "id": 314,
+        "word": "programmer",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/programmer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/programmer.mp3"
+      },
+      {
+        "id": 315,
+        "word": "architect",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/architect.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/architect.mp3"
+      },
+      {
+        "id": 316,
+        "word": "lawyer",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/lawyer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/lawyer.mp3"
+      },
+      {
+        "id": 317,
+        "word": "mechanic",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mechanic.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mechanic.mp3"
+      },
+      {
+        "id": 318,
+        "word": "waiter",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/waiter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/waiter.mp3"
+      },
+      {
+        "id": 319,
+        "word": "waitress",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/waitress.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/waitress.mp3"
+      },
+      {
+        "id": 320,
+        "word": "accountant",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/accountant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/accountant.mp3"
+      },
+      {
+        "id": 321,
+        "word": "chef",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/chef.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/chef.mp3"
+      },
+      {
+        "id": 322,
+        "word": "astronaut",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/astronaut.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/astronaut.mp3"
+      },
+      {
+        "id": 323,
+        "word": "fisherman",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/fisherman.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/fisherman.mp3"
+      },
+      {
+        "id": 324,
+        "word": "delivery person",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/deliveryperson.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/deliveryperson.mp3"
+      },
+      {
+        "id": 325,
+        "word": "mailman",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mailman.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mailman.mp3"
+      },
+      {
+        "id": 329,
+        "word": "turtle",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/turtle.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/turtle.mp3"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "My house",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/father.png",
+    "scenes": [
+      {
+        "id": 33,
+        "word": "around",
+        "meaning": "xung quanh",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/around.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/around.mp3"
+      },
+      {
+        "id": 34,
+        "word": "bathroom",
+        "meaning": "phòng tắm",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bathroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/bathroom.mp3"
+      },
+      {
+        "id": 35,
+        "word": "bedroom",
+        "meaning": "phòng ngủ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bedroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/bedroom.mp3"
+      },
+      {
+        "id": 36,
+        "word": "behind",
+        "meaning": "phía sau",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/behind.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/behind.mp3"
+      },
+      {
+        "id": 37,
+        "word": "dining room",
+        "meaning": "phòng ăn",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/diningroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/diningroom.mp3"
+      },
+      {
+        "id": 38,
+        "word": "fence",
+        "meaning": "hàng rào",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/fence.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/fence.mp3"
+      },
+      {
+        "id": 39,
+        "word": "garden",
+        "meaning": "khu vườn",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/garden.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/garden.mp3"
+      },
+      {
+        "id": 40,
+        "word": "gate",
+        "meaning": "cổng",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/gate.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/gate.mp3"
+      },
+      {
+        "id": 41,
+        "word": "here",
+        "meaning": "ở đây",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/here.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/here.mp3"
+      },
+      {
+        "id": 42,
+        "word": "house",
+        "meaning": "ngôi nhà",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/house.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/house.mp3"
+      },
+      {
+        "id": 43,
+        "word": "in front of",
+        "meaning": "phía trước",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/infrontof.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/infrontof.mp3"
+      },
+      {
+        "id": 44,
+        "word": "kitchen",
+        "meaning": "nhà bếp",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/kitchen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/kitchen.mp3"
+      },
+      {
+        "id": 45,
+        "word": "living room",
+        "meaning": "phòng khách",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/livingroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/livingroom.mp3"
+      },
+      {
+        "id": 46,
+        "word": "over there",
+        "meaning": "đằng kia",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/overthere.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/overthere.mp3"
+      },
+      {
+        "id": 47,
+        "word": "pond",
+        "meaning": "ao",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pond.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/pond.mp3"
+      },
+      {
+        "id": 48,
+        "word": "My car is over there",
+        "meaning": "Xe ô tô của tôi ở đằng kia.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mycarisoverthere.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mycarisoverthere.mp3"
+      },
+      {
+        "id": 49,
+        "word": "tree",
+        "meaning": "cái cây",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/tree.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/tree.mp3"
+      },
+      {
+        "id": 50,
+        "word": "yard",
+        "meaning": "sân",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/yard.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/yard.mp3"
+      },
+      {
+        "id": 154,
+        "word": "Here is my book",
+        "meaning": "Đây là sách của tôi",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/hereismybook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/hereismybook.mp3"
+      },
+      {
+        "id": 155,
+        "word": "The children are playing around the clock",
+        "meaning": "Những đứa trẻ đang chơi suốt cả ngày",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thechildrenareplayingaroundtheclock.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thechildrenareplayingaroundtheclock.mp3"
+      },
+      {
+        "id": 156,
+        "word": "My school is over there",
+        "meaning": "Trường tôi ở đằng kia",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/myschoolisoverthere.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/myschoolisoverthere.mp3"
+      },
+      {
+        "id": 157,
+        "word": "The boy is in front of the box",
+        "meaning": "Cậu bé đang ở trước cái hộp",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboyisinfrontofthebox.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theboyisinfrontofthebox.mp3"
+      },
+      {
+        "id": 158,
+        "word": "The boy is behind the box",
+        "meaning": "Cậu bé đang ở sau cái hộp",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboyisbehindthebox.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theboyisbehindthebox.mp3"
+      },
+      {
+        "id": 239,
+        "word": "The tree is very tall",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thetreeisverytall.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thetreeisverytall.mp3"
+      },
+      {
+        "id": 240,
+        "word": "We eat dinner in the dining room",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/weeatdinnerinthediningroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/weeatdinnerinthediningroom.mp3"
+      },
+      {
+        "id": 241,
+        "word": "There are fish in the pond",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/therearefishinthepond.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/therearefishinthepond.mp3"
+      },
+      {
+        "id": 242,
+        "word": "I wash my hands in the bathroom",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iwashmyhandsinthebathroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iwashmyhandsinthebathroom.mp3"
+      },
+      {
+        "id": 243,
+        "word": "The gate is open",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thegateisopen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thegateisopen.mp3"
+      },
+      {
+        "id": 244,
+        "word": "My mother is in the kitchen",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mymotherisinthekitchen.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mymotherisinthekitchen.mp3"
+      },
+      {
+        "id": 245,
+        "word": "The boy is standing in front of the school",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboyisstandinginfrontoftheschool.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theboyisstandinginfrontoftheschool.mp3"
+      },
+      {
+        "id": 246,
+        "word": "The children are running around the tree",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thechildrenarerunningaroundthetree.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thechildrenarerunningaroundthetree.mp3"
+      },
+      {
+        "id": 331,
+        "word": "The boy is behind the chair",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboyisbehindthechair.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theboyisbehindthechair.mp3"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "My bedroom",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandfather.png",
+    "scenes": [
+      {
+        "id": 51,
+        "word": "bed",
+        "meaning": "cái giường",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bed.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/bed.mp3"
+      },
+      {
+        "id": 52,
+        "word": "This apple is big",
+        "meaning": "Quả táo này to.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thisappleisbig.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thisappleisbig.mp3"
+      },
+      {
+        "id": 53,
+        "word": "chair",
+        "meaning": "cái ghế",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/chair.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/chair.mp3"
+      },
+      {
+        "id": 54,
+        "word": "desk",
+        "meaning": "bàn học",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/desk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/desk.mp3"
+      },
+      {
+        "id": 55,
+        "word": "door",
+        "meaning": "cánh cửa",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/door.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/door.mp3"
+      },
+      {
+        "id": 56,
+        "word": "The apple is in the box",
+        "meaning": "Quả táo ở bên trong cái hộp.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theappleisinthebox.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theappleisinthebox.mp3"
+      },
+      {
+        "id": 57,
+        "word": "lamp",
+        "meaning": "cây đèn",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/lamp.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/lamp.mp3"
+      },
+      {
+        "id": 58,
+        "word": "new",
+        "meaning": "mới",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/new.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/new.mp3"
+      },
+      {
+        "id": 59,
+        "word": "old",
+        "meaning": "cũ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/old.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/old.mp3"
+      },
+      {
+        "id": 60,
+        "word": "The boy is on the box",
+        "meaning": "Cậu bé ở trên cái hộp.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboyisonthebox.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theboyisonthebox.mp3"
+      },
+      {
+        "id": 61,
+        "word": "room",
+        "meaning": "căn phòng",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/room.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/room.mp3"
+      },
+      {
+        "id": 62,
+        "word": "This apple is small",
+        "meaning": "Quả táo này nhỏ.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thisappleissmall.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thisappleissmall.mp3"
+      },
+      {
+        "id": 63,
+        "word": "table",
+        "meaning": "cái bàn",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/table.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/table.mp3"
+      },
+      {
+        "id": 64,
+        "word": "window",
+        "meaning": "cửa sổ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/window.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/window.mp3"
+      },
+      {
+        "id": 175,
+        "word": "This house is small",
+        "meaning": "Ngôi nhà này nhỏ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thishouseissmall.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thishouseissmall.mp3"
+      },
+      {
+        "id": 247,
+        "word": "I have old books",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihaveoldbooks.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihaveoldbooks.mp3"
+      },
+      {
+        "id": 248,
+        "word": "I can see a bird through the window",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/icanseeabirdthroughthewindow.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/icanseeabirdthroughthewindow.mp3"
+      },
+      {
+        "id": 249,
+        "word": "My books are on the desk",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mybooksareonthedesk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mybooksareonthedesk.mp3"
+      },
+      {
+        "id": 250,
+        "word": "I have a new backpack for school",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihaveanewbackpackforschool.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihaveanewbackpackforschool.mp3"
+      },
+      {
+        "id": 251,
+        "word": "I make my bed every morning",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/imakemybedeverymorning.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/imakemybedeverymorning.mp3"
+      },
+      {
+        "id": 252,
+        "word": "Please close the door quietly",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pleaseclosethedoorquietly.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/pleaseclosethedoorquietly.mp3"
+      },
+      {
+        "id": 253,
+        "word": "My room is clean and bright",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/myroomiscleanandbright.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/myroomiscleanandbright.mp3"
+      },
+      {
+        "id": 254,
+        "word": "We play games in the living room",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/weplaygamesinthelivingroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/weplaygamesinthelivingroom.mp3"
+      },
+      {
+        "id": 255,
+        "word": "The lamp is next to my bed",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thelampisnexttomybed.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thelampisnexttomybed.mp3"
+      },
+      {
+        "id": 256,
+        "word": "The cat is in the room",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thecatisintheroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thecatisintheroom.mp3"
+      },
+      {
+        "id": 299,
+        "word": "The dog is in the yard",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thedogisintheyard.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thedogisintheyard.mp3"
+      },
+      {
+        "id": 326,
+        "word": "messy room",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/messyroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/messyroom.mp3"
+      },
+      {
+        "id": 327,
+        "word": "Your bag is there",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/yourbagisthere.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/yourbagisthere.mp3"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "At the dinning table",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandmother.png",
+    "scenes": [
+      {
+        "id": 65,
+        "word": "bean",
+        "meaning": "hạt đậu",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bean.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/bean.mp3"
+      },
+      {
+        "id": 66,
+        "word": "bread",
+        "meaning": "bánh mì",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bread.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/bread.mp3"
+      },
+      {
+        "id": 67,
+        "word": "chicken",
+        "meaning": "thịt gà",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/chicken.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/chicken.mp3"
+      },
+      {
+        "id": 68,
+        "word": "dining table",
+        "meaning": "bàn ăn",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/diningtable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/diningtable.mp3"
+      },
+      {
+        "id": 69,
+        "word": "eggs",
+        "meaning": "trứng",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/eggs.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/eggs.mp3"
+      },
+      {
+        "id": 70,
+        "word": "fish",
+        "meaning": "cá",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/fish.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/fish.mp3"
+      },
+      {
+        "id": 71,
+        "word": "juice",
+        "meaning": "nước ép",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/juice.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/juice.mp3"
+      },
+      {
+        "id": 72,
+        "word": "meat",
+        "meaning": "thịt",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/meat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/meat.mp3"
+      },
+      {
+        "id": 73,
+        "word": "milk",
+        "meaning": "sữa",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/milk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/milk.mp3"
+      },
+      {
+        "id": 74,
+        "word": "rice",
+        "meaning": "cơm",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/rice.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/rice.mp3"
+      },
+      {
+        "id": 75,
+        "word": "water",
+        "meaning": "nước",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/water.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/water.mp3"
+      },
+      {
+        "id": 257,
+        "word": "I like fish",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ilikefish.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ilikefish.mp3"
+      },
+      {
+        "id": 258,
+        "word": "I drink juice every day",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/idrinkjuiceeveryday.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/idrinkjuiceeveryday.mp3"
+      },
+      {
+        "id": 259,
+        "word": "I eat rice for lunch",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ieatriceforlunch.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ieatriceforlunch.mp3"
+      },
+      {
+        "id": 260,
+        "word": "The rice is on the table",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thericeisonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thericeisonthetable.mp3"
+      },
+      {
+        "id": 261,
+        "word": "I like meat",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ilikemeat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ilikemeat.mp3"
+      },
+      {
+        "id": 262,
+        "word": "The food is on the dining table",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thefoodisonthediningtable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thefoodisonthediningtable.mp3"
+      },
+      {
+        "id": 263,
+        "word": "I drink water every day",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/idrinkwatereveryday.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/idrinkwatereveryday.mp3"
+      },
+      {
+        "id": 264,
+        "word": "The water is cold",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thewateriscold.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thewateriscold.mp3"
+      },
+      {
+        "id": 265,
+        "word": "The chicken is in the yard",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thechickenisintheyard.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thechickenisintheyard.mp3"
+      },
+      {
+        "id": 266,
+        "word": "I drink milk in the morning",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/idrinkmilkinthemorning.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/idrinkmilkinthemorning.mp3"
+      },
+      {
+        "id": 267,
+        "word": "The milk is in the cup",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/themilkisinthecup.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/themilkisinthecup.mp3"
+      },
+      {
+        "id": 268,
+        "word": "The eggs are on the plate",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theeggsareontheplate.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theeggsareontheplate.mp3"
+      },
+      {
+        "id": 269,
+        "word": "I eat bread for breakfast",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ieatbreadforbreakfast.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ieatbreadforbreakfast.mp3"
+      },
+      {
+        "id": 270,
+        "word": "The bread is on the table",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thebreadisonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thebreadisonthetable.mp3"
+      },
+      {
+        "id": 328,
+        "word": "hamster",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/hamster.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/hamster.mp3"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "My pets",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/grandfatherrents.png",
+    "scenes": [
+      {
+        "id": 76,
+        "word": "bird",
+        "meaning": "con chim",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bird.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/bird.mp3"
+      },
+      {
+        "id": 77,
+        "word": "cat",
+        "meaning": "con mèo",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/cat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/cat.mp3"
+      },
+      {
+        "id": 78,
+        "word": "dog",
+        "meaning": "con chó",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/dog.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/dog.mp3"
+      },
+      {
+        "id": 79,
+        "word": "elephant",
+        "meaning": "con voi",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/elephant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/elephant.mp3"
+      },
+      {
+        "id": 80,
+        "word": "goldfish",
+        "meaning": "cá vàng",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/goldfish.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/goldfish.mp3"
+      },
+      {
+        "id": 81,
+        "word": "How many cakes do you have",
+        "meaning": "Bạn có bao nhiêu bánh ngọt?",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/howmanycakesdoyouhave.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/howmanycakesdoyouhave.mp3"
+      },
+      {
+        "id": 82,
+        "word": "I have many apples",
+        "meaning": "Tôii có nhiều quả táo.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihavemanyapples.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihavemanyapples.mp3"
+      },
+      {
+        "id": 83,
+        "word": "parrot",
+        "meaning": "con vẹt",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/parrot.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/parrot.mp3"
+      },
+      {
+        "id": 84,
+        "word": "pet",
+        "meaning": "vật nuôi",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pet.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/pet.mp3"
+      },
+      {
+        "id": 85,
+        "word": "rabbit",
+        "meaning": "con thỏ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/rabbit.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/rabbit.mp3"
+      },
+      {
+        "id": 86,
+        "word": "I have some apples",
+        "meaning": "Tôi có một ít quả táo.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihavesomeapples.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihavesomeapples.mp3"
+      },
+      {
+        "id": 271,
+        "word": "How many pens do you have",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/howmanypensdoyouhave.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/howmanypensdoyouhave.mp3"
+      },
+      {
+        "id": 272,
+        "word": "How many dogs are in the park",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/howmanydogsareinthepark.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/howmanydogsareinthepark.mp3"
+      },
+      {
+        "id": 273,
+        "word": "I have many books on my desk",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihavemanybooksonmydesk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihavemanybooksonmydesk.mp3"
+      },
+      {
+        "id": 274,
+        "word": "There are many cats in the garden",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/therearemanycatsinthegarden.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/therearemanycatsinthegarden.mp3"
+      },
+      {
+        "id": 275,
+        "word": "The rabbit is very cute",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/therabbitisverycute.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/therabbitisverycute.mp3"
+      },
+      {
+        "id": 276,
+        "word": "The rabbit is running in the garden",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/therabbitisrunninginthegarden.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/therabbitisrunninginthegarden.mp3"
+      },
+      {
+        "id": 277,
+        "word": "The dog is playing in the yard",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thedogisplayingintheyard.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thedogisplayingintheyard.mp3"
+      },
+      {
+        "id": 278,
+        "word": "The dog is my best friend",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thedogismybestfriend.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thedogismybestfriend.mp3"
+      },
+      {
+        "id": 279,
+        "word": "The goldfish is swimming in the pond",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thegoldfishisswimminginthepond.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thegoldfishisswimminginthepond.mp3"
+      },
+      {
+        "id": 280,
+        "word": "The goldfish is very small and pretty",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thegoldfishisverysmallandpretty.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thegoldfishisverysmallandpretty.mp3"
+      },
+      {
+        "id": 281,
+        "word": "The cat is sleeping on the sofa",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thecatissleepingonthesofa.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thecatissleepingonthesofa.mp3"
+      },
+      {
+        "id": 282,
+        "word": "The cat drinks milk every day",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thecatdrinksmilkeveryday.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thecatdrinksmilkeveryday.mp3"
+      },
+      {
+        "id": 283,
+        "word": "The parrot can talk very well",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theparrotcantalkverywell.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theparrotcantalkverywell.mp3"
+      },
+      {
+        "id": 284,
+        "word": "I have many pens in my bag",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihavemanypensinmybag.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihavemanypensinmybag.mp3"
+      },
+      {
+        "id": 285,
+        "word": "I have many boots in my room",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihavemanybootsinmyroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihavemanybootsinmyroom.mp3"
+      },
+      {
+        "id": 341,
+        "word": "What animal has a long trunk and big ears",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/whatanimalhasalongtrunkandbigears.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whatanimalhasalongtrunkandbigears.mp3"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Our toys",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mother.png",
+    "scenes": [
+      {
+        "id": 87,
+        "word": "bus",
+        "meaning": "xe buýt",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bus.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/bus.mp3"
+      },
+      {
+        "id": 88,
+        "word": "car",
+        "meaning": "xe hơi",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/car.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/car.mp3"
+      },
+      {
+        "id": 89,
+        "word": "kite",
+        "meaning": "con diều",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/kite.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/kite.mp3"
+      },
+      {
+        "id": 90,
+        "word": "plane",
+        "meaning": "máy bay",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/plane.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/plane.mp3"
+      },
+      {
+        "id": 91,
+        "word": "ship",
+        "meaning": "con tàu",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ship.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ship.mp3"
+      },
+      {
+        "id": 92,
+        "word": "teddy bear",
+        "meaning": "gấu bông",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/teddybear.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/teddybear.mp3"
+      },
+      {
+        "id": 93,
+        "word": "toy",
+        "meaning": "đồ chơi",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/toy.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/toy.mp3"
+      },
+      {
+        "id": 94,
+        "word": "train",
+        "meaning": "tàu hỏa",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/train.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/train.mp3"
+      },
+      {
+        "id": 95,
+        "word": "truck",
+        "meaning": "xe tải",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/truck.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/truck.mp3"
+      },
+      {
+        "id": 218,
+        "word": "The ship is sailing on the sea",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theshipissailingonthesea.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theshipissailingonthesea.mp3"
+      },
+      {
+        "id": 219,
+        "word": "We can see a big ship today",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/wecanseeabigshiptoday.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/wecanseeabigshiptoday.mp3"
+      },
+      {
+        "id": 220,
+        "word": "My father has a blue car",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/myfatherhasabluecar.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/myfatherhasabluecar.mp3"
+      },
+      {
+        "id": 221,
+        "word": "The car is in front of our house",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thecarisinfrontofourhouse.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thecarisinfrontofourhouse.mp3"
+      },
+      {
+        "id": 222,
+        "word": "The train is moving very fast",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thetrainismovingveryfast.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thetrainismovingveryfast.mp3"
+      },
+      {
+        "id": 223,
+        "word": "I like riding on a train",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ilikeridingonatrain.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ilikeridingonatrain.mp3"
+      },
+      {
+        "id": 224,
+        "word": "This toy is a birthday gift",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thistoyisabirthdaygift.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thistoyisabirthdaygift.mp3"
+      },
+      {
+        "id": 225,
+        "word": "The boy plays with his toy after school",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboyplayswithhistoyafterschool.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theboyplayswithhistoyafterschool.mp3"
+      },
+      {
+        "id": 226,
+        "word": "The truck carries many boxes",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thetruckcarriesmanyboxes.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thetruckcarriesmanyboxes.mp3"
+      },
+      {
+        "id": 227,
+        "word": "A big truck is on the road",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/abigtruckisontheroad.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/abigtruckisontheroad.mp3"
+      },
+      {
+        "id": 228,
+        "word": "My teddy bear is very soft",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/myteddybearisverysoft.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/myteddybearisverysoft.mp3"
+      },
+      {
+        "id": 229,
+        "word": "I sleep with my teddy bear every night",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/isleepwithmyteddybeareverynight.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/isleepwithmyteddybeareverynight.mp3"
+      },
+      {
+        "id": 230,
+        "word": "We fly a kite in the park",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/weflyakiteinthepark.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/weflyakiteinthepark.mp3"
+      },
+      {
+        "id": 231,
+        "word": "The kite is high in the sky",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thekiteishighinthesky.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thekiteishighinthesky.mp3"
+      },
+      {
+        "id": 232,
+        "word": "The plane is flying above the clouds",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theplaneisflyingabovetheclouds.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theplaneisflyingabovetheclouds.mp3"
+      },
+      {
+        "id": 233,
+        "word": "We travel by plane during summer vacation",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/wetravelbyplaneduringsummervacation.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/wetravelbyplaneduringsummervacation.mp3"
+      },
+      {
+        "id": 234,
+        "word": "The bus takes children to school",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thebustakeschildrentoschool.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thebustakeschildrentoschool.mp3"
+      },
+      {
+        "id": 235,
+        "word": "We wait for the bus every morning",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/wewaitforthebuseverymorning.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/wewaitforthebuseverymorning.mp3"
+      },
+      {
+        "id": 330,
+        "word": "sheep",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sheep.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sheep.mp3"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Playing and doing",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/parents.png",
+    "scenes": [
+      {
+        "id": 96,
+        "word": "dance",
+        "meaning": "nhảy múa",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/dance.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/dance.mp3"
+      },
+      {
+        "id": 97,
+        "word": "draw a picture",
+        "meaning": "vẽ tranh",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/drawapicture.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/drawapicture.mp3"
+      },
+      {
+        "id": 98,
+        "word": "They are having fun",
+        "meaning": "vui vẻ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theyarehavingfun.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theyarehavingfun.mp3"
+      },
+      {
+        "id": 99,
+        "word": "listen to music",
+        "meaning": "nghe nhạc",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/listentomusic.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/listentomusic.mp3"
+      },
+      {
+        "id": 100,
+        "word": "play basketball",
+        "meaning": "chơi bóng rổ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/playbasketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/playbasketball.mp3"
+      },
+      {
+        "id": 101,
+        "word": "read",
+        "meaning": "đọc sách",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/read.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/read.mp3"
+      },
+      {
+        "id": 102,
+        "word": "sing",
+        "meaning": "hát",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sing.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sing.mp3"
+      },
+      {
+        "id": 103,
+        "word": "watch TV",
+        "meaning": "xem ti vi",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/watchTV.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/watchTV.mp3"
+      },
+      {
+        "id": 104,
+        "word": "write",
+        "meaning": "viết",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/write.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/write.mp3"
+      },
+      {
+        "id": 124,
+        "word": "play chess",
+        "meaning": "chơi cờ vua",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/playchess.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/playchess.mp3"
+      },
+      {
+        "id": 159,
+        "word": "She is writing",
+        "meaning": "Cô ấy đang viết",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sheiswriting.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sheiswriting.mp3"
+      },
+      {
+        "id": 160,
+        "word": "They are dancing",
+        "meaning": "Họ đang nhảy múa",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theyaredancing.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theyaredancing.mp3"
+      },
+      {
+        "id": 161,
+        "word": "She is listening to music",
+        "meaning": "Cô ấy đang nghe nhạc",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sheislisteningtomusic.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sheislisteningtomusic.mp3"
+      },
+      {
+        "id": 162,
+        "word": "They are playing basketball",
+        "meaning": "Họ đang chơi bóng rổ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theyareplayingbasketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theyareplayingbasketball.mp3"
+      },
+      {
+        "id": 163,
+        "word": "They like dancing",
+        "meaning": "Họ thích nhảy múa",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theylikedancing.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theylikedancing.mp3"
+      },
+      {
+        "id": 164,
+        "word": "They like singing",
+        "meaning": "Họ thích hát",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theylikesinging.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theylikesinging.mp3"
+      },
+      {
+        "id": 165,
+        "word": "They are watching TV",
+        "meaning": "Họ đang xem TV",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theyarewatchingtv.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theyarewatchingtv.mp3"
+      },
+      {
+        "id": 166,
+        "word": "She is reading a book",
+        "meaning": "Cô ấy đang đọc sách",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sheisreadingabook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sheisreadingabook.mp3"
+      },
+      {
+        "id": 167,
+        "word": "They are singing a song",
+        "meaning": "Họ đang hát một bài hát",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theyaresingingasong.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theyaresingingasong.mp3"
+      },
+      {
+        "id": 168,
+        "word": "Mai likes listening to music",
+        "meaning": "Mai thích nghe nhạc",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mailikeslisteningtomusic.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mailikeslisteningtomusic.mp3"
+      },
+      {
+        "id": 169,
+        "word": "I have fun with my friends",
+        "meaning": "Tôi vui chơi cùng các bạn",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihavefunwithmyfriends.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihavefunwithmyfriends.mp3"
+      },
+      {
+        "id": 170,
+        "word": "I like listening to music",
+        "meaning": "Tôi thích nghe nhạc",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ilikelisteningtomusic.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ilikelisteningtomusic.mp3"
+      },
+      {
+        "id": 171,
+        "word": "Reading is fun",
+        "meaning": "Đọc sách rất vui",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/readingisfun.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/readingisfun.mp3"
+      },
+      {
+        "id": 172,
+        "word": "I like to write",
+        "meaning": "Tôi thích viết",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iliketowrite.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iliketowrite.mp3"
+      },
+      {
+        "id": 173,
+        "word": "Drawing a picture is fun",
+        "meaning": "Vẽ tranh rất vui",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/drawingapictureisfun.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/drawingapictureisfun.mp3"
+      },
+      {
+        "id": 193,
+        "word": "My brother and I play chess after school",
+        "meaning": "Anh trai của tôi và tôi chơi cờ vua sau giờ học",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mybrotherandiplaychessafterschool.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mybrotherandiplaychessafterschool.mp3"
+      },
+      {
+        "id": 194,
+        "word": "They play chess every weekend",
+        "meaning": "Họ chơi cờ vua vào mỗi cuối tuần",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theyplaychesseveryweekend.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theyplaychesseveryweekend.mp3"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Outdoor activities",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sister.png",
+    "scenes": [
+      {
+        "id": 105,
+        "word": "cycle",
+        "meaning": "đạp xe",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/cycle.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/cycle.mp3"
+      },
+      {
+        "id": 106,
+        "word": "fly a kite",
+        "meaning": "thả diều",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/flyakite.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/flyakite.mp3"
+      },
+      {
+        "id": 107,
+        "word": "outdoor",
+        "meaning": "ngoài trời",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/outdoor.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/outdoor.mp3"
+      },
+      {
+        "id": 108,
+        "word": "paint",
+        "meaning": "vẽ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/paint.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/paint.mp3"
+      },
+      {
+        "id": 109,
+        "word": "park",
+        "meaning": "công viên",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/park.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/park.mp3"
+      },
+      {
+        "id": 110,
+        "word": "play badminton",
+        "meaning": "chơi cầu lông",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/playbadminton.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/playbadminton.mp3"
+      },
+      {
+        "id": 111,
+        "word": "run",
+        "meaning": "chạy",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/run.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/run.mp3"
+      },
+      {
+        "id": 112,
+        "word": "skate",
+        "meaning": "trượt ván",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/skate.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/skate.mp3"
+      },
+      {
+        "id": 113,
+        "word": "skip",
+        "meaning": "nhảy dây",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/skip.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/skip.mp3"
+      },
+      {
+        "id": 114,
+        "word": "sport",
+        "meaning": "thể thao",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sport.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/sport.mp3"
+      },
+      {
+        "id": 115,
+        "word": "walk",
+        "meaning": "đi bộ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/walk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/walk.mp3"
+      },
+      {
+        "id": 176,
+        "word": "They are playing outdoor games",
+        "meaning": "Họ đang chơi các trò chơi ngoài trời.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theyareplayingoutdoorgames.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theyareplayingoutdoorgames.mp3"
+      },
+      {
+        "id": 195,
+        "word": "I cycle to school every day",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/icycletoschooleveryday.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/icycletoschooleveryday.mp3"
+      },
+      {
+        "id": 196,
+        "word": "My family cycles in the park every morning",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/myfamilycyclesintheparkeverymorning.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/myfamilycyclesintheparkeverymorning.mp3"
+      },
+      {
+        "id": 197,
+        "word": "I fly a kite with my brother",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iflyakitewithmybrother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iflyakitewithmybrother.mp3"
+      },
+      {
+        "id": 198,
+        "word": "The children fly a kite in the field",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thechildrenflyakiteinthefield.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thechildrenflyakiteinthefield.mp3"
+      },
+      {
+        "id": 199,
+        "word": "We play outdoor games after school",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/weplayoutdoorgamesafterschool.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/weplayoutdoorgamesafterschool.mp3"
+      },
+      {
+        "id": 200,
+        "word": "I like outdoor activities with my friends",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ilikeoutdooractivitieswithmyfriends.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ilikeoutdooractivitieswithmyfriends.mp3"
+      },
+      {
+        "id": 201,
+        "word": "I paint a picture of a cat",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ipaintapictureofacat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ipaintapictureofacat.mp3"
+      },
+      {
+        "id": 202,
+        "word": "She paints flowers in her notebook",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/shepaintsflowersinhernotebook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/shepaintsflowersinhernotebook.mp3"
+      },
+      {
+        "id": 203,
+        "word": "I play football in the park",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iplayfootballinthepark.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iplayfootballinthepark.mp3"
+      },
+      {
+        "id": 204,
+        "word": "The children are playing in the park",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thechildrenareplayinginthepark.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thechildrenareplayinginthepark.mp3"
+      },
+      {
+        "id": 205,
+        "word": "I play badminton with my friend",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iplaybadmintonwithmyfriend.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iplaybadmintonwithmyfriend.mp3"
+      },
+      {
+        "id": 206,
+        "word": "We play badminton in the schoolyard",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/weplaybadmintonintheschoolyard.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/weplaybadmintonintheschoolyard.mp3"
+      },
+      {
+        "id": 207,
+        "word": "I run in the playground at break time",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/irunintheplaygroundatbreaktime.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/irunintheplaygroundatbreaktime.mp3"
+      },
+      {
+        "id": 208,
+        "word": "The boy runs very fast in the race",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboyrunsveryfastintherace.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theboyrunsveryfastintherace.mp3"
+      },
+      {
+        "id": 209,
+        "word": "I skate in the park on weekends",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iskateintheparkonweekends.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iskateintheparkonweekends.mp3"
+      },
+      {
+        "id": 210,
+        "word": "My brother skates with his friends",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mybrotherskateswithhisfriends.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mybrotherskateswithhisfriends.mp3"
+      },
+      {
+        "id": 211,
+        "word": "I skip rope with my classmates",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iskipropewithmyclassmates.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iskipropewithmyclassmates.mp3"
+      },
+      {
+        "id": 212,
+        "word": "The girls skip in the schoolyard",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thegirlsskipintheschoolyard.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thegirlsskipintheschoolyard.mp3"
+      },
+      {
+        "id": 213,
+        "word": "Football is my favorite sport",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/footballismyfavoritesport.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/footballismyfavoritesport.mp3"
+      },
+      {
+        "id": 214,
+        "word": "My brother plays sport every afternoon",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mybrotherplayssporteveryafternoon.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mybrotherplayssporteveryafternoon.mp3"
+      },
+      {
+        "id": 215,
+        "word": "I walk to school with my friend",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iwalktoschoolwithmyfriend.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iwalktoschoolwithmyfriend.mp3"
+      },
+      {
+        "id": 216,
+        "word": "My grandmother walks in the park every morning",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/mygrandmotherwalksintheparkeverymorning.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/mygrandmotherwalksintheparkeverymorning.mp3"
+      },
+      {
+        "id": 217,
+        "word": "We walk home after school",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/wewalkhomeafterschool.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/wewalkhomeafterschool.mp3"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "At the zoo",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/son.png",
+    "scenes": [
+      {
+        "id": 116,
+        "word": "climb",
+        "meaning": "leo trèo",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/climb.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/climb.mp3"
+      },
+      {
+        "id": 117,
+        "word": "count",
+        "meaning": "đếm",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/count.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/count.mp3"
+      },
+      {
+        "id": 118,
+        "word": "horse",
+        "meaning": "con ngựa",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/horse.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/horse.mp3"
+      },
+      {
+        "id": 119,
+        "word": "monkey",
+        "meaning": "con khỉ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/monkey.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/monkey.mp3"
+      },
+      {
+        "id": 120,
+        "word": "peacock",
+        "meaning": "con công",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/peacock.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/peacock.mp3"
+      },
+      {
+        "id": 121,
+        "word": "swing",
+        "meaning": "đu xích đu/ xích đu",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/swing.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/swing.mp3"
+      },
+      {
+        "id": 122,
+        "word": "tiger",
+        "meaning": "con hổ",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/tiger.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/tiger.mp3"
+      },
+      {
+        "id": 123,
+        "word": "zoo",
+        "meaning": "sở thú",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/zoo.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/zoo.mp3"
+      },
+      {
+        "id": 177,
+        "word": "I can climb a tree",
+        "meaning": "Tôi có thể trèo cây",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/icanclimbatree.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/icanclimbatree.mp3"
+      },
+      {
+        "id": 178,
+        "word": "The boy can climb the ladder",
+        "meaning": "Cậu bé có thể trèo thang",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboycanclimbtheladder.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/theboycanclimbtheladder.mp3"
+      },
+      {
+        "id": 179,
+        "word": "I can count from one to ten",
+        "meaning": "Tôi có thể đếm từ một đến mười",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/icancountfromonetoten.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/icancountfromonetoten.mp3"
+      },
+      {
+        "id": 180,
+        "word": "Please count the apples",
+        "meaning": "Hãy đếm những quả táo",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pleasecounttheapples.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/pleasecounttheapples.mp3"
+      },
+      {
+        "id": 181,
+        "word": "The horse is running fast",
+        "meaning": "Con ngựa đang chạy rất nhanh",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thehorseisrunningfast.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thehorseisrunningfast.mp3"
+      },
+      {
+        "id": 182,
+        "word": "I can ride a horse",
+        "meaning": "Tôi có thể cưỡi ngựa",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/icanrideahorse.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/icanrideahorse.mp3"
+      },
+      {
+        "id": 183,
+        "word": "The monkey is eating a banana",
+        "meaning": "Con khỉ đang ăn chuối",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/themonkeyiseatingabanana.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/themonkeyiseatingabanana.mp3"
+      },
+      {
+        "id": 184,
+        "word": "The monkey is in the tree",
+        "meaning": "Con khỉ ở trên cây",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/themonkeyisinthetree.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/themonkeyisinthetree.mp3"
+      },
+      {
+        "id": 185,
+        "word": "The peacock has beautiful feathers",
+        "meaning": "Con công có bộ lông rất đẹp",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thepeacockhasbeautifulfeathers.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thepeacockhasbeautifulfeathers.mp3"
+      },
+      {
+        "id": 186,
+        "word": "We see a peacock at the zoo",
+        "meaning": "Chúng tôi nhìn thấy một con công ở sở thú",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/weseeapeacockatthezoo.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/weseeapeacockatthezoo.mp3"
+      },
+      {
+        "id": 187,
+        "word": "I like to swing in the park",
+        "meaning": "Em thích chơi xích đu ở công viên",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iliketoswinginthepark.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iliketoswinginthepark.mp3"
+      },
+      {
+        "id": 188,
+        "word": "The girl is on the swing",
+        "meaning": "Cô bé đang ở trên xích đu",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thegirlisontheswing.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thegirlisontheswing.mp3"
+      },
+      {
+        "id": 189,
+        "word": "The tiger is strong",
+        "meaning": "Con hổ rất khỏe",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thetigerisstrong.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thetigerisstrong.mp3"
+      },
+      {
+        "id": 190,
+        "word": "The tiger has sharp teeth",
+        "meaning": "Con hổ có hàm răng sắc nhọn",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thetigerhassharpteeth.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thetigerhassharpteeth.mp3"
+      },
+      {
+        "id": 191,
+        "word": "We visit the zoo on Sunday",
+        "meaning": "Chúng tôi đi thăm sở thú vào Chủ nhật",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/wevisitthezooonsunday.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/wevisitthezooonsunday.mp3"
+      },
+      {
+        "id": 192,
+        "word": "There are many animals in the zoo",
+        "meaning": "Có nhiều loài động vật trong sở thú",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/therearemanyanimalsinthezoo.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/therearemanyanimalsinthezoo.mp3"
+      },
+      {
+        "id": 286,
+        "word": "The tiger is sleeping under a tree",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thetigerissleepingunderatree.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thetigerissleepingunderatree.mp3"
+      },
+      {
+        "id": 287,
+        "word": "The peacock is walking in the garden.",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thepeacockiswalkinginthegarden..png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thepeacockiswalkinginthegarden..mp3"
+      },
+      {
+        "id": 288,
+        "word": "The peacock is in the tree",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thepeacockisinthetree.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thepeacockisinthetree.mp3"
+      },
+      {
+        "id": 289,
+        "word": "The capybara is eating a banana",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/thecapybaraiseatingabanana.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/thecapybaraiseatingabanana.mp3"
+      },
+      {
+        "id": 290,
+        "word": "banana",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/banana.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/banana.mp3"
+      },
+      {
+        "id": 291,
+        "word": "hamster",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/hamster.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/hamster.mp3"
+      },
+      {
+        "id": 292,
+        "word": "goat",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/goat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/goat.mp3"
+      },
+      {
+        "id": 332,
+        "word": "audioquestiontiger",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/audioquestiontiger.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/audioquestiontiger.mp3"
+      },
+      {
+        "id": 333,
+        "word": "audioquestionzoo",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/audioquestionzoo.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/audioquestionzoo.mp3"
+      },
+      {
+        "id": 334,
+        "word": "audioquestionmonkey",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/audioquestionmonkey.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/audioquestionmonkey.mp3"
+      },
+      {
+        "id": 335,
+        "word": "audioquestionpeacock",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/audioquestionpeacock.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/audioquestionpeacock.mp3"
+      },
+      {
+        "id": 336,
+        "word": "whatbirdcantalklikeaperson",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/whatbirdcantalklikeaperson.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whatbirdcantalklikeaperson.mp3"
+      },
+      {
+        "id": 337,
+        "word": "What animal says Woof Woof",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/whatanimalsayswoofwoof.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whatanimalsayswoofwoof.mp3"
+      },
+      {
+        "id": 338,
+        "word": "I am a small golden fish. I live in a tank. What am I",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/iamasmallgoldenfish.iliveinatank.whatami.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iamasmallgoldenfish.iliveinatank.whatami.mp3"
+      },
+      {
+        "id": 339,
+        "word": "What pet says MeowMeow",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/whatpetsaysmeowmeow.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whatpetsaysmeowmeow.mp3"
+      },
+      {
+        "id": 340,
+        "word": "I have long ears, a short tail, and I hop instead of walk. \nI like carrots. What am I",
+        "meaning": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/ihavelongears,ashorttail,andihopinsteadofwalk.\nilikecarrots.whatami.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihavelongears,ashorttail,andihopinsteadofwalk.\nilikecarrots.whatami.mp3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2072 @@
+[
+  {
+    "id": 11,
+    "text": "My family",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit11.png",
+    "scenes": [
+      {
+        "id": 1,
+        "sentence": "I am sev___een years old.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ent",
+        "hint": "I am seventeen years old. → Tôi mười bảy tuổi."
+      },
+      {
+        "id": 2,
+        "sentence": "This is my br___er.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oth",
+        "hint": "This is my brother. → Đây là anh/em trai của tôi."
+      },
+      {
+        "id": 3,
+        "sentence": "My gran___ather is old.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "df",
+        "hint": "My grandfather is old. → Ông nội/ngoại của tôi già rồi."
+      },
+      {
+        "id": 4,
+        "sentence": "I have twe___e pens.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lv",
+        "hint": "I have twelve pens. → Tôi có mười hai cái bút."
+      },
+      {
+        "id": 5,
+        "sentence": "Their ___on is very smart.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "Their son is very smart. → Con trai của họ rất thông minh."
+      },
+      {
+        "id": 6,
+        "sentence": "She is four___n years old.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tee",
+        "hint": "She is fourteen years old. → Cô ấy mười bốn tuổi."
+      },
+      {
+        "id": 7,
+        "sentence": "I love my fam___y.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "il",
+        "hint": "I love my family. → Tôi yêu gia đình của tôi."
+      },
+      {
+        "id": 8,
+        "sentence": "My gran___other is kind.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dm",
+        "hint": "My grandmother is kind. → Bà nội/ngoại của tôi tốt bụng."
+      },
+      {
+        "id": 9,
+        "sentence": "He has fif___n books.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tee",
+        "hint": "He has fifteen books. → Anh ấy có mười lăm quyển sách."
+      },
+      {
+        "id": 10,
+        "sentence": "My mo___er works in a hospital.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "th",
+        "hint": "My mother works in a hospital. → Mẹ của tôi làm việc trong bệnh viện."
+      },
+      {
+        "id": 11,
+        "sentence": "This is my phot___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "This is my photo. → Đây là ảnh của tôi."
+      },
+      {
+        "id": 12,
+        "sentence": "There are six___ apples.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "teen",
+        "hint": "There are sixteen apples. → Có mười sáu quả táo."
+      },
+      {
+        "id": 13,
+        "sentence": "There are nin_____ students in my class.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/nineteen.png",
+        "audioUrl": "",
+        "answer": "eteen",
+        "hint": "There are nineteen students in my class. → Có mười chín học sinh trong lớp của tôi."
+      },
+      {
+        "id": 14,
+        "sentence": "My par___s love me very much.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ent",
+        "hint": "My parents love me very much. → Bố mẹ của tôi yêu tôi rất nhiều."
+      },
+      {
+        "id": 15,
+        "sentence": "I am sur___ he will come.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "I am sure he will come. → Tôi chắc chắn anh ấy sẽ đến."
+      },
+      {
+        "id": 16,
+        "sentence": "The meeting starts at ele___ o'clock.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ven",
+        "hint": "The meeting starts at eleven o'clock. → Cuộc họp bắt đầu lúc mười một giờ."
+      },
+      {
+        "id": 17,
+        "sentence": "__enteen birds are sitting in the tree.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "sev",
+        "hint": "Seventeen birds are sitting in the tree. → Mười bảy con chim đang ngồi trên cây."
+      },
+      {
+        "id": 18,
+        "sentence": "I have tw___ty stickers.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "en",
+        "hint": "I have twenty stickers. → Tôi có hai mươi nhãn dán."
+      },
+      {
+        "id": 19,
+        "sentence": "My sis___ is eight years old.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ter",
+        "hint": "My sister is eight years old. → Em/chị gái của tôi tám tuổi."
+      },
+      {
+        "id": 20,
+        "sentence": "I have ni__teen crayons.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ne",
+        "hint": "I have nineteen crayons. → Tôi có mười chín cây bút màu."
+      },
+      {
+        "id": 21,
+        "sentence": "My gran___nts live in the countryside.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dpare",
+        "hint": "My grandparents live in the countryside. → Ông bà của tôi sống ở vùng quê."
+      },
+      {
+        "id": 22,
+        "sentence": "My fath___ drives a car.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "My father drives a car. → Bố của tôi lái xe ô tô."
+      },
+      {
+        "id": 23,
+        "sentence": "There are thir___n books on the table.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tee",
+        "hint": "There are thirteen books on the table. → Có mười ba quyển sách trên bàn."
+      },
+      {
+        "id": 24,
+        "sentence": "I am __elve years old.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tw",
+        "hint": "I am twelve years old. → Tôi mười hai tuổi."
+      },
+      {
+        "id": 25,
+        "sentence": "We have eig___een apples.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ht",
+        "hint": "We have eighteen apples. → Chúng tôi có mười tám quả táo."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Jobs",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit12.png",
+    "scenes": [
+      {
+        "id": 26,
+        "sentence": "The wo___er builds houses.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rk",
+        "hint": "The worker builds houses. → Người công nhân xây nhà."
+      },
+      {
+        "id": 27,
+        "sentence": "The dri___r drives a bus.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ve",
+        "hint": "The driver drives a bus. → Người lái xe điều khiển xe buýt."
+      },
+      {
+        "id": 28,
+        "sentence": "My teac___r is kind.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "he",
+        "hint": "My teacher is kind. → Giáo viên của tôi tốt bụng."
+      },
+      {
+        "id": 29,
+        "sentence": "The c___k makes delicious food.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "The cook makes delicious food. → Người đầu bếp nấu món ăn ngon."
+      },
+      {
+        "id": 30,
+        "sentence": "My Tam is a famous sin__er.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "My Tam is a famous singer. → Tâm của tôi là một ca sĩ nổi tiếng."
+      },
+      {
+        "id": 31,
+        "sentence": "I am a pu___l.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "pi",
+        "hint": "I am a pupil. → Tôi là một học sinh."
+      },
+      {
+        "id": 32,
+        "sentence": "The __urse helps sick people.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "The nurse helps sick people. → Y tá giúp đỡ những người bệnh."
+      },
+      {
+        "id": 33,
+        "sentence": "My father's jo__ is teaching.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "My father's job is teaching. → Công việc của bố tôi là dạy học."
+      },
+      {
+        "id": 34,
+        "sentence": "The do___or works in a hospital.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ct",
+        "hint": "The doctor works in a hospital. → Bác sĩ làm việc trong bệnh viện."
+      },
+      {
+        "id": 35,
+        "sentence": "My grandfather is a ____.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/farmer.png",
+        "audioUrl": "",
+        "answer": "farmer",
+        "hint": "My grandfather is a farmer. → Ông nội/ngoại của tôi là một nông dân."
+      },
+      {
+        "id": 36,
+        "sentence": "My aunt is a nu__se.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "My aunt is a nurse. → Dì/cô của tôi là một y tá."
+      },
+      {
+        "id": 37,
+        "sentence": "She is a good coo__.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "She is a good cook. → Cô ấy là một người nấu ăn giỏi."
+      },
+      {
+        "id": 38,
+        "sentence": "The s___r sings a song.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/singer.png",
+        "audioUrl": "",
+        "answer": "inge",
+        "hint": "The singer sings a song. → Ca sĩ hát một bài hát."
+      },
+      {
+        "id": 39,
+        "sentence": "The w___ker is very busy.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": "The worker is very busy. → Người công nhân rất bận rộn."
+      },
+      {
+        "id": 40,
+        "sentence": "The pup___ is reading a book.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "il",
+        "hint": "The pupil is reading a book. → Học sinh đang đọc sách."
+      },
+      {
+        "id": 41,
+        "sentence": "My mother is a doc___r.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "to",
+        "hint": "My mother is a doctor. → Mẹ của tôi là một bác sĩ."
+      },
+      {
+        "id": 42,
+        "sentence": "What is your father's j_b?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "What is your father's job? → Công việc của bố bạn là gì?"
+      },
+      {
+        "id": 43,
+        "sentence": "My father is a far___r.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "me",
+        "hint": "My father is a farmer. → Bố của tôi là một nông dân."
+      },
+      {
+        "id": 44,
+        "sentence": "The bus dr___er takes us to school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "iv",
+        "hint": "The bus driver takes us to school. → Người lái xe buýt đưa chúng tôi đến trường."
+      },
+      {
+        "id": 45,
+        "sentence": "My uncle is a co___k.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "My uncle is a cook. → Chú/bác của tôi là một đầu bếp."
+      },
+      {
+        "id": 46,
+        "sentence": "My sister wants to be a s__ger.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "My sister wants to be a singer. → Em/chị gái của tôi muốn trở thành ca sĩ."
+      },
+      {
+        "id": 47,
+        "sentence": "The wor___r builds houses.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ke",
+        "hint": "The worker builds houses. → Người công nhân xây nhà."
+      },
+      {
+        "id": 48,
+        "sentence": "The p___il is reading a story.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "up",
+        "hint": "The pupil is reading a story. → Học sinh đang đọc một câu chuyện."
+      },
+      {
+        "id": 49,
+        "sentence": "The t__cher  writes on the board.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ea",
+        "hint": "The teacher writes on the board. → Giáo viên viết lên bảng."
+      },
+      {
+        "id": 50,
+        "sentence": "The nurs___ works in a hospital.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "The nurse works in a hospital. → Y tá làm việc trong bệnh viện."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "My house",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit13.png",
+    "scenes": [
+      {
+        "id": 51,
+        "sentence": "We have breakfast in the din___ room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ing",
+        "hint": "We have breakfast in the dining room. → Chúng tôi ăn sáng trong phòng ăn."
+      },
+      {
+        "id": 52,
+        "sentence": "There is a big tre__ in the garden.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "There is a big tree in the garden. → Có một cái cây to trong vườn."
+      },
+      {
+        "id": 53,
+        "sentence": "We walk arou___d the park.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "We walk around the park. → Chúng tôi đi bộ quanh công viên."
+      },
+      {
+        "id": 54,
+        "sentence": "There are fish in the pon___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "There are fish in the pond. → Có cá trong ao."
+      },
+      {
+        "id": 55,
+        "sentence": "My mother is cooking in the kit___en.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ch",
+        "hint": "My mother is cooking in the kitchen. → Mẹ tôi đang nấu ăn trong bếp."
+      },
+      {
+        "id": 56,
+        "sentence": "My family watches TV in the liv___ room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ing",
+        "hint": "My family watches TV in the living room. → Gia đình tôi xem TV trong phòng khách."
+      },
+      {
+        "id": 57,
+        "sentence": "The children are playing in the ya___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rd",
+        "hint": "The children are playing in the yard. → Các em nhỏ đang chơi trong sân."
+      },
+      {
+        "id": 58,
+        "sentence": "Come h___e, please.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "Come here, please. → Lại đây, làm ơn."
+      },
+      {
+        "id": 59,
+        "sentence": "My bicycle is over th___e.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "My bicycle is over there. → Xe đạp của tôi ở đằng kia."
+      },
+      {
+        "id": 60,
+        "sentence": "I wash my hands in the bat___oom.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "hr",
+        "hint": "I wash my hands in the bathroom. → Tôi rửa tay trong phòng tắm."
+      },
+      {
+        "id": 61,
+        "sentence": "The boy is be___nd the chair.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/theboyisbehindthechair.png",
+        "audioUrl": "",
+        "answer": "hi",
+        "hint": "The cat is behind the chair. → Con mèo ở phía sau ghế."
+      },
+      {
+        "id": 62,
+        "sentence": "Their ho___e is very beautiful.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/house.png",
+        "audioUrl": "",
+        "answer": "us",
+        "hint": "Their house is very beautiful. → Ngôi nhà của họ rất đẹp."
+      },
+      {
+        "id": 63,
+        "sentence": "A car is in f___t of the school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ron",
+        "hint": "A car is in front of the school. → Một chiếc ô tô đang ở phía trước trường học."
+      },
+      {
+        "id": 64,
+        "sentence": "I sleep in my bed___om.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ro",
+        "hint": "I sleep in my bedroom. → Tôi ngủ trong phòng ngủ của mình."
+      },
+      {
+        "id": 65,
+        "sentence": "The table is in the di___ng room .",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ni",
+        "hint": "The table is in the dining room. → Cái bàn ở trong phòng ăn."
+      },
+      {
+        "id": 66,
+        "sentence": "There is a mirror in the bathr___m.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "There is a mirror in the bathroom. → Có một cái gương trong phòng tắm."
+      },
+      {
+        "id": 67,
+        "sentence": "My mother is cooking in the kitch___",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "en",
+        "hint": "My mother is cooking in the kitchen. → Mẹ tôi đang nấu ăn trong bếp."
+      },
+      {
+        "id": 68,
+        "sentence": "Where is the cat? It is over th___e.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "Where is the cat? It is over there. → Con mèo ở đâu? Nó ở đằng kia."
+      },
+      {
+        "id": 69,
+        "sentence": "The fen___ is painted white.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/fence.png",
+        "audioUrl": "",
+        "answer": "ce",
+        "hint": "The fence is painted white. → Hàng rào được sơn màu trắng."
+      },
+      {
+        "id": 70,
+        "sentence": "I can see a _ree.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/tree.png",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "I can see a tree. → Tôi có thể nhìn thấy một cái cây."
+      },
+      {
+        "id": 71,
+        "sentence": "The school gat___ opens at seven o’clock.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "The school gate opens at seven o'clock. → Cổng trường mở lúc bảy giờ."
+      },
+      {
+        "id": 72,
+        "sentence": "The frog jumps into the p___d.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pond.png",
+        "audioUrl": "",
+        "answer": "on",
+        "hint": "The frog jumps into the pond. → Con ếch nhảy xuống ao."
+      },
+      {
+        "id": 73,
+        "sentence": "The flowers are in front __ the house.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "of",
+        "hint": "The flowers are in front of the house. → Những bông hoa ở phía trước ngôi nhà."
+      },
+      {
+        "id": 74,
+        "sentence": "I open the g___e.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/gate.png",
+        "audioUrl": "",
+        "answer": "at",
+        "hint": "I open the gate. → Tôi mở cổng."
+      },
+      {
+        "id": 75,
+        "sentence": "I can see many trees ar___nd the house.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ou",
+        "hint": "I can see many trees around the house. → Tôi có thể thấy nhiều cây xung quanh ngôi nhà."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "My bedroom",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit14.png",
+    "scenes": [
+      {
+        "id": 76,
+        "sentence": "There is a lamp __ the bedroom.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "There is a lamp in the bedroom. → Có một cái đèn trong phòng ngủ."
+      },
+      {
+        "id": 77,
+        "sentence": "I can see a tree through the wind___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ow",
+        "hint": "I can see a tree through the window. → Tôi có thể thấy một cái cây qua cửa sổ."
+      },
+      {
+        "id": 78,
+        "sentence": "My books are on the de__k.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "My books are on the desk. → Sách của tôi ở trên bàn học."
+      },
+      {
+        "id": 79,
+        "sentence": "Please open the doo__.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "Please open the door. → Làm ơn mở cửa."
+      },
+      {
+        "id": 80,
+        "sentence": "This is my roo_.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "This is my room. → Đây là phòng của tôi."
+      },
+      {
+        "id": 81,
+        "sentence": "There is a la__p on the table.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "There is a lamp on the table. → Có một cái đèn trên bàn."
+      },
+      {
+        "id": 82,
+        "sentence": "I have a n__w school bag.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "I have a new school bag. → Tôi có một cái cặp sách mới."
+      },
+      {
+        "id": 83,
+        "sentence": "I sit on the ch___r.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ai",
+        "hint": "I sit on the chair. → Tôi ngồi trên ghế."
+      },
+      {
+        "id": 84,
+        "sentence": "She is ten years ___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "old",
+        "hint": "She is ten years old. → Cô ấy mười tuổi."
+      },
+      {
+        "id": 85,
+        "sentence": "There is a __ed in the bedroom.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "There is a bed in the bedroom. → Có một cái giường trong phòng ngủ."
+      },
+      {
+        "id": 86,
+        "sentence": "My school is bi__.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "My school is big. → Trường của tôi to."
+      },
+      {
+        "id": 87,
+        "sentence": "There is a ta__e in the room.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bl",
+        "hint": "There is a table in the room. → Có một cái bàn trong phòng."
+      },
+      {
+        "id": 88,
+        "sentence": "I clean my ro__ every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "om",
+        "hint": "I clean my room every day. → Tôi dọn dẹp phòng của mình mỗi ngày."
+      },
+      {
+        "id": 89,
+        "sentence": "The cat is sma_l.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "The cat is small. → Con mèo này nhỏ."
+      },
+      {
+        "id": 90,
+        "sentence": "The book is o__ the desk.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "The book is on the desk. → Quyển sách ở trên bàn."
+      },
+      {
+        "id": 91,
+        "sentence": "There is a soft pillow on my b__d.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "There is a soft pillow on my bed. → Có một cái gối mềm trên giường của tôi."
+      },
+      {
+        "id": 92,
+        "sentence": "Please close the do_r before you leave.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "Please close the door before you leave. → Làm ơn đóng cửa trước khi bạn ra ngoài."
+      },
+      {
+        "id": 93,
+        "sentence": "My grandfather has an ol__ watch.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "My grandfather has an old watch. → Ông của tôi có một chiếc đồng hồ cũ."
+      },
+      {
+        "id": 94,
+        "sentence": "The ball is i_ the box.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/in.png",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "The ball is in the box. → Quả bóng ở trong hộp."
+      },
+      {
+        "id": 95,
+        "sentence": "I have a ne__  pencil case for school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "I have a new pencil case for school. → Tôi có một cái hộp bút mới để đi học."
+      },
+      {
+        "id": 96,
+        "sentence": "I can see the trees through the w__dow.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "I can see the trees through the window. → Tôi có thể thấy những cây qua cửa sổ."
+      },
+      {
+        "id": 97,
+        "sentence": "Turn on the _amp. It's dark here.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "Turn on the lamp. It's dark here. → Bật đèn lên. Ở đây tối lắm."
+      },
+      {
+        "id": 98,
+        "sentence": "I do my homework at my des___.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "I do my homework at my desk. → Tôi làm bài tập ở bàn học của mình."
+      },
+      {
+        "id": 99,
+        "sentence": "My sister is reading in her _oom .",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "My sister is reading in her room. → Em/chị gái của tôi đang đọc sách trong phòng của cô ấy."
+      },
+      {
+        "id": 100,
+        "sentence": "Someone is knocking on the d___r .",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/door.png",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "Someone is knocking on the door. → Ai đó đang gõ cửa."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "At the dinning table",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit15.png",
+    "scenes": [
+      {
+        "id": 101,
+        "sentence": "The farmer feeds the chick___ every morning.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ens",
+        "hint": "The farmer feeds the chickens every morning. → Người nông dân cho gà ăn mỗi buổi sáng."
+      },
+      {
+        "id": 102,
+        "sentence": "We usually eat ri_e with vegetables.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "We usually eat rice with vegetables. → Chúng tôi thường ăn cơm với rau."
+      },
+      {
+        "id": 103,
+        "sentence": "I drink wa___r after playing football.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "te",
+        "hint": "I drink water after playing football. → Tôi uống nước sau khi chơi bóng đá."
+      },
+      {
+        "id": 104,
+        "sentence": "She eats b___ad and milk for breakfast.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "re",
+        "hint": "She eats bread and milk for breakfast. → Cô ấy ăn bánh mì và uống sữa cho bữa sáng."
+      },
+      {
+        "id": 105,
+        "sentence": "The fi__h is swimming in the pond.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "The fish is swimming in the pond. → Con cá đang bơi trong ao."
+      },
+      {
+        "id": 106,
+        "sentence": "Would you like some orange ju___e?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ic",
+        "hint": "Would you like some orange juice? → Bạn có muốn uống nước cam không?"
+      },
+      {
+        "id": 107,
+        "sentence": "We eat dinner at the dining t__le.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ab",
+        "hint": "We eat dinner at the dining table. → Chúng tôi ăn tối tại bàn ăn."
+      },
+      {
+        "id": 108,
+        "sentence": "The hen lays eg___s every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "The hen lays eggs every day. → Con gà mái đẻ trứng mỗi ngày."
+      },
+      {
+        "id": 109,
+        "sentence": "My favorite soup has bea__ in it",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ns",
+        "hint": "My favorite soup has beans in it. → Món súp yêu thích của tôi có đậu trong đó."
+      },
+      {
+        "id": 110,
+        "sentence": "I drink mi__k before going to bed.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "I drink milk before going to bed. → Tôi uống sữa trước khi đi ngủ."
+      },
+      {
+        "id": 111,
+        "sentence": "I eat br___d with butter for breakfast.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ea",
+        "hint": "I eat bread with butter for breakfast. → Tôi ăn bánh mì với bơ cho bữa sáng."
+      },
+      {
+        "id": 112,
+        "sentence": "The lion likes to eat _eat",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "The lion likes to eat meat. → Con sư tử thích ăn thịt."
+      },
+      {
+        "id": 113,
+        "sentence": "I drink w_ter when I am thirsty.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "I drink water when I am thirsty. → Tôi uống nước khi tôi khát."
+      },
+      {
+        "id": 114,
+        "sentence": "The baby drinks m_lk from a bottle.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "The baby drinks milk from a bottle. → Em bé uống sữa từ bình."
+      },
+      {
+        "id": 115,
+        "sentence": "Many Vietnamese people eat r_ce every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "Many Vietnamese people eat rice every day. → Nhiều người Việt Nam ăn cơm mỗi ngày."
+      },
+      {
+        "id": 116,
+        "sentence": "We sit at the di___g table for breakfast.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nin",
+        "hint": "We sit at the dining table for breakfast. → Chúng tôi ngồi tại bàn ăn để ăn sáng."
+      },
+      {
+        "id": 117,
+        "sentence": "The farmer feeds the chi___ens in the yard.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ck",
+        "hint": "The farmer feeds the chickens in the yard. → Người nông dân cho gà ăn trong sân."
+      },
+      {
+        "id": 118,
+        "sentence": "Orange jui__ is my favorite drink.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ce",
+        "hint": "Orange juice is my favorite drink. → Nước cam là đồ uống yêu thích của tôi."
+      },
+      {
+        "id": 119,
+        "sentence": "We had m___t and rice for lunch.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/meat.png",
+        "audioUrl": "",
+        "answer": "ea",
+        "hint": "We had meat and rice for lunch. → Chúng tôi ăn thịt và cơm cho bữa trưa."
+      },
+      {
+        "id": 120,
+        "sentence": "The hen lays _ggs every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "The hen lays eggs every day. → Con gà mái đẻ trứng mỗi ngày."
+      },
+      {
+        "id": 121,
+        "sentence": "The _ish is swimming in the aquarium.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "f",
+        "hint": "The fish is swimming in the aquarium. → Con cá đang bơi trong bể cá."
+      },
+      {
+        "id": 122,
+        "sentence": "We use _ater to wash our hands.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "We use water to wash our hands. → Chúng tôi dùng nước để rửa tay."
+      },
+      {
+        "id": 123,
+        "sentence": "Would you like some b___?",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bread.png",
+        "audioUrl": "",
+        "answer": "read",
+        "hint": "Would you like some bread? → Bạn có muốn ăn bánh mì không?"
+      },
+      {
+        "id": 124,
+        "sentence": "The cow gives us _ilk.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "The cow gives us milk. → Con bò cho chúng ta sữa."
+      },
+      {
+        "id": 125,
+        "sentence": "My mother is cooking r___ in the kitchen.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/rice.png",
+        "audioUrl": "",
+        "answer": "ice",
+        "hint": "My mother is cooking rice in the kitchen. → Mẹ tôi đang nấu cơm trong bếp."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "My pets",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit16.png",
+    "scenes": [
+      {
+        "id": 126,
+        "sentence": "The parr_t can talk and repeat words.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "The parrot can talk and repeat words. → Con vẹt có thể nói và lặp lại các từ."
+      },
+      {
+        "id": 127,
+        "sentence": "How m___y students are there in your class?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "How many students are there in your class? → Có bao nhiêu học sinh trong lớp của bạn?"
+      },
+      {
+        "id": 128,
+        "sentence": "My c_t likes to sleep on the sofa.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "My cat likes to sleep on the sofa. → Con mèo của tôi thích ngủ trên ghế sofa."
+      },
+      {
+        "id": 129,
+        "sentence": "My favorite pe_ is a dog.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "My favorite pet is a dog. → Thú cưng yêu thích của tôi là con chó."
+      },
+      {
+        "id": 130,
+        "sentence": "A rabb__ has long ears and likes carrots.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "it",
+        "hint": "A rabbit has long ears and likes carrots. → Con thỏ có tai dài và thích ăn cà rốt."
+      },
+      {
+        "id": 131,
+        "sentence": "The do_ is barking loudly.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "The dog is barking loudly. → Con chó đang sủa to."
+      },
+      {
+        "id": 132,
+        "sentence": "I have m__y parrots.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "I have many parrots. → Tôi có nhiều con vẹt."
+      },
+      {
+        "id": 133,
+        "sentence": "Many bir__ fly south in winter.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ds",
+        "hint": "Many birds fly south in winter. → Nhiều con chim bay về phía nam vào mùa đông."
+      },
+      {
+        "id": 134,
+        "sentence": "An elep___t has a long trunk.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "han",
+        "hint": "An elephant has a long trunk. → Con voi có cái vòi dài."
+      },
+      {
+        "id": 135,
+        "sentence": "Som_ children are playing in the park.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "Some children are playing in the park. → Một số trẻ em đang chơi trong công viên."
+      },
+      {
+        "id": 136,
+        "sentence": "The ra__it likes eating carrots.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bb",
+        "hint": "The rabbit likes eating carrots. → Con thỏ thích ăn cà rốt."
+      },
+      {
+        "id": 137,
+        "sentence": "I have p__ at home. They are very cute.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/pet.png",
+        "audioUrl": "",
+        "answer": "ets",
+        "hint": "I have pets at home. They are very cute. → Tôi có thú cưng ở nhà. Chúng rất đáng yêu."
+      },
+      {
+        "id": 138,
+        "sentence": "H__ many rabbits do you have?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ow",
+        "hint": "How many rabbits do you have? → Bạn có bao nhiêu con thỏ?"
+      },
+      {
+        "id": 139,
+        "sentence": "- It is a p____t.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whatbirdcantalklikeaperson.mp3",
+        "answer": "arro",
+        "hint": "What bird can talk like a person? It is a parrot. → Con chim nào có thể nói như người? Đó là con vẹt."
+      },
+      {
+        "id": 140,
+        "sentence": "- It is a d__.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whatanimalsayswoofwoof.mp3",
+        "answer": "og",
+        "hint": "What animal says \"Woof! Woof!\"? It is a dog. → Con vật nào kêu \"Gâu! Gâu!\"? Đó là con chó."
+      },
+      {
+        "id": 141,
+        "sentence": "- It's a _________",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/iamasmallgoldenfish.iliveinatank.whatami.mp3",
+        "answer": "goldfish",
+        "hint": "I am a small golden fish. I live in a tank. What am I? → Tôi là một con cá màu vàng nhỏ. Tôi sống trong bể. Tôi là con gì? It's a goldfish – Đó là một con cá vàng."
+      },
+      {
+        "id": 142,
+        "sentence": "The bi__ is singing in the tree.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rd",
+        "hint": "The bird is singing in the tree. → Con chim đang hót trên cây."
+      },
+      {
+        "id": 143,
+        "sentence": "- It's a ___",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whatpetsaysmeowmeow.mp3",
+        "answer": "cat",
+        "hint": "What pet says \"Meow! Meow!\"? → Con thú cưng nào kêu \"Meo! Meo!\"? It's a cat – Đó là một con mèo."
+      },
+      {
+        "id": 144,
+        "sentence": "- It's a ______ ",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/ihavelongears.ashorttail.andihopinsteadofwalk.ilikecarrots.whatami.mp3",
+        "answer": "rabbit",
+        "hint": "I have long ears, a short tail, and I jump instead of walk. I like carrots. What am I? → Tôi có tai dài, đuôi ngắn, và tôi nhảy thay vì đi bộ. Tôi thích cà rốt. Tôi là con gì? ✅ It's a rabbit – Đó là một con thỏ."
+      },
+      {
+        "id": 145,
+        "sentence": "The p__rot is a colorful bird that can talk.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ar",
+        "hint": "The parrot is a colorful bird that can talk. → Con vẹt là một loài chim đầy màu sắc có thể nói chuyện."
+      },
+      {
+        "id": 146,
+        "sentence": "The d__ wags its tail when it is happy.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/dog.png",
+        "audioUrl": "",
+        "answer": "og",
+        "hint": "The dog wags its tail when it is happy. → Con chó vẫy đuôi khi nó vui."
+      },
+      {
+        "id": 147,
+        "sentence": "- It is an el______t.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/elephant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/whatanimalhasalongtrunkandbigears.mp3",
+        "answer": "ephan",
+        "hint": "What animal has a long trunk and big ears? It is an elephant. → Con vật nào có vòi dài và tai to? Đó là con voi."
+      },
+      {
+        "id": 148,
+        "sentence": "There are m__y stars in the sky.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "There are many stars in the sky. → Có nhiều ngôi sao trên bầu trời."
+      },
+      {
+        "id": 149,
+        "sentence": "The c______ like catching mice.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ats",
+        "hint": "The cats like catching mice. → Con mèo thích bắt chuột."
+      },
+      {
+        "id": 150,
+        "sentence": "The g______ has a beautiful golden color.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/goldfish.png",
+        "audioUrl": "",
+        "answer": "oldfish",
+        "hint": "The goldfish has a beautiful golden color. → Con cá vàng có màu vàng đẹp."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Our toys",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit17.png",
+    "scenes": [
+      {
+        "id": 151,
+        "sentence": "The pla__ is flying high in the sky.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ne",
+        "hint": "The plane is flying high in the sky. → Máy bay đang bay cao trên bầu trời."
+      },
+      {
+        "id": 152,
+        "sentence": "I got a t___ bear for my birthday.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "eddy",
+        "hint": "I got a teddy bear for my birthday. → Tôi nhận được một con gấu bông vào sinh nhật của mình."
+      },
+      {
+        "id": 153,
+        "sentence": "My favorite t_y is a robot.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "My favorite toy is a robot. → Đồ chơi yêu thích của tôi là một con robot."
+      },
+      {
+        "id": 154,
+        "sentence": "The tr__n is very long.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/train.png",
+        "audioUrl": "",
+        "answer": "ai",
+        "hint": "The train is very long. → Con tàu hỏa rất dài."
+      },
+      {
+        "id": 155,
+        "sentence": "We go to school by b__.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/bus.png",
+        "audioUrl": "",
+        "answer": "us",
+        "hint": "We go to school by bus. → Chúng tôi đến trường bằng xe buýt."
+      },
+      {
+        "id": 156,
+        "sentence": "The _hip is sailing on the sea.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "The ship is sailing on the sea. → Con tàu đang chạy trên biển."
+      },
+      {
+        "id": 157,
+        "sentence": "The kit_ is flying high in the sky.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "The kite is flying high in the sky. → Con diều đang bay cao trên bầu trời."
+      },
+      {
+        "id": 158,
+        "sentence": "The tr__k carries many boxes.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/truck.png",
+        "audioUrl": "",
+        "answer": "uc",
+        "hint": "The truck carries many boxes. → Chiếc xe tải chở nhiều hộp."
+      },
+      {
+        "id": 159,
+        "sentence": "My father drives a c_r.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "My father drives a car. → Bố của tôi lái xe ô tô."
+      },
+      {
+        "id": 160,
+        "sentence": "My teddy ____ is wearing a yellow hat.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bear",
+        "hint": "My teddy bear is wearing a yellow hat. → Con gấu bông của tôi đang đội một cái mũ vàng."
+      },
+      {
+        "id": 161,
+        "sentence": "A sh__ can carry people across the sea.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ip",
+        "hint": "A ship can carry people across the sea. → Một con tàu có thể chở người qua biển."
+      },
+      {
+        "id": 162,
+        "sentence": "We can see a _____ from the beach.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/plane.png",
+        "audioUrl": "",
+        "answer": "plane",
+        "hint": "We can see a plane from the beach. → Chúng tôi có thể thấy một chiếc máy bay từ bãi biển."
+      },
+      {
+        "id": 163,
+        "sentence": "The bus is waiting at the _us stop.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "The bus is waiting at the bus stop. → Xe buýt đang đợi tại bến xe buýt."
+      },
+      {
+        "id": 164,
+        "sentence": "Sarah keeps her favorite to_ in a box.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "Sarah keeps her favorite toy in a box. → Sarah giữ đồ chơi yêu thích của cô ấy trong một cái hộp."
+      },
+      {
+        "id": 165,
+        "sentence": "There are five people in the ca_.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "There are five people in the car. → Có năm người trong xe ô tô."
+      },
+      {
+        "id": 166,
+        "sentence": "The tru__ delivers food to the supermarket.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ck",
+        "hint": "The truck delivers food to the supermarket. → Xe tải giao thức ăn đến siêu thị."
+      },
+      {
+        "id": 167,
+        "sentence": "Ben is making a ki_e with paper and string.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "Ben is making a kite with paper and string. → Ben đang làm một con diều bằng giấy và dây."
+      },
+      {
+        "id": 168,
+        "sentence": "teddy ____",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bear",
+        "hint": "Teddy bear: Gấu bông"
+      },
+      {
+        "id": 169,
+        "sentence": "I am waiting for the b_s with my friends.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "I am waiting for the bus with my friends. → Tôi đang đợi xe buýt cùng bạn bè."
+      },
+      {
+        "id": 170,
+        "sentence": "We can hear the _rain from far away.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "We can hear the train from far away. → Chúng tôi có thể nghe thấy tàu hỏa từ xa."
+      },
+      {
+        "id": 171,
+        "sentence": "The shi_ is bigger than a boat.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "The ship is bigger than a boat. → Con tàu to hơn chiếc thuyền."
+      },
+      {
+        "id": 172,
+        "sentence": "k___",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/kite.png",
+        "audioUrl": "",
+        "answer": "ite",
+        "hint": "kite → con diều"
+      },
+      {
+        "id": 173,
+        "sentence": "c__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/car.png",
+        "audioUrl": "",
+        "answer": "ar",
+        "hint": "car → xe ô tô "
+      },
+      {
+        "id": 174,
+        "sentence": "t__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/toy.png",
+        "audioUrl": "",
+        "answer": "oy",
+        "hint": "toy → đồ chơi "
+      },
+      {
+        "id": 175,
+        "sentence": "The pl__e is flying above the clouds.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "The plane is flying above the clouds. → Máy bay đang bay trên những đám mây."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Playing and doing",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit18.png",
+    "scenes": [
+      {
+        "id": 176,
+        "sentence": "I like to dan__e with my friends.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "I like to dance with my friends. → Tôi thích nhảy múa cùng bạn bè."
+      },
+      {
+        "id": 177,
+        "sentence": "We have fu_ in the playground.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "We have fun in the playground. → Chúng tôi vui vẻ ở sân chơi."
+      },
+      {
+        "id": 178,
+        "sentence": "I wr__e in my notebook every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "it",
+        "hint": "I write in my notebook every day. → Tôi viết vào vở của mình mỗi ngày."
+      },
+      {
+        "id": 179,
+        "sentence": "I li__en to music after school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "st",
+        "hint": "I listen to music after school. → Tôi nghe nhạc sau giờ học."
+      },
+      {
+        "id": 180,
+        "sentence": "She likes to dr__ a picture of a flower.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "aw",
+        "hint": "She likes to draw a picture of a flower. → Cô ấy thích vẽ một bức tranh hoa."
+      },
+      {
+        "id": 181,
+        "sentence": "We s___ songs in music class.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ing",
+        "hint": "We sing songs in music class. → Chúng tôi hát bài hát trong giờ âm nhạc."
+      },
+      {
+        "id": 182,
+        "sentence": "They play ba___tball after school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ske",
+        "hint": "They play basketball after school. → Họ chơi bóng rổ sau giờ học."
+      },
+      {
+        "id": 183,
+        "sentence": "We wa___ TV in the evening.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tch",
+        "hint": "We watch TV in the evening. → Chúng tôi xem TV vào buổi tối."
+      },
+      {
+        "id": 184,
+        "sentence": "I re__ a story before bed.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ad",
+        "hint": "I read a story before bed. → Tôi đọc một câu chuyện trước khi đi ngủ."
+      },
+      {
+        "id": 185,
+        "sentence": "We have f_n at school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "We have fun at school. → Chúng tôi vui vẻ ở trường."
+      },
+      {
+        "id": 186,
+        "sentence": "I listen to mu__c every day.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "si",
+        "hint": "I listen to music every day. → Tôi nghe nhạc mỗi ngày."
+      },
+      {
+        "id": 187,
+        "sentence": "My sister can _ance well.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "My sister can dance well. → Em/chị gái của tôi có thể nhảy múa giỏi."
+      },
+      {
+        "id": 188,
+        "sentence": "I wr_te my name in the notebook.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "I write my name in the notebook. → Tôi viết tên của mình vào vở."
+      },
+      {
+        "id": 189,
+        "sentence": "I re_d a story before bed.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "I read a story before bed. → Tôi đọc một câu chuyện trước khi đi ngủ."
+      },
+      {
+        "id": 190,
+        "sentence": "What are you do___?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ing",
+        "hint": "What are you doing? → Bạn đang làm gì vậy?"
+      },
+      {
+        "id": 191,
+        "sentence": "They pl__ basketball after school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ay",
+        "hint": "They play basketball after school. → Họ chơi bóng rổ sau giờ học."
+      },
+      {
+        "id": 192,
+        "sentence": "My friends s_ng together.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "My friends sing together. → Bạn bè của tôi cùng nhau hát."
+      },
+      {
+        "id": 193,
+        "sentence": "I _atch TV with my family in the evening.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "I watch TV with my family in the evening. → Tôi xem TV cùng gia đình vào buổi tối."
+      },
+      {
+        "id": 194,
+        "sentence": "I draw a p___re of a cat.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ictu",
+        "hint": "I draw a picture of a cat. → Tôi vẽ một bức tranh con mèo."
+      },
+      {
+        "id": 195,
+        "sentence": "The children d_nce happily.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "The children dance happily. → Những đứa trẻ nhảy múa vui vẻ."
+      },
+      {
+        "id": 196,
+        "sentence": "Lan li__ens to music on Sunday.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "st",
+        "hint": "Lan listens to music on Sunday. → Lan nghe nhạc vào Chủ nhật."
+      },
+      {
+        "id": 197,
+        "sentence": "He _rites a letter to his friend.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "He writes a letter to his friend. → Anh ấy viết một bức thư cho bạn của mình."
+      },
+      {
+        "id": 198,
+        "sentence": "The game is _un.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "f",
+        "hint": "The game is fun. → Trò chơi thật vui."
+      },
+      {
+        "id": 199,
+        "sentence": "Hoa __ads a book in the library.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "re",
+        "hint": "Hoa reads a book in the library. → Hoa đọc sách trong thư viện."
+      },
+      {
+        "id": 200,
+        "sentence": "I can s__g many songs.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/sing.png",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "I can sing many songs. → Tôi có thể hát nhiều bài hát."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Outdoor activities",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit19.png",
+    "scenes": [
+      {
+        "id": 201,
+        "sentence": "I skat_ in the park.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "I skate in the park. → Tôi trượt ván trong công viên."
+      },
+      {
+        "id": 202,
+        "sentence": "I go to the p_rk on Sunday.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "I go to the park on Sunday. → Tôi đi đến công viên vào Chủ nhật."
+      },
+      {
+        "id": 203,
+        "sentence": "I pa_nt a flower.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "I paint a flower. → Tôi vẽ một bông hoa."
+      },
+      {
+        "id": 204,
+        "sentence": "We fl_ a kite on the field.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "We fly a kite on the field. → Chúng tôi thả diều trên cánh đồng."
+      },
+      {
+        "id": 205,
+        "sentence": "We play out__oor games.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "We play outdoor games. → Chúng tôi chơi trò chơi ngoài trời."
+      },
+      {
+        "id": 206,
+        "sentence": "I ski__ every morning.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "I skip every morning. → Tôi nhảy dây mỗi buổi sáng."
+      },
+      {
+        "id": 207,
+        "sentence": "I cy__e to the park.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "cl",
+        "hint": "I cycle to the park. → Tôi đạp xe đến công viên."
+      },
+      {
+        "id": 208,
+        "sentence": "Football is my favorite sp__t.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": "Football is my favorite sport. → Bóng đá là môn thể thao yêu thích của tôi."
+      },
+      {
+        "id": 209,
+        "sentence": "I ru_ very fast.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "I run very fast. → Tôi chạy rất nhanh."
+      },
+      {
+        "id": 210,
+        "sentence": "We wa__ to school.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lk",
+        "hint": "We walk to school. → Chúng tôi đi bộ đến trường."
+      },
+      {
+        "id": 211,
+        "sentence": "They play ba_____ton after class.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dmin",
+        "hint": "They play badminton after class. → Họ chơi cầu lông sau giờ học."
+      },
+      {
+        "id": 212,
+        "sentence": "My dad takes me to the _ark.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "My dad takes me to the park. → Bố tôi đưa tôi đến công viên."
+      },
+      {
+        "id": 213,
+        "sentence": "The dog r_ns in the yard.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "The dog runs in the yard. → Con chó chạy trong sân."
+      },
+      {
+        "id": 214,
+        "sentence": "She is pain____ a beautiful picture.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ting",
+        "hint": "She is painting a beautiful picture. → Cô ấy đang vẽ một bức tranh đẹp."
+      },
+      {
+        "id": 215,
+        "sentence": "The children fly a ki__ in the park.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "te",
+        "hint": "The children fly a kite in the park. → Các em nhỏ thả diều trong công viên."
+      },
+      {
+        "id": 216,
+        "sentence": "Nam c_cles with his friends.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "Nam cycles with his friends. → Nam đạp xe cùng bạn bè."
+      },
+      {
+        "id": 217,
+        "sentence": "My father is wal____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "king",
+        "hint": "My father is walking. → Bố tôi đang đi bộ."
+      },
+      {
+        "id": 218,
+        "sentence": "Lan is ski_____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "pping",
+        "hint": "Lan is skipping. → Lan đang nhảy dây."
+      },
+      {
+        "id": 219,
+        "sentence": "I play __tdoor games.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ou",
+        "hint": "I play outdoor games. → Tôi chơi trò chơi ngoài trời."
+      },
+      {
+        "id": 220,
+        "sentence": "Football is my favorite _port.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "Football is my favorite sport. → Bóng đá là môn thể thao yêu thích của tôi."
+      },
+      {
+        "id": 221,
+        "sentence": "I r__ in the park.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/run.png",
+        "audioUrl": "",
+        "answer": "un",
+        "hint": "I run in the park. → Tôi chạy trong công viên."
+      },
+      {
+        "id": 222,
+        "sentence": "She _ycles around the playground.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "She cycles around the playground. → Cô ấy đạp xe quanh sân chơi."
+      },
+      {
+        "id": 223,
+        "sentence": "Tom skat___ very well.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "es",
+        "hint": "Tom skates very well. → Tom trượt ván rất giỏi."
+      },
+      {
+        "id": 224,
+        "sentence": "There are many trees in the pa__.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rk",
+        "hint": "There are many trees in the park. → Có nhiều cây trong công viên."
+      },
+      {
+        "id": 225,
+        "sentence": "We wa_k in the garden.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "We walk in the garden. → Chúng tôi đi bộ trong vườn."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "At the zoo",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/unit20.png",
+    "scenes": [
+      {
+        "id": 226,
+        "sentence": "I can see a pea__ck at the zoo.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "co",
+        "hint": "I can see a peacock at the zoo. → Tôi có thể thấy một con công ở vườn thú."
+      },
+      {
+        "id": 227,
+        "sentence": "The children are on the sw_ng.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "The children are on the swing. → Các em nhỏ đang ở trên xích đu."
+      },
+      {
+        "id": 228,
+        "sentence": "The tig_r has orange and black stripes.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "The tiger has orange and black stripes. → Con hổ có sọc cam và đen."
+      },
+      {
+        "id": 229,
+        "sentence": "The monkey _limbs the tree.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "The monkey climbs the tree. → Con khỉ leo cây."
+      },
+      {
+        "id": 230,
+        "sentence": "The mo_key is funny.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "The monkey is funny. → Con khỉ thật buồn cười."
+      },
+      {
+        "id": 231,
+        "sentence": "I like the white hor__e.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "I like the white horse. → Tôi thích con ngựa trắng."
+      },
+      {
+        "id": 232,
+        "sentence": "My class goes to the z_o.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "My class goes to the zoo. → Lớp của tôi đi đến vườn thú."
+      },
+      {
+        "id": 233,
+        "sentence": "Can you cou__t the apples?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "Can you count the apples? → Bạn có thể đếm những quả táo không?"
+      },
+      {
+        "id": 234,
+        "sentence": "p_____k",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/peacock.png",
+        "audioUrl": "",
+        "answer": "eacoc",
+        "hint": "peacock → con công"
+      },
+      {
+        "id": 235,
+        "sentence": "The monkey is swin____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ging",
+        "hint": "The monkey is swinging. → Con khỉ đang đu."
+      },
+      {
+        "id": 236,
+        "sentence": "It's a _____.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/audioquestiontiger.mp3",
+        "answer": "tiger",
+        "hint": "It's a big animal with orange and black stripes. What is it? – It's a tiger.\n→ Đó là một con vật lớn có các sọc màu cam và đen. Nó là con gì? – Đó là một con hổ."
+      },
+      {
+        "id": 237,
+        "sentence": "It's a ___.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/audioquestionzoo.mp3",
+        "answer": "zoo",
+        "hint": "It's a place with many animals. What is it? – It's a zoo.\n→ Đó là một nơi có nhiều con vật. Đó là nơi nào? – Đó là một vườn thú."
+      },
+      {
+        "id": 238,
+        "sentence": "cl___",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/climb.png",
+        "audioUrl": "",
+        "answer": "imb",
+        "hint": "climb → leo trèo"
+      },
+      {
+        "id": 239,
+        "sentence": "It's a ______.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/audioquestionmonkey.mp3",
+        "answer": "monkey",
+        "hint": "It's an animal that likes bananas and can climb trees. What is it? – It's a monkey.\n→ Đó là một con vật thích chuối và có thể leo cây. Nó là con gì? – Đó là một con khỉ."
+      },
+      {
+        "id": 240,
+        "sentence": "_____",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/swing.png",
+        "audioUrl": "",
+        "answer": "swing",
+        "hint": "swing → Đu xích đu/Xích đu"
+      },
+      {
+        "id": 241,
+        "sentence": "Can you c__nt the apples?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ou",
+        "hint": "Can you count the apples? → Bạn có thể đếm những quả táo không?"
+      },
+      {
+        "id": 242,
+        "sentence": "h____",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/horse.png",
+        "audioUrl": "",
+        "answer": "orse",
+        "hint": "horse → con ngựa"
+      },
+      {
+        "id": 243,
+        "sentence": "It's a _______.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki2lop3/audios/audioquestionpeacock.mp3",
+        "answer": "peacock",
+        "hint": "It's a beautiful bird with many colorful feathers. What is it? – It's a peacock.\n→ Đó là một loài chim đẹp với nhiều bộ lông sặc sỡ. Nó là con gì? – Đó là một con công."
+      },
+      {
+        "id": 244,
+        "sentence": "______",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/monkey.png",
+        "audioUrl": "",
+        "answer": "monkey",
+        "hint": "monkey → con khỉ"
+      },
+      {
+        "id": 245,
+        "sentence": "z__",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/zoo.png",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "zoo → vườn thú"
+      },
+      {
+        "id": 246,
+        "sentence": "clim_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "climb → leo trèo"
+      },
+      {
+        "id": 247,
+        "sentence": "What can you s__?",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ee",
+        "hint": "What can you see? → Bạn có thể thấy gì?"
+      },
+      {
+        "id": 248,
+        "sentence": "I can see a t____",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/tiger.png",
+        "audioUrl": "",
+        "answer": "iger",
+        "hint": "I can see a tiger. → Tôi có thể thấy một con hổ."
+      },
+      {
+        "id": 249,
+        "sentence": "The children are dan_____.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki2lop3/photos/dance.png",
+        "audioUrl": "",
+        "answer": "cing",
+        "hint": "The children are dancing. → Các em nhỏ đang nhảy múa."
+      },
+      {
+        "id": 250,
+        "sentence": "The parrot is coun____.",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ting",
+        "hint": "The parrot is counting. → Con vẹt đang đếm số."
+      }
+    ]
+  }
+]
