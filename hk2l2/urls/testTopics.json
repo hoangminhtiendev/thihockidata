@@ -22,7 +22,7 @@
           ],
           "correctIndex": 2,
           "hint": "I can see a zebu. → Mình có thể nhìn thấy con bò u.\n(Hình đúng: zebu – bò u)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -40,7 +40,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "driving → đang lái (xe)\n✅ D. driving",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -52,7 +52,7 @@
           "audioUrl": "",
           "answer": "cake",
           "hint": "Kate is having a cake: Kate đang ăn bánh.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -79,7 +79,7 @@
           ],
           "hint": "Có bao nhiêu con chó? Mười một hay mười lăm? → How many dogs? Eleven or fifteen?",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -97,7 +97,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 I can see fourteen sails. → Mình nhìn thấy mười bốn cánh buồm.\n✅ D. fourteen sails → mười bốn cánh buồm",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -123,7 +123,7 @@
             }
           ],
           "hint": "The shorts are in the clothes shop. - Những chiếc quần soóc ở trong cửa hàng quần áo.\nI like hat. - Mình thích cái mũ.\nI want some shoes. - Mình muốn mua vài đôi giày.\nLook at the hat! - Hãy nhìn cái mũ!",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -144,7 +144,7 @@
           ],
           "correctIndex": 0,
           "hint": "It's a river. → Đó là dòng sông.\n(Hình đúng: river – dòng sông)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -162,7 +162,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Nhìn hình và chọn.\n✅ D. two yo-yos → hai cái yo-yo",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -174,7 +174,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/icantdrawabus.mp3",
           "answer": "draw",
           "hint": "I can't draw a bus: Mình không vẽ được một chiếc xe buýt.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -200,7 +200,7 @@
           ],
           "hint": "Kate đang lái ô tô. → Kate is driving a car.",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -218,7 +218,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 Where are the grapes? → Những quả nho ở đâu?\n✅ B. They are on the table. → Chúng ở trên bàn.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -244,7 +244,7 @@
             }
           ],
           "hint": "I like the playground. - Mình thích sân chơi.\nWe're having a banana. - Chúng mình đang ăn chuối.\nNam is having chips. - Nam đang ăn khoai tây chiên.\nShe's having a cake. - Cô ấy đang ăn bánh.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -265,7 +265,7 @@
           ],
           "correctIndex": 2,
           "hint": "Point to the brother. → Hãy chỉ vào anh/em trai.\n(Hình đúng: brother – anh/em trai)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -281,7 +281,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "✅ A. True\n👉 Hình vẽ: apple (quả táo).\nIt's an apple. → Đó là quả táo.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -293,7 +293,7 @@
           "audioUrl": "",
           "answer": "fence",
           "hint": "There's a fence: Có một hàng rào.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -318,7 +318,7 @@
           ],
           "hint": "Chúng ta hãy nhìn quả bóng chuyền nào! → Let's look at the volleyball!",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -336,7 +336,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "That's a zebu. → Kia là một con bò u.\n✅ B. That's a zebu.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -362,7 +362,7 @@
             }
           ],
           "hint": "Mai is doing a quiz. - Mai đang làm câu đố.\nI like yams. Yummy! - Mình thích củ khoai. Ngon quá!\nIt's Sunday. - Hôm nay là Chủ nhật.\nI like yogurt. - Mình thích sữa chua.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -383,7 +383,7 @@
           ],
           "correctIndex": 1,
           "hint": "He has a door. → Cậu ấy có cánh cửa.\n(Hình đúng: door – cánh cửa)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -401,7 +401,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "number → con số\n✅ B. number",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -413,7 +413,7 @@
           "audioUrl": "",
           "answer": "chips",
           "hint": "Bill is having chips: Bill đang ăn khoai tây chiên.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -438,7 +438,7 @@
           ],
           "hint": "Mình nhìn thấy mười hai con búp bê. → I can see twelve dolls.",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -456,7 +456,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 Is the hat on the blanket? → Cái mũ có ở trên cái chăn không?\n✅ D. Yes, it is. → Vâng, đúng vậy.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -482,7 +482,7 @@
             }
           ],
           "hint": "I like popcorn. Pass me the popcorn, please. - Mình thích bỏng ngô. Làm ơn đưa cho mình bỏng ngô.\nI want some juice, please. - Làm ơn cho mình một ít nước ép.\nPass me the jam, please. - Làm ơn đưa cho mình mứt.\nLook at the volleyball! - Hãy nhìn quả bóng chuyền!",
-          "topicId": 1
+          "topicId": 9
         }
       }
     ]
@@ -510,7 +510,7 @@
           ],
           "correctIndex": 1,
           "hint": "What's this? It's a kitten. → Đây là gì? Đó là chú mèo con.\n(Hình đúng: kitten – mèo con)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -528,7 +528,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Từ bắt đầu bằng chữ J: jelly (thạch).\n✅ B. jelly",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -540,7 +540,7 @@
           "audioUrl": "",
           "answer": "see",
           "hint": "I can see a doll: Mình nhìn thấy một con búp bê.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -565,7 +565,7 @@
           ],
           "hint": "Mình nhìn thấy một con búp bê. → I can see a doll.",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -583,7 +583,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "My sister is seventeen. → Chị gái của mình mười bảy tuổi.\n✅ C. My sister is seventeen.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -609,7 +609,7 @@
             }
           ],
           "hint": "Ba wants some shirts. - Ba muốn mua vài chiếc áo sơ mi.\nMy brother is at home. - Anh trai của mình ở nhà.\nThe dog is near the tent. - Con chó ở gần cái lều.\nThe cake is over there. - Cái bánh ở đằng kia.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -630,7 +630,7 @@
           ],
           "correctIndex": 1,
           "hint": "Wow! A yo-yo! → Ồ! Cái yo-yo!\n(Hình đúng: yo-yo – cái yo-yo)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -648,7 +648,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "sunny → có nắng\n✅ B. sunny",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -660,7 +660,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/aretheyflyingkites.mp3",
           "answer": "flying",
           "hint": "Are they flying kites: Họ có đang thả diều không?",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -685,7 +685,7 @@
           ],
           "hint": "Ken đang ăn bánh. → Ken is having a cake.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -703,7 +703,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 How many boxes? Fourteen or fifteen? → Có bao nhiêu cái hộp? Mười bốn hay mười lăm?\n✅ B. Fourteen. → Mười bốn.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -729,7 +729,7 @@
             }
           ],
           "hint": "The fish is on the table. - Cá ở trên bàn.\nSue is having a banana. - Sue đang ăn chuối.\nLook at the jelly. - Hãy nhìn thạch.\nMy brother is eighteen. - Anh trai của mình mười tám tuổi.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -750,7 +750,7 @@
           ],
           "correctIndex": 1,
           "hint": "Where's the sea? → Biển ở đâu?\n(Hình đúng: sea – biển)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -768,7 +768,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Nhìn hình và chọn.\n✅ C. campsite → khu cắm trại",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -780,7 +780,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/canyouseetheyo-yos.mp3",
           "answer": "see",
           "hint": "Can you see the yo-yos: Bạn có nhìn thấy những cái yo-yo không?",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -807,7 +807,7 @@
           ],
           "hint": "Có một con bò u ở sở thú. → There's a zebu at the zoo.",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -825,7 +825,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 I want some jam. → Mình muốn một ít mứt.\n✅ A. jam → mứt",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -851,7 +851,7 @@
             }
           ],
           "hint": "I like the playground. - Mình thích sân chơi.\nI can draw a zebra. - Mình vẽ được một con ngựa vằn.\nWe're having chips. - Chúng mình đang ăn khoai tây chiên.\nI can see a zebra at the zoo. - Mình nhìn thấy một con ngựa vằn ở sở thú.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -872,7 +872,7 @@
           ],
           "correctIndex": 2,
           "hint": "I like my doll. → Mình thích con búp bê của mình.\n(Hình đúng: doll – búp bê)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -890,7 +890,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Nhìn hình và chọn.\n✅ D. nineteen monkeys → mười chín con khỉ",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -902,7 +902,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/aretheyflyingkites.mp3",
           "answer": "kites",
           "hint": "Are they flying kites: Họ có đang thả diều không?",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -929,7 +929,7 @@
           ],
           "hint": "Cái ấm pha trà có ở trên cái bàn không? → Is the teapot on the table?",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -945,7 +945,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: Where's Ba? He's in the backyard. He's riding a bike.\n→ Ba ở đâu? Cậu ấy ở sân sau. Cậu ấy đang đi xe đạp.\n✅ A. True\nBa is riding a bike. → Ba đang đi xe đạp.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -971,7 +971,7 @@
             }
           ],
           "hint": "It's a yo-yo. - Đó là một cái yo-yo.\nLan is playing volleyball in the village. - Lan đang chơi bóng chuyền ở trong làng.\nThis is a village. - Đây là một ngôi làng.\nLan is in the village. - Lan ở trong làng.",
-          "topicId": 2
+          "topicId": 10
         }
       }
     ]
@@ -999,7 +999,7 @@
           ],
           "correctIndex": 1,
           "hint": "I like the café. → Mình thích quán cà phê.\n(Hình đúng: café – quán cà phê)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -1017,7 +1017,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Nhìn hình và chọn.\n✅ B. twelve goats → mười hai con dê",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -1029,7 +1029,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/howoldisyoursister.mp3",
           "answer": "sister",
           "hint": "How old is your sister: Chị gái của bạn bao nhiêu tuổi?",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -1055,7 +1055,7 @@
           ],
           "hint": "Bạn có nhìn thấy những chiếc quần soóc không? → Can you see the shorts?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -1073,7 +1073,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 Lan is sliding. → Lan đang trượt cầu trượt.\n✅ C. sliding → trượt cầu trượt",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -1099,7 +1099,7 @@
             }
           ],
           "hint": "I like yogurt. - Mình thích sữa chua.\nKate is flying a kite. - Kate đang thả diều.\nWe're in the countryside. - Chúng mình đang ở vùng nông thôn.\nI have a ball. - Mình có một quả bóng.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -1120,7 +1120,7 @@
           ],
           "correctIndex": 0,
           "hint": "Is this your face? → Đây có phải khuôn mặt của bạn không?\n(Hình đúng: face – khuôn mặt)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -1136,7 +1136,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "✅ A. True\n👉 Hình vẽ: driving cars (lái ô tô).\nThey're driving cars. → Họ đang lái ô tô.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -1148,7 +1148,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/doyoulikethemonkey.mp3",
           "answer": "monkey",
           "hint": "Do you like the monkey: Bạn có thích con khỉ không?",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -1175,7 +1175,7 @@
           ],
           "hint": "Có bao nhiêu cái hộp? Mười hai hay mười bốn? → How many boxes? Twelve or fourteen?",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -1193,7 +1193,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 I have eleven tops. → Mình có mười một con quay.\n✅ D. eleven tops → mười một con quay",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -1219,7 +1219,7 @@
             }
           ],
           "hint": "We're in the clothes shop. - Chúng mình đang ở cửa hàng quần áo.\nThat's my mother. - Kia là mẹ của mình.\nThere are fifteen ducks. - Có mười lăm con vịt.\nMy brother is eleven. - Anh trai của mình mười một tuổi.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -1240,7 +1240,7 @@
           ],
           "correctIndex": 2,
           "hint": "Yes, I like fish. → Vâng, mình thích cá.\n(Hình đúng: fish – cá)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -1258,7 +1258,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "want → muốn\n✅ C. want",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -1270,7 +1270,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/mumwantssomeyogurt.mp3",
           "answer": "yogurt",
           "hint": "Mum wants some yogurt: Mẹ muốn một ít sữa chua.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -1295,7 +1295,7 @@
           ],
           "hint": "Nam đang lái ô tô. → Nam is driving a car.",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -1313,7 +1313,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're on the farm. Look! There's a fox on the farm.\n→ Chúng mình ở nông trại. Nhìn kìa! Có một con cáo ở nông trại.\n❓ What is on the farm? → Có gì ở nông trại?\n✅ A. a fox",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -1339,7 +1339,7 @@
             }
           ],
           "hint": "The yams are yummy. - Củ khoai ngon.\nI like jam. - Mình thích mứt.\nNam is at the zoo. - Nam ở sở thú.\nThere are fourteen kites. - Có mười bốn cái diều.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -1360,7 +1360,7 @@
           ],
           "correctIndex": 0,
           "hint": "What's this? It's a zebu. → Đây là gì? Đó là con bò u.\n(Hình đúng: zebu – bò u)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -1378,7 +1378,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Nhìn hình và chọn.\n✅ D. drawing a van → vẽ chiếc xe tải nhỏ",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -1390,7 +1390,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/itsinthetent.mp3",
           "answer": "tent",
           "hint": "It's in the tent: Nó ở trong cái lều.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -1417,7 +1417,7 @@
           ],
           "hint": "Mai đang chơi với mèo. → Mai is playing with a cat.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -1435,7 +1435,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 I have a yo-yo. → Mình có một cái yo-yo.\n✅ B. yo-yo → cái yo-yo",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -1461,7 +1461,7 @@
             }
           ],
           "hint": "We are in the classroom. - Chúng mình đang ở trong lớp học.\nKate is playing with a kitten. - Kate đang chơi với mèo con.\nLook at the village! - Hãy nhìn ngôi làng!\nShe's riding a bike. - Cô ấy đang đi xe đạp.",
-          "topicId": 3
+          "topicId": 11
         }
       }
     ]
@@ -1489,7 +1489,7 @@
           ],
           "correctIndex": 1,
           "hint": "Is it a doll? → Đó có phải là con búp bê không?\n(Hình đúng: doll – búp bê)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -1507,7 +1507,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "here → ở đây\n✅ B. here",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -1519,7 +1519,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/passmetheshoesplease.mp3",
           "answer": "shoes",
           "hint": "Pass me the shoes, please: Làm ơn đưa cho mình những đôi giày.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -1546,7 +1546,7 @@
           ],
           "hint": "Con mèo có ở gần cái chăn không? → Is the cat near the blanket?",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -1564,7 +1564,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 I want some noodles, please. → Làm ơn cho mình một ít mì.\n✅ B. noodles → mì",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -1590,7 +1590,7 @@
             }
           ],
           "hint": "There's a zebra at the zoo. - Có một con ngựa vằn ở sở thú.\nThere's a van. - Có một chiếc xe tải nhỏ.\nBa is in the village. - Ba ở trong làng.\nMum wants some nuts. - Mẹ muốn vài hạt lạc.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -1611,7 +1611,7 @@
           ],
           "correctIndex": 2,
           "hint": "What's this? It's a zoo. → Đây là gì? Đó là sở thú.\n(Hình đúng: zoo – sở thú)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -1629,7 +1629,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Nhìn hình và chọn.\n✅ D. table → cái bàn",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -1641,7 +1641,7 @@
           "audioUrl": "",
           "answer": "hats",
           "hint": "I have thirteen hats: Mình có mười ba cái mũ.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -1666,7 +1666,7 @@
           ],
           "hint": "Cô ấy đang chơi với quả bóng. → She's playing with a ball.",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -1684,7 +1684,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 I have eleven footballs. → Mình có mười một quả bóng đá.\n✅ D. eleven footballs → mười một quả bóng đá",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -1710,7 +1710,7 @@
             }
           ],
           "hint": "There are fourteen pencils. - Có mười bốn cái bút chì.\nI can see a river. - Mình nhìn thấy một dòng sông.\nLet's look at the grandmother! - Chúng ta hãy nhìn bà nào!\nI want some juice. - Mình muốn một ít nước ép.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -1731,7 +1731,7 @@
           ],
           "correctIndex": 2,
           "hint": "My yo-yo is here. → Cái yo-yo của mình ở đây.\n(Hình đúng: yo-yo – cái yo-yo)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -1749,7 +1749,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "📝 I want some yo-yos and yogurt. → Mình muốn một ít yo-yo và sữa chua.\n✅ C. some\n💡 some + danh từ số nhiều / không đếm được",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -1761,7 +1761,7 @@
           "audioUrl": "",
           "answer": "dogs",
           "hint": "I can see eight dogs: Mình nhìn thấy tám con chó.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -1787,7 +1787,7 @@
           ],
           "hint": "Bill đang ăn bánh. → Bill is having a cake.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -1805,7 +1805,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "I can see fifteen kites. → Mình nhìn thấy mười lăm cái diều.\n✅ B. I can see fifteen kites.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -1831,7 +1831,7 @@
             }
           ],
           "hint": "I have twelve balls. - Mình có mười hai quả bóng.\nThere's a turtle on the farm. - Có một con rùa ở nông trại.\nI can see fifteen apples. - Mình nhìn thấy mười lăm quả táo.\nThere are thirteen bags. - Có mười ba cái túi.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -1852,7 +1852,7 @@
           ],
           "correctIndex": 1,
           "hint": "Look at the shoes! → Nhìn những đôi giày kìa!\n(Hình đúng: shoes – giày)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -1870,7 +1870,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "teapot → ấm pha trà\n✅ D. teapot",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -1882,7 +1882,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/lookattheyo-yos.mp3",
           "answer": "Look",
           "hint": "Look at the yo-yos: Hãy nhìn những cái yo-yo!",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -1907,7 +1907,7 @@
           ],
           "hint": "Nam ở sở thú. → Nam is at the zoo.",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -1923,7 +1923,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're in the playground. Look at Kate and Ken. They're driving cars.\n→ Chúng mình ở sân chơi. Nhìn Kate và Ken kìa. Họ đang lái ô tô.\n✅ B. False\nKate and Ken are sliding. → Kate và Ken đang trượt cầu trượt.\n(Câu đúng: Kate and Ken are driving cars.)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -1949,7 +1949,7 @@
             }
           ],
           "hint": "Pass me the cake, please. - Làm ơn đưa cho mình cái bánh.\nI can see seven clocks. - Mình nhìn thấy bảy cái đồng hồ.\nKen is having a cake. - Ken đang ăn bánh.\nMum wants some juice. - Mẹ muốn một ít nước ép.",
-          "topicId": 4
+          "topicId": 12
         }
       }
     ]
@@ -1977,7 +1977,7 @@
           ],
           "correctIndex": 0,
           "hint": "Where's the grandmother? → Bà ở đâu?\n(Hình đúng: grandmother – bà)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -1995,7 +1995,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "clothes → quần áo\n✅ C. clothes",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -2007,7 +2007,7 @@
           "audioUrl": "",
           "answer": "noodles",
           "hint": "Bill is having noodles: Bill đang ăn mì.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -2032,7 +2032,7 @@
           ],
           "hint": "Cô ấy đang chơi với mèo. → She's playing with a cat.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -2050,7 +2050,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 I can't draw a rainbow. → Mình không vẽ được một cầu vồng.\n✅ D. rainbow → cầu vồng",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -2076,7 +2076,7 @@
             }
           ],
           "hint": "Look at the river! - Hãy nhìn dòng sông!\nPass me the milk, please. - Làm ơn đưa cho mình sữa.\nHi, Bill. I'm Phill. - Chào Bill. Mình là Phill.\nI want some jam. - Mình muốn một ít mứt.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -2097,7 +2097,7 @@
           ],
           "correctIndex": 1,
           "hint": "I see a table. → Mình nhìn thấy cái bàn.\n(Hình đúng: table – cái bàn)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -2115,7 +2115,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "kitten, seal, ox đều là con vật; sand (cát) là cảnh vật ngoài trời.\n✅ B. sand",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -2127,7 +2127,7 @@
           "audioUrl": "",
           "answer": "footballs",
           "hint": "I have fifteen footballs: Mình có mười lăm quả bóng đá.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -2155,7 +2155,7 @@
           ],
           "hint": "Có bao nhiêu quyển sách? Mười một hay mười ba? → How many books? Eleven or thirteen?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -2173,7 +2173,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "📖 Bài đọc: This is my sister. How old is she? She's sixteen.\n→ Đây là chị gái của mình. Chị ấy bao nhiêu tuổi? Chị ấy mười sáu tuổi.\n❓ How old is the sister? → Chị gái bao nhiêu tuổi?\n✅ A. sixteen",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -2199,7 +2199,7 @@
             }
           ],
           "hint": "I can't draw a seal. - Mình không vẽ được một con hải cẩu.\nThere's a volleyball. - Có một quả bóng chuyền.\nI can draw a truck. - Mình vẽ được một chiếc xe tải.\nSue is playing volleyball in the village. - Sue đang chơi bóng chuyền ở trong làng.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -2220,7 +2220,7 @@
           ],
           "correctIndex": 1,
           "hint": "What's this? It's a gate. → Đây là gì? Đó là cái cổng.\n(Hình đúng: gate – cái cổng)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -2238,7 +2238,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "📝 What do you want? – I want some lemons. → Bạn muốn gì? – Mình muốn vài quả chanh.\n✅ D. What\n💡 What dùng để hỏi \"cái gì\"",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -2250,7 +2250,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/doyoulikethefox.mp3",
           "answer": "like",
           "hint": "Do you like the fox: Bạn có thích con cáo không?",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -2277,7 +2277,7 @@
           ],
           "hint": "Có bao nhiêu quả bóng? Mười một hay mười lăm? → How many balls? Eleven or fifteen?",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -2293,7 +2293,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: This is my brother. How old is he? He's nineteen.\n→ Đây là anh trai của mình. Anh ấy bao nhiêu tuổi? Anh ấy mười chín tuổi.\n✅ A. True\nThe brother is nineteen. → Anh trai mười chín tuổi.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -2319,7 +2319,7 @@
             }
           ],
           "hint": "I like lemons. - Mình thích chanh.\nHappy birthday, Sue! - Chúc mừng sinh nhật Sue!\nI can see nine bags. - Mình nhìn thấy chín cái túi.\nIt's my birthday party. I like pizza. - Đây là bữa tiệc sinh nhật của mình. Mình thích bánh pizza.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -2340,7 +2340,7 @@
           ],
           "correctIndex": 2,
           "hint": "Look at the sister! → Nhìn chị/em gái kìa!\n(Hình đúng: sister – chị/em gái)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -2358,7 +2358,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Từ bắt đầu bằng chữ Y: yogurt (sữa chua).\n✅ C. yogurt",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -2370,7 +2370,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/letslookatthevan.mp3",
           "answer": "look",
           "hint": "Let's look at the van: Chúng ta hãy nhìn chiếc xe tải nhỏ nào!",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -2395,7 +2395,7 @@
           ],
           "hint": "Bạn có nhìn thấy khoai tây chiên không? → Can you see the chips?",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -2411,7 +2411,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: Where's Sue? She's in the backyard. She's playing with a kitten.\n→ Sue ở đâu? Cô ấy ở sân sau. Cô ấy đang chơi với mèo con.\n✅ B. False\nSue is riding a bike. → Sue đang đi xe đạp.\n(Câu đúng: Sue is playing with a kitten.)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -2437,7 +2437,7 @@
             }
           ],
           "hint": "Look at the popcorn. - Hãy nhìn bỏng ngô.\nKen is having a cake. - Ken đang ăn bánh.\nLook at the café! - Hãy nhìn quán cà phê!\nThere's a doll. - Có một con búp bê.",
-          "topicId": 5
+          "topicId": 13
         }
       }
     ]
@@ -2465,7 +2465,7 @@
           ],
           "correctIndex": 2,
           "hint": "Wow! A sister! → Ồ! Chị/em gái!\n(Hình đúng: sister – chị/em gái)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -2483,7 +2483,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "tent → cái lều\n✅ A. tent",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -2495,7 +2495,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/iwantsomejellyplease.mp3",
           "answer": "want",
           "hint": "I want some jelly, please: Làm ơn cho mình một ít thạch.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -2523,7 +2523,7 @@
           ],
           "hint": "Có một con ngựa vằn ở sở thú. → There's a zebra at the zoo.",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -2541,7 +2541,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Hello, I'm Bill. → Xin chào, mình là Bill.\n✅ A. Hello, I'm Bill.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -2567,7 +2567,7 @@
             }
           ],
           "hint": "I like bananas. Yummy! - Mình thích chuối. Ngon quá!\nI have nine tops. - Mình có chín con quay.\nIt's a turtle. - Đó là một con rùa.\nHe's riding a bike in the playground. - Cậu ấy đang đi xe đạp ở sân chơi.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -2588,7 +2588,7 @@
           ],
           "correctIndex": 2,
           "hint": "Touch the football. → Hãy chạm vào quả bóng đá.\n(Hình đúng: football – quả bóng đá)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -2604,7 +2604,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "✅ A. True\n👉 Hình vẽ: yogurt (sữa chua).\nIt's yogurt. → Đó là sữa chua.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -2616,7 +2616,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/mysisterissixteen.mp3",
           "answer": "sixteen",
           "hint": "My sister is sixteen: Chị gái của mình mười sáu tuổi.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -2644,7 +2644,7 @@
           ],
           "hint": "Cái cốc có ở trong cái lều không? → Is the cup in the tent?",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -2662,7 +2662,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 Can you see the yams? → Bạn có nhìn thấy những củ khoai không?\n✅ C. No, I can't. → Không, mình không nhìn thấy.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -2688,7 +2688,7 @@
             }
           ],
           "hint": "I can see a tiger at the zoo. - Mình nhìn thấy một con hổ ở sở thú.\nMum wants some yams and apples. - Mẹ muốn một ít củ khoai và táo.\nThat's a horse. - Kia là một con ngựa.\nThere's a seal at the zoo. - Có một con hải cẩu ở sở thú.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -2709,7 +2709,7 @@
           ],
           "correctIndex": 1,
           "hint": "Yes, I like juice. → Vâng, mình thích nước ép.\n(Hình đúng: juice – nước ép)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -2727,7 +2727,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "table → cái bàn\n✅ B. table",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -2739,7 +2739,7 @@
           "audioUrl": "",
           "answer": "turtles",
           "hint": "I can see twelve turtles: Mình nhìn thấy mười hai con rùa.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -2766,7 +2766,7 @@
           ],
           "hint": "Có bao nhiêu cái mũ? Mười một hay mười lăm? → How many hats? Eleven or fifteen?",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -2784,7 +2784,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 I have twelve balls. → Mình có mười hai quả bóng.\n✅ A. twelve balls → mười hai quả bóng",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -2810,7 +2810,7 @@
             }
           ],
           "hint": "The cup is over there. - Cái cốc ở đằng kia.\nI want some hat. - Mình muốn mua cái mũ.\nCan you see the shirts? - Bạn có nhìn thấy những chiếc áo sơ mi không?\nThe cat is on the blanket. - Con mèo ở trên cái chăn.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -2831,7 +2831,7 @@
           ],
           "correctIndex": 0,
           "hint": "We like yo-yos. → Chúng mình thích những cái yo-yo.\n(Hình đúng: yo-yos – cái yo-yo)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -2849,7 +2849,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "zebra → ngựa vằn\n✅ D. e",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -2861,7 +2861,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/iwantsomechicken.mp3",
           "answer": "chicken",
           "hint": "I want some chicken: Mình muốn một ít thịt gà.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -2888,7 +2888,7 @@
           ],
           "hint": "Bánh pizza ở trên bàn. → The pizza is on the table.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -2906,7 +2906,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Câu đúng: They're riding bikes. → Họ đang đi xe đạp.\nSai ở \"They\": They → are ('re).\n✅ A. They",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -2932,7 +2932,7 @@
             }
           ],
           "hint": "Nam is having noodles. - Nam đang ăn mì.\nI have a volleyball. - Mình có một quả bóng chuyền.\nLook at the cup. - Hãy nhìn cái cốc.\nMum wants some cake. - Mẹ muốn một ít bánh ngọt.",
-          "topicId": 6
+          "topicId": 14
         }
       }
     ]
@@ -2960,7 +2960,7 @@
           ],
           "correctIndex": 1,
           "hint": "Is it a campsite? → Đó có phải là khu cắm trại không?\n(Hình đúng: campsite – khu cắm trại)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -2976,7 +2976,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: yo-yo (cái yo-yo).\nIt's a ball. → Đó là quả bóng.\n(Câu này sai vì hình không phải ball. Câu đúng cho hình: It's a yo-yo.)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -2988,7 +2988,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/lookatthezebu.mp3",
           "answer": "zebu",
           "hint": "Look at the zebu: Hãy nhìn con bò u!",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -3013,7 +3013,7 @@
           ],
           "hint": "Mình không vẽ được một cái túi. → I can't draw a bag.",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -3031,7 +3031,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 Look at the fish. → Hãy nhìn cá.\n✅ C. fish → cá",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -3057,7 +3057,7 @@
             }
           ],
           "hint": "I can see a table. - Mình nhìn thấy một cái bàn.\nI have thirteen tops. - Mình có mười ba con quay.\nShe's driving a car in the playground. - Cô ấy đang lái ô tô ở sân chơi.\nThere are fourteen dogs. - Có mười bốn con chó.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -3078,7 +3078,7 @@
           ],
           "correctIndex": 1,
           "hint": "Show me the grandmother, please. → Làm ơn chỉ cho mình bà.\n(Hình đúng: grandmother – bà)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -3096,7 +3096,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "clothes → quần áo\n✅ B. e",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -3108,7 +3108,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/wherestheteapot.mp3",
           "answer": "teapot",
           "hint": "Where's the teapot: Cái ấm pha trà ở đâu?",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -3134,7 +3134,7 @@
           ],
           "hint": "Làm ơn cho mình một ít mứt. → I want some jam, please.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -3152,7 +3152,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Pass me the cup, please. → Làm ơn đưa cho mình cái cốc.\n✅ A. Here you are. → Của bạn đây.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -3178,7 +3178,7 @@
             }
           ],
           "hint": "Lan is flying a kite. - Lan đang thả diều.\nI can see seven goats. - Mình nhìn thấy bảy con dê.\nI like pizza. - Mình thích bánh pizza.\nNam is playing with a dog. - Nam đang chơi với chó.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -3199,7 +3199,7 @@
           ],
           "correctIndex": 1,
           "hint": "Look at the grapes! → Nhìn những quả nho kìa!\n(Hình đúng: grapes – nho)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -3217,7 +3217,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "seaside → bờ biển\n✅ A. e",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -3229,7 +3229,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/lookatthepizza.mp3",
           "answer": "Look",
           "hint": "Look at the pizza: Hãy nhìn bánh pizza.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -3254,7 +3254,7 @@
           ],
           "hint": "Bạn có thích cái mũ không? → Do you like the hat?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -3272,7 +3272,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 Bài nghe: Look at the box. Is there a hat in the box? Yes, there is.\n→ Hãy nhìn cái hộp. Có một cái mũ ở trong cái hộp không? Có.\n❓ What is in the box? → Có gì ở trong cái hộp?\n✅ D. a hat",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -3298,7 +3298,7 @@
             }
           ],
           "hint": "I can see a volleyball. - Mình nhìn thấy một quả bóng chuyền.\nI like jam. Pass me the jam, please. - Mình thích mứt. Làm ơn đưa cho mình mứt.\nLook at the village! - Hãy nhìn ngôi làng!\nI want some juice, please. - Làm ơn cho mình một ít nước ép.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -3319,7 +3319,7 @@
           ],
           "correctIndex": 0,
           "hint": "Point to the zebra. → Hãy chỉ vào con ngựa vằn.\n(Hình đúng: zebra – ngựa vằn)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -3337,7 +3337,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "playground → sân chơi\n✅ D. playground",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -3349,7 +3349,7 @@
           "audioUrl": "",
           "answer": "having",
           "hint": "Nam is having grapes: Nam đang ăn nho.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -3375,7 +3375,7 @@
           ],
           "hint": "Mình nhìn thấy mười hai con ngựa vằn. → I can see twelve zebras.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -3391,7 +3391,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: This is my sister. How old is she? She's seventeen.\n→ Đây là chị gái của mình. Chị ấy bao nhiêu tuổi? Chị ấy mười bảy tuổi.\n✅ B. False\nThe sister is eighteen. → Chị gái mười tám tuổi.\n(Câu đúng: The sister is seventeen.)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -3417,7 +3417,7 @@
             }
           ],
           "hint": "The bag is over there. - Cái túi ở đằng kia.\nThis is my mother. - Đây là mẹ của mình.\nShirts are nice. - Những chiếc áo sơ mi đẹp.\nI like the shirts. - Mình thích những chiếc áo sơ mi.",
-          "topicId": 7
+          "topicId": 15
         }
       }
     ]
@@ -3445,7 +3445,7 @@
           ],
           "correctIndex": 0,
           "hint": "Touch the yo-yo. → Hãy chạm vào cái yo-yo.\n(Hình đúng: yo-yo – cái yo-yo)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -3463,7 +3463,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Nhìn hình và chọn.\n✅ A. seven zebras → bảy con ngựa vằn",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -3475,7 +3475,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/doyouliketheduck.mp3",
           "answer": "like",
           "hint": "Do you like the duck: Bạn có thích con vịt không?",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -3500,7 +3500,7 @@
           ],
           "hint": "Làm ơn đưa cho mình nước. → Pass me the water, please.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -3518,7 +3518,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're in the maths class. What number is it? It's twelve.\n→ Chúng mình ở trong giờ học toán. Đó là số mấy? Đó là số mười hai.\n❓ What number is it? → Đó là số mấy?\n✅ B. twelve",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -3544,7 +3544,7 @@
             }
           ],
           "hint": "My sister is nineteen. - Chị gái của mình mười chín tuổi.\nMy mother is at home. - Mẹ của mình ở nhà.\nIt's eleven. - Đó là số mười một.\nThat's a doll. - Kia là một con búp bê.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -3565,7 +3565,7 @@
           ],
           "correctIndex": 2,
           "hint": "Where's your hair? → Mái tóc của bạn ở đâu?\n(Hình đúng: hair – tóc)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -3583,7 +3583,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "near → ở gần\n✅ A. ở gần",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -3595,7 +3595,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/iwantsomeyo-yos.mp3",
           "answer": "want",
           "hint": "I want some yo-yos: Mình muốn vài cái yo-yo.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -3620,7 +3620,7 @@
           ],
           "hint": "Mình vẽ được một hình vuông. → I can draw a square.",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -3638,7 +3638,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 Are they flying kites? → Họ có đang thả diều không?\n✅ B. Yes, they are. → Vâng, đúng vậy.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -3664,7 +3664,7 @@
             }
           ],
           "hint": "That's a horse. - Kia là một con ngựa.\nI want some grapes. - Mình muốn một ít nho.\nLook at the zebra! - Hãy nhìn con ngựa vằn!\nBill is having grapes. - Bill đang ăn nho.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -3685,7 +3685,7 @@
           ],
           "correctIndex": 2,
           "hint": "Wash your hair, please. → Làm ơn rửa mái tóc của bạn.\n(Hình đúng: hair – tóc)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -3703,7 +3703,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "your → của bạn\n✅ D. your",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -3715,7 +3715,7 @@
           "audioUrl": "",
           "answer": "noodles",
           "hint": "Ken is having noodles: Ken đang ăn mì.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -3742,7 +3742,7 @@
           ],
           "hint": "Cái chăn ở gần cái lều. → The blanket is near the tent.",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -3758,7 +3758,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "📖 Bài đọc: We're in the grocery store. What do you want? I want some yo-yos.\n→ Chúng mình ở cửa hàng tạp hoá. Bạn muốn gì? Mình muốn một ít yo-yo.\n✅ A. True\nThe child wants yo-yos. → Bạn nhỏ muốn cái yo-yo.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -3784,7 +3784,7 @@
             }
           ],
           "hint": "She's answering a question in the classroom. - Cô ấy đang trả lời câu hỏi trong lớp học.\nI like the sun. - Mình thích mặt trời.\nI can see four pencils. - Mình nhìn thấy bốn cái bút chì.\nI can draw a car. - Mình vẽ được một chiếc ô tô.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -3805,7 +3805,7 @@
           ],
           "correctIndex": 2,
           "hint": "Look at my horse! → Nhìn con ngựa của mình này!\n(Hình đúng: horse – con ngựa)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -3821,7 +3821,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: ten tables (mười cái bàn).\nI can see nine tables. → Mình nhìn thấy chín cái bàn.\n(Câu này sai vì hình không phải nine tables. Câu đúng cho hình: There are ten tables.)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -3833,7 +3833,7 @@
           "audioUrl": "",
           "answer": "fifteen",
           "hint": "There are fifteen tables: Có mười lăm cái bàn.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -3858,7 +3858,7 @@
           ],
           "hint": "Ba đang lái ô tô. → Ba is driving a car.",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -3874,7 +3874,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 Bài nghe: We're in the clothes shop. I want some shorts. Where are the shorts? Over there.\n→ Chúng mình ở cửa hàng quần áo. Mình muốn mua quần soóc. Quần soóc ở đâu? Ở đằng kia.\n✅ B. False\nThe child wants shoes. → Bạn nhỏ muốn giày.\n(Câu đúng: The child wants shorts.)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -3900,7 +3900,7 @@
             }
           ],
           "hint": "I like shoes. - Mình thích giày.\nLet's look at the grandmother! - Chúng ta hãy nhìn bà nào!\nMy mother is at home. - Mẹ của mình ở nhà.\nI like the shirts. - Mình thích những chiếc áo sơ mi.",
-          "topicId": 8
+          "topicId": 16
         }
       }
     ]
@@ -3928,7 +3928,7 @@
           ],
           "correctIndex": 2,
           "hint": "Where's the garden? → Khu vườn ở đâu?\n(Hình đúng: garden – khu vườn)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -3946,7 +3946,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "boy → bạn nam\n✅ D. boy",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -3958,7 +3958,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/lookatthejam.mp3",
           "answer": "Look",
           "hint": "Look at the jam: Hãy nhìn mứt.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -3984,7 +3984,7 @@
           ],
           "hint": "Mình nhìn thấy mười lăm con ngựa. → I can see fifteen horses.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -4002,7 +4002,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: This is my sister. How old is she? She's seventeen.\n→ Đây là chị gái của mình. Chị ấy bao nhiêu tuổi? Chị ấy mười bảy tuổi.\n❓ How old is the sister? → Chị gái bao nhiêu tuổi?\n✅ A. seventeen",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -4028,7 +4028,7 @@
             }
           ],
           "hint": "I can draw a doll. - Mình vẽ được một con búp bê.\nMy sister is twenty. - Chị gái của mình hai mươi tuổi.\nThis is my brother. - Đây là anh trai của mình.\nThe shirts are in the clothes shop. - Những chiếc áo sơ mi ở trong cửa hàng quần áo.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -4049,7 +4049,7 @@
           ],
           "correctIndex": 1,
           "hint": "That's a road. → Kia là con đường.\n(Hình đúng: road – con đường)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -4067,7 +4067,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Từ bắt đầu bằng chữ Y: yams (củ khoai).\n✅ A. yams",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -4079,7 +4079,7 @@
           "audioUrl": "",
           "answer": "zebra",
           "hint": "There's a zebra: Có một con ngựa vằn.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -4104,7 +4104,7 @@
           ],
           "hint": "Bill ở sở thú. → Bill is at the zoo.",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -4122,7 +4122,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Mai is having noodles. → Mai đang ăn mì.\n✅ A. having noodles → ăn mì",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -4148,7 +4148,7 @@
             }
           ],
           "hint": "We're having noodles. - Chúng mình đang ăn mì.\nKate is sliding. - Kate đang trượt cầu trượt.\nThe chips are on the table. - Khoai tây chiên ở trên bàn.\nThe cake is on the table. - Cái bánh ở trên bàn.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -4169,7 +4169,7 @@
           ],
           "correctIndex": 0,
           "hint": "He has a kite. → Cậu ấy có cái diều.\n(Hình đúng: kite – cái diều)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -4187,7 +4187,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "yard → sân\n✅ A. yard",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -4199,7 +4199,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/thecupisoverthere.mp3",
           "answer": "cup",
           "hint": "The cup is over there: Cái cốc ở đằng kia.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -4225,7 +4225,7 @@
           ],
           "hint": "Làm ơn cho mình một ít khoai tây chiên. → I want some chips, please.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -4243,7 +4243,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Câu đúng: I can't draw a truck. → Mình không vẽ được một chiếc xe tải.\nSai ở \"an\": trước phụ âm dùng a.\n✅ B. an",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -4269,7 +4269,7 @@
             }
           ],
           "hint": "I can see a boy. - Mình nhìn thấy một bạn nam.\nI can see nine cups. - Mình nhìn thấy chín cái cốc.\nI like the sail. - Mình thích cánh buồm.\nThis is my cup. - Đây là cái cốc của mình.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -4290,7 +4290,7 @@
           ],
           "correctIndex": 1,
           "hint": "Here's a café. → Đây là quán cà phê.\n(Hình đúng: café – quán cà phê)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -4308,7 +4308,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "chicken, chips, yams đều là đồ ăn, thức uống; ox (con bò đực) là con vật.\n✅ A. ox",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -4320,7 +4320,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/iwantsomecake.mp3",
           "answer": "want",
           "hint": "I want some cake: Mình muốn một ít bánh ngọt.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -4345,7 +4345,7 @@
           ],
           "hint": "Mình nhìn thấy mười lăm con ngựa. → I can see fifteen horses.",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -4363,7 +4363,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Câu đúng: Mai wants some shirts. → Mai muốn mua vài chiếc áo sơ mi.\nSai ở \"a\": some + danh từ không đếm được / số nhiều.\n✅ A. a",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -4389,7 +4389,7 @@
             }
           ],
           "hint": "Nam is in the village. - Nam ở trong làng.\nLook at the yo-yos! - Hãy nhìn những cái yo-yo!\nI can't draw a cup. - Mình không vẽ được một cái cốc.\nThe chips are in the kitchen. - Khoai tây chiên ở trong nhà bếp.",
-          "topicId": 1
+          "topicId": 9
         }
       }
     ]
@@ -4417,7 +4417,7 @@
           ],
           "correctIndex": 1,
           "hint": "She has a bus. → Cô ấy có chiếc xe buýt.\n(Hình đúng: bus – xe buýt)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -4435,7 +4435,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "popcorn, fish, mango đều là đồ ăn, thức uống; yo-yo (cái yo-yo) là đồ chơi.\n✅ A. yo-yo",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -4447,7 +4447,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/howmanylemons.mp3",
           "answer": "many",
           "hint": "How many lemons: Có bao nhiêu quả chanh?",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -4474,7 +4474,7 @@
           ],
           "hint": "Có bao nhiêu cái mũ? Mười một hay mười bốn? → How many hats? Eleven or fourteen?",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -4490,7 +4490,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 Bài nghe: We're in the clothes shop. I want some shirts. Where are the shirts? Over there.\n→ Chúng mình ở cửa hàng quần áo. Mình muốn mua áo sơ mi. Áo sơ mi ở đâu? Ở đằng kia.\n✅ B. False\nThe child wants shorts. → Bạn nhỏ muốn quần soóc.\n(Câu đúng: The child wants shirts.)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -4516,7 +4516,7 @@
             }
           ],
           "hint": "It's a nice backyard. - Đây là một sân sau đẹp.\nI can see a zebu. - Mình nhìn thấy một con bò u.\nI can see twelve turtles. - Mình nhìn thấy mười hai con rùa.\nThere are fifteen dolls. - Có mười lăm con búp bê.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -4537,7 +4537,7 @@
           ],
           "correctIndex": 1,
           "hint": "Wow! Yogurt! → Ồ! Sữa chua!\n(Hình đúng: yogurt – sữa chua)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -4555,7 +4555,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "zebu → bò u\n✅ B. zebu",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -4567,7 +4567,7 @@
           "audioUrl": "",
           "answer": "riding",
           "hint": "They're riding bikes: Họ đang đi xe đạp.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -4594,7 +4594,7 @@
           ],
           "hint": "Quả xoài ở trên bàn. → The mango is on the table.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -4612,7 +4612,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 Bài nghe: We're in the maths class. What number is it? It's fifteen.\n→ Chúng mình ở trong giờ học toán. Đó là số mấy? Đó là số mười lăm.\n❓ What number is it? → Đó là số mấy?\n✅ C. fifteen",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -4638,7 +4638,7 @@
             }
           ],
           "hint": "It's Saturday. - Hôm nay là thứ Bảy.\nThat's a table. - Kia là một cái bàn.\nI can see twelve hats. - Mình nhìn thấy mười hai cái mũ.\nBill is reading a book. - Bill đang đọc sách.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -4659,7 +4659,7 @@
           ],
           "correctIndex": 1,
           "hint": "I see shirts. → Mình nhìn thấy những chiếc áo sơ mi.\n(Hình đúng: shirts – áo sơ mi)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -4677,7 +4677,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "pizza, popcorn, jelly đều là đồ ăn, thức uống; ball (quả bóng) là đồ chơi.\n✅ D. ball",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -4689,7 +4689,7 @@
           "audioUrl": "",
           "answer": "village",
           "hint": "Let's go to the village: Chúng ta hãy đi đến ngôi làng nào!",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -4715,7 +4715,7 @@
           ],
           "hint": "Bạn có thích sở thú không? → Do you like the zoo?",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -4733,7 +4733,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Mum wants some jam. → Mẹ muốn một ít mứt.\n✅ B. Mum wants some jam.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -4759,7 +4759,7 @@
             }
           ],
           "hint": "He's having a cake. - Cậu ấy đang ăn bánh.\nThere's a horse at the zoo. - Có một con ngựa ở sở thú.\nHe's driving a car in the playground. - Cậu ấy đang lái ô tô ở sân chơi.\nMai is driving a car. - Mai đang lái ô tô.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -4780,7 +4780,7 @@
           ],
           "correctIndex": 0,
           "hint": "Point to the doll. → Hãy chỉ vào con búp bê.\n(Hình đúng: doll – búp bê)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -4798,7 +4798,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "family → gia đình\n✅ C. i",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -4810,7 +4810,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/namwantssomeshoes.mp3",
           "answer": "wants",
           "hint": "Nam wants some shoes: Nam muốn mua vài đôi giày.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -4835,7 +4835,7 @@
           ],
           "hint": "Mình nhìn thấy một hàng rào. → I can see a fence.",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -4851,7 +4851,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: It's Saturday. It's a sunny day. We're at the seaside.\n→ Hôm nay là thứ Bảy. Trời nắng. Chúng mình ở bờ biển.\n✅ A. True\nThey are at the seaside. → Họ ở bờ biển.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -4877,7 +4877,7 @@
             }
           ],
           "hint": "I can see four cups. - Mình nhìn thấy bốn cái cốc.\nNam is riding a bike. - Nam đang đi xe đạp.\nThere's a zebu at the zoo. - Có một con bò u ở sở thú.\nI'm happy at my birthday party. - Mình vui ở bữa tiệc sinh nhật của mình.",
-          "topicId": 2
+          "topicId": 10
         }
       }
     ]
@@ -4905,7 +4905,7 @@
           ],
           "correctIndex": 0,
           "hint": "It's chicken. → Đó là thịt gà.\n(Hình đúng: chicken – thịt gà)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -4923,7 +4923,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "wants → muốn (ngôi thứ ba)\n✅ B. wants",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -4935,7 +4935,7 @@
           "audioUrl": "",
           "answer": "thirteen",
           "hint": "There are thirteen dolls: Có mười ba con búp bê.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -4960,7 +4960,7 @@
           ],
           "hint": "Bạn có thích những đôi giày không? → Do you like the shoes?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -4976,7 +4976,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're at the campsite. Where's the tent? It's near the fence.\n→ Chúng mình ở khu cắm trại. Cái lều ở đâu? Nó ở gần hàng rào.\n✅ B. False\nThe tent is on the table. → Cái lều ở trên cái bàn.\n(Câu đúng: The tent is near the fence.)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -5002,7 +5002,7 @@
             }
           ],
           "hint": "I can see a road in the countryside. - Mình nhìn thấy một con đường ở vùng nông thôn.\nShe's playing with a ball. - Cô ấy đang chơi với quả bóng.\nI can see a dog. - Mình nhìn thấy một con chó.\nI can draw a seal. - Mình vẽ được một con hải cẩu.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -5023,7 +5023,7 @@
           ],
           "correctIndex": 0,
           "hint": "Mary has a yo-yo. → Mary có cái yo-yo.\n(Hình đúng: yo-yo – cái yo-yo)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -5041,7 +5041,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📝 Is there a box on the farm? – No, there isn't. → Ở nông trại có một cái hộp không? – Không, không có.\n✅ B. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -5053,7 +5053,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/wherearethenoodles.mp3",
           "answer": "noodles",
           "hint": "Where are the noodles: Mì ở đâu?",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -5080,7 +5080,7 @@
           ],
           "hint": "Kate đang chơi với mèo. → Kate is playing with a cat.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -5096,7 +5096,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're in the playground. Look at Kate and Ken. They're riding bikes.\n→ Chúng mình ở sân chơi. Nhìn Kate và Ken kìa. Họ đang đi xe đạp.\n✅ B. False\nKate and Ken are driving cars. → Kate và Ken đang lái ô tô.\n(Câu đúng: Kate and Ken are riding bikes.)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -5122,7 +5122,7 @@
             }
           ],
           "hint": "He's flying a kite. - Cậu ấy đang thả diều.\nPass me the jam. Here you are. - Đưa cho mình mứt. Của bạn đây.\nI want some hat. - Mình muốn mua cái mũ.\nLet's look at the kite! - Chúng ta hãy nhìn cái diều nào!",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -5143,7 +5143,7 @@
           ],
           "correctIndex": 1,
           "hint": "It's milk. → Đó là sữa.\n(Hình đúng: milk – sữa)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -5161,7 +5161,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "📝 What do you want? – I want some popcorn. → Bạn muốn gì? – Mình muốn một ít bỏng ngô.\n✅ A. What\n💡 What dùng để hỏi \"cái gì\"",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -5173,7 +5173,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/doyoulikethehorse.mp3",
           "answer": "like",
           "hint": "Do you like the horse: Bạn có thích con ngựa không?",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -5198,7 +5198,7 @@
           ],
           "hint": "Họ có đang chơi với bóng không? → Are they playing with balls?",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -5214,7 +5214,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "📖 Bài đọc: Sue is in the classroom. She's doing a quiz.\n→ Sue ở trong lớp học. Cô ấy đang làm câu đố.\n✅ A. True\nSue is doing a quiz. → Sue đang làm câu đố.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -5240,7 +5240,7 @@
             }
           ],
           "hint": "There are thirteen cakes. - Có mười ba cái bánh.\nIt's eleven. - Đó là số mười một.\nThe milk is on the table. - Sữa ở trên bàn.\nLook at the bag. - Hãy nhìn cái túi.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -5261,7 +5261,7 @@
           ],
           "correctIndex": 1,
           "hint": "Here's a brother. → Đây là anh/em trai.\n(Hình đúng: brother – anh/em trai)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -5279,7 +5279,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Nhìn hình và chọn.\n✅ A. doing a quiz → làm câu đố",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -5291,7 +5291,7 @@
           "audioUrl": "",
           "answer": "fifteen",
           "hint": "There are fifteen zebras: Có mười lăm con ngựa vằn.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -5316,7 +5316,7 @@
           ],
           "hint": "Bạn có nhìn thấy hạt lạc không? → Can you see the nuts?",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -5332,7 +5332,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're at the zoo. Do you like the zebra? Yes, I do. That's a zebra.\n→ Chúng mình ở sở thú. Bạn có thích ngựa vằn không? Có. Kia là ngựa vằn.\n✅ A. True\nThey like the zebra. → Họ thích ngựa vằn.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -5358,7 +5358,7 @@
             }
           ],
           "hint": "Mum wants some popcorn. - Mẹ muốn một ít bỏng ngô.\nThere's a turtle at the zoo. - Có một con rùa ở sở thú.\nHe's sliding in the playground. - Cậu ấy đang trượt cầu trượt ở sân chơi.\nLet's look at the yo-yo! - Chúng ta hãy nhìn cái yo-yo nào!",
-          "topicId": 3
+          "topicId": 11
         }
       }
     ]
@@ -5386,7 +5386,7 @@
           ],
           "correctIndex": 1,
           "hint": "Those are noodles. → Kia là mì.\n(Hình đúng: noodles – mì)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -5404,7 +5404,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "your → của bạn\n✅ A. your",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -5416,7 +5416,7 @@
           "audioUrl": "",
           "answer": "eleven",
           "hint": "There are eleven clocks: Có mười một cái đồng hồ.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -5441,7 +5441,7 @@
           ],
           "hint": "Cái túi ở đằng kia. → The bag is over there.",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -5459,7 +5459,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 I want some yams, please. → Làm ơn cho mình vài củ khoai.\n✅ A. yams → củ khoai",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -5485,7 +5485,7 @@
             }
           ],
           "hint": "Bill is at the zoo. - Bill ở sở thú.\nI like pizza. Yummy! - Mình thích bánh pizza. Ngon quá!\nKate is answering a question. - Kate đang trả lời câu hỏi.\nLook at the ox! - Hãy nhìn con bò đực!",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -5506,7 +5506,7 @@
           ],
           "correctIndex": 1,
           "hint": "Yes, I like jelly. → Vâng, mình thích thạch.\n(Hình đúng: jelly – thạch)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -5524,7 +5524,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Sau seven (7) là eight (8).\n✅ B. eight",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -5536,7 +5536,7 @@
           "audioUrl": "",
           "answer": "milk",
           "hint": "Look at the milk: Hãy nhìn sữa.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -5561,7 +5561,7 @@
           ],
           "hint": "Ba đang ăn bánh. → Ba is having a cake.",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -5579,7 +5579,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 Look at the shoes! → Hãy nhìn những đôi giày!\n✅ D. shoes → giày",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -5605,7 +5605,7 @@
             }
           ],
           "hint": "The hat is in the clothes shop. - Cái mũ ở trong cửa hàng quần áo.\nThat's a fence. - Kia là một hàng rào.\nThe dog is near the tent. - Con chó ở gần cái lều.\nThis is my sister. - Đây là chị gái của mình.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -5626,7 +5626,7 @@
           ],
           "correctIndex": 1,
           "hint": "We like yogurt. → Chúng mình thích sữa chua.\n(Hình đúng: yogurt – sữa chua)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -5644,7 +5644,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "face, foot, head đều là bộ phận cơ thể; volleyball (quả bóng chuyền) là đồ chơi.\n✅ B. volleyball",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -5656,7 +5656,7 @@
           "audioUrl": "",
           "answer": "sliding",
           "hint": "Lan is sliding: Lan đang trượt cầu trượt.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -5681,7 +5681,7 @@
           ],
           "hint": "Bill đang lái ô tô. → Bill is driving a car.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -5699,7 +5699,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 How many cups? Twelve or fifteen? → Có bao nhiêu cái cốc? Mười hai hay mười lăm?\n✅ C. Twelve. → Mười hai.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -5725,7 +5725,7 @@
             }
           ],
           "hint": "Nam is having a banana. - Nam đang ăn chuối.\nHe's having grapes. - Cậu ấy đang ăn nho.\nMy mother is at home. - Mẹ của mình ở nhà.\nMy family is at home. - Gia đình mình ở nhà.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -5746,7 +5746,7 @@
           ],
           "correctIndex": 0,
           "hint": "Yes, they're shirts. → Vâng, đó là những chiếc áo sơ mi.\n(Hình đúng: shirts – áo sơ mi)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -5764,7 +5764,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "fence → hàng rào\n✅ D. fence",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -5776,7 +5776,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/icantdrawabike.mp3",
           "answer": "draw",
           "hint": "I can't draw a bike: Mình không vẽ được một chiếc xe đạp.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -5802,7 +5802,7 @@
           ],
           "hint": "Ken ở sở thú. → Ken is at the zoo.",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -5820,7 +5820,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Câu đúng: Mum wants some apples. → Mẹ muốn vài quả táo.\nSai ở \"a\": some + danh từ không đếm được / số nhiều.\n✅ C. a",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -5846,7 +5846,7 @@
             }
           ],
           "hint": "Sue is having noodles. - Sue đang ăn mì.\nKate is sliding. - Kate đang trượt cầu trượt.\nLook at the cup. - Hãy nhìn cái cốc.\nThe grapes are on the table. - Những quả nho ở trên bàn.",
-          "topicId": 4
+          "topicId": 12
         }
       }
     ]
@@ -5874,7 +5874,7 @@
           ],
           "correctIndex": 0,
           "hint": "Mary has a grandmother. → Mary có bà.\n(Hình đúng: grandmother – bà)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -5890,7 +5890,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: cup (cái cốc).\nIt's a book. → Đó là quyển sách.\n(Câu này sai vì hình không phải book. Câu đúng cho hình: It's a cup.)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -5902,7 +5902,7 @@
           "audioUrl": "",
           "answer": "blanket",
           "hint": "There's a blanket: Có một cái chăn.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -5928,7 +5928,7 @@
           ],
           "hint": "Bạn có vẽ được một quả bóng chuyền không? → Can you draw a volleyball?",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -5946,7 +5946,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Kate is in the village. → Kate ở trong làng.\n✅ B. Kate is in the village.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -5972,7 +5972,7 @@
             }
           ],
           "hint": "I can see a turtle at the zoo. - Mình nhìn thấy một con rùa ở sở thú.\nKate is driving a car. - Kate đang lái ô tô.\nThere's a zebra. - Có một con ngựa vằn.\nI want some cake, please. - Làm ơn cho mình một ít bánh ngọt.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -5993,7 +5993,7 @@
           ],
           "correctIndex": 0,
           "hint": "I want a cake. → Mình muốn cái bánh.\n(Hình đúng: cake – bánh ngọt)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -6011,7 +6011,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "fourteen → mười bốn\n✅ D. fourteen",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -6023,7 +6023,7 @@
           "audioUrl": "",
           "answer": "noodles",
           "hint": "Nam is having noodles: Nam đang ăn mì.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -6049,7 +6049,7 @@
           ],
           "hint": "Những chiếc áo sơ mi ở đằng kia. → The shirts are over there.",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -6065,7 +6065,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: This is my brother. How old is he? He's twenty.\n→ Đây là anh trai của mình. Anh ấy bao nhiêu tuổi? Anh ấy hai mươi tuổi.\n✅ A. True\nThe brother is twenty. → Anh trai hai mươi tuổi.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -6091,7 +6091,7 @@
             }
           ],
           "hint": "I have a hat. - Mình có một cái mũ.\nBill is reading a book. - Bill đang đọc sách.\nThere's an ox on the farm. - Có một con bò đực ở nông trại.\nThere's a van. - Có một chiếc xe tải nhỏ.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -6112,7 +6112,7 @@
           ],
           "correctIndex": 0,
           "hint": "What's this? It's a top. → Đây là gì? Đó là con quay.\n(Hình đúng: top – con quay)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -6130,7 +6130,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Nhìn hình và chọn.\n✅ A. driving a car → lái ô tô",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -6142,7 +6142,7 @@
           "audioUrl": "",
           "answer": "having",
           "hint": "Kate is having chips: Kate đang ăn khoai tây chiên.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -6167,7 +6167,7 @@
           ],
           "hint": "Mình không vẽ được một cái bánh. → I can't draw a cake.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -6185,7 +6185,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "📖 Bài đọc: This is my sister. How old is she? She's eighteen.\n→ Đây là chị gái của mình. Chị ấy bao nhiêu tuổi? Chị ấy mười tám tuổi.\n❓ How old is the sister? → Chị gái bao nhiêu tuổi?\n✅ A. eighteen",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -6211,7 +6211,7 @@
             }
           ],
           "hint": "The bike is over there. - Chiếc xe đạp ở đằng kia.\nI have fourteen balls. - Mình có mười bốn quả bóng.\nI can see fifteen zebus. - Mình nhìn thấy mười lăm con bò u.\nShoes are nice. - Những đôi giày đẹp.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -6232,7 +6232,7 @@
           ],
           "correctIndex": 1,
           "hint": "I like my mango. → Mình thích quả xoài của mình.\n(Hình đúng: mango – quả xoài)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -6250,7 +6250,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "please → làm ơn, xin vui lòng\n✅ D. please",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -6262,7 +6262,7 @@
           "audioUrl": "",
           "answer": "see",
           "hint": "I can see a zebu: Mình nhìn thấy một con bò u.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -6288,7 +6288,7 @@
           ],
           "hint": "Làm ơn đưa cho mình quyển sách. → Pass me the book, please.",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -6304,7 +6304,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're at the café. Look at the table. The grapes are on the table.\n→ Chúng mình ở quán cà phê. Hãy nhìn cái bàn. Nho ở trên bàn.\n✅ A. True\nGrapes are on the table. → Có nho ở trên bàn.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -6330,7 +6330,7 @@
             }
           ],
           "hint": "Ba is riding a bike. - Ba đang đi xe đạp.\nLook at the zebu! - Hãy nhìn con bò u!\nI like fish. Yummy! - Mình thích cá. Ngon quá!\nI have a kite. - Mình có một cái diều.",
-          "topicId": 5
+          "topicId": 13
         }
       }
     ]
@@ -6358,7 +6358,7 @@
           ],
           "correctIndex": 0,
           "hint": "Where's the zebra? → Con ngựa vằn ở đâu?\n(Hình đúng: zebra – ngựa vằn)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -6376,7 +6376,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "fence, tent, blanket đều là đồ dùng cắm trại; truck (xe tải) là phương tiện.\n✅ D. truck",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -6388,7 +6388,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/iwantsomejelly.mp3",
           "answer": "jelly",
           "hint": "I want some jelly: Mình muốn một ít thạch.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -6413,7 +6413,7 @@
           ],
           "hint": "Bạn có vẽ được một con mèo không? → Can you draw a cat?",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -6431,7 +6431,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 He's riding a bike in the playground. → Cậu ấy đang đi xe đạp ở sân chơi.\n✅ C. riding a bike → đi xe đạp",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -6457,7 +6457,7 @@
             }
           ],
           "hint": "She's riding a bike in the playground. - Cô ấy đang đi xe đạp ở sân chơi.\nMai is doing a quiz. - Mai đang làm câu đố.\nI can see eight balls. - Mình nhìn thấy tám quả bóng.\nThere's a turtle at the zoo. - Có một con rùa ở sở thú.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -6478,7 +6478,7 @@
           ],
           "correctIndex": 1,
           "hint": "It's my table. → Đó là cái bàn của mình.\n(Hình đúng: table – cái bàn)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -6496,7 +6496,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "here → ở đây\n✅ D. here",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -6508,7 +6508,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/letslookattheshirts.mp3",
           "answer": "look",
           "hint": "Let's look at the shirts: Chúng ta hãy nhìn những chiếc áo sơ mi nào!",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -6536,7 +6536,7 @@
           ],
           "hint": "Cái cốc ở trong cái lều. → The cup is in the tent.",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -6552,7 +6552,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're in the grocery store. What do you want? I want some yams.\n→ Chúng mình ở cửa hàng tạp hoá. Bạn muốn gì? Mình muốn một ít củ khoai.\n✅ A. True\nThe child wants yams. → Bạn nhỏ muốn củ khoai.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -6578,7 +6578,7 @@
             }
           ],
           "hint": "There's a goat on the farm. - Có một con dê ở nông trại.\nI like yams. Yummy! - Mình thích củ khoai. Ngon quá!\nI want some milk. - Mình muốn một ít sữa.\nI like jam. I like juice. I like jelly. - Mình thích mứt. Mình thích nước ép. Mình thích thạch.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -6599,7 +6599,7 @@
           ],
           "correctIndex": 2,
           "hint": "Look at that road! → Nhìn con đường kia kìa!\n(Hình đúng: road – con đường)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -6617,7 +6617,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "📝 The bananas are on the table. → Những quả chuối ở trên bàn.\n✅ D. are\n💡 Chủ ngữ số nhiều (grapes, shoes, shirts...) → dùng are",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -6629,7 +6629,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/letslookatthedoll.mp3",
           "answer": "doll",
           "hint": "Let's look at the doll: Chúng ta hãy nhìn con búp bê nào!",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -6654,7 +6654,7 @@
           ],
           "hint": "Bố của mình ở nhà. → My father is at home.",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -6672,7 +6672,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 How many cups? Thirteen or fifteen? → Có bao nhiêu cái cốc? Mười ba hay mười lăm?\n✅ B. Thirteen. → Mười ba.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -6698,7 +6698,7 @@
             }
           ],
           "hint": "It's fourteen. - Đó là số mười bốn.\nI can see four monkeys. - Mình nhìn thấy bốn con khỉ.\nI want some yogurt, please. - Làm ơn cho mình một ít sữa chua.\nThe kite is near the fence. - Cái diều ở gần hàng rào.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -6719,7 +6719,7 @@
           ],
           "correctIndex": 0,
           "hint": "Look! Yams! → Nhìn kìa! Những củ khoai!\n(Hình đúng: yams – củ khoai)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -6735,7 +6735,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: four zebras (bốn con ngựa vằn).\nThere are nine zebras. → Có chín con ngựa vằn.\n(Câu này sai vì hình không phải nine zebras. Câu đúng cho hình: There are four zebras.)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -6747,7 +6747,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/aretheyplayingvolleyball.mp3",
           "answer": "playing",
           "hint": "Are they playing volleyball: Họ có đang chơi bóng chuyền không?",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -6772,7 +6772,7 @@
           ],
           "hint": "Bạn có thích con mèo không? → Do you like the cat?",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -6788,7 +6788,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're in the maths class. What number is it? It's twelve.\n→ Chúng mình ở trong giờ học toán. Đó là số mấy? Đó là số mười hai.\n✅ A. True\nIt's twelve. → Đó là số mười hai.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -6814,7 +6814,7 @@
             }
           ],
           "hint": "This is my father. - Đây là bố của mình.\nMy grandmother is at home. - Bà của mình ở nhà.\nLook at the grapes. - Hãy nhìn những quả nho.\nLet's look at the table! - Chúng ta hãy nhìn cái bàn nào!",
-          "topicId": 6
+          "topicId": 14
         }
       }
     ]
@@ -6842,7 +6842,7 @@
           ],
           "correctIndex": 1,
           "hint": "These are chips. → Đây là khoai tây chiên.\n(Hình đúng: chips – khoai tây chiên)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -6860,7 +6860,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "apples → những quả táo\n✅ C. apples",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -6872,7 +6872,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/doyoulikethegoat.mp3",
           "answer": "like",
           "hint": "Do you like the goat: Bạn có thích con dê không?",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -6897,7 +6897,7 @@
           ],
           "hint": "Họ có đang chơi với bóng không? → Are they playing with balls?",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -6913,7 +6913,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: Sue is in the countryside. Sue can see a rainbow.\n→ Sue ở vùng nông thôn. Sue nhìn thấy một cầu vồng.\n✅ A. True\nSue can see a rainbow. → Sue nhìn thấy cầu vồng.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -6939,7 +6939,7 @@
             }
           ],
           "hint": "They're driving cars. - Họ đang lái ô tô.\nThe jelly is on the table. - Thạch ở trên bàn.\nWe're in the playground. - Chúng mình đang ở sân chơi.\nThe noodles are on the table. - Mì ở trên bàn.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -6960,7 +6960,7 @@
           ],
           "correctIndex": 1,
           "hint": "Wow! A kite! → Ồ! Cái diều!\n(Hình đúng: kite – cái diều)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -6978,7 +6978,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Nhìn hình và chọn.\n✅ A. horse → con ngựa",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -6990,7 +6990,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/ihavethirteenbikes.mp3",
           "answer": "bikes",
           "hint": "I have thirteen bikes: Mình có mười ba chiếc xe đạp.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -7016,7 +7016,7 @@
           ],
           "hint": "Làm ơn đưa cho mình những quả chuối. → Pass me the bananas, please.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -7034,7 +7034,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Câu đúng: I can see a zebra at the zoo. → Mình nhìn thấy một con ngựa vằn ở sở thú.\nSai ở \"an\": trước phụ âm dùng a.\n✅ D. an",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -7060,7 +7060,7 @@
             }
           ],
           "hint": "Look at the yo-yos! - Hãy nhìn những cái yo-yo!\nI like the playground. - Mình thích sân chơi.\nShe's driving a car in the playground. - Cô ấy đang lái ô tô ở sân chơi.\nIt's a yo-yo. - Đó là một cái yo-yo.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -7081,7 +7081,7 @@
           ],
           "correctIndex": 0,
           "hint": "My van is here. → Chiếc xe tải nhỏ của mình ở đây.\n(Hình đúng: van – xe tải nhỏ)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -7099,7 +7099,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "ball, top, volleyball đều là đồ chơi; grapes (nho) là đồ ăn, thức uống.\n✅ C. grapes",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -7111,7 +7111,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/thatsmymother.mp3",
           "answer": "mother",
           "hint": "That's my mother: Kia là mẹ của mình.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -7136,7 +7136,7 @@
           ],
           "hint": "Bạn có thích cái mũ không? → Do you like the hat?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -7154,7 +7154,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "I can see a tent. → Mình nhìn thấy một cái lều.\n✅ B. I can see a tent.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -7180,7 +7180,7 @@
             }
           ],
           "hint": "I have a volleyball. - Mình có một quả bóng chuyền.\nNam is playing volleyball in the village. - Nam đang chơi bóng chuyền ở trong làng.\nThe pizza is in the kitchen. - Bánh pizza ở trong nhà bếp.\nMum wants some jam. - Mẹ muốn một ít mứt.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -7201,7 +7201,7 @@
           ],
           "correctIndex": 1,
           "hint": "Ba has a mango. → Ba có quả xoài.\n(Hình đúng: mango – quả xoài)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -7219,7 +7219,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "bikes → những chiếc xe đạp\n✅ D. bikes",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -7231,7 +7231,7 @@
           "audioUrl": "",
           "answer": "noodles",
           "hint": "We're having noodles: Chúng mình đang ăn mì.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -7256,7 +7256,7 @@
           ],
           "hint": "Mình nhìn thấy mười lăm quả táo. → I can see fifteen apples.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -7274,7 +7274,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "There are fourteen pencils. → Có mười bốn cái bút chì.\n✅ A. There are fourteen pencils.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -7300,7 +7300,7 @@
             }
           ],
           "hint": "There's a bike. - Có một chiếc xe đạp.\nShoes, shirts and shorts are in the shop. - Giày, áo sơ mi và quần soóc ở trong cửa hàng.\nShorts are nice. - Những chiếc quần soóc đẹp.\nThere's a zebu at the zoo. - Có một con bò u ở sở thú.",
-          "topicId": 7
+          "topicId": 15
         }
       }
     ]
@@ -7328,7 +7328,7 @@
           ],
           "correctIndex": 2,
           "hint": "Hi! I have a window. → Chào! Mình có cái cửa sổ.\n(Hình đúng: window – cái cửa sổ)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -7344,7 +7344,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: four foxes (bốn con cáo).\nThere are nine foxes. → Có chín con cáo.\n(Câu này sai vì hình không phải nine foxes. Câu đúng cho hình: I can see four foxes.)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -7356,7 +7356,7 @@
           "audioUrl": "",
           "answer": "sliding",
           "hint": "She's sliding in the playground: Cô ấy đang trượt cầu trượt ở sân chơi.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -7381,7 +7381,7 @@
           ],
           "hint": "Mình vẽ được một chiếc ô tô. → I can draw a car.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -7399,7 +7399,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Is there a ball on the farm? → Ở nông trại có một quả bóng không?\n✅ A. No, there isn't. → Không, không có.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -7425,7 +7425,7 @@
             }
           ],
           "hint": "Sue is having a cake. - Sue đang ăn bánh.\nHi, Lan. I'm Phill. - Chào Lan. Mình là Phill.\nIt's eleven. - Đó là số mười một.\nThere's a fox. - Có một con cáo.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -7446,7 +7446,7 @@
           ],
           "correctIndex": 1,
           "hint": "Look! Shirts! → Nhìn kìa! Những chiếc áo sơ mi!\n(Hình đúng: shirts – áo sơ mi)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -7464,7 +7464,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "📝 Where is the teapot? – It's near the tent. → Cái ấm pha trà ở đâu? – Nó ở gần cái lều.\n✅ C. Where\n💡 Where dùng để hỏi \"ở đâu\"",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -7476,7 +7476,7 @@
           "audioUrl": "",
           "answer": "van",
           "hint": "This is a van: Đây là một chiếc xe tải nhỏ.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -7502,7 +7502,7 @@
           ],
           "hint": "Kate đang tô màu hình vuông. → Kate is colouring a square.",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -7520,7 +7520,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "That's a zebra. → Kia là một con ngựa vằn.\n✅ B. That's a zebra.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -7546,7 +7546,7 @@
             }
           ],
           "hint": "The milk is on the table. - Sữa ở trên bàn.\nThere's a turtle at the zoo. - Có một con rùa ở sở thú.\nLook at the bag. - Hãy nhìn cái túi.\nI can see a turtle at the zoo. - Mình nhìn thấy một con rùa ở sở thú.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -7567,7 +7567,7 @@
           ],
           "correctIndex": 0,
           "hint": "He has a doll. → Cậu ấy có con búp bê.\n(Hình đúng: doll – búp bê)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -7585,7 +7585,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "yo-yo → cái yo-yo\n✅ B. cái yo-yo",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -7597,7 +7597,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/mybrotherissixteen.mp3",
           "answer": "sixteen",
           "hint": "My brother is sixteen: Anh trai của mình mười sáu tuổi.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -7622,7 +7622,7 @@
           ],
           "hint": "Bạn có vẽ được một cái cốc không? → Can you draw a cup?",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -7638,7 +7638,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "📖 Bài đọc: Kate is in the classroom. She's answering a question.\n→ Kate ở trong lớp học. Cô ấy đang trả lời câu hỏi.\n✅ A. True\nKate is answering a question. → Kate đang trả lời câu hỏi.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -7664,7 +7664,7 @@
             }
           ],
           "hint": "I can see a volleyball. - Mình nhìn thấy một quả bóng chuyền.\nPass me the yogurt, please. - Làm ơn đưa cho mình sữa chua.\nSue is at the zoo. - Sue ở sở thú.\nI can see a monkey at the zoo. - Mình nhìn thấy một con khỉ ở sở thú.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -7685,7 +7685,7 @@
           ],
           "correctIndex": 1,
           "hint": "Touch your hand. → Hãy chạm vào bàn tay của bạn.\n(Hình đúng: hand – bàn tay)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -7701,7 +7701,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: grapes (nho).\nIt's yogurt. → Đó là sữa chua.\n(Câu này sai vì hình không phải yogurt. Câu đúng cho hình: They're grapes.)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -7713,7 +7713,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/heshavingabanana.mp3",
           "answer": "banana",
           "hint": "He's having a banana: Cậu ấy đang ăn chuối.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -7740,7 +7740,7 @@
           ],
           "hint": "Có bao nhiêu quả bóng? Mười một hay mười ba? → How many balls? Eleven or thirteen?",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -7756,7 +7756,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're on the farm. Look! There's a fox on the farm.\n→ Chúng mình ở nông trại. Nhìn kìa! Có một con cáo ở nông trại.\n✅ B. False\nA goat is on the farm. → Có con dê ở nông trại.\n(Câu đúng: A fox is on the farm.)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -7782,7 +7782,7 @@
             }
           ],
           "hint": "I can see a bike in the countryside. - Mình nhìn thấy một chiếc xe đạp ở vùng nông thôn.\nThat's a table. - Kia là một cái bàn.\nThe bananas are on the table. - Những quả chuối ở trên bàn.\nI have a yo-yo. - Mình có một cái yo-yo.",
-          "topicId": 8
+          "topicId": 16
         }
       }
     ]
@@ -7810,7 +7810,7 @@
           ],
           "correctIndex": 0,
           "hint": "Look at that zoo! → Nhìn sở thú kia kìa!\n(Hình đúng: zoo – sở thú)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -7828,7 +7828,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Nhìn hình và chọn.\n✅ A. sliding → trượt cầu trượt",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -7840,7 +7840,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/letslookatthecafé.mp3",
           "answer": "look",
           "hint": "Let's look at the café: Chúng ta hãy nhìn quán cà phê nào!",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -7866,7 +7866,7 @@
           ],
           "hint": "Mình nhìn thấy mười bốn con cáo. → I can see fourteen foxes.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -7884,7 +7884,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 Is there a bag on the farm? → Ở nông trại có một cái túi không?\n✅ C. Yes, there is. → Vâng, có.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -7910,7 +7910,7 @@
             }
           ],
           "hint": "Let's look at the doll! - Chúng ta hãy nhìn con búp bê nào!\nMy sister is eighteen. - Chị gái của mình mười tám tuổi.\nLook at the shorts! - Hãy nhìn những chiếc quần soóc!\nThe shoes are in the clothes shop. - Những đôi giày ở trong cửa hàng quần áo.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -7931,7 +7931,7 @@
           ],
           "correctIndex": 0,
           "hint": "Show me the goat, please. → Làm ơn chỉ cho mình con dê.\n(Hình đúng: goat – con dê)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -7947,7 +7947,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "✅ A. True\n👉 Hình vẽ: yams (củ khoai).\nThey're yams. → Đó là những củ khoai.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -7959,7 +7959,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/iwantsomemilk.mp3",
           "answer": "want",
           "hint": "I want some milk: Mình muốn một ít sữa.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -7986,7 +7986,7 @@
           ],
           "hint": "Kate đang chơi với mèo con. → Kate is playing with a kitten.",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -8004,7 +8004,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Look at the pizza. → Hãy nhìn bánh pizza.\n✅ C. Look at the pizza.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -8030,7 +8030,7 @@
             }
           ],
           "hint": "The grapes are on the table. - Những quả nho ở trên bàn.\nHe's having a banana. - Cậu ấy đang ăn chuối.\nI can see a table. - Mình nhìn thấy một cái bàn.\nLan is having a cake. - Lan đang ăn bánh.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -8051,7 +8051,7 @@
           ],
           "correctIndex": 1,
           "hint": "Ba has a grandmother. → Ba có bà.\n(Hình đúng: grandmother – bà)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -8069,7 +8069,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "📝 How old is he? – He's sixteen. → Anh ấy bao nhiêu tuổi? – Anh ấy mười sáu tuổi.\n✅ D. How\n💡 How old / How many dùng để hỏi tuổi / số lượng",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -8081,7 +8081,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/itsnearthefence.mp3",
           "answer": "near",
           "hint": "It's near the fence: Nó ở gần hàng rào.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -8106,7 +8106,7 @@
           ],
           "hint": "Mình nhìn thấy một bạn nữ. → I can see a girl.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -8124,7 +8124,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're at the zoo. Do you like the zebra? Yes, I do. That's a zebra.\n→ Chúng mình ở sở thú. Bạn có thích ngựa vằn không? Có. Kia là ngựa vằn.\n❓ What animal do they like? → Họ thích con vật nào?\n✅ A. zebra",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -8150,7 +8150,7 @@
             }
           ],
           "hint": "Lan is playing with a cat. - Lan đang chơi với mèo.\nThis is my football. - Đây là quả bóng đá của mình.\nNam is driving a car. - Nam đang lái ô tô.\nNam is reading a book. - Nam đang đọc sách.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -8171,7 +8171,7 @@
           ],
           "correctIndex": 0,
           "hint": "Wow! Nuts! → Ồ! Hạt lạc!\n(Hình đúng: nuts – hạt lạc)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -8189,7 +8189,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "fourteen → mười bốn\n✅ D. fourteen",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -8201,7 +8201,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/howmanyseals.mp3",
           "answer": "seals",
           "hint": "How many seals: Có bao nhiêu con hải cẩu?",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -8229,7 +8229,7 @@
           ],
           "hint": "Có bao nhiêu cái hộp? Mười một hay mười lăm? → How many boxes? Eleven or fifteen?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -8247,7 +8247,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 I can draw a blanket. → Mình vẽ được một cái chăn.\n✅ A. blanket → cái chăn",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -8273,7 +8273,7 @@
             }
           ],
           "hint": "There's a kitten in the box. - Có một chú mèo con ở trong cái hộp.\nI like cake. Yummy! - Mình thích bánh ngọt. Ngon quá!\nLet's look at the lake! - Chúng ta hãy nhìn cái hồ nào!\nI can see a boy. - Mình nhìn thấy một bạn nam.",
-          "topicId": 1
+          "topicId": 9
         }
       }
     ]
@@ -8301,7 +8301,7 @@
           ],
           "correctIndex": 0,
           "hint": "I see a yo-yo. → Mình nhìn thấy cái yo-yo.\n(Hình đúng: yo-yo – cái yo-yo)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -8319,7 +8319,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "bananas → những quả chuối\n✅ B. bananas",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -8331,7 +8331,7 @@
           "audioUrl": "",
           "answer": "fifteen",
           "hint": "I have fifteen boxes: Mình có mười lăm cái hộp.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -8358,7 +8358,7 @@
           ],
           "hint": "Có bao nhiêu cái diều? Mười hai hay mười bốn? → How many kites? Twelve or fourteen?",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -8376,7 +8376,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "📖 Bài đọc: Look at the box. Is there a kitten in the box? Yes, there is.\n→ Hãy nhìn cái hộp. Có một chú mèo con ở trong cái hộp không? Có.\n❓ What is in the box? → Có gì ở trong cái hộp?\n✅ D. a kitten",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -8402,7 +8402,7 @@
             }
           ],
           "hint": "Let's look at the sister! - Chúng ta hãy nhìn chị gái nào!\nLook at the shirts! - Hãy nhìn những chiếc áo sơ mi!\nThe tent is near the fence. - Cái lều ở gần hàng rào.\nThere's a teapot. - Có một cái ấm pha trà.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -8423,7 +8423,7 @@
           ],
           "correctIndex": 0,
           "hint": "Where are the yo-yos? → Những cái yo-yo ở đâu?\n(Hình đúng: yo-yos – cái yo-yo)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -8441,7 +8441,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Từ bắt đầu bằng chữ R: road (con đường).\n✅ B. road",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -8453,7 +8453,7 @@
           "audioUrl": "",
           "answer": "book",
           "hint": "Ken is reading a book: Ken đang đọc sách.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -8478,7 +8478,7 @@
           ],
           "hint": "Bạn có thích con bò đực không? → Do you like the ox?",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -8496,7 +8496,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "I have eleven tops. → Mình có mười một con quay.\n✅ C. I have eleven tops.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -8522,7 +8522,7 @@
             }
           ],
           "hint": "I have eleven apples. - Mình có mười một quả táo.\nThere are fifteen zebus. - Có mười lăm con bò u.\nMy brother is here. - Anh trai của mình ở đây.\nI can see eleven footballs. - Mình nhìn thấy mười một quả bóng đá.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -8543,7 +8543,7 @@
           ],
           "correctIndex": 0,
           "hint": "Show me the kitten, please. → Làm ơn chỉ cho mình chú mèo con.\n(Hình đúng: kitten – mèo con)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -8561,7 +8561,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "campsite → khu cắm trại\n✅ C. campsite",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -8573,7 +8573,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/icandrawaroad.mp3",
           "answer": "road",
           "hint": "I can draw a road: Mình vẽ được một con đường.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -8598,7 +8598,7 @@
           ],
           "hint": "Mình nhìn thấy một con ngựa vằn. → I can see a zebra.",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -8616,7 +8616,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Câu đúng: She's driving a car in the playground. → Cô ấy đang lái ô tô ở sân chơi.\nSai ở \"She\": She → is ('s).\n✅ A. She",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -8642,7 +8642,7 @@
             }
           ],
           "hint": "Let's look at the zoo! - Chúng ta hãy nhìn sở thú nào!\nKate is having a cake. - Kate đang ăn bánh.\nBill is having a banana. - Bill đang ăn chuối.\nNam is driving a car. - Nam đang lái ô tô.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -8663,7 +8663,7 @@
           ],
           "correctIndex": 0,
           "hint": "I want a doll. → Mình muốn con búp bê.\n(Hình đúng: doll – búp bê)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -8681,7 +8681,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Trước twenty (20) là nineteen (19).\n✅ B. nineteen",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -8693,7 +8693,7 @@
           "audioUrl": "",
           "answer": "zebus",
           "hint": "There are fifteen zebus: Có mười lăm con bò u.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -8720,7 +8720,7 @@
           ],
           "hint": "Con chó ở gần cái lều. → The dog is near the tent.",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -8738,7 +8738,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 I want some jam, please. → Làm ơn cho mình một ít mứt.\n✅ C. jam → mứt",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -8764,7 +8764,7 @@
             }
           ],
           "hint": "I have four footballs. - Mình có bốn quả bóng đá.\nThe juice is yummy. - Nước ép ngon.\nI can't draw a cup. - Mình không vẽ được một cái cốc.\nI can draw a seal. - Mình vẽ được một con hải cẩu.",
-          "topicId": 2
+          "topicId": 10
         }
       }
     ]
@@ -8792,7 +8792,7 @@
           ],
           "correctIndex": 0,
           "hint": "Look at the café! → Nhìn quán cà phê kìa!\n(Hình đúng: café – quán cà phê)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -8808,7 +8808,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "✅ A. True\n👉 Hình vẽ: fifteen turtles (mười lăm con rùa).\nThere are fifteen turtles. → Có mười lăm con rùa.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -8820,7 +8820,7 @@
           "audioUrl": "",
           "answer": "thirteen",
           "hint": "I have thirteen apples: Mình có mười ba quả táo.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -8845,7 +8845,7 @@
           ],
           "hint": "Bạn có nhìn thấy những chiếc áo sơ mi không? → Can you see the shirts?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -8863,7 +8863,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 Is the ball near the fence? → Quả bóng có ở gần hàng rào không?\n✅ D. Yes, it is. → Vâng, đúng vậy.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -8889,7 +8889,7 @@
             }
           ],
           "hint": "I want some cake. - Mình muốn một ít bánh ngọt.\nThank you. - Cảm ơn bạn.\nI can draw a cake. - Mình vẽ được một cái bánh.\nLan is in the village. - Lan ở trong làng.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -8910,7 +8910,7 @@
           ],
           "correctIndex": 2,
           "hint": "I like the zoo. → Mình thích sở thú.\n(Hình đúng: zoo – sở thú)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -8926,7 +8926,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: flying kites (thả diều).\nShe's answering a question. → Cô ấy đang trả lời câu hỏi.\n(Câu này sai vì hình không phải answering a question. Câu đúng cho hình: They're flying kites.)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -8938,7 +8938,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/baishavingabanana.mp3",
           "answer": "banana",
           "hint": "Ba is having a banana: Ba đang ăn chuối.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -8966,7 +8966,7 @@
           ],
           "hint": "Có bao nhiêu cái diều? Mười ba hay mười bốn? → How many kites? Thirteen or fourteen?",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -8984,7 +8984,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 How many hats? Fourteen or fifteen? → Có bao nhiêu cái mũ? Mười bốn hay mười lăm?\n✅ A. Fourteen. → Mười bốn.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -9010,7 +9010,7 @@
             }
           ],
           "hint": "Can you see the shorts? - Bạn có nhìn thấy những chiếc quần soóc không?\nThe bike is over there. - Chiếc xe đạp ở đằng kia.\nWhat number is it? It's thirteen. - Đó là số mấy? Đó là số mười ba.\nIt's twelve. - Đó là số mười hai.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -9031,7 +9031,7 @@
           ],
           "correctIndex": 0,
           "hint": "Look at your face! → Nhìn khuôn mặt của bạn này!\n(Hình đúng: face – khuôn mặt)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -9049,7 +9049,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "apples → những quả táo\n✅ D. e",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -9061,7 +9061,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/sueisatthezoo.mp3",
           "answer": "zoo",
           "hint": "Sue is at the zoo: Sue ở sở thú.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -9086,7 +9086,7 @@
           ],
           "hint": "Sue đang lái ô tô. → Sue is driving a car.",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -9104,7 +9104,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 Nam is reading a book. → Nam đang đọc sách.\n✅ C. reading a book → đọc sách",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -9130,7 +9130,7 @@
             }
           ],
           "hint": "He's having grapes. - Cậu ấy đang ăn nho.\nHe's having a cake. - Cậu ấy đang ăn bánh.\nI can see a table. - Mình nhìn thấy một cái bàn.\nWe're having noodles. - Chúng mình đang ăn mì.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -9151,7 +9151,7 @@
           ],
           "correctIndex": 1,
           "hint": "That's a rainbow. → Kia là cầu vồng.\n(Hình đúng: rainbow – cầu vồng)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -9169,7 +9169,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "slide → trượt, cầu trượt\n✅ C. slide",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -9181,7 +9181,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/whereisthegoat.mp3",
           "answer": "goat",
           "hint": "Where is the goat: Con dê ở đâu?",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -9206,7 +9206,7 @@
           ],
           "hint": "Cô ấy đang chơi với mèo con. → She's playing with a kitten.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -9222,7 +9222,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: Where's Kate? She's in the backyard. She's flying a kite.\n→ Kate ở đâu? Cô ấy ở sân sau. Cô ấy đang thả diều.\n✅ A. True\nKate is flying a kite. → Kate đang thả diều.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -9248,7 +9248,7 @@
             }
           ],
           "hint": "We're in the playground. - Chúng mình đang ở sân chơi.\nMum wants some mangoes. - Mẹ muốn vài quả xoài.\nHe's riding a bike in the playground. - Cậu ấy đang đi xe đạp ở sân chơi.\nI want some jam, please. - Làm ơn cho mình một ít mứt.",
-          "topicId": 3
+          "topicId": 11
         }
       }
     ]
@@ -9276,7 +9276,7 @@
           ],
           "correctIndex": 0,
           "hint": "Is this your cake? → Đây có phải cái bánh của bạn không?\n(Hình đúng: cake – bánh ngọt)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -9294,7 +9294,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📝 Can you see the kites? – No, I can't. → Bạn có nhìn thấy những cái diều không? – Không, mình không nhìn thấy.\n✅ B. Can\n💡 Can you ...? hỏi có thể làm được không",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -9306,7 +9306,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/whereisthepizza.mp3",
           "answer": "pizza",
           "hint": "Where is the pizza: Bánh pizza ở đâu?",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -9333,7 +9333,7 @@
           ],
           "hint": "Cái diều ở gần hàng rào. → The kite is near the fence.",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -9349,7 +9349,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're in the grocery store. What do you want? I want some yo-yos.\n→ Chúng mình ở cửa hàng tạp hoá. Bạn muốn gì? Mình muốn một ít yo-yo.\n✅ A. True\nThe child wants yo-yos. → Bạn nhỏ muốn cái yo-yo.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -9375,7 +9375,7 @@
             }
           ],
           "hint": "There's a seal at the zoo. - Có một con hải cẩu ở sở thú.\nThis is my village. - Đây là ngôi làng của mình.\nSue is at the zoo. - Sue ở sở thú.\nIt's a yo-yo. - Đó là một cái yo-yo.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -9396,7 +9396,7 @@
           ],
           "correctIndex": 0,
           "hint": "Look at the zebu! → Nhìn con bò u kìa!\n(Hình đúng: zebu – bò u)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -9414,7 +9414,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "bananas → những quả chuối\n✅ A. a",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -9426,7 +9426,7 @@
           "audioUrl": "",
           "answer": "twelve",
           "hint": "There are twelve bikes: Có mười hai chiếc xe đạp.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -9451,7 +9451,7 @@
           ],
           "hint": "Chúng ở trên bàn. → They are on the table.",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -9469,7 +9469,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: Hello, I'm Ken. It's my birthday party. I like pizza. The pizza is yummy.\n→ Xin chào, mình là Ken. Đây là bữa tiệc sinh nhật của mình. Mình thích bánh pizza. Bánh pizza ngon.\n❓ What does Ken like? → Ken thích gì?\n✅ A. pizza",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -9495,7 +9495,7 @@
             }
           ],
           "hint": "This is my father. - Đây là bố của mình.\nThe shoes are over there. - Những đôi giày ở đằng kia.\nThe book is in the tent. - Quyển sách ở trong cái lều.\nWe're in the clothes shop. - Chúng mình đang ở cửa hàng quần áo.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -9516,7 +9516,7 @@
           ],
           "correctIndex": 1,
           "hint": "I like yogurt. → Mình thích sữa chua.\n(Hình đúng: yogurt – sữa chua)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -9534,7 +9534,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "lake, river, rainbow đều là cảnh vật ngoài trời; horse (con ngựa) là con vật.\n✅ B. horse",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -9546,7 +9546,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/aretheyplayingwithballs.mp3",
           "answer": "balls",
           "hint": "Are they playing with balls: Họ có đang chơi với bóng không?",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -9571,7 +9571,7 @@
           ],
           "hint": "Bạn có vẽ được một cánh buồm không? → Can you draw a sail?",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -9589,7 +9589,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "I have twelve bags. → Mình có mười hai cái túi.\n✅ B. I have twelve bags.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -9615,7 +9615,7 @@
             }
           ],
           "hint": "Sue is having a banana. - Sue đang ăn chuối.\nKen is having a cake. - Ken đang ăn bánh.\nMy brother is at home. - Anh trai của mình ở nhà.\nHe's having grapes. - Cậu ấy đang ăn nho.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -9636,7 +9636,7 @@
           ],
           "correctIndex": 1,
           "hint": "We like shoes. → Chúng mình thích những đôi giày.\n(Hình đúng: shoes – giày)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -9654,7 +9654,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Từ bắt đầu bằng chữ T: tent (cái lều).\n✅ A. tent",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -9666,7 +9666,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/iwantsomejam.mp3",
           "answer": "jam",
           "hint": "I want some jam: Mình muốn một ít mứt.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -9694,7 +9694,7 @@
           ],
           "hint": "Có một con ngựa ở sở thú. → There's a horse at the zoo.",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -9712,7 +9712,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 Let's look at the zebra! → Chúng ta hãy nhìn con ngựa vằn nào!\n✅ D. zebra → ngựa vằn",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -9738,7 +9738,7 @@
             }
           ],
           "hint": "Pass me the water, please. - Làm ơn đưa cho mình nước.\nI can see the seal at the seaside. - Mình nhìn thấy con hải cẩu ở bờ biển.\nI can draw a river. - Mình vẽ được một dòng sông.\nI can see a kite in the countryside. - Mình nhìn thấy một cái diều ở vùng nông thôn.",
-          "topicId": 4
+          "topicId": 12
         }
       }
     ]
@@ -9766,7 +9766,7 @@
           ],
           "correctIndex": 2,
           "hint": "Point to the sister. → Hãy chỉ vào chị/em gái.\n(Hình đúng: sister – chị/em gái)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -9784,7 +9784,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Nhìn hình và chọn.\n✅ D. reading a book → đọc sách",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -9796,7 +9796,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/itsnearthetent.mp3",
           "answer": "near",
           "hint": "It's near the tent: Nó ở gần cái lều.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -9821,7 +9821,7 @@
           ],
           "hint": "Làm ơn đưa cho mình mì. → Pass me the noodles, please.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -9839,7 +9839,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're at the zoo. Do you like the zebra? Yes, I do. That's a zebra.\n→ Chúng mình ở sở thú. Bạn có thích ngựa vằn không? Có. Kia là ngựa vằn.\n❓ What animal do they like? → Họ thích con vật nào?\n✅ B. zebra",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -9865,7 +9865,7 @@
             }
           ],
           "hint": "I like the zoo. - Mình thích sở thú.\nShe's riding a bike in the playground. - Cô ấy đang đi xe đạp ở sân chơi.\nWe're at the zoo. - Chúng mình đang ở sở thú.\nThey're reading books. - Họ đang đọc sách.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -9886,7 +9886,7 @@
           ],
           "correctIndex": 0,
           "hint": "Look! A sun! → Nhìn kìa! Mặt trời!\n(Hình đúng: sun – mặt trời)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -9904,7 +9904,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "📝 How many dolls? – Twelve. → Có bao nhiêu con búp bê? – Mười hai.\n✅ C. How\n💡 How old / How many dùng để hỏi tuổi / số lượng",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -9916,7 +9916,7 @@
           "audioUrl": "",
           "answer": "see",
           "hint": "I can see twelve goats: Mình nhìn thấy mười hai con dê.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -9941,7 +9941,7 @@
           ],
           "hint": "Mai ở sở thú. → Mai is at the zoo.",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -9957,7 +9957,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're at the campsite. Where's the blanket? It's in the tent.\n→ Chúng mình ở khu cắm trại. Cái chăn ở đâu? Nó ở trong cái lều.\n✅ B. False\nThe blanket is near the fence. → Cái chăn ở gần hàng rào.\n(Câu đúng: The blanket is in the tent.)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -9983,7 +9983,7 @@
             }
           ],
           "hint": "I can see nine cups. - Mình nhìn thấy chín cái cốc.\nThe bananas are yummy. - Chuối ngon.\nI have nine cars. - Mình có chín chiếc ô tô.\nMum wants some yo-yos. - Mẹ muốn vài cái yo-yo.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -10004,7 +10004,7 @@
           ],
           "correctIndex": 1,
           "hint": "That's a yo-yo. → Kia là cái yo-yo.\n(Hình đúng: yo-yo – cái yo-yo)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -10022,7 +10022,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "📝 Do you like the cat? – No, I don't. → Bạn có thích con mèo không? – Không, mình không thích.\n✅ D. Do\n💡 Do you like ...? hỏi có thích không",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -10034,7 +10034,7 @@
           "audioUrl": "",
           "answer": "chips",
           "hint": "Look at the chips: Hãy nhìn khoai tây chiên.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -10060,7 +10060,7 @@
           ],
           "hint": "Chúng ta hãy nhìn biển nào! → Let's look at the sea!",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -10078,7 +10078,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 How many boxes? Twelve or fourteen? → Có bao nhiêu cái hộp? Mười hai hay mười bốn?\n✅ A. Twelve. → Mười hai.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -10104,7 +10104,7 @@
             }
           ],
           "hint": "Look at the doll! - Hãy nhìn con búp bê!\nI have thirteen dogs. - Mình có mười ba con chó.\nI have a doll. - Mình có một con búp bê.\nI like the goat. - Mình thích con dê.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -10125,7 +10125,7 @@
           ],
           "correctIndex": 2,
           "hint": "Mary has a cat. → Mary có con mèo.\n(Hình đúng: cat – con mèo)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -10143,7 +10143,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "yogurt → sữa chua\n✅ A. sữa chua",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -10155,7 +10155,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/mumwantssomefish.mp3",
           "answer": "wants",
           "hint": "Mum wants some fish: Mẹ muốn một ít cá.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -10180,7 +10180,7 @@
           ],
           "hint": "Bạn có thích con chó không? → Do you like the dog?",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -10196,7 +10196,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're at the café. Look at the table. The banana is on the table.\n→ Chúng mình ở quán cà phê. Hãy nhìn cái bàn. Quả chuối ở trên bàn.\n✅ B. False\nGrapes are on the table. → Có nho ở trên bàn.\n(Câu đúng: A banana is on the table.)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -10222,7 +10222,7 @@
             }
           ],
           "hint": "I like juice. - Mình thích nước ép.\nMai is flying a kite. - Mai đang thả diều.\nKen is in the village. - Ken ở trong làng.\nLet's go to the village! - Chúng ta hãy đi đến ngôi làng nào!",
-          "topicId": 5
+          "topicId": 13
         }
       }
     ]
@@ -10250,7 +10250,7 @@
           ],
           "correctIndex": 1,
           "hint": "Wow! Yo-yos! → Ồ! Những cái yo-yo!\n(Hình đúng: yo-yos – cái yo-yo)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -10266,7 +10266,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "✅ A. True\n👉 Hình vẽ: playing volleyball (chơi bóng chuyền).\nHe's playing volleyball. → Cậu ấy đang chơi bóng chuyền.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -10278,7 +10278,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/canyouseetheyams.mp3",
           "answer": "yams",
           "hint": "Can you see the yams: Bạn có nhìn thấy những củ khoai không?",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -10303,7 +10303,7 @@
           ],
           "hint": "Bạn có vẽ được một cái mũ không? → Can you draw a hat?",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -10319,7 +10319,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're in the playground. Look at Kate and Ken. They're sliding.\n→ Chúng mình ở sân chơi. Nhìn Kate và Ken kìa. Họ đang trượt cầu trượt.\n✅ B. False\nKate and Ken are riding bikes. → Kate và Ken đang đi xe đạp.\n(Câu đúng: Kate and Ken are sliding.)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -10345,7 +10345,7 @@
             }
           ],
           "hint": "That's a table. - Kia là một cái bàn.\nThere's a turtle at the zoo. - Có một con rùa ở sở thú.\nI can see a tiger at the zoo. - Mình nhìn thấy một con hổ ở sở thú.\nShe's riding a bike in the playground. - Cô ấy đang đi xe đạp ở sân chơi.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -10366,7 +10366,7 @@
           ],
           "correctIndex": 1,
           "hint": "Hi! I like popcorn. → Chào! Mình thích bỏng ngô.\n(Hình đúng: popcorn – bỏng ngô)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -10382,7 +10382,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "✅ A. True\n👉 Hình vẽ: having cakes (ăn bánh).\nThey're having cakes. → Họ đang ăn bánh.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -10394,7 +10394,7 @@
           "audioUrl": "",
           "answer": "monkeys",
           "hint": "I can see thirteen monkeys: Mình nhìn thấy mười ba con khỉ.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -10421,7 +10421,7 @@
           ],
           "hint": "Con chó có ở trong cái lều không? → Is the dog in the tent?",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -10439,7 +10439,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 I want some nuts, please. → Làm ơn cho mình vài hạt lạc.\n✅ C. nuts → hạt lạc",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -10465,7 +10465,7 @@
             }
           ],
           "hint": "That's a seal. - Kia là một con hải cẩu.\nI can't draw a bike. - Mình không vẽ được một chiếc xe đạp.\nWe're in the grocery store. - Chúng mình đang ở cửa hàng tạp hoá.\nI want some bananas, please. - Làm ơn cho mình vài quả chuối.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -10486,7 +10486,7 @@
           ],
           "correctIndex": 1,
           "hint": "I have a dog. → Mình có con chó.\n(Hình đúng: dog – con chó)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -10504,7 +10504,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "lemon → quả chanh\n✅ C. lemon",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -10516,7 +10516,7 @@
           "audioUrl": "",
           "answer": "goats",
           "hint": "I can see five goats: Mình nhìn thấy năm con dê.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -10544,7 +10544,7 @@
           ],
           "hint": "Bánh pizza ở trên bàn. → The pizza is on the table.",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -10562,7 +10562,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 How many kites? Eleven or fourteen? → Có bao nhiêu cái diều? Mười một hay mười bốn?\n✅ B. Eleven. → Mười một.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -10588,7 +10588,7 @@
             }
           ],
           "hint": "I want some shorts. - Mình muốn mua vài chiếc quần soóc.\nI can draw a blanket. - Mình vẽ được một cái chăn.\nIt's a dog. - Đó là một con chó.\nKen is driving a car. - Ken đang lái ô tô.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -10609,7 +10609,7 @@
           ],
           "correctIndex": 1,
           "hint": "I see yo-yos. → Mình nhìn thấy những cái yo-yo.\n(Hình đúng: yo-yos – cái yo-yo)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -10627,7 +10627,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "zebra → ngựa vằn\n✅ B. zebra",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -10639,7 +10639,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/canyouseetheballs.mp3",
           "answer": "balls",
           "hint": "Can you see the balls: Bạn có nhìn thấy những quả bóng không?",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -10666,7 +10666,7 @@
           ],
           "hint": "Nước ép ở trên bàn. → The juice is on the table.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -10684,7 +10684,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 The lemon is on the table. → Quả chanh ở trên bàn.\n✅ D. lemon → quả chanh",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -10710,7 +10710,7 @@
             }
           ],
           "hint": "I can see fourteen foxes. - Mình nhìn thấy mười bốn con cáo.\nThere are twelve tables. - Có mười hai cái bàn.\nLet's look at the sister! - Chúng ta hãy nhìn chị gái nào!\nLook at the cake. The cake is on the table. - Hãy nhìn cái bánh. Cái bánh ở trên bàn.",
-          "topicId": 6
+          "topicId": 14
         }
       }
     ]
@@ -10738,7 +10738,7 @@
           ],
           "correctIndex": 0,
           "hint": "Look! A teapot! → Nhìn kìa! Cái ấm pha trà!\n(Hình đúng: teapot – ấm pha trà)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -10756,7 +10756,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "yo-yos, top, volleyball đều là đồ chơi; yams (củ khoai) là đồ ăn, thức uống.\n✅ B. yams",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -10768,7 +10768,7 @@
           "audioUrl": "",
           "answer": "see",
           "hint": "I can see a zebra: Mình nhìn thấy một con ngựa vằn.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -10793,7 +10793,7 @@
           ],
           "hint": "Bạn có thích con ngựa không? → Do you like the horse?",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -10811,7 +10811,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 Bài nghe: We're at the café. Look at the table. The cake is on the table.\n→ Chúng mình ở quán cà phê. Hãy nhìn cái bàn. Cái bánh ở trên bàn.\n❓ What is on the table? → Cái gì ở trên bàn?\n✅ D. a cake",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -10837,7 +10837,7 @@
             }
           ],
           "hint": "What number is it? It's thirteen. - Đó là số mấy? Đó là số mười ba.\nI can see twelve goats. - Mình nhìn thấy mười hai con dê.\nI have fourteen pens. - Mình có mười bốn cái bút mực.\nThe popcorn is on the table. - Bỏng ngô ở trên bàn.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -10858,7 +10858,7 @@
           ],
           "correctIndex": 1,
           "hint": "He has a sister. → Cậu ấy có chị/em gái.\n(Hình đúng: sister – chị/em gái)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -10876,7 +10876,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "great → tuyệt vời\n✅ C. great",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -10888,7 +10888,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/myfamilyisathome.mp3",
           "answer": "family",
           "hint": "My family is at home: Gia đình mình ở nhà.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -10913,7 +10913,7 @@
           ],
           "hint": "Mình vẽ được một con mèo. → I can draw a cat.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -10931,7 +10931,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: Hi, I'm Kate. It's my birthday party. I like pasta. The pasta is yummy.\n→ Chào, mình là Kate. Đây là bữa tiệc sinh nhật của mình. Mình thích mì ống. Mì ống ngon.\n❓ What does Kate like? → Kate thích gì?\n✅ A. pasta",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -10957,7 +10957,7 @@
             }
           ],
           "hint": "There's a horse at the zoo. - Có một con ngựa ở sở thú.\nMum wants some nuts. - Mẹ muốn vài hạt lạc.\nI can draw a ball. - Mình vẽ được một quả bóng.\nI want some nuts, please. - Làm ơn cho mình vài hạt lạc.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -10978,7 +10978,7 @@
           ],
           "correctIndex": 0,
           "hint": "Those are grapes. → Kia là những quả nho.\n(Hình đúng: grapes – nho)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -10996,7 +10996,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "maths → môn toán\n✅ C. a",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -11008,7 +11008,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/weareallhere.mp3",
           "answer": "all",
           "hint": "We are all here: Tất cả chúng mình đều ở đây.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -11033,7 +11033,7 @@
           ],
           "hint": "Làm ơn đưa cho mình cái mũ. → Pass me the hat, please.",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -11051,7 +11051,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Lan is having a cake. → Lan đang ăn bánh.\n✅ B. Lan is having a cake.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -11077,7 +11077,7 @@
             }
           ],
           "hint": "I want some apples, please. - Làm ơn cho mình vài quả táo.\nMum wants some yo-yos. - Mẹ muốn vài cái yo-yo.\nI like pasta. Pass me the pasta, please. - Mình thích mì ống. Làm ơn đưa cho mình mì ống.\nI can draw a kitten. - Mình vẽ được một chú mèo con.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -11098,7 +11098,7 @@
           ],
           "correctIndex": 2,
           "hint": "They're bananas. → Đó là những quả chuối.\n(Hình đúng: bananas – chuối)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -11116,7 +11116,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "kitten, turtle, monkey đều là con vật; chips (khoai tây chiên) là đồ ăn, thức uống.\n✅ C. chips",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -11128,7 +11128,7 @@
           "audioUrl": "",
           "answer": "Look",
           "hint": "Look at the grapes: Hãy nhìn những quả nho.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -11155,7 +11155,7 @@
           ],
           "hint": "Quyển sách ở trên bàn. → The book is on the table.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -11173,7 +11173,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "There are fifteen cars. → Có mười lăm chiếc ô tô.\n✅ D. There are fifteen cars.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -11199,7 +11199,7 @@
             }
           ],
           "hint": "We're at the seaside. It's a sunny day. - Chúng mình đang ở bờ biển. Trời nắng.\nThere's a sail. - Có một cánh buồm.\nWe're having grapes. - Chúng mình đang ăn nho.\nThis is a volleyball. - Đây là một quả bóng chuyền.",
-          "topicId": 7
+          "topicId": 15
         }
       }
     ]
@@ -11227,7 +11227,7 @@
           ],
           "correctIndex": 0,
           "hint": "I like the ball. → Mình thích quả bóng.\n(Hình đúng: ball – quả bóng)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -11245,7 +11245,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "yummy → ngon\n✅ D. u",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -11257,7 +11257,7 @@
           "audioUrl": "",
           "answer": "sliding",
           "hint": "Ba is sliding: Ba đang trượt cầu trượt.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -11282,7 +11282,7 @@
           ],
           "hint": "Làm ơn đưa cho mình những quả nho. → Pass me the grapes, please.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -11300,7 +11300,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "📖 Bài đọc: We're on the farm. Look! There's a fox on the farm.\n→ Chúng mình ở nông trại. Nhìn kìa! Có một con cáo ở nông trại.\n❓ What is on the farm? → Có gì ở nông trại?\n✅ C. a fox",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -11326,7 +11326,7 @@
             }
           ],
           "hint": "Kate is having a cake. - Kate đang ăn bánh.\nLet's look at the café! - Chúng ta hãy nhìn quán cà phê nào!\nWe are all here. - Tất cả chúng mình đều ở đây.\nThat's my mother. - Kia là mẹ của mình.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -11347,7 +11347,7 @@
           ],
           "correctIndex": 2,
           "hint": "Look at the sail! → Nhìn cánh buồm kìa!\n(Hình đúng: sail – cánh buồm)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -11365,7 +11365,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Từ bắt đầu bằng chữ T: top (con quay).\n✅ D. top",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -11377,7 +11377,7 @@
           "audioUrl": "",
           "answer": "see",
           "hint": "I can see seven lemons: Mình nhìn thấy bảy quả chanh.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -11404,7 +11404,7 @@
           ],
           "hint": "Cô ấy có đang chơi với mèo không? → Is she playing with a cat?",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -11422,7 +11422,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "I like yogurt. → Mình thích sữa chua.\n✅ B. I like yogurt.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -11448,7 +11448,7 @@
             }
           ],
           "hint": "She's driving a car in the playground. - Cô ấy đang lái ô tô ở sân chơi.\nKate is having a cake. - Kate đang ăn bánh.\nNam is sliding. - Nam đang trượt cầu trượt.\nLook at the bananas. - Hãy nhìn những quả chuối.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -11469,7 +11469,7 @@
           ],
           "correctIndex": 2,
           "hint": "Wow! Popcorn! → Ồ! Bỏng ngô!\n(Hình đúng: popcorn – bỏng ngô)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -11485,7 +11485,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: seventeen clocks (mười bảy cái đồng hồ).\nThere are sixteen clocks. → Có mười sáu cái đồng hồ.\n(Câu này sai vì hình không phải sixteen clocks. Câu đúng cho hình: I can see seventeen clocks.)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -11497,7 +11497,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/ilikehat.mp3",
           "answer": "hat",
           "hint": "I like hat: Mình thích cái mũ.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -11524,7 +11524,7 @@
           ],
           "hint": "Lan đang chơi với mèo con. → Lan is playing with a kitten.",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -11542,7 +11542,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 Can you draw a fox? → Bạn có vẽ được một con cáo không?\n✅ D. Yes, I can. → Vâng, mình vẽ được.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -11568,7 +11568,7 @@
             }
           ],
           "hint": "There's a yo-yo. - Có một cái yo-yo.\nLet's look at the van! - Chúng ta hãy nhìn chiếc xe tải nhỏ nào!\nLet's go to Ba's village! - Chúng ta hãy đến ngôi làng của Ba nào!\nThere's a tiger at the zoo. - Có một con hổ ở sở thú.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -11589,7 +11589,7 @@
           ],
           "correctIndex": 0,
           "hint": "Look! Chicken! → Nhìn kìa! Thịt gà!\n(Hình đúng: chicken – thịt gà)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -11607,7 +11607,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Nhìn hình và chọn.\n✅ B. having grapes → ăn nho",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -11619,7 +11619,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/howmanysails.mp3",
           "answer": "sails",
           "hint": "How many sails: Có bao nhiêu cánh buồm?",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -11645,7 +11645,7 @@
           ],
           "hint": "Chúng ta hãy nhìn chị gái nào! → Let's look at the sister!",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -11663,7 +11663,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 I can see fifteen kites. → Mình nhìn thấy mười lăm cái diều.\n✅ C. fifteen kites → mười lăm cái diều",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -11689,7 +11689,7 @@
             }
           ],
           "hint": "That's a fence. - Kia là một hàng rào.\nWe're in the clothes shop. - Chúng mình đang ở cửa hàng quần áo.\nThe cake is on the blanket. - Cái bánh ở trên cái chăn.\nThe shoes are in the clothes shop. - Những đôi giày ở trong cửa hàng quần áo.",
-          "topicId": 8
+          "topicId": 16
         }
       }
     ]
@@ -11717,7 +11717,7 @@
           ],
           "correctIndex": 1,
           "hint": "I see a zebra. → Mình nhìn thấy con ngựa vằn.\n(Hình đúng: zebra – ngựa vằn)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -11735,7 +11735,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Nhìn hình và chọn.\n✅ B. reading books → đọc sách",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -11747,7 +11747,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/ihavesevencups.mp3",
           "answer": "cups",
           "hint": "I have seven cups: Mình có bảy cái cốc.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -11772,7 +11772,7 @@
           ],
           "hint": "Mình nhìn thấy mười ba cái hộp. → I can see thirteen boxes.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -11790,7 +11790,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 Bài nghe: This is my brother. How old is he? He's twenty.\n→ Đây là anh trai của mình. Anh ấy bao nhiêu tuổi? Anh ấy hai mươi tuổi.\n❓ How old is the brother? → Anh trai bao nhiêu tuổi?\n✅ D. twenty",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -11816,7 +11816,7 @@
             }
           ],
           "hint": "Mai wants some shoes. - Mai muốn mua vài đôi giày.\nLet's look at the doll! - Chúng ta hãy nhìn con búp bê nào!\nMy brother is twenty. - Anh trai của mình hai mươi tuổi.\nThe book is over there. - Quyển sách ở đằng kia.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -11837,7 +11837,7 @@
           ],
           "correctIndex": 0,
           "hint": "I can see a campsite. → Mình có thể nhìn thấy khu cắm trại.\n(Hình đúng: campsite – khu cắm trại)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -11855,7 +11855,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Từ bắt đầu bằng chữ P: pizza (bánh pizza).\n✅ C. pizza",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -11867,7 +11867,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/baisatthezoo.mp3",
           "answer": "zoo",
           "hint": "Ba is at the zoo: Ba ở sở thú.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -11892,7 +11892,7 @@
           ],
           "hint": "Làm ơn cho mình vài cái yo-yo. → I want some yo-yos, please.",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -11910,7 +11910,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Câu đúng: The bag is on the table. → Cái túi ở trên bàn.\nSai ở \"are\": chủ ngữ số ít → is.\n✅ A. are",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -11936,7 +11936,7 @@
             }
           ],
           "hint": "She's driving a car in the playground. - Cô ấy đang lái ô tô ở sân chơi.\nShe's having noodles. - Cô ấy đang ăn mì.\nShe's sliding in the playground. - Cô ấy đang trượt cầu trượt ở sân chơi.\nShe's having a banana. - Cô ấy đang ăn chuối.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -11957,7 +11957,7 @@
           ],
           "correctIndex": 0,
           "hint": "It's a desk. → Đó là cái bàn học.\n(Hình đúng: desk – cái bàn học)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -11975,7 +11975,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Trước ten (10) là nine (9).\n✅ A. nine",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -11987,7 +11987,7 @@
           "audioUrl": "",
           "answer": "thirteen",
           "hint": "I can see thirteen dogs: Mình nhìn thấy mười ba con chó.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -12012,7 +12012,7 @@
           ],
           "hint": "Chúng ta hãy nhìn cái yo-yo nào! → Let's look at the yo-yo!",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -12030,7 +12030,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Can you draw a duck? → Bạn có vẽ được một con vịt không?\n✅ A. Yes, I can. → Vâng, mình vẽ được.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -12056,7 +12056,7 @@
             }
           ],
           "hint": "There's a kitten in the box. - Có một chú mèo con ở trong cái hộp.\nPass me the cup, please. - Làm ơn đưa cho mình cái cốc.\nNam is at the zoo. - Nam ở sở thú.\nLook! A duck! - Nhìn kìa! Một con vịt!",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -12077,7 +12077,7 @@
           ],
           "correctIndex": 2,
           "hint": "What's this? It's a café. → Đây là gì? Đó là quán cà phê.\n(Hình đúng: café – quán cà phê)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -12095,7 +12095,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Sau ten (10) là eleven (11).\n✅ C. eleven",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -12107,7 +12107,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/howmanykittens.mp3",
           "answer": "many",
           "hint": "How many kittens: Có bao nhiêu chú mèo con?",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -12133,7 +12133,7 @@
           ],
           "hint": "Bạn có nhìn thấy những đôi giày không? → Can you see the shoes?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -12151,7 +12151,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 Bài nghe: We're at the campsite. Where's the blanket? It's on the table.\n→ Chúng mình ở khu cắm trại. Cái chăn ở đâu? Nó ở trên cái bàn.\n❓ Where's the blanket? → Cái chăn ở đâu?\n✅ B. on the table",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -12177,7 +12177,7 @@
             }
           ],
           "hint": "Pass me the jam. Here you are. - Đưa cho mình mứt. Của bạn đây.\nGreat! - Tuyệt!\nThank you. - Cảm ơn bạn.\nThe chips are in the kitchen. - Khoai tây chiên ở trong nhà bếp.",
-          "topicId": 1
+          "topicId": 9
         }
       }
     ]
@@ -12205,7 +12205,7 @@
           ],
           "correctIndex": 0,
           "hint": "I like the box. → Mình thích cái hộp.\n(Hình đúng: box – cái hộp)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -12223,7 +12223,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Nhìn hình và chọn.\n✅ C. monkey → con khỉ",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -12235,7 +12235,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/theresadoll.mp3",
           "answer": "doll",
           "hint": "There's a doll: Có một con búp bê.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -12260,7 +12260,7 @@
           ],
           "hint": "Chị gái của bạn bao nhiêu tuổi? → How old is your sister?",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -12278,7 +12278,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Where is the cat? → Con mèo ở đâu?\n✅ A. Over there. → Ở đằng kia.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -12304,7 +12304,7 @@
             }
           ],
           "hint": "The dog is over there. - Con chó ở đằng kia.\nLook at the blanket! - Hãy nhìn cái chăn!\nI like the shorts. - Mình thích những chiếc quần soóc.\nThe cup is in the tent. - Cái cốc ở trong cái lều.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -12325,7 +12325,7 @@
           ],
           "correctIndex": 0,
           "hint": "Hi! I like yogurt. → Chào! Mình thích sữa chua.\n(Hình đúng: yogurt – sữa chua)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -12343,7 +12343,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "apple, lemon, yogurt đều là đồ ăn, thức uống; football (quả bóng đá) là đồ chơi.\n✅ B. football",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -12355,7 +12355,7 @@
           "audioUrl": "",
           "answer": "sliding",
           "hint": "Nam is sliding: Nam đang trượt cầu trượt.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -12380,7 +12380,7 @@
           ],
           "hint": "Nam đang ăn bánh. → Nam is having a cake.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -12398,7 +12398,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "🎧 Bài nghe: We're in the maths class. What number is it? It's twelve.\n→ Chúng mình ở trong giờ học toán. Đó là số mấy? Đó là số mười hai.\n❓ What number is it? → Đó là số mấy?\n✅ C. twelve",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -12424,7 +12424,7 @@
             }
           ],
           "hint": "The cake is on the table. - Cái bánh ở trên bàn.\nLook at the brother! - Hãy nhìn anh trai!\nThere are eleven ducks. - Có mười một con vịt.\nHe's having a banana. - Cậu ấy đang ăn chuối.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -12445,7 +12445,7 @@
           ],
           "correctIndex": 1,
           "hint": "Is it a goat? → Đó có phải là con dê không?\n(Hình đúng: goat – con dê)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -12463,7 +12463,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "near → ở gần\n✅ A. e",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -12475,7 +12475,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/canyouseethechips.mp3",
           "answer": "chips",
           "hint": "Can you see the chips: Bạn có nhìn thấy khoai tây chiên không?",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -12501,7 +12501,7 @@
           ],
           "hint": "Bạn có thích con mèo không? → Do you like the cat?",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -12519,7 +12519,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Câu đúng: Mum wants some yogurt. → Mẹ muốn một ít sữa chua.\nSai ở \"a\": some + danh từ không đếm được / số nhiều.\n✅ C. a",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -12545,7 +12545,7 @@
             }
           ],
           "hint": "Kate is playing with a dog. - Kate đang chơi với chó.\nSue is in the village. - Sue ở trong làng.\nThe bananas are yummy. - Chuối ngon.\nBill is having chips. - Bill đang ăn khoai tây chiên.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -12566,7 +12566,7 @@
           ],
           "correctIndex": 1,
           "hint": "Where's the doll? → Con búp bê ở đâu?\n(Hình đúng: doll – búp bê)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -12584,7 +12584,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "goat, ox, turtle đều là con vật; foot (bàn chân) là bộ phận cơ thể.\n✅ B. foot",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -12596,7 +12596,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/ilikeshorts.mp3",
           "answer": "like",
           "hint": "I like shorts: Mình thích quần soóc.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -12624,7 +12624,7 @@
           ],
           "hint": "Cậu ấy có đang chơi với mèo không? → Is he playing with a cat?",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -12642,7 +12642,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 Pass me the juice, please. → Làm ơn đưa cho mình nước ép.\n✅ B. Here you are. → Của bạn đây.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -12668,7 +12668,7 @@
             }
           ],
           "hint": "I can draw an ox. - Mình vẽ được một con bò đực.\nMum wants some yams. Mum wants some apples. - Mẹ muốn một ít củ khoai. Mẹ muốn một ít táo.\nI like the zoo. - Mình thích sở thú.\nLet's go to the village! - Chúng ta hãy đi đến ngôi làng nào!",
-          "topicId": 2
+          "topicId": 10
         }
       }
     ]
@@ -12696,7 +12696,7 @@
           ],
           "correctIndex": 2,
           "hint": "Show me the grapes. → Chỉ cho mình những quả nho.\n(Hình đúng: grapes – nho)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -12714,7 +12714,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "maths → môn toán\n✅ D. môn toán",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -12726,7 +12726,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/ihavethirteencats.mp3",
           "answer": "thirteen",
           "hint": "I have thirteen cats: Mình có mười ba con mèo.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -12751,7 +12751,7 @@
           ],
           "hint": "Chúng ta hãy nhìn những đôi giày nào! → Let's look at the shoes!",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -12769,7 +12769,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Câu đúng: The popcorn is on the table. → Bỏng ngô ở trên bàn.\nSai ở \"are\": chủ ngữ số ít → is.\n✅ C. are",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -12795,7 +12795,7 @@
             }
           ],
           "hint": "It's a goat. - Đó là một con dê.\nI can see a box. - Mình nhìn thấy một cái hộp.\nI can see a duck in the countryside. - Mình nhìn thấy một con vịt ở vùng nông thôn.\nLan is playing with a kitten. - Lan đang chơi với mèo con.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -12816,7 +12816,7 @@
           ],
           "correctIndex": 2,
           "hint": "It's my seal. → Đó là con hải cẩu của mình.\n(Hình đúng: seal – hải cẩu)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -12834,7 +12834,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "slide → trượt, cầu trượt\n✅ C. slide",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -12846,7 +12846,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/maiishavingabanana.mp3",
           "answer": "banana",
           "hint": "Mai is having a banana: Mai đang ăn chuối.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -12874,7 +12874,7 @@
           ],
           "hint": "Có bao nhiêu con mèo? Mười hai hay mười lăm? → How many cats? Twelve or fifteen?",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -12892,7 +12892,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Câu đúng: I can see a cat. → Mình nhìn thấy một con mèo.\nSai ở \"an\": trước phụ âm dùng a.\n✅ D. an",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -12918,7 +12918,7 @@
             }
           ],
           "hint": "Bill is at the zoo. - Bill ở sở thú.\nI can see a zebu at the zoo. - Mình nhìn thấy một con bò u ở sở thú.\nThis is my grandmother. - Đây là bà của mình.\nWe're in the maths class. - Chúng mình đang ở trong giờ học toán.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -12939,7 +12939,7 @@
           ],
           "correctIndex": 1,
           "hint": "That's a cake. → Kia là cái bánh.\n(Hình đúng: cake – bánh ngọt)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -12955,7 +12955,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "✅ A. True\n👉 Hình vẽ: five yo-yos (năm cái yo-yo).\nI can see five yo-yos. → Mình nhìn thấy năm cái yo-yo.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -12967,7 +12967,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/iwantsomejuice.mp3",
           "answer": "want",
           "hint": "I want some juice: Mình muốn một ít nước ép.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -12992,7 +12992,7 @@
           ],
           "hint": "Chúng ta hãy nhìn con ngựa vằn nào! → Let's look at the zebra!",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -13008,7 +13008,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "📖 Bài đọc: We're at the café. Look at the table. The cake is on the table.\n→ Chúng mình ở quán cà phê. Hãy nhìn cái bàn. Cái bánh ở trên bàn.\n✅ A. True\nA cake is on the table. → Có bánh ngọt ở trên bàn.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -13034,7 +13034,7 @@
             }
           ],
           "hint": "The nuts are yummy. - Hạt lạc ngon.\nI can see seven footballs. - Mình nhìn thấy bảy quả bóng đá.\nLook! A rainbow! - Nhìn kìa! Một cầu vồng!\nThere's a turtle on the farm. - Có một con rùa ở nông trại.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -13055,7 +13055,7 @@
           ],
           "correctIndex": 2,
           "hint": "Where's the brother? → Anh/em trai ở đâu?\n(Hình đúng: brother – anh/em trai)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -13073,7 +13073,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "shorts → quần soóc\n✅ A. shorts",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -13085,7 +13085,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/doyoulikethezebra.mp3",
           "answer": "zebra",
           "hint": "Do you like the zebra: Bạn có thích con ngựa vằn không?",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -13110,7 +13110,7 @@
           ],
           "hint": "Làm ơn đưa cho mình quả táo. → Pass me the apple, please.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -13126,7 +13126,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're at the zoo. Do you like the zebu? Yes, I do. That's a zebu.\n→ Chúng mình ở sở thú. Bạn có thích bò u không? Có. Kia là bò u.\n✅ A. True\nThey like the zebu. → Họ thích bò u.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -13152,7 +13152,7 @@
             }
           ],
           "hint": "That's a seal. - Kia là một con hải cẩu.\nHe's sliding in the playground. - Cậu ấy đang trượt cầu trượt ở sân chơi.\nThey're sliding. - Họ đang trượt cầu trượt.\nThey're flying kites. - Họ đang thả diều.",
-          "topicId": 3
+          "topicId": 11
         }
       }
     ]
@@ -13180,7 +13180,7 @@
           ],
           "correctIndex": 1,
           "hint": "He has a table. → Cậu ấy có cái bàn.\n(Hình đúng: table – cái bàn)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -13198,7 +13198,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "Nhìn hình và chọn.\n✅ D. hat → cái mũ",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -13210,7 +13210,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/kenishavingnoodles.mp3",
           "answer": "having",
           "hint": "Ken is having noodles: Ken đang ăn mì.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -13237,7 +13237,7 @@
           ],
           "hint": "Chú mèo con có ở trong cái lều không? → Is the kitten in the tent?",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -13255,7 +13255,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "Câu đúng: I want some jam. → Mình muốn một ít mứt.\nSai ở \"a\": some + danh từ không đếm được / số nhiều.\n✅ C. a",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -13281,7 +13281,7 @@
             }
           ],
           "hint": "That's a seal. - Kia là một con hải cẩu.\nThis is my village. - Đây là ngôi làng của mình.\nThere's a zebu at the zoo. - Có một con bò u ở sở thú.\nI can't draw a sail. - Mình không vẽ được một cánh buồm.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -13302,7 +13302,7 @@
           ],
           "correctIndex": 2,
           "hint": "Hi! It's a road. → Chào! Đó là con đường.\n(Hình đúng: road – con đường)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -13320,7 +13320,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "Từ bắt đầu bằng chữ V: volleyball (quả bóng chuyền).\n✅ A. volleyball",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -13332,7 +13332,7 @@
           "audioUrl": "",
           "answer": "thirteen",
           "hint": "I have thirteen bikes: Mình có mười ba chiếc xe đạp.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -13358,7 +13358,7 @@
           ],
           "hint": "Nam đang ăn bánh. → Nam is having a cake.",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -13374,7 +13374,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're in the clothes shop. I want some shoes. Where are the shoes? Over there.\n→ Chúng mình ở cửa hàng quần áo. Mình muốn mua đôi giày. Đôi giày ở đâu? Ở đằng kia.\n✅ B. False\nThe child wants shorts. → Bạn nhỏ muốn quần soóc.\n(Câu đúng: The child wants shoes.)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -13400,7 +13400,7 @@
             }
           ],
           "hint": "I like the shirts. - Mình thích những chiếc áo sơ mi.\nCan you see the shoes? - Bạn có nhìn thấy những đôi giày không?\nThat's a blanket. - Kia là một cái chăn.\nMy mother is at home. - Mẹ của mình ở nhà.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -13421,7 +13421,7 @@
           ],
           "correctIndex": 1,
           "hint": "Ba likes fish. → Ba thích cá.\n(Hình đúng: fish – cá)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -13439,7 +13439,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Từ bắt đầu bằng chữ Z: zoo (sở thú).\n✅ B. zoo",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -13451,7 +13451,7 @@
           "audioUrl": "",
           "answer": "driving",
           "hint": "Sue is driving a car: Sue đang lái ô tô.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -13476,7 +13476,7 @@
           ],
           "hint": "Mai đang tô màu hình vuông. → Mai is colouring a square.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -13492,7 +13492,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "📖 Bài đọc: We're in the maths class. What number is it? It's fifteen.\n→ Chúng mình ở trong giờ học toán. Đó là số mấy? Đó là số mười lăm.\n✅ A. True\nIt's fifteen. → Đó là số mười lăm.",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -13518,7 +13518,7 @@
             }
           ],
           "hint": "I have thirteen tops. - Mình có mười ba con quay.\nIt's thirteen. - Đó là số mười ba.\nThis is my grandmother. - Đây là bà của mình.\nMy brother is sixteen. - Anh trai của mình mười sáu tuổi.",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -13539,7 +13539,7 @@
           ],
           "correctIndex": 2,
           "hint": "Where are the shorts? → Những chiếc quần soóc ở đâu?\n(Hình đúng: shorts – quần soóc)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -13557,7 +13557,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "yes → vâng, có\n✅ C. yes",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -13569,7 +13569,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/mumwantssomebananas.mp3",
           "answer": "bananas",
           "hint": "Mum wants some bananas: Mẹ muốn vài quả chuối.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -13594,7 +13594,7 @@
           ],
           "hint": "Bạn có vẽ được một ngôi làng không? → Can you draw a village?",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -13612,7 +13612,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Are they riding bikes? → Họ có đang đi xe đạp không?\n✅ A. No, they aren't. They're flying kites. → Không. Họ đang thả diều.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -13638,7 +13638,7 @@
             }
           ],
           "hint": "He's having a banana. - Cậu ấy đang ăn chuối.\nThey're flying kites. - Họ đang thả diều.\nLook at the zoo! - Hãy nhìn sở thú!\nThere's a table. - Có một cái bàn.",
-          "topicId": 4
+          "topicId": 12
         }
       }
     ]
@@ -13666,7 +13666,7 @@
           ],
           "correctIndex": 1,
           "hint": "She has a sister. → Cô ấy có chị/em gái.\n(Hình đúng: sister – chị/em gái)",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -13684,7 +13684,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "shoes → giày\n✅ C. shoes",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -13696,7 +13696,7 @@
           "audioUrl": "",
           "answer": "teapot",
           "hint": "I can see a teapot: Mình nhìn thấy một cái ấm pha trà.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -13721,7 +13721,7 @@
           ],
           "hint": "Làm ơn cho mình vài quả chuối. → I want some bananas, please.",
           "eraseFlag": 0,
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -13739,7 +13739,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Câu đúng: Sue is playing with a kitten. → Sue đang chơi với mèo con.\nSai ở \"are\": chủ ngữ số ít → is.\n✅ B. are",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -13765,7 +13765,7 @@
             }
           ],
           "hint": "Mum wants some nuts. - Mẹ muốn vài hạt lạc.\nI can see a horse at the zoo. - Mình nhìn thấy một con ngựa ở sở thú.\nBa is at the zoo. - Ba ở sở thú.\nI want some bananas. - Mình muốn vài quả chuối.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -13786,7 +13786,7 @@
           ],
           "correctIndex": 0,
           "hint": "Yes, it's my car. → Vâng, đó là chiếc ô tô của mình.\n(Hình đúng: car – ô tô)",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -13804,7 +13804,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "duck → con vịt\n✅ B. con vịt",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -13816,7 +13816,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/howoldisshe.mp3",
           "answer": "she",
           "hint": "How old is she: Chị ấy bao nhiêu tuổi?",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -13843,7 +13843,7 @@
           ],
           "hint": "Có bao nhiêu quả táo? Mười ba hay mười bốn? → How many apples? Thirteen or fourteen?",
           "eraseFlag": 0,
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -13861,7 +13861,7 @@
           ],
           "correctAnswerIndex": 0,
           "hint": "🎧 Bài nghe: We're at the campsite. Where's the blanket? It's in the tent.\n→ Chúng mình ở khu cắm trại. Cái chăn ở đâu? Nó ở trong cái lều.\n❓ Where's the blanket? → Cái chăn ở đâu?\n✅ A. in the tent",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -13887,7 +13887,7 @@
             }
           ],
           "hint": "I can't draw a road. - Mình không vẽ được một con đường.\nThe jelly is yummy. - Thạch ngon.\nI can draw a hat. - Mình vẽ được một cái mũ.\nI can see a river in the countryside. - Mình nhìn thấy một dòng sông ở vùng nông thôn.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -13908,7 +13908,7 @@
           ],
           "correctIndex": 0,
           "hint": "It's my zebu. → Đó là con bò u của mình.\n(Hình đúng: zebu – bò u)",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -13924,7 +13924,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: riding a horse (cưỡi ngựa).\nThey're sliding. → Họ đang trượt cầu trượt.\n(Câu này sai vì hình không phải sliding. Câu đúng cho hình: He's riding a horse.)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -13936,7 +13936,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/sueishavingabanana.mp3",
           "answer": "having",
           "hint": "Sue is having a banana: Sue đang ăn chuối.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -13961,7 +13961,7 @@
           ],
           "hint": "Mình nhìn thấy một con búp bê. → I can see a doll.",
           "eraseFlag": 0,
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -13979,7 +13979,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "🎧 I have twelve kites. → Mình có mười hai cái diều.\n✅ D. twelve kites → mười hai cái diều",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -14005,7 +14005,7 @@
             }
           ],
           "hint": "He's driving a car in the playground. - Cậu ấy đang lái ô tô ở sân chơi.\nLan is colouring a square. - Lan đang tô màu hình vuông.\nKen is at the zoo. - Ken ở sở thú.\nI have thirteen cups. - Mình có mười ba cái cốc.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -14026,7 +14026,7 @@
           ],
           "correctIndex": 2,
           "hint": "I can see a rainbow. → Mình có thể nhìn thấy cầu vồng.\n(Hình đúng: rainbow – cầu vồng)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -14044,7 +14044,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "top, volleyball, ball đều là đồ chơi; yogurt (sữa chua) là đồ ăn, thức uống.\n✅ C. yogurt",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -14056,7 +14056,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/doyouliketheturtle.mp3",
           "answer": "like",
           "hint": "Do you like the turtle: Bạn có thích con rùa không?",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -14081,7 +14081,7 @@
           ],
           "hint": "Cô ấy có đang đọc sách không? → Is she reading a book?",
           "eraseFlag": 0,
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -14099,7 +14099,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "There's a table. → Có một cái bàn.\n✅ B. There's a table.",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -14125,7 +14125,7 @@
             }
           ],
           "hint": "He's having a cake. She's having grapes. - Cậu ấy đang ăn bánh. Cô ấy đang ăn nho.\nLan is driving a car. - Lan đang lái ô tô.\nLook at the grapes. - Hãy nhìn những quả nho.\nThe pizza is on the table. - Bánh pizza ở trên bàn.",
-          "topicId": 5
+          "topicId": 13
         }
       }
     ]
@@ -14153,7 +14153,7 @@
           ],
           "correctIndex": 2,
           "hint": "I like shorts. → Mình thích những chiếc quần soóc.\n(Hình đúng: shorts – quần soóc)",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -14169,7 +14169,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "✅ B. False\n👉 Hình vẽ: teapot (ấm pha trà).\nIt's a blanket. → Đó là cái chăn.\n(Câu này sai vì hình không phải blanket. Câu đúng cho hình: It's a teapot.)",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -14181,7 +14181,7 @@
           "audioUrl": "",
           "answer": "volleyball",
           "hint": "This is a volleyball: Đây là một quả bóng chuyền.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -14207,7 +14207,7 @@
           ],
           "hint": "Bạn có nhìn thấy những cái yo-yo không? → Can you see the yo-yos?",
           "eraseFlag": 0,
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -14223,7 +14223,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're in the playground. Look at Kate and Ken. They're riding bikes.\n→ Chúng mình ở sân chơi. Nhìn Kate và Ken kìa. Họ đang đi xe đạp.\n✅ B. False\nKate and Ken are sliding. → Kate và Ken đang trượt cầu trượt.\n(Câu đúng: Kate and Ken are riding bikes.)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -14249,7 +14249,7 @@
             }
           ],
           "hint": "Ba is having grapes. - Ba đang ăn nho.\nThe chicken is on the table. - Thịt gà ở trên bàn.\nShe's riding a bike in the playground. - Cô ấy đang đi xe đạp ở sân chơi.\nLet's look at the zebra! - Chúng ta hãy nhìn con ngựa vằn nào!",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -14270,7 +14270,7 @@
           ],
           "correctIndex": 2,
           "hint": "Show me the doll, please. → Làm ơn chỉ cho mình con búp bê.\n(Hình đúng: doll – búp bê)",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -14288,7 +14288,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📝 The pizza is on the table. → Bánh pizza ở trên bàn.\n✅ B. is\n💡 Chủ ngữ số ít hoặc không đếm được → dùng is",
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -14300,7 +14300,7 @@
           "audioUrl": "",
           "answer": "eleven",
           "hint": "I have eleven cups: Mình có mười một cái cốc.",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -14326,7 +14326,7 @@
           ],
           "hint": "Kate đang làm câu đố. → Kate is doing a quiz.",
           "eraseFlag": 0,
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -14344,7 +14344,7 @@
           ],
           "correctAnswerIndex": 2,
           "hint": "I have a top. → Mình có một con quay.\n✅ C. I have a top.",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -14370,7 +14370,7 @@
             }
           ],
           "hint": "Bill is playing volleyball in the village. - Bill đang chơi bóng chuyền ở trong làng.\nIt's a nice village. - Đây là một ngôi làng đẹp.\nI can see a van. - Mình nhìn thấy một chiếc xe tải nhỏ.\nSue is in the village. - Sue ở trong làng.",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -14391,7 +14391,7 @@
           ],
           "correctIndex": 1,
           "hint": "Here's a fox. → Đây là con cáo.\n(Hình đúng: fox – con cáo)",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -14409,7 +14409,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "Nhìn hình và chọn.\n✅ B. ten ducks → mười con vịt",
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -14421,7 +14421,7 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/audios/whereistheapple.mp3",
           "answer": "apple",
           "hint": "Where is the apple: Quả táo ở đâu?",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -14446,7 +14446,7 @@
           ],
           "hint": "Chúng ta hãy nhìn quán cà phê nào! → Let's look at the café!",
           "eraseFlag": 0,
-          "topicId": 6
+          "topicId": 14
         }
       },
       {
@@ -14464,7 +14464,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "🎧 I have eleven boxes. → Mình có mười một cái hộp.\n✅ B. eleven boxes → mười một cái hộp",
-          "topicId": 7
+          "topicId": 15
         }
       },
       {
@@ -14490,7 +14490,7 @@
             }
           ],
           "hint": "I can see nine cats. - Mình nhìn thấy chín con mèo.\nI can draw a road. - Mình vẽ được một con đường.\nThe chips are yummy. - Khoai tây chiên ngon.\nMy father is at home. - Bố của mình ở nhà.",
-          "topicId": 8
+          "topicId": 16
         }
       },
       {
@@ -14511,7 +14511,7 @@
           ],
           "correctIndex": 1,
           "hint": "It's my yo-yo. → Đó là cái yo-yo của mình.\n(Hình đúng: yo-yo – cái yo-yo)",
-          "topicId": 1
+          "topicId": 9
         }
       },
       {
@@ -14529,7 +14529,7 @@
           ],
           "correctAnswerIndex": 3,
           "hint": "wants → muốn (ngôi thứ ba)\n✅ D. a",
-          "topicId": 2
+          "topicId": 10
         }
       },
       {
@@ -14541,7 +14541,7 @@
           "audioUrl": "",
           "answer": "sliding",
           "hint": "Mai is sliding: Mai đang trượt cầu trượt.",
-          "topicId": 3
+          "topicId": 11
         }
       },
       {
@@ -14568,7 +14568,7 @@
           ],
           "hint": "Có một con bò đực ở trong cái hộp. → There's an ox in the box.",
           "eraseFlag": 0,
-          "topicId": 4
+          "topicId": 12
         }
       },
       {
@@ -14586,7 +14586,7 @@
           ],
           "correctAnswerIndex": 1,
           "hint": "📖 Bài đọc: We're in the maths class. What number is it? It's eleven.\n→ Chúng mình ở trong giờ học toán. Đó là số mấy? Đó là số mười một.\n❓ What number is it? → Đó là số mấy?\n✅ B. eleven",
-          "topicId": 5
+          "topicId": 13
         }
       },
       {
@@ -14612,7 +14612,7 @@
             }
           ],
           "hint": "Bill is having noodles. - Bill đang ăn mì.\nLook at the fish. - Hãy nhìn cá.\nLook at the brother! - Hãy nhìn anh trai!\nThe mango is on the table. - Quả xoài ở trên bàn.",
-          "topicId": 6
+          "topicId": 14
         }
       }
     ]
