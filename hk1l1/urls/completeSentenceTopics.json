@@ -1,0 +1,6458 @@
+[
+  {
+    "id": 1,
+    "text": "Unit 1: In the school playground",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit1.png",
+    "scenes": [
+      {
+        "id": 1,
+        "sentence": "_ all",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "ball: quả bóng"
+      },
+      {
+        "id": 2,
+        "sentence": "_ ike",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "bike: xe đạp"
+      },
+      {
+        "id": 3,
+        "sentence": "_ ook",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "book: quyển sách"
+      },
+      {
+        "id": 4,
+        "sentence": "_ chool",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "school: trường học"
+      },
+      {
+        "id": 5,
+        "sentence": "_ layground",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "playground: sân chơi"
+      },
+      {
+        "id": 6,
+        "sentence": "H_ , I'm Bill.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hiimbill.mp3",
+        "answer": "i",
+        "hint": "Hi, I'm Bill: Xin chào, tôi là Bill."
+      },
+      {
+        "id": 7,
+        "sentence": "bal_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "ball: quả bóng"
+      },
+      {
+        "id": 8,
+        "sentence": "bik_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "bike: xe đạp"
+      },
+      {
+        "id": 9,
+        "sentence": "boo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "book: quyển sách"
+      },
+      {
+        "id": 10,
+        "sentence": "schoo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "school: trường học"
+      },
+      {
+        "id": 11,
+        "sentence": "playgroun_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "playground: sân chơi"
+      },
+      {
+        "id": 12,
+        "sentence": "Hi, _'m Bill.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hiimbill.mp3",
+        "answer": "I",
+        "hint": "Hi, I'm Bill: Xin chào, tôi là Bill."
+      },
+      {
+        "id": 13,
+        "sentence": "b_ ll",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "ball: quả bóng"
+      },
+      {
+        "id": 14,
+        "sentence": "b_ ke",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "bike: xe đạp"
+      },
+      {
+        "id": 15,
+        "sentence": "bo_ k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "book: quyển sách"
+      },
+      {
+        "id": 16,
+        "sentence": "sch_ ol",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "school: trường học"
+      },
+      {
+        "id": 17,
+        "sentence": "play_ round",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "playground: sân chơi"
+      },
+      {
+        "id": 18,
+        "sentence": "B_ e, Bill!",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/byebill.mp3",
+        "answer": "y",
+        "hint": "Bye, Bill!: Tạm biệt, Bill!"
+      },
+      {
+        "id": 19,
+        "sentence": "b_ l_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a, l",
+        "hint": "ball: quả bóng"
+      },
+      {
+        "id": 20,
+        "sentence": "b_ k_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i, e",
+        "hint": "bike: xe đạp"
+      },
+      {
+        "id": 21,
+        "sentence": "b_ o_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o, k",
+        "hint": "book: quyển sách"
+      },
+      {
+        "id": 22,
+        "sentence": "s_ hoo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c, l",
+        "hint": "school: trường học"
+      },
+      {
+        "id": 23,
+        "sentence": "I'm in the school p_ aygroun_",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/imintheschoolplayground.mp3",
+        "answer": "l, d",
+        "hint": "I'm in the school playground: Tôi đang ở sân chơi trường học"
+      },
+      {
+        "id": 24,
+        "sentence": "Hi, _ 'm Bill.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hiimbill.mp3",
+        "answer": "I",
+        "hint": "Hi, I'm Bill: Xin chào, tôi là Bill."
+      },
+      {
+        "id": 25,
+        "sentence": "_ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "school",
+        "hint": "school: trường học"
+      },
+      {
+        "id": 26,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ball",
+        "hint": "ball: quả bóng"
+      },
+      {
+        "id": 27,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bike",
+        "hint": "bike: xe đạp"
+      },
+      {
+        "id": 28,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "book",
+        "hint": "book: quyển sách"
+      },
+      {
+        "id": 29,
+        "sentence": "_ _ _ , Bill",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/byebill.mp3",
+        "answer": "Bye",
+        "hint": "Bye, Bill!: Tạm biệt, Bill!"
+      },
+      {
+        "id": 30,
+        "sentence": "b_ke",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "bike: xe đạp"
+      },
+      {
+        "id": 31,
+        "sentence": "b_d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "bed: cái giường"
+      },
+      {
+        "id": 32,
+        "sentence": "bo_k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "book: quyển sách"
+      },
+      {
+        "id": 33,
+        "sentence": "si_t_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "se",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 34,
+        "sentence": "f_ower",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 35,
+        "sentence": "ri_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "rice: cơm"
+      },
+      {
+        "id": 36,
+        "sentence": "pi_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "pig: con lợn"
+      },
+      {
+        "id": 37,
+        "sentence": "oran__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ge",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 38,
+        "sentence": "k_te",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "kite: cái diều"
+      },
+      {
+        "id": 39,
+        "sentence": "f_og",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "frog: con ếch"
+      },
+      {
+        "id": 40,
+        "sentence": "bre_d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "bread: bánh mì"
+      },
+      {
+        "id": 41,
+        "sentence": "s_oe",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "shoe: chiếc giày"
+      },
+      {
+        "id": 42,
+        "sentence": "sh_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "shoe: chiếc giày"
+      },
+      {
+        "id": 43,
+        "sentence": "ca_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "cap: mũ lưỡi trai"
+      },
+      {
+        "id": 44,
+        "sentence": "can_y",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "candy: kẹo"
+      },
+      {
+        "id": 45,
+        "sentence": "ki_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "kite: cái diều"
+      },
+      {
+        "id": 46,
+        "sentence": "ora_ge",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 47,
+        "sentence": "ar_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "arm: cánh tay"
+      },
+      {
+        "id": 48,
+        "sentence": "d_ll",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "doll: búp bê"
+      },
+      {
+        "id": 49,
+        "sentence": "h_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "hen: con gà mái"
+      },
+      {
+        "id": 50,
+        "sentence": "he_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "hen: con gà mái"
+      },
+      {
+        "id": 51,
+        "sentence": "cook_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 52,
+        "sentence": "elepha_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 53,
+        "sentence": "fro_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "frog: con ếch"
+      },
+      {
+        "id": 54,
+        "sentence": "t_ee",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "tree: cái cây"
+      },
+      {
+        "id": 55,
+        "sentence": "bo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "x",
+        "hint": "box: cái hộp"
+      },
+      {
+        "id": 56,
+        "sentence": "sh_ep",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "sheep: con cừu"
+      },
+      {
+        "id": 57,
+        "sentence": "b_x",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "box: cái hộp"
+      },
+      {
+        "id": 58,
+        "sentence": "co_kie",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 59,
+        "sentence": "e_g",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "egg: quả trứng"
+      },
+      {
+        "id": 60,
+        "sentence": "tab_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "table: cái bàn"
+      },
+      {
+        "id": 61,
+        "sentence": "_all",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "ball: quả bóng"
+      },
+      {
+        "id": 62,
+        "sentence": "I'm at _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/imatschool.mp3",
+        "answer": "school",
+        "hint": "I'm at school: Tôi đang ở trường."
+      },
+      {
+        "id": 63,
+        "sentence": "_ike",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "bike: xe đạp"
+      },
+      {
+        "id": 64,
+        "sentence": "_ook",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "book: quyển sách"
+      },
+      {
+        "id": 65,
+        "sentence": "_chool",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "school: trường học"
+      },
+      {
+        "id": 66,
+        "sentence": "_ _ , I'm Ba.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hiimba.mp3",
+        "answer": "Hi",
+        "hint": "Hi, I'm Ba: Chào, tôi là Ba."
+      },
+      {
+        "id": 67,
+        "sentence": "Bye, _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/byebill.mp3",
+        "answer": "Bill",
+        "hint": "Bye, Bill: Tạm biệt, Bill."
+      },
+      {
+        "id": 68,
+        "sentence": "Hi, I' _ Bill.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hiimbill.mp3",
+        "answer": "m",
+        "hint": "Hi, I'm Bill: Chào, tôi là Bill."
+      },
+      {
+        "id": 69,
+        "sentence": "I'm in the dining _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/iminthediningroom.mp3",
+        "answer": "room",
+        "hint": "I'm in the dining room: Tôi đang ở phòng ăn."
+      },
+      {
+        "id": 70,
+        "sentence": "h_use",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "house: ngôi nhà"
+      },
+      {
+        "id": 71,
+        "sentence": "tabl_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "table: cái bàn"
+      },
+      {
+        "id": 72,
+        "sentence": "b_ead",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "bread: bánh mì"
+      },
+      {
+        "id": 73,
+        "sentence": "si__er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "st",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 74,
+        "sentence": "b_at",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "boat: con thuyền"
+      },
+      {
+        "id": 75,
+        "sentence": "dol_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "doll: búp bê"
+      },
+      {
+        "id": 76,
+        "sentence": "bro__er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "th",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 77,
+        "sentence": "robo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "robot: người máy"
+      },
+      {
+        "id": 78,
+        "sentence": "c_okie",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 79,
+        "sentence": "e_ephant",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 80,
+        "sentence": "broth_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 81,
+        "sentence": "b_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "bye: tạm biệt"
+      },
+      {
+        "id": 82,
+        "sentence": "bi_d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "bird: con chim"
+      },
+      {
+        "id": 83,
+        "sentence": "chai_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "chair: cái ghế"
+      },
+      {
+        "id": 84,
+        "sentence": "shee_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "sheep: con cừu"
+      },
+      {
+        "id": 85,
+        "sentence": "tr_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "tree: cái cây"
+      },
+      {
+        "id": 86,
+        "sentence": "o_ange",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 87,
+        "sentence": "oran_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 88,
+        "sentence": "a_m",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "arm: cánh tay"
+      },
+      {
+        "id": 89,
+        "sentence": "ba_l",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "ball: quả bóng"
+      },
+      {
+        "id": 90,
+        "sentence": "brothe_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 91,
+        "sentence": "rab_it",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 92,
+        "sentence": "rabbi_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 93,
+        "sentence": "ro_ot",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "robot: người máy"
+      },
+      {
+        "id": 94,
+        "sentence": "eleph_nt",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 95,
+        "sentence": "ric_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "rice: cơm"
+      },
+      {
+        "id": 96,
+        "sentence": "c_oki_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oe",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 97,
+        "sentence": "r_bbit",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 98,
+        "sentence": "el_phant",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 99,
+        "sentence": "sis_er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 100,
+        "sentence": "flow_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "flower: bông hoa"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Unit 2: In the dining room",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit2.png",
+    "scenes": [
+      {
+        "id": 101,
+        "sentence": "_ at",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "cat: con mèo"
+      },
+      {
+        "id": 102,
+        "sentence": "_ ar",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "car: ô tô"
+      },
+      {
+        "id": 103,
+        "sentence": "_ ake",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "cake: bánh ngọt"
+      },
+      {
+        "id": 104,
+        "sentence": "_ up",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "cup: cái cốc"
+      },
+      {
+        "id": 105,
+        "sentence": "_ ining room",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/diningroom.mp3",
+        "answer": "d",
+        "hint": "dining room: phòng ăn"
+      },
+      {
+        "id": 106,
+        "sentence": "ca_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "cat: con mèo"
+      },
+      {
+        "id": 107,
+        "sentence": "ca_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "car: ô tô"
+      },
+      {
+        "id": 108,
+        "sentence": "cak_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "cake: bánh ngọt"
+      },
+      {
+        "id": 109,
+        "sentence": "cu_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "cup: cái cốc"
+      },
+      {
+        "id": 110,
+        "sentence": "dining roo_",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/diningroom.mp3",
+        "answer": "m",
+        "hint": "dining room: phòng ăn"
+      },
+      {
+        "id": 111,
+        "sentence": "c_ t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "cat: con mèo"
+      },
+      {
+        "id": 112,
+        "sentence": "c_ r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "car: ô tô"
+      },
+      {
+        "id": 113,
+        "sentence": "c_ ke",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "cake: bánh ngọt"
+      },
+      {
+        "id": 114,
+        "sentence": "c_ p",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "cup: cái cốc"
+      },
+      {
+        "id": 115,
+        "sentence": "d_ ning room",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/diningroom.mp3",
+        "answer": "i",
+        "hint": "dining room: phòng ăn"
+      },
+      {
+        "id": 116,
+        "sentence": "a _ _ _ _ and a _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/acakeandacup.mp3",
+        "answer": "cake, cup",
+        "hint": "a cake and a cup: cái bánh ngọt và cái cốc"
+      },
+      {
+        "id": 117,
+        "sentence": "I _ _ _ _ a cat and a car.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacatandacar.mp3",
+        "answer": "have",
+        "hint": "I have a cat and a car: Tôi có một con mèo và một chiếc xe ô tô."
+      },
+      {
+        "id": 118,
+        "sentence": "I have a _ _ _ and I have a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacatandihaveacup.mp3",
+        "answer": "cat, cup",
+        "hint": "I have a cat and I have a cup: Tôi có một con mèo và một cái cốc."
+      },
+      {
+        "id": 119,
+        "sentence": "a _ _ _ and a _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/acarandacake.mp3",
+        "answer": "car, cake",
+        "hint": "a car and a cake: cái ô tô và cái bánh ngọt"
+      },
+      {
+        "id": 120,
+        "sentence": "I have a _ _ _ and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacarandacup.mp3",
+        "answer": "car, cup",
+        "hint": "I have a car and a cup: Tôi có một cái xe ô tô và một cái cốc."
+      },
+      {
+        "id": 121,
+        "sentence": "I have a _ _ _ and I have a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacatandihaveacake.mp3",
+        "answer": "cat, cake",
+        "hint": "I have a cat and I have a cake: Tôi có một con mèo và một cái bánh ngọt."
+      },
+      {
+        "id": 122,
+        "sentence": "I _ _ _ _ a car.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacar.mp3",
+        "answer": "have",
+        "hint": "I have a car: Tôi có một chiếc xe ô tô."
+      },
+      {
+        "id": 123,
+        "sentence": "I'm in the _ _ _ _ _ _ room.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/iminthediningroom.mp3",
+        "answer": "dining",
+        "hint": "I'm in the dining room: Tôi đang ở trong phòng ăn."
+      },
+      {
+        "id": 124,
+        "sentence": "a cat and a _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/acatandacar.mp3",
+        "answer": "car",
+        "hint": "a cat and a car: một con mèo và một chiếc ô tô"
+      },
+      {
+        "id": 125,
+        "sentence": "I have a cat and I have a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacatandihaveacake.mp3",
+        "answer": "cake",
+        "hint": "I have a cat and I have a cake: Tôi có một con mèo và tôi có một cái bánh."
+      },
+      {
+        "id": 126,
+        "sentence": "I have a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacat.mp3",
+        "answer": "cat",
+        "hint": "I have a cat: Tôi có một con mèo."
+      },
+      {
+        "id": 127,
+        "sentence": "I _ _ _ _ a cake.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacake.mp3",
+        "answer": "have",
+        "hint": "I have a cake: Tôi có một cái bánh."
+      },
+      {
+        "id": 128,
+        "sentence": "I _ _ _ _  _  _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacup.mp3",
+        "answer": "have, a, cup",
+        "hint": "I have a cup: Tôi có một cái cốc."
+      },
+      {
+        "id": 129,
+        "sentence": "c_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "cat: con mèo"
+      },
+      {
+        "id": 130,
+        "sentence": "ele_hant",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 131,
+        "sentence": "hav_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "have: có"
+      },
+      {
+        "id": 132,
+        "sentence": "c_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "car: ô tô"
+      },
+      {
+        "id": 133,
+        "sentence": "tre_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "tree: cái cây"
+      },
+      {
+        "id": 134,
+        "sentence": "ca_dy",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "candy: kẹo"
+      },
+      {
+        "id": 135,
+        "sentence": "ch_ir",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "chair: cái ghế"
+      },
+      {
+        "id": 136,
+        "sentence": "br_ad",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "bread: bánh mì"
+      },
+      {
+        "id": 137,
+        "sentence": "co__ie",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ok",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 138,
+        "sentence": "ra_bi_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bt",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 139,
+        "sentence": "r_bot",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "robot: người máy"
+      },
+      {
+        "id": 140,
+        "sentence": "b_ok",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "book: quyển sách"
+      },
+      {
+        "id": 141,
+        "sentence": "cand_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "candy: kẹo"
+      },
+      {
+        "id": 142,
+        "sentence": "t_ble",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "table: cái bàn"
+      },
+      {
+        "id": 143,
+        "sentence": "hous_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "house: ngôi nhà"
+      },
+      {
+        "id": 144,
+        "sentence": "hou_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "house: ngôi nhà"
+      },
+      {
+        "id": 145,
+        "sentence": "elephan_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 146,
+        "sentence": "brea_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "bread: bánh mì"
+      },
+      {
+        "id": 147,
+        "sentence": "c_air",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "chair: cái ghế"
+      },
+      {
+        "id": 148,
+        "sentence": "eg_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "egg: quả trứng"
+      },
+      {
+        "id": 149,
+        "sentence": "ho_se",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "house: ngôi nhà"
+      },
+      {
+        "id": 150,
+        "sentence": "s_eep",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "sheep: con cừu"
+      },
+      {
+        "id": 151,
+        "sentence": "co_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "coat: áo khoác"
+      },
+      {
+        "id": 152,
+        "sentence": "fr_g",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "frog: con ếch"
+      },
+      {
+        "id": 153,
+        "sentence": "cha_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "chair: cái ghế"
+      },
+      {
+        "id": 154,
+        "sentence": "elep_ant",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 155,
+        "sentence": "c_p",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "cap: mũ lưỡi trai"
+      },
+      {
+        "id": 156,
+        "sentence": "do_l",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "doll: búp bê"
+      },
+      {
+        "id": 157,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/have.mp3",
+        "answer": "have",
+        "hint": "have: có"
+      },
+      {
+        "id": 158,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/cup.mp3",
+        "answer": "cup",
+        "hint": "cup: cái cốc"
+      },
+      {
+        "id": 159,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bed.mp3",
+        "answer": "bed",
+        "hint": "bed: cái giường"
+      },
+      {
+        "id": 160,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/candy.mp3",
+        "answer": "candy",
+        "hint": "candy: kẹo"
+      },
+      {
+        "id": 161,
+        "sentence": "_at",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "cat: con mèo"
+      },
+      {
+        "id": 162,
+        "sentence": "_ar",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "car: ô tô"
+      },
+      {
+        "id": 163,
+        "sentence": "_ake",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "cake: bánh ngọt"
+      },
+      {
+        "id": 164,
+        "sentence": "_up",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "cup: cái cốc"
+      },
+      {
+        "id": 165,
+        "sentence": "I have a cat and I have a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacatandihaveacar.mp3",
+        "answer": "car",
+        "hint": "I have a cat and I have a car: Tôi có mèo và tôi có ô tô."
+      },
+      {
+        "id": 166,
+        "sentence": "a cat and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/acatandacake.mp3",
+        "answer": "cake",
+        "hint": "a cat and a cake: một con mèo và một cái bánh"
+      },
+      {
+        "id": 167,
+        "sentence": "I have a car and I have a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacarandihaveacake.mp3",
+        "answer": "cake",
+        "hint": "I have a car and I have a cake: Tôi có ô tô và tôi có bánh."
+      },
+      {
+        "id": 168,
+        "sentence": "I have a cake and I have a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacakeandihaveacup.mp3",
+        "answer": "cup",
+        "hint": "I have a cake and I have a cup: Tôi có bánh và tôi có cốc."
+      },
+      {
+        "id": 169,
+        "sentence": "el_p_ant",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "eh",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 170,
+        "sentence": "rab_i_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bt",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 171,
+        "sentence": "c_ke",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "cake: bánh ngọt"
+      },
+      {
+        "id": 172,
+        "sentence": "flo__r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "we",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 173,
+        "sentence": "b_other",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 174,
+        "sentence": "fl_wer",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 175,
+        "sentence": "flo_er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 176,
+        "sentence": "si_ter",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 177,
+        "sentence": "brot_er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 178,
+        "sentence": "br_the_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 179,
+        "sentence": "rob_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "robot: người máy"
+      },
+      {
+        "id": 180,
+        "sentence": "I have a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveadoll.png",
+        "audioUrl": "",
+        "answer": "doll",
+        "hint": "I have a doll: Mình có một con búp bê."
+      },
+      {
+        "id": 181,
+        "sentence": "I have a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveacake.png",
+        "audioUrl": "",
+        "answer": "cake",
+        "hint": "I have a cake: Mình có một cái bánh."
+      },
+      {
+        "id": 182,
+        "sentence": "I have a _ _ _ _ and a cup.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacakeandacup.mp3",
+        "answer": "cake",
+        "hint": "I have a cake and a cup: Mình có một cái bánh và một cái cốc."
+      },
+      {
+        "id": 183,
+        "sentence": "I have a bike and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabikeandacup.mp3",
+        "answer": "cup",
+        "hint": "I have a bike and a cup: Mình có một chiếc xe đạp và một cái cốc."
+      },
+      {
+        "id": 184,
+        "sentence": "A _ _ _ _ and a bike.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aballandabike.mp3",
+        "answer": "ball",
+        "hint": "A ball and a bike: Một quả bóng và một chiếc xe đạp."
+      },
+      {
+        "id": 185,
+        "sentence": "I have a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveakite.png",
+        "audioUrl": "",
+        "answer": "kite",
+        "hint": "I have a kite: Mình có một cái diều."
+      },
+      {
+        "id": 186,
+        "sentence": "I have a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveacoat.png",
+        "audioUrl": "",
+        "answer": "coat",
+        "hint": "I have a coat: Mình có một cái áo khoác."
+      },
+      {
+        "id": 187,
+        "sentence": "I have a _ _ _ _ and a cat.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandacat.mp3",
+        "answer": "ball",
+        "hint": "I have a ball and a cat: Mình có một quả bóng và một con mèo."
+      },
+      {
+        "id": 188,
+        "sentence": "o_ang_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "re",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 189,
+        "sentence": "bro_her",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 190,
+        "sentence": "I have a _ _ _ _ and a cup.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandacup.mp3",
+        "answer": "ball",
+        "hint": "I have a ball and a cup: Mình có một quả bóng và một cái cốc."
+      },
+      {
+        "id": 191,
+        "sentence": "or_n_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ag",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 192,
+        "sentence": "I have a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveacar.png",
+        "audioUrl": "",
+        "answer": "car",
+        "hint": "I have a car: Mình có một chiếc ô tô."
+      },
+      {
+        "id": 193,
+        "sentence": "I have a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveacup.png",
+        "audioUrl": "",
+        "answer": "cup",
+        "hint": "I have a cup: Mình có một cái cốc."
+      },
+      {
+        "id": 194,
+        "sentence": "I have a ball and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandacake.mp3",
+        "answer": "cake",
+        "hint": "I have a ball and a cake: Mình có một quả bóng và một cái bánh."
+      },
+      {
+        "id": 195,
+        "sentence": "broth__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 196,
+        "sentence": "I have a _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihavearobot.png",
+        "audioUrl": "",
+        "answer": "robot",
+        "hint": "I have a robot: Mình có một con người máy."
+      },
+      {
+        "id": 197,
+        "sentence": "sis_e_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tr",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 198,
+        "sentence": "ele_han_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "pt",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 199,
+        "sentence": "b_o_her",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rt",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 200,
+        "sentence": "I have a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveaball.png",
+        "audioUrl": "",
+        "answer": "ball",
+        "hint": "I have a ball: Mình có một quả bóng."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Unit 3: At the street market",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit3.png",
+    "scenes": [
+      {
+        "id": 201,
+        "sentence": "_ at",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "hat: cái mũ"
+      },
+      {
+        "id": 202,
+        "sentence": "_ pple",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "apple: quả táo"
+      },
+      {
+        "id": 203,
+        "sentence": "_ an",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "can: lon nước"
+      },
+      {
+        "id": 204,
+        "sentence": "_ ag",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "bag: cái túi"
+      },
+      {
+        "id": 205,
+        "sentence": "_ treet market",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/streetmarket.mp3",
+        "answer": "s",
+        "hint": "street market: chợ đường phố"
+      },
+      {
+        "id": 206,
+        "sentence": "ha_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "hat: cái mũ"
+      },
+      {
+        "id": 207,
+        "sentence": "appl_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "apple: quả táo"
+      },
+      {
+        "id": 208,
+        "sentence": "ca_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "can: lon nước"
+      },
+      {
+        "id": 209,
+        "sentence": "ba_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "bag: cái túi"
+      },
+      {
+        "id": 210,
+        "sentence": "street marke_",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/streetmarket.mp3",
+        "answer": "t",
+        "hint": "street market: chợ đường phố"
+      },
+      {
+        "id": 211,
+        "sentence": "h_ t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "hat: cái mũ"
+      },
+      {
+        "id": 212,
+        "sentence": "app_ e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "apple: quả táo"
+      },
+      {
+        "id": 213,
+        "sentence": "c_ n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "can: lon nước"
+      },
+      {
+        "id": 214,
+        "sentence": "b_ g",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "bag: cái túi"
+      },
+      {
+        "id": 215,
+        "sentence": "str_ et market",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/streetmarket.mp3",
+        "answer": "e",
+        "hint": "street market: chợ đường phố"
+      },
+      {
+        "id": 216,
+        "sentence": "This is  _ _  _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismyhat.mp3",
+        "answer": "my, hat",
+        "hint": "This is my hat: Đây là cái mũ của tôi."
+      },
+      {
+        "id": 217,
+        "sentence": "This is  _ _  _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismyapple.mp3",
+        "answer": "my, apple",
+        "hint": "This is my apple: Đây là quả táo của tôi."
+      },
+      {
+        "id": 218,
+        "sentence": "_ _ _ _  is my bag .",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismybag.mp3",
+        "answer": "This",
+        "hint": "This is my bag: Đây là cái túi của tôi."
+      },
+      {
+        "id": 219,
+        "sentence": "This _ _ my can .",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismycan.mp3",
+        "answer": "is",
+        "hint": "This is my can: Đây là lon nước của tôi."
+      },
+      {
+        "id": 220,
+        "sentence": "There is an apple _ _ the bag.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisanappleinthebag.mp3",
+        "answer": "in",
+        "hint": "There is an apple in the bag: Có một quả táo ở trong cái túi."
+      },
+      {
+        "id": 221,
+        "sentence": "There _ _ a can in the bag.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisacaninthebag.mp3",
+        "answer": "is",
+        "hint": "There is a can in the bag: Có một lon nước ở trong cái túi."
+      },
+      {
+        "id": 222,
+        "sentence": "There is a hat _ _ the bag.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisahatonthebag.mp3",
+        "answer": "on",
+        "hint": "There is a hat on the bag: Có một cái mũ ở trên cái túi."
+      },
+      {
+        "id": 223,
+        "sentence": "_ _ _ _ _ is an apple on the hat.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisanappleonthehat.mp3",
+        "answer": "There",
+        "hint": "There is an apple on the hat: Có một quả táo ở trên cái mũ."
+      },
+      {
+        "id": 224,
+        "sentence": "There _ _ a can on the table.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisacanonthetable.mp3",
+        "answer": "is",
+        "hint": "There is a can on the table: Có một lon nước ở trên cái bàn."
+      },
+      {
+        "id": 225,
+        "sentence": "There is a hat _ _ the chair.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisahatonthechair.mp3",
+        "answer": "on",
+        "hint": "There is a hat on the chair: Có một cái mũ ở trên cái ghế."
+      },
+      {
+        "id": 226,
+        "sentence": "There is a _ _ _ in the bag.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisacaninthebag.mp3",
+        "answer": "can",
+        "hint": "There is a can in the bag: Có một lon nước ở trong cái túi."
+      },
+      {
+        "id": 227,
+        "sentence": "There is an apple on the  _ _ _ .",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisanappleonthebag.mp3",
+        "answer": "bag",
+        "hint": "There is an apple on the bag: Có một quả táo ở trên cái túi."
+      },
+      {
+        "id": 228,
+        "sentence": " _ _ _ _  _ _   _ _   _ _ _ .",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismycan.mp3",
+        "answer": "This, is, my, can",
+        "hint": "This is my can: Đây là lon nước của tôi."
+      },
+      {
+        "id": 229,
+        "sentence": "There is a hat _ _   _ _ _  _ _ _ .",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisahatonthebag.mp3",
+        "answer": "on, the, bag",
+        "hint": "There is a hat on the bag: Có một cái mũ ở trên cái túi."
+      },
+      {
+        "id": 230,
+        "sentence": "or_nge",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 231,
+        "sentence": "b_ll",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "ball: quả bóng"
+      },
+      {
+        "id": 232,
+        "sentence": "b_rd",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "bird: con chim"
+      },
+      {
+        "id": 233,
+        "sentence": "h_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "hat: cái mũ"
+      },
+      {
+        "id": 234,
+        "sentence": "c_w",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "cow: con bò"
+      },
+      {
+        "id": 235,
+        "sentence": "bi_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "bike: xe đạp"
+      },
+      {
+        "id": 236,
+        "sentence": "p_g",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "pig: con lợn"
+      },
+      {
+        "id": 237,
+        "sentence": "ra_bit",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 238,
+        "sentence": "ju_ce",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "juice: nước ép"
+      },
+      {
+        "id": 239,
+        "sentence": "flowe_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 240,
+        "sentence": "boa_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "boat: con thuyền"
+      },
+      {
+        "id": 241,
+        "sentence": "jui_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "juice: nước ép"
+      },
+      {
+        "id": 242,
+        "sentence": "ha_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "v",
+        "hint": "have: có"
+      },
+      {
+        "id": 243,
+        "sentence": "b_g",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "bag: cái túi"
+      },
+      {
+        "id": 244,
+        "sentence": "c_at",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "coat: áo khoác"
+      },
+      {
+        "id": 245,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/apple.mp3",
+        "answer": "apple",
+        "hint": "apple: quả táo"
+      },
+      {
+        "id": 246,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/arm.mp3",
+        "answer": "arm",
+        "hint": "arm: cánh tay"
+      },
+      {
+        "id": 247,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/this.mp3",
+        "answer": "this",
+        "hint": "this: đây, này"
+      },
+      {
+        "id": 248,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hat.mp3",
+        "answer": "hat",
+        "hint": "hat: cái mũ"
+      },
+      {
+        "id": 249,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/can.mp3",
+        "answer": "can",
+        "hint": "can: lon đồ uống"
+      },
+      {
+        "id": 250,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bag.mp3",
+        "answer": "bag",
+        "hint": "bag: cái túi"
+      },
+      {
+        "id": 251,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/car.mp3",
+        "answer": "car",
+        "hint": "car: ô tô"
+      },
+      {
+        "id": 252,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/cap.mp3",
+        "answer": "cap",
+        "hint": "cap: mũ lưỡi trai"
+      },
+      {
+        "id": 253,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/boat.mp3",
+        "answer": "boat",
+        "hint": "boat: con thuyền"
+      },
+      {
+        "id": 254,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/juice.mp3",
+        "answer": "juice",
+        "hint": "juice: nước ép"
+      },
+      {
+        "id": 255,
+        "sentence": "_ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/orange.mp3",
+        "answer": "orange",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 256,
+        "sentence": "_ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/flower.mp3",
+        "answer": "flower",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 257,
+        "sentence": "_ _ _ _! A can!",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/lookacan.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! A can: Nhìn kìa! Một lon đồ uống!"
+      },
+      {
+        "id": 258,
+        "sentence": "It's a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsahat.png",
+        "audioUrl": "",
+        "answer": "hat",
+        "hint": "It's a hat: Đó là một cái mũ."
+      },
+      {
+        "id": 259,
+        "sentence": "_ _ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/brother.mp3",
+        "answer": "brother",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 260,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/frog.mp3",
+        "answer": "frog",
+        "hint": "frog: con ếch"
+      },
+      {
+        "id": 261,
+        "sentence": "This is my _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismyhat.mp3",
+        "answer": "hat",
+        "hint": "This is my hat: Đây là cái mũ của tôi."
+      },
+      {
+        "id": 262,
+        "sentence": "_pple",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "apple: quả táo"
+      },
+      {
+        "id": 263,
+        "sentence": "_an",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "can: lon nước"
+      },
+      {
+        "id": 264,
+        "sentence": "This is my _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismyapple.mp3",
+        "answer": "apple",
+        "hint": "This is my apple: Đây là quả táo của tôi."
+      },
+      {
+        "id": 265,
+        "sentence": "_ag",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "bag: cái túi"
+      },
+      {
+        "id": 266,
+        "sentence": "This is my _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismycan.mp3",
+        "answer": "can",
+        "hint": "This is my can: Đây là lon nước của tôi."
+      },
+      {
+        "id": 267,
+        "sentence": "This is my _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismybag.mp3",
+        "answer": "bag",
+        "hint": "This is my bag: Đây là cái túi của tôi."
+      },
+      {
+        "id": 268,
+        "sentence": "There is a hat _ _ the table.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisahatonthetable.mp3",
+        "answer": "on",
+        "hint": "There is a hat on the table: Có một cái mũ trên bàn."
+      },
+      {
+        "id": 269,
+        "sentence": "There is a can _ _ the bag.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisacaninthebag.mp3",
+        "answer": "in",
+        "hint": "There is a can in the bag: Có một lon nước trong túi."
+      },
+      {
+        "id": 270,
+        "sentence": "c_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "can: lon đồ uống"
+      },
+      {
+        "id": 271,
+        "sentence": "a_ple",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "apple: quả táo"
+      },
+      {
+        "id": 272,
+        "sentence": "c_ok_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oi",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 273,
+        "sentence": "bro_h_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "te",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 274,
+        "sentence": "o_a_ge",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rn",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 275,
+        "sentence": "app_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "apple: quả táo"
+      },
+      {
+        "id": 276,
+        "sentence": "ap_le",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "apple: quả táo"
+      },
+      {
+        "id": 277,
+        "sentence": "th_s",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "this: đây, này"
+      },
+      {
+        "id": 278,
+        "sentence": "sist_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 279,
+        "sentence": "rab__t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bi",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 280,
+        "sentence": "e_e_hant",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lp",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 281,
+        "sentence": "coo__e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ki",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 282,
+        "sentence": "kit_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "kite: cái diều"
+      },
+      {
+        "id": 283,
+        "sentence": "sho_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "shoe: chiếc giày"
+      },
+      {
+        "id": 284,
+        "sentence": "I have a book and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabookandacat.mp3",
+        "answer": "cat",
+        "hint": "I have a book and a cat: Mình có một quyển sách và một con mèo."
+      },
+      {
+        "id": 285,
+        "sentence": "I have a _ _ _ and a cat.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacarandacat.mp3",
+        "answer": "car",
+        "hint": "I have a car and a cat: Mình có một chiếc ô tô và một con mèo."
+      },
+      {
+        "id": 286,
+        "sentence": "This is my _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismyball.mp3",
+        "answer": "ball",
+        "hint": "This is my ball: Đây là quả bóng của mình."
+      },
+      {
+        "id": 287,
+        "sentence": "This is my _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismybike.mp3",
+        "answer": "bike",
+        "hint": "This is my bike: Đây là chiếc xe đạp của mình."
+      },
+      {
+        "id": 288,
+        "sentence": "s_ste_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ir",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 289,
+        "sentence": "Look! A _ _ _!",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/lookahat.png",
+        "audioUrl": "",
+        "answer": "hat",
+        "hint": "Look! A hat: Nhìn kìa! Một cái mũ!"
+      },
+      {
+        "id": 290,
+        "sentence": "A ball and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aballandabook.mp3",
+        "answer": "book",
+        "hint": "A ball and a book: Một quả bóng và một quyển sách."
+      },
+      {
+        "id": 291,
+        "sentence": "I have a _ _ _ _ and a car.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandacar.mp3",
+        "answer": "ball",
+        "hint": "I have a ball and a car: Mình có một quả bóng và một chiếc ô tô."
+      },
+      {
+        "id": 292,
+        "sentence": "I have a _ _ _ _ and a book.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandabook.mp3",
+        "answer": "ball",
+        "hint": "I have a ball and a book: Mình có một quả bóng và một quyển sách."
+      },
+      {
+        "id": 293,
+        "sentence": "brot_e_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "hr",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 294,
+        "sentence": "f_ow_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "le",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 295,
+        "sentence": "coo_ie",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 296,
+        "sentence": "I have a _ _ _ _ and a cake.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabookandacake.mp3",
+        "answer": "book",
+        "hint": "I have a book and a cake: Mình có một quyển sách và một cái bánh."
+      },
+      {
+        "id": 297,
+        "sentence": "This is my _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismycar.mp3",
+        "answer": "car",
+        "hint": "This is my car: Đây là chiếc ô tô của mình."
+      },
+      {
+        "id": 298,
+        "sentence": "f_o_er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lw",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 299,
+        "sentence": "ele_h_nt",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "pa",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 300,
+        "sentence": "ra__it",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "bb",
+        "hint": "rabbit: con thỏ"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Unit 4: In the bedroom",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit4.png",
+    "scenes": [
+      {
+        "id": 301,
+        "sentence": "_ uck",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "duck: con vịt"
+      },
+      {
+        "id": 302,
+        "sentence": "_ oor",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "door: cái cửa"
+      },
+      {
+        "id": 303,
+        "sentence": "_ og",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "dog: con chó"
+      },
+      {
+        "id": 304,
+        "sentence": "_ esk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "desk: cái bàn"
+      },
+      {
+        "id": 305,
+        "sentence": "_ indow",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "window: cửa sổ"
+      },
+      {
+        "id": 306,
+        "sentence": "_ edroom",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "bedroom: phòng ngủ"
+      },
+      {
+        "id": 307,
+        "sentence": "duc_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "duck: con vịt"
+      },
+      {
+        "id": 308,
+        "sentence": "doo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "door: cái cửa"
+      },
+      {
+        "id": 309,
+        "sentence": "do_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "dog: con chó"
+      },
+      {
+        "id": 310,
+        "sentence": "des_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "desk: cái bàn"
+      },
+      {
+        "id": 311,
+        "sentence": "windo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "window: cửa sổ"
+      },
+      {
+        "id": 312,
+        "sentence": "bedroo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "bedroom: phòng ngủ"
+      },
+      {
+        "id": 313,
+        "sentence": "This is a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisisaduck.mp3",
+        "answer": "duck",
+        "hint": "This is a duck: Đây là một con vịt."
+      },
+      {
+        "id": 314,
+        "sentence": "This is a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisisadoor.mp3",
+        "answer": "door",
+        "hint": "This is a door: Đây là một cái cửa."
+      },
+      {
+        "id": 315,
+        "sentence": "This is _ _  _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismydog.mp3",
+        "answer": "my, dog",
+        "hint": "This is my dog: Đây là con chó của tôi."
+      },
+      {
+        "id": 316,
+        "sentence": "This is _ _  _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismydesk.mp3",
+        "answer": "my, desk",
+        "hint": "This is my desk: Đây là cái bàn của tôi."
+      },
+      {
+        "id": 317,
+        "sentence": "This is a _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisisawindow.mp3",
+        "answer": "window",
+        "hint": "This is a window: Đây là một cửa sổ."
+      },
+      {
+        "id": 318,
+        "sentence": "This is my _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisismybedroom.mp3",
+        "answer": "bedroom",
+        "hint": "This is my bedroom: Đây là phòng ngủ của tôi."
+      },
+      {
+        "id": 319,
+        "sentence": "a duck and a _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aduckandadog.mp3",
+        "answer": "dog",
+        "hint": "a duck and a dog: một con vịt và một con chó"
+      },
+      {
+        "id": 320,
+        "sentence": "a door and a _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adoorandadesk.mp3",
+        "answer": "desk",
+        "hint": "a door and a desk: một cái cửa và một cái bàn"
+      },
+      {
+        "id": 321,
+        "sentence": "a _ _ _ _ and a dog ",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adoorandadog.mp3",
+        "answer": "door",
+        "hint": "a door and a dog: một cái cửa và một con chó"
+      },
+      {
+        "id": 322,
+        "sentence": "a desk and a _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adeskandaduck.mp3",
+        "answer": "duck",
+        "hint": "a desk and a duck: một cái bàn và một con vịt"
+      },
+      {
+        "id": 323,
+        "sentence": "The desk is _ _ _ _ the window.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thedeskisnearthewindow.mp3",
+        "answer": "near",
+        "hint": "The desk is near the window: Cái bàn ở gần cửa sổ."
+      },
+      {
+        "id": 324,
+        "sentence": " _ _ _ _ is a door.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisisadoor.mp3",
+        "answer": "This",
+        "hint": "This is a door: Đây là một cái cửa."
+      },
+      {
+        "id": 325,
+        "sentence": "The duck is _ _ the desk.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/theduckisonthedesk.mp3",
+        "answer": "on",
+        "hint": "The duck is on the desk: Con vịt ở trên cái bàn."
+      },
+      {
+        "id": 326,
+        "sentence": "The dog is _ _ _ _ the door.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thedogisnearthedoor.mp3",
+        "answer": "near",
+        "hint": "The dog is near the door: Con chó ở gần cái cửa."
+      },
+      {
+        "id": 327,
+        "sentence": "The _ _ _ _ is on the desk.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/theduckisonthedesk.mp3",
+        "answer": "duck",
+        "hint": "The duck is on the desk: Con vịt ở trên cái bàn."
+      },
+      {
+        "id": 328,
+        "sentence": "The dog is near the _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thedogisnearthedoor.mp3",
+        "answer": "door",
+        "hint": "The dog is near the door: Con chó ở gần cái cửa."
+      },
+      {
+        "id": 329,
+        "sentence": "The _ _ _ _ is near the window.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thedeskisnearthewindow.mp3",
+        "answer": "desk",
+        "hint": "The desk is near the window: Cái bàn ở gần cửa sổ."
+      },
+      {
+        "id": 330,
+        "sentence": "orang_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 331,
+        "sentence": "d_g",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "dog: con chó"
+      },
+      {
+        "id": 332,
+        "sentence": "do_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "door: cánh cửa"
+      },
+      {
+        "id": 333,
+        "sentence": "w__dow",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "in",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 334,
+        "sentence": "cooki_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 335,
+        "sentence": "ne_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "near: ở gần"
+      },
+      {
+        "id": 336,
+        "sentence": "be_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "bed: cái giường"
+      },
+      {
+        "id": 337,
+        "sentence": "ta_le",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "table: cái bàn"
+      },
+      {
+        "id": 338,
+        "sentence": "thi_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "this: đây, này"
+      },
+      {
+        "id": 339,
+        "sentence": "an_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "and: và"
+      },
+      {
+        "id": 340,
+        "sentence": "s_ster",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 341,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/door.mp3",
+        "answer": "door",
+        "hint": "door: cánh cửa"
+      },
+      {
+        "id": 342,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bye.mp3",
+        "answer": "bye",
+        "hint": "bye: tạm biệt"
+      },
+      {
+        "id": 343,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/duck.mp3",
+        "answer": "duck",
+        "hint": "duck: con vịt"
+      },
+      {
+        "id": 344,
+        "sentence": "_ _ _ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/elephant.mp3",
+        "answer": "elephant",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 345,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/desk.mp3",
+        "answer": "desk",
+        "hint": "desk: cái bàn học"
+      },
+      {
+        "id": 346,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/dog.mp3",
+        "answer": "dog",
+        "hint": "dog: con chó"
+      },
+      {
+        "id": 347,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/rice.mp3",
+        "answer": "rice",
+        "hint": "rice: cơm"
+      },
+      {
+        "id": 348,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/near.mp3",
+        "answer": "near",
+        "hint": "near: ở gần"
+      },
+      {
+        "id": 349,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/and.mp3",
+        "answer": "and",
+        "hint": "and: và"
+      },
+      {
+        "id": 350,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/house.mp3",
+        "answer": "house",
+        "hint": "house: ngôi nhà"
+      },
+      {
+        "id": 351,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/sheep.mp3",
+        "answer": "sheep",
+        "hint": "sheep: con cừu"
+      },
+      {
+        "id": 352,
+        "sentence": "It's on the _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsonthedesk.png",
+        "audioUrl": "",
+        "answer": "desk",
+        "hint": "It's on the desk: Nó ở trên cái bàn học."
+      },
+      {
+        "id": 353,
+        "sentence": "This is a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisacat.png",
+        "audioUrl": "",
+        "answer": "cat",
+        "hint": "This is a cat: Đây là một con mèo."
+      },
+      {
+        "id": 354,
+        "sentence": "The duck is _ _ _ _ the window.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theduckisnearthewindow.png",
+        "audioUrl": "",
+        "answer": "near",
+        "hint": "The duck is near the window: Con vịt ở gần cái cửa sổ."
+      },
+      {
+        "id": 355,
+        "sentence": "The bike is _ _ _ _ the window.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thebikeisnearthewindow.png",
+        "audioUrl": "",
+        "answer": "near",
+        "hint": "The bike is near the window: Chiếc xe đạp ở gần cái cửa sổ."
+      },
+      {
+        "id": 356,
+        "sentence": "I have a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveadog.png",
+        "audioUrl": "",
+        "answer": "dog",
+        "hint": "I have a dog: Mình có một con chó."
+      },
+      {
+        "id": 357,
+        "sentence": "It's near the _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsnearthewindow.png",
+        "audioUrl": "",
+        "answer": "window",
+        "hint": "It's near the window: Nó ở gần cái cửa sổ."
+      },
+      {
+        "id": 358,
+        "sentence": "This is a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisadesk.png",
+        "audioUrl": "",
+        "answer": "desk",
+        "hint": "This is a desk: Đây là một cái bàn học."
+      },
+      {
+        "id": 359,
+        "sentence": "The _ _ _ is on the desk.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thebagisonthedesk.png",
+        "audioUrl": "",
+        "answer": "bag",
+        "hint": "The bag is on the desk: Cái túi ở trên cái bàn học."
+      },
+      {
+        "id": 360,
+        "sentence": "b_oth_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "re",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 361,
+        "sentence": "_uck",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "duck: con vịt"
+      },
+      {
+        "id": 362,
+        "sentence": "_oor",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "door: cái cửa"
+      },
+      {
+        "id": 363,
+        "sentence": "_og",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "dog: con chó"
+      },
+      {
+        "id": 364,
+        "sentence": "_esk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "desk: cái bàn"
+      },
+      {
+        "id": 365,
+        "sentence": "There is a duck _ _ the desk.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisaduckonthedesk.mp3",
+        "answer": "on",
+        "hint": "There is a duck on the desk: Có một con vịt trên cái bàn."
+      },
+      {
+        "id": 366,
+        "sentence": "wi__ow",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nd",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 367,
+        "sentence": "a_d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "and: và"
+      },
+      {
+        "id": 368,
+        "sentence": "br_th_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oe",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 369,
+        "sentence": "d_sk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "desk: cái bàn học"
+      },
+      {
+        "id": 370,
+        "sentence": "n_ar",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "near: ở gần"
+      },
+      {
+        "id": 371,
+        "sentence": "d_ck",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "duck: con vịt"
+      },
+      {
+        "id": 372,
+        "sentence": "o__nge",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ra",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 373,
+        "sentence": "nea_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "near: ở gần"
+      },
+      {
+        "id": 374,
+        "sentence": "du_k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "duck: con vịt"
+      },
+      {
+        "id": 375,
+        "sentence": "wi_dow",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 376,
+        "sentence": "w_ndow",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 377,
+        "sentence": "d_or",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "door: cánh cửa"
+      },
+      {
+        "id": 378,
+        "sentence": "si_te_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "sr",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 379,
+        "sentence": "co_k_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oi",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 380,
+        "sentence": "o_an_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rg",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 381,
+        "sentence": "e__phant",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "le",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 382,
+        "sentence": "Look! An _ _ _ _ _!",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/lookanapple.png",
+        "audioUrl": "",
+        "answer": "apple",
+        "hint": "Look! An apple: Nhìn kìa! Một quả táo!"
+      },
+      {
+        "id": 383,
+        "sentence": "The duck is on the _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theduckisonthedesk.png",
+        "audioUrl": "",
+        "answer": "desk",
+        "hint": "The duck is on the desk: Con vịt ở trên cái bàn học."
+      },
+      {
+        "id": 384,
+        "sentence": "I have a cake and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacakeandacar.mp3",
+        "answer": "car",
+        "hint": "I have a cake and a car: Mình có một cái bánh và một chiếc ô tô."
+      },
+      {
+        "id": 385,
+        "sentence": "A _ _ _ and a door.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adogandadoor.mp3",
+        "answer": "dog",
+        "hint": "A dog and a door: Một con chó và một cánh cửa."
+      },
+      {
+        "id": 386,
+        "sentence": "I have a _ _ _ _ and a book.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabikeandabook.mp3",
+        "answer": "bike",
+        "hint": "I have a bike and a book: Mình có một chiếc xe đạp và một quyển sách."
+      },
+      {
+        "id": 387,
+        "sentence": "Where's the _ _ _ _?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/wheresthebike.mp3",
+        "answer": "bike",
+        "hint": "Where's the bike: Chiếc xe đạp ở đâu?"
+      },
+      {
+        "id": 388,
+        "sentence": "Where's the _ _ _ _?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/wherestheduck.mp3",
+        "answer": "duck",
+        "hint": "Where's the duck: Con vịt ở đâu?"
+      },
+      {
+        "id": 389,
+        "sentence": "A desk and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adeskandadoor.mp3",
+        "answer": "door",
+        "hint": "A desk and a door: Một cái bàn học và một cánh cửa."
+      },
+      {
+        "id": 390,
+        "sentence": "Where's the _ _ _?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/wheresthecup.mp3",
+        "answer": "cup",
+        "hint": "Where's the cup: Cái cốc ở đâu?"
+      },
+      {
+        "id": 391,
+        "sentence": "A _ _ _ _ and a dog.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adeskandadog.mp3",
+        "answer": "desk",
+        "hint": "A desk and a dog: Một cái bàn học và một con chó."
+      },
+      {
+        "id": 392,
+        "sentence": "The _ _ _ is near the window.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thedogisnearthewindow.mp3",
+        "answer": "dog",
+        "hint": "The dog is near the window: Con chó ở gần cái cửa sổ."
+      },
+      {
+        "id": 393,
+        "sentence": "The book is on the _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thebookisonthedesk.png",
+        "audioUrl": "",
+        "answer": "desk",
+        "hint": "The book is on the desk: Quyển sách ở trên cái bàn học."
+      },
+      {
+        "id": 394,
+        "sentence": "A _ _ _ _ and a duck.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adeskandaduck.mp3",
+        "answer": "desk",
+        "hint": "A desk and a duck: Một cái bàn học và một con vịt."
+      },
+      {
+        "id": 395,
+        "sentence": "I have a ball and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandabook.mp3",
+        "answer": "book",
+        "hint": "I have a ball and a book: Mình có một quả bóng và một quyển sách."
+      },
+      {
+        "id": 396,
+        "sentence": "I have a _ _ _ _ and a car.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabookandacar.mp3",
+        "answer": "book",
+        "hint": "I have a book and a car: Mình có một quyển sách và một chiếc ô tô."
+      },
+      {
+        "id": 397,
+        "sentence": "A _ _ _ and a duck.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adogandaduck.mp3",
+        "answer": "dog",
+        "hint": "A dog and a duck: Một con chó và một con vịt."
+      },
+      {
+        "id": 398,
+        "sentence": "Where's the _ _ _?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/wheresthecat.mp3",
+        "answer": "cat",
+        "hint": "Where's the cat: Con mèo ở đâu?"
+      },
+      {
+        "id": 399,
+        "sentence": "A desk and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/adeskandadog.mp3",
+        "answer": "dog",
+        "hint": "A desk and a dog: Một cái bàn học và một con chó."
+      },
+      {
+        "id": 400,
+        "sentence": "The ball is near the _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/theballisnearthedoor.mp3",
+        "answer": "door",
+        "hint": "The ball is near the door: Quả bóng ở gần cánh cửa."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Unit 5: At the fish and chip shop",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit5.png",
+    "scenes": [
+      {
+        "id": 401,
+        "sentence": "_ ish",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "f",
+        "hint": "fish: cá"
+      },
+      {
+        "id": 402,
+        "sentence": "_ hips",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "chips: khoai tây chiên"
+      },
+      {
+        "id": 403,
+        "sentence": "_ ilk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "milk: sữa"
+      },
+      {
+        "id": 404,
+        "sentence": "_ hicken",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 405,
+        "sentence": "_ hop",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "shop: cửa hàng"
+      },
+      {
+        "id": 406,
+        "sentence": "fis_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "fish: cá"
+      },
+      {
+        "id": 407,
+        "sentence": "chip_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "chips: khoai tây chiên"
+      },
+      {
+        "id": 408,
+        "sentence": "mil_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "milk: sữa"
+      },
+      {
+        "id": 409,
+        "sentence": "chicke_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 410,
+        "sentence": "sho_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "shop: cửa hàng"
+      },
+      {
+        "id": 411,
+        "sentence": "f_ sh",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "fish: cá"
+      },
+      {
+        "id": 412,
+        "sentence": "m_ lk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "milk: sữa"
+      },
+      {
+        "id": 413,
+        "sentence": "ch_ cken",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 414,
+        "sentence": "I like _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikefish.mp3",
+        "answer": "fish",
+        "hint": "I like fish: Tôi thích cá."
+      },
+      {
+        "id": 415,
+        "sentence": "I like _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechips.mp3",
+        "answer": "chips",
+        "hint": "I like chips: Tôi thích khoai tây chiên."
+      },
+      {
+        "id": 416,
+        "sentence": "I like _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikemilk.mp3",
+        "answer": "milk",
+        "hint": "I like milk: Tôi thích sữa."
+      },
+      {
+        "id": 417,
+        "sentence": "I like _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechicken.mp3",
+        "answer": "chicken",
+        "hint": "I like chicken: Tôi thích thịt gà."
+      },
+      {
+        "id": 418,
+        "sentence": "fish and _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/fishandchips.mp3",
+        "answer": "chips",
+        "hint": "fish and chips: cá và khoai tây chiên"
+      },
+      {
+        "id": 419,
+        "sentence": "milk and _ _ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/milkandchicken.mp3",
+        "answer": "chicken",
+        "hint": "milk and chicken: sữa và thịt gà"
+      },
+      {
+        "id": 420,
+        "sentence": "chips and _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/chipsandmilk.mp3",
+        "answer": "milk",
+        "hint": "chips and milk: khoai tây chiên và sữa"
+      },
+      {
+        "id": 421,
+        "sentence": "chicken and _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/chickenandfish.mp3",
+        "answer": "fish",
+        "hint": "chicken and fish: thịt gà và cá"
+      },
+      {
+        "id": 422,
+        "sentence": "milk and _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/milkandfish.mp3",
+        "answer": "fish",
+        "hint": "milk and fish: sữa và cá"
+      },
+      {
+        "id": 423,
+        "sentence": "chicken and _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/chickenandchips.mp3",
+        "answer": "chips",
+        "hint": "chicken and chips: thịt gà và khoai tây chiên"
+      },
+      {
+        "id": 424,
+        "sentence": "fish and chip _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/fishandchipshop.mp3",
+        "answer": "shop",
+        "hint": "fish and chip shop: cửa hàng bán cá và khoai tây chiên"
+      },
+      {
+        "id": 425,
+        "sentence": "I  _ _ _ _ milk and chicken.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikemilkandchicken.mp3",
+        "answer": "like",
+        "hint": "I like milk and chicken: Tôi thích sữa và thịt gà."
+      },
+      {
+        "id": 426,
+        "sentence": "I like chicken and _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechickenandfish.mp3",
+        "answer": "fish",
+        "hint": "I like chicken and fish: Tôi thích thịt gà và cá."
+      },
+      {
+        "id": 427,
+        "sentence": "I like fish and _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikefishandchips.mp3",
+        "answer": "chips",
+        "hint": "I like fish and chips: Tôi thích cá và khoai tây chiên."
+      },
+      {
+        "id": 428,
+        "sentence": "I like chips and _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechipsandmilk.mp3",
+        "answer": "milk",
+        "hint": "I like chips and milk: Tôi thích khoai tây chiên và sữa."
+      },
+      {
+        "id": 429,
+        "sentence": "I like _ _ _ _  _ _ _  _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikemilkandfish.mp3",
+        "answer": "milk, and, fish",
+        "hint": "I like milk and fish: Tôi thích sữa và cá."
+      },
+      {
+        "id": 430,
+        "sentence": "I like _ _ _ _ _ _ _ and _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechickenandchips.mp3",
+        "answer": "chicken, chips",
+        "hint": "I like chicken and chips: Tôi thích thịt gà và khoai tây chiên."
+      },
+      {
+        "id": 431,
+        "sentence": "ch_ps",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "chips: khoai tây chiên"
+      },
+      {
+        "id": 432,
+        "sentence": "or__ge",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "an",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 433,
+        "sentence": "co_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "w",
+        "hint": "cow: con bò"
+      },
+      {
+        "id": 434,
+        "sentence": "chi_ke_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "cn",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 435,
+        "sentence": "fi_h",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "fish: cá"
+      },
+      {
+        "id": 436,
+        "sentence": "h_ve",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "have: có"
+      },
+      {
+        "id": 437,
+        "sentence": "c_p",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "cup: cái cốc"
+      },
+      {
+        "id": 438,
+        "sentence": "m_lk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "milk: sữa"
+      },
+      {
+        "id": 439,
+        "sentence": "she_p",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "sheep: con cừu"
+      },
+      {
+        "id": 440,
+        "sentence": "lik_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "like: thích"
+      },
+      {
+        "id": 441,
+        "sentence": "br_ther",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 442,
+        "sentence": "juic_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "juice: nước ép"
+      },
+      {
+        "id": 443,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/fish.mp3",
+        "answer": "fish",
+        "hint": "fish: cá"
+      },
+      {
+        "id": 444,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/milk.mp3",
+        "answer": "milk",
+        "hint": "milk: sữa"
+      },
+      {
+        "id": 445,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/tree.mp3",
+        "answer": "tree",
+        "hint": "tree: cái cây"
+      },
+      {
+        "id": 446,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bread.mp3",
+        "answer": "bread",
+        "hint": "bread: bánh mì"
+      },
+      {
+        "id": 447,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/table.mp3",
+        "answer": "table",
+        "hint": "table: cái bàn"
+      },
+      {
+        "id": 448,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/chips.mp3",
+        "answer": "chips",
+        "hint": "chips: khoai tây chiên"
+      },
+      {
+        "id": 449,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/like.mp3",
+        "answer": "like",
+        "hint": "like: thích"
+      },
+      {
+        "id": 450,
+        "sentence": "_ _ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/chicken.mp3",
+        "answer": "chicken",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 451,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/kite.mp3",
+        "answer": "kite",
+        "hint": "kite: cái diều"
+      },
+      {
+        "id": 452,
+        "sentence": "_ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/window.mp3",
+        "answer": "window",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 453,
+        "sentence": "The _ _ _ _ is on the desk.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thebookisonthedesk.png",
+        "audioUrl": "",
+        "answer": "book",
+        "hint": "The book is on the desk: Quyển sách ở trên cái bàn học."
+      },
+      {
+        "id": 454,
+        "sentence": "This is a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisabag.png",
+        "audioUrl": "",
+        "answer": "bag",
+        "hint": "This is a bag: Đây là một cái túi."
+      },
+      {
+        "id": 455,
+        "sentence": "The _ _ _ _ is near the window.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thebikeisnearthewindow.png",
+        "audioUrl": "",
+        "answer": "bike",
+        "hint": "The bike is near the window: Chiếc xe đạp ở gần cái cửa sổ."
+      },
+      {
+        "id": 456,
+        "sentence": "This is a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisadog.png",
+        "audioUrl": "",
+        "answer": "dog",
+        "hint": "This is a dog: Đây là một con chó."
+      },
+      {
+        "id": 457,
+        "sentence": "The cat is on the _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thecatisonthedesk.png",
+        "audioUrl": "",
+        "answer": "desk",
+        "hint": "The cat is on the desk: Con mèo ở trên cái bàn học."
+      },
+      {
+        "id": 458,
+        "sentence": "elep_a_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "hn",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 459,
+        "sentence": "_ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/sister.mp3",
+        "answer": "sister",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 460,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/pig.mp3",
+        "answer": "pig",
+        "hint": "pig: con lợn"
+      },
+      {
+        "id": 461,
+        "sentence": "_ish",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "f",
+        "hint": "fish: cá"
+      },
+      {
+        "id": 462,
+        "sentence": "_hips",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "chips: khoai tây chiên"
+      },
+      {
+        "id": 463,
+        "sentence": "_ilk",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "milk: sữa"
+      },
+      {
+        "id": 464,
+        "sentence": "_hicken",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 465,
+        "sentence": "I like fish and _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikefishandchicken.mp3",
+        "answer": "chicken",
+        "hint": "I like fish and chicken: Tôi thích cá và thịt gà."
+      },
+      {
+        "id": 466,
+        "sentence": "fish and _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/fishandchips.mp3",
+        "answer": "chips",
+        "hint": "fish and chips: cá và khoai tây chiên"
+      },
+      {
+        "id": 467,
+        "sentence": "I like chicken and _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechickenandchips.mp3",
+        "answer": "chips",
+        "hint": "I like chicken and chips: Tôi thích thịt gà và khoai tây chiên."
+      },
+      {
+        "id": 468,
+        "sentence": "milk and _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/milkandchicken.mp3",
+        "answer": "chicken",
+        "hint": "milk and chicken: sữa và thịt gà."
+      },
+      {
+        "id": 469,
+        "sentence": "wi_do_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nw",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 470,
+        "sentence": "li_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "like: thích"
+      },
+      {
+        "id": 471,
+        "sentence": "brot__r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "he",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 472,
+        "sentence": "mi_k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "milk: sữa"
+      },
+      {
+        "id": 473,
+        "sentence": "e_eph_nt",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "la",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 474,
+        "sentence": "c_icke_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "hn",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 475,
+        "sentence": "ora_g_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ne",
+        "hint": "orange: quả cam"
+      },
+      {
+        "id": 476,
+        "sentence": "f_sh",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "fish: cá"
+      },
+      {
+        "id": 477,
+        "sentence": "l_ke",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "like: thích"
+      },
+      {
+        "id": 478,
+        "sentence": "c_ips",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "chips: khoai tây chiên"
+      },
+      {
+        "id": 479,
+        "sentence": "chi_ken",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 480,
+        "sentence": "chic_en",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 481,
+        "sentence": "ch_cken",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 482,
+        "sentence": "c_icken",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 483,
+        "sentence": "chick_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 484,
+        "sentence": "The _ _ _ is near the door.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thedogisnearthedoor.png",
+        "audioUrl": "",
+        "answer": "dog",
+        "hint": "The dog is near the door: Con chó ở gần cánh cửa."
+      },
+      {
+        "id": 485,
+        "sentence": "I have a ball and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandabike.mp3",
+        "answer": "bike",
+        "hint": "I have a ball and a bike: Mình có một quả bóng và một chiếc xe đạp."
+      },
+      {
+        "id": 486,
+        "sentence": "I like apples and _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikeapplesandchicken.mp3",
+        "answer": "chicken",
+        "hint": "I like apples and chicken: Mình thích táo và thịt gà."
+      },
+      {
+        "id": 487,
+        "sentence": "Do you like _ _ _ _ _?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikechips.mp3",
+        "answer": "chips",
+        "hint": "Do you like chips: Bạn có thích khoai tây chiên không?"
+      },
+      {
+        "id": 488,
+        "sentence": "A _ _ _ _ and a ball.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/abikeandaball.mp3",
+        "answer": "bike",
+        "hint": "A bike and a ball: Một chiếc xe đạp và một quả bóng."
+      },
+      {
+        "id": 489,
+        "sentence": "Do you _ _ _ _ fish?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikefish.mp3",
+        "answer": "like",
+        "hint": "Do you like fish: Bạn có thích cá không?"
+      },
+      {
+        "id": 490,
+        "sentence": "I have a _ _ _ _ and a car.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacakeandacar.mp3",
+        "answer": "cake",
+        "hint": "I have a cake and a car: Mình có một cái bánh và một chiếc ô tô."
+      },
+      {
+        "id": 491,
+        "sentence": "Do you like _ _ _ _?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikefish.mp3",
+        "answer": "fish",
+        "hint": "Do you like fish: Bạn có thích cá không?"
+      },
+      {
+        "id": 492,
+        "sentence": "w_ndo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "iw",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 493,
+        "sentence": "I like _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikeoranges.mp3",
+        "answer": "oranges",
+        "hint": "I like oranges: Mình thích cam."
+      },
+      {
+        "id": 494,
+        "sentence": "I like _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikecakes.mp3",
+        "answer": "cakes",
+        "hint": "I like cakes: Mình thích bánh ngọt."
+      },
+      {
+        "id": 495,
+        "sentence": "The chips are _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thechipsareyummy.mp3",
+        "answer": "yummy",
+        "hint": "The chips are yummy: Khoai tây chiên ngon."
+      },
+      {
+        "id": 496,
+        "sentence": "I _ _ _ _ chicken and fish.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechickenandfish.mp3",
+        "answer": "like",
+        "hint": "I like chicken and fish: Mình thích thịt gà và cá."
+      },
+      {
+        "id": 497,
+        "sentence": "The _ _ _ _ is yummy.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thericeisyummy.mp3",
+        "answer": "rice",
+        "hint": "The rice is yummy: Cơm ngon."
+      },
+      {
+        "id": 498,
+        "sentence": "I like apples and _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikeapplesandmilk.mp3",
+        "answer": "milk",
+        "hint": "I like apples and milk: Mình thích táo và sữa."
+      },
+      {
+        "id": 499,
+        "sentence": "I like _ _ _ _ and milk.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikefishandmilk.mp3",
+        "answer": "fish",
+        "hint": "I like fish and milk: Mình thích cá và sữa."
+      },
+      {
+        "id": 500,
+        "sentence": "Do you _ _ _ _ apples?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikeapples.mp3",
+        "answer": "like",
+        "hint": "Do you like apples: Bạn có thích táo không?"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Unit 6: In the classroom",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit6.png",
+    "scenes": [
+      {
+        "id": 501,
+        "sentence": "_ en",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "pen: bút mực"
+      },
+      {
+        "id": 502,
+        "sentence": "_ encil",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "pencil: bút chì"
+      },
+      {
+        "id": 503,
+        "sentence": "_ ell",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "bell: cái chuông"
+      },
+      {
+        "id": 504,
+        "sentence": "_ ed",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "red: màu đỏ"
+      },
+      {
+        "id": 505,
+        "sentence": "_ lassroom",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "classroom: lớp học"
+      },
+      {
+        "id": 506,
+        "sentence": "pe_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "pen: bút mực"
+      },
+      {
+        "id": 507,
+        "sentence": "penci_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "pencil: bút chì"
+      },
+      {
+        "id": 508,
+        "sentence": "bel_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "bell: cái chuông"
+      },
+      {
+        "id": 509,
+        "sentence": "re_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "red: màu đỏ"
+      },
+      {
+        "id": 510,
+        "sentence": "classroo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "m",
+        "hint": "classroom: lớp học"
+      },
+      {
+        "id": 511,
+        "sentence": "p_ n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "pen: bút mực"
+      },
+      {
+        "id": 512,
+        "sentence": "p_ ncil",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "pencil: bút chì"
+      },
+      {
+        "id": 513,
+        "sentence": "b_ ll",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "bell: cái chuông"
+      },
+      {
+        "id": 514,
+        "sentence": "classr_ om",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "classroom: lớp học"
+      },
+      {
+        "id": 515,
+        "sentence": "a red _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aredpen.mp3",
+        "answer": "pen",
+        "hint": "a red pen: một cây bút mực màu đỏ"
+      },
+      {
+        "id": 516,
+        "sentence": "a red _ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aredpencil.mp3",
+        "answer": "pencil",
+        "hint": "a red pencil: một cây bút chì màu đỏ"
+      },
+      {
+        "id": 517,
+        "sentence": "a red _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aredbell.mp3",
+        "answer": "bell",
+        "hint": "a red bell: một cái chuông màu đỏ"
+      },
+      {
+        "id": 518,
+        "sentence": "I _ _ _ _ a pen.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveapen.mp3",
+        "answer": "have",
+        "hint": "I have a pen: Tôi có một cây bút mực."
+      },
+      {
+        "id": 519,
+        "sentence": "Ben _ _ _ a pen.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/benhasapen.mp3",
+        "answer": "has",
+        "hint": "Ben has a pen: Ben có một cây bút mực."
+      },
+      {
+        "id": 520,
+        "sentence": "_  _ _ _ _  _  _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabell.mp3",
+        "answer": "I, have, a, bell",
+        "hint": "I have a bell: Tôi có một cái chuông."
+      },
+      {
+        "id": 521,
+        "sentence": "Bill _ _ _  _  _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/billhasapencil.mp3",
+        "answer": "has, a, pencil",
+        "hint": "Bill has a pencil: Bill có một cây bút chì."
+      },
+      {
+        "id": 522,
+        "sentence": "Ba _ _ _  _  _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bahasabell.mp3",
+        "answer": "has, a, bell",
+        "hint": "Ba has a bell: Ba có một cái chuông."
+      },
+      {
+        "id": 523,
+        "sentence": "_ _ is a red pen.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/itsaredpen.mp3",
+        "answer": "It",
+        "hint": "It is a red pen: Đó là cây bút mực màu đỏ."
+      },
+      {
+        "id": 524,
+        "sentence": "It's a _ _ _ pencil.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/itsaredpencil.mp3",
+        "answer": "red",
+        "hint": "It's a red pencil: Đó là cây bút chì màu đỏ."
+      },
+      {
+        "id": 525,
+        "sentence": "_ _ _ _ is Ben. He has a red pen.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thisisbenhehasaredpen.mp3",
+        "answer": "This",
+        "hint": "This is Ben. He has a red pen: Đây là Ben. Cậu ấy có bút mực đỏ."
+      },
+      {
+        "id": 526,
+        "sentence": "Ben is _ _ the classroom.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/benisintheclassroom.mp3",
+        "answer": "in",
+        "hint": "Ben is in the classroom: Ben đang ở trong lớp học."
+      },
+      {
+        "id": 527,
+        "sentence": "It is _  _ _ _  _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/itsaredbell.mp3",
+        "answer": "a, red, bell",
+        "hint": "It's a red bell: Đó là cái chuông màu đỏ."
+      },
+      {
+        "id": 528,
+        "sentence": "Ben _ _ in the classroom.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/benisintheclassroom.mp3",
+        "answer": "is",
+        "hint": "Ben is in the classroom: Ben đang ở trong lớp học."
+      },
+      {
+        "id": 529,
+        "sentence": "Linh has a bell. _ _ is red.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/linhhasabellitsred.mp3",
+        "answer": "It",
+        "hint": "Linh has a bell. It's red: Linh có cái chuông. Nó màu đỏ."
+      },
+      {
+        "id": 530,
+        "sentence": "Ben is in the _ _ _ _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/benisintheclassroom.mp3",
+        "answer": "classroom",
+        "hint": "Ben is in the classroom: Ben đang ở trong lớp học."
+      },
+      {
+        "id": 531,
+        "sentence": "p_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "pen: cái bút mực"
+      },
+      {
+        "id": 532,
+        "sentence": "bir_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "bird: con chim"
+      },
+      {
+        "id": 533,
+        "sentence": "b_ll",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "bell: cái chuông"
+      },
+      {
+        "id": 534,
+        "sentence": "win_ow",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 535,
+        "sentence": "fl_we_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 536,
+        "sentence": "c_lour",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 537,
+        "sentence": "p_nci_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "el",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 538,
+        "sentence": "bo_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "boat: con thuyền"
+      },
+      {
+        "id": 539,
+        "sentence": "c__kie",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "oo",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 540,
+        "sentence": "by_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "bye: tạm biệt"
+      },
+      {
+        "id": 541,
+        "sentence": "_ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/colour.mp3",
+        "answer": "colour",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 542,
+        "sentence": "_ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/pencil.mp3",
+        "answer": "pencil",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 543,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/pen.mp3",
+        "answer": "pen",
+        "hint": "pen: cái bút mực"
+      },
+      {
+        "id": 544,
+        "sentence": "_ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/red.mp3",
+        "answer": "red",
+        "hint": "red: màu đỏ"
+      },
+      {
+        "id": 545,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/bell.mp3",
+        "answer": "bell",
+        "hint": "bell: cái chuông"
+      },
+      {
+        "id": 546,
+        "sentence": "This is a _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisapencil.png",
+        "audioUrl": "",
+        "answer": "pencil",
+        "hint": "This is a pencil: Đây là một cái bút chì."
+      },
+      {
+        "id": 547,
+        "sentence": "This is a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisabell.png",
+        "audioUrl": "",
+        "answer": "bell",
+        "hint": "This is a bell: Đây là một cái chuông."
+      },
+      {
+        "id": 548,
+        "sentence": "It's a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsacat.png",
+        "audioUrl": "",
+        "answer": "cat",
+        "hint": "It's a cat: Đó là một con mèo."
+      },
+      {
+        "id": 549,
+        "sentence": "It's a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsacup.png",
+        "audioUrl": "",
+        "answer": "cup",
+        "hint": "It's a cup: Đó là một cái cốc."
+      },
+      {
+        "id": 550,
+        "sentence": "The _ _ _ is near the door.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thecatisnearthedoor.png",
+        "audioUrl": "",
+        "answer": "cat",
+        "hint": "The cat is near the door: Con mèo ở gần cánh cửa."
+      },
+      {
+        "id": 551,
+        "sentence": "It's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsadesk.png",
+        "audioUrl": "",
+        "answer": "desk",
+        "hint": "It's a desk: Đó là một cái bàn học."
+      },
+      {
+        "id": 552,
+        "sentence": "It's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsabell.png",
+        "audioUrl": "",
+        "answer": "bell",
+        "hint": "It's a bell: Đó là một cái chuông."
+      },
+      {
+        "id": 553,
+        "sentence": "The _ _ _ _ is near the door.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theballisnearthedoor.png",
+        "audioUrl": "",
+        "answer": "ball",
+        "hint": "The ball is near the door: Quả bóng ở gần cánh cửa."
+      },
+      {
+        "id": 554,
+        "sentence": "This is a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisapen.png",
+        "audioUrl": "",
+        "answer": "pen",
+        "hint": "This is a pen: Đây là một cái bút mực."
+      },
+      {
+        "id": 555,
+        "sentence": "I have a _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveapencil.png",
+        "audioUrl": "",
+        "answer": "pencil",
+        "hint": "I have a pencil: Mình có một cái bút chì."
+      },
+      {
+        "id": 556,
+        "sentence": "It's a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsapen.png",
+        "audioUrl": "",
+        "answer": "pen",
+        "hint": "It's a pen: Đó là một cái bút mực."
+      },
+      {
+        "id": 557,
+        "sentence": "I have a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/ihaveabell.png",
+        "audioUrl": "",
+        "answer": "bell",
+        "hint": "I have a bell: Mình có một cái chuông."
+      },
+      {
+        "id": 558,
+        "sentence": "The dog is _ _ _ _ the window.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thedogisnearthewindow.png",
+        "audioUrl": "",
+        "answer": "near",
+        "hint": "The dog is near the window: Con chó ở gần cái cửa sổ."
+      },
+      {
+        "id": 559,
+        "sentence": "It's _ _ _ _ the window.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsnearthewindow.png",
+        "audioUrl": "",
+        "answer": "near",
+        "hint": "It's near the window: Nó ở gần cái cửa sổ."
+      },
+      {
+        "id": 560,
+        "sentence": "col__r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ou",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 561,
+        "sentence": "It's a red _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/itsaredpen.mp3",
+        "answer": "pen",
+        "hint": "It's a red pen: Đó là bút mực màu đỏ."
+      },
+      {
+        "id": 562,
+        "sentence": "_encil",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "pencil: bút chì"
+      },
+      {
+        "id": 563,
+        "sentence": "_en",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "pen: bút mực"
+      },
+      {
+        "id": 564,
+        "sentence": "a red _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aredbell.mp3",
+        "answer": "bell",
+        "hint": "a red bell: một cái chuông màu đỏ"
+      },
+      {
+        "id": 565,
+        "sentence": "_ell",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "bell: cái chuông"
+      },
+      {
+        "id": 566,
+        "sentence": "_ _ is a red bell.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/itsaredbell.mp3",
+        "answer": "It",
+        "hint": "It's a red bell: Đó là cái chuông màu đỏ."
+      },
+      {
+        "id": 567,
+        "sentence": "Bill _ _ _ a pencil.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/billhasapencil.mp3",
+        "answer": "has",
+        "hint": "Bill has a pencil: Bill có một cây bút chì."
+      },
+      {
+        "id": 568,
+        "sentence": "c_ick_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "he",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 569,
+        "sentence": "pe_c_l",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ni",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 570,
+        "sentence": "s__ter",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "is",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 571,
+        "sentence": "colou_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 572,
+        "sentence": "r_d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "red: màu đỏ"
+      },
+      {
+        "id": 573,
+        "sentence": "pe_cil",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 574,
+        "sentence": "be_l",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "bell: cái chuông"
+      },
+      {
+        "id": 575,
+        "sentence": "colo_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 576,
+        "sentence": "penc_l",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 577,
+        "sentence": "col_ur",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 578,
+        "sentence": "p_ncil",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 579,
+        "sentence": "The duck is near the _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theduckisnearthewindow.png",
+        "audioUrl": "",
+        "answer": "window",
+        "hint": "The duck is near the window: Con vịt ở gần cái cửa sổ."
+      },
+      {
+        "id": 580,
+        "sentence": "Do you like _ _ _ _?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikemilk.mp3",
+        "answer": "milk",
+        "hint": "Do you like milk: Bạn có thích sữa không?"
+      },
+      {
+        "id": 581,
+        "sentence": "I have a cake and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacakeandacup.mp3",
+        "answer": "cup",
+        "hint": "I have a cake and a cup: Mình có một cái bánh và một cái cốc."
+      },
+      {
+        "id": 582,
+        "sentence": "I _ _ _ _ fish.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikefish.mp3",
+        "answer": "like",
+        "hint": "I like fish: Mình thích cá."
+      },
+      {
+        "id": 583,
+        "sentence": "I _ _ _ _ rice.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikerice.mp3",
+        "answer": "like",
+        "hint": "I like rice: Mình thích cơm."
+      },
+      {
+        "id": 584,
+        "sentence": "I like apples and _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikeapplesandfish.mp3",
+        "answer": "fish",
+        "hint": "I like apples and fish: Mình thích táo và cá."
+      },
+      {
+        "id": 585,
+        "sentence": "Do you _ _ _ _ bread?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikebread.mp3",
+        "answer": "like",
+        "hint": "Do you like bread: Bạn có thích bánh mì không?"
+      },
+      {
+        "id": 586,
+        "sentence": "colo__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ur",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 587,
+        "sentence": "b__ther",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ro",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 588,
+        "sentence": "r_bb_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ai",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 589,
+        "sentence": "I like _ _ _ _ and chicken.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikemilkandchicken.mp3",
+        "answer": "milk",
+        "hint": "I like milk and chicken: Mình thích sữa và thịt gà."
+      },
+      {
+        "id": 590,
+        "sentence": "I like apples and _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikeapplesandcakes.mp3",
+        "answer": "cakes",
+        "hint": "I like apples and cakes: Mình thích táo và bánh ngọt."
+      },
+      {
+        "id": 591,
+        "sentence": "I have a bike and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabikeandacake.mp3",
+        "answer": "cake",
+        "hint": "I have a bike and a cake: Mình có một chiếc xe đạp và một cái bánh."
+      },
+      {
+        "id": 592,
+        "sentence": "I like cakes and _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikecakesandmilk.mp3",
+        "answer": "milk",
+        "hint": "I like cakes and milk: Mình thích bánh ngọt và sữa."
+      },
+      {
+        "id": 593,
+        "sentence": "Do you _ _ _ _ oranges?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikeoranges.mp3",
+        "answer": "like",
+        "hint": "Do you like oranges: Bạn có thích cam không?"
+      },
+      {
+        "id": 594,
+        "sentence": "It's a _ _ _ pen.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/itsaredpen.mp3",
+        "answer": "red",
+        "hint": "It's a red pen: Đó là một cái bút mực màu đỏ."
+      },
+      {
+        "id": 595,
+        "sentence": "I _ _ _ _ milk.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikemilk.mp3",
+        "answer": "like",
+        "hint": "I like milk: Mình thích sữa."
+      },
+      {
+        "id": 596,
+        "sentence": "Do you _ _ _ _ chicken?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikechicken.mp3",
+        "answer": "like",
+        "hint": "Do you like chicken: Bạn có thích thịt gà không?"
+      },
+      {
+        "id": 597,
+        "sentence": "The _ _ _ _ is yummy.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thefishisyummy.mp3",
+        "answer": "fish",
+        "hint": "The fish is yummy: Cá ngon."
+      },
+      {
+        "id": 598,
+        "sentence": "I have a ball and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandacat.mp3",
+        "answer": "cat",
+        "hint": "I have a ball and a cat: Mình có một quả bóng và một con mèo."
+      },
+      {
+        "id": 599,
+        "sentence": "The cat is near the _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thecatisnearthedoor.mp3",
+        "answer": "door",
+        "hint": "The cat is near the door: Con mèo ở gần cánh cửa."
+      },
+      {
+        "id": 600,
+        "sentence": "A _ _ _ pencil.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aredpencil.mp3",
+        "answer": "red",
+        "hint": "A red pencil: Một cái bút chì màu đỏ."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Unit 7: In the garden",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit7.png",
+    "scenes": [
+      {
+        "id": 601,
+        "sentence": "_ irl",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "girl: bé gái"
+      },
+      {
+        "id": 602,
+        "sentence": "_ oy",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "boy: cậu bé"
+      },
+      {
+        "id": 603,
+        "sentence": "_ arden",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "garden: khu vườn"
+      },
+      {
+        "id": 604,
+        "sentence": "_ oat",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "goat: con dê"
+      },
+      {
+        "id": 605,
+        "sentence": "_ ate",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "gate: cái cổng"
+      },
+      {
+        "id": 606,
+        "sentence": "gir_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "girl: bé gái"
+      },
+      {
+        "id": 607,
+        "sentence": "bo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "y",
+        "hint": "boy: cậu bé"
+      },
+      {
+        "id": 608,
+        "sentence": "garde_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "n",
+        "hint": "garden: khu vườn"
+      },
+      {
+        "id": 609,
+        "sentence": "goa_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "goat: con dê"
+      },
+      {
+        "id": 610,
+        "sentence": "gat_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "gate: cái cổng"
+      },
+      {
+        "id": 611,
+        "sentence": "g_ rl",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "girl: bé gái"
+      },
+      {
+        "id": 612,
+        "sentence": "b_ y",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "boy: cậu bé"
+      },
+      {
+        "id": 613,
+        "sentence": "gard_ n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "garden: khu vườn"
+      },
+      {
+        "id": 614,
+        "sentence": "g_ at",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "goat: con dê"
+      },
+      {
+        "id": 615,
+        "sentence": "g_ te",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "gate: cái cổng"
+      },
+      {
+        "id": 616,
+        "sentence": "A goat and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/agoatandagate.mp3",
+        "answer": "gate",
+        "hint": "A goat and a gate: Một con dê và một cái cổng."
+      },
+      {
+        "id": 617,
+        "sentence": "A girl and a _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/agirlandagarden.mp3",
+        "answer": "garden",
+        "hint": "A girl and a garden: Một bé gái và một khu vườn."
+      },
+      {
+        "id": 618,
+        "sentence": "A gate and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/agateandagirl.mp3",
+        "answer": "girl",
+        "hint": "A gate and a girl: Một cái cổng và một bé gái."
+      },
+      {
+        "id": 619,
+        "sentence": "A garden and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/agardenandagoat.mp3",
+        "answer": "goat",
+        "hint": "A garden and a goat: Một khu vườn và một con dê."
+      },
+      {
+        "id": 620,
+        "sentence": "A girl _ _ _ a goat.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/agirlandagoat.mp3",
+        "answer": "and",
+        "hint": "A girl and a goat: Một bé gái và một con dê."
+      },
+      {
+        "id": 621,
+        "sentence": "A garden and a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/agardenandagate.mp3",
+        "answer": "gate",
+        "hint": "A garden and a gate: Một khu vườn và một cái cổng."
+      },
+      {
+        "id": 622,
+        "sentence": "_ _ _ _ _ is a goat.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagoat.mp3",
+        "answer": "There",
+        "hint": "There is a goat: Có một con dê."
+      },
+      {
+        "id": 623,
+        "sentence": "There is a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagirl.mp3",
+        "answer": "girl",
+        "hint": "There is a girl: Có một bé gái."
+      },
+      {
+        "id": 624,
+        "sentence": "There is a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagate.mp3",
+        "answer": "gate",
+        "hint": "There is a gate: Có một cái cổng."
+      },
+      {
+        "id": 625,
+        "sentence": "A goat _ _ the garden.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/agoatinthegarden.mp3",
+        "answer": "in",
+        "hint": "A goat in the garden: Một con dê trong khu vườn."
+      },
+      {
+        "id": 626,
+        "sentence": "A girl in the _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/agirlinthegarden.mp3",
+        "answer": "garden",
+        "hint": "A girl in the garden: Một bé gái trong khu vườn."
+      },
+      {
+        "id": 627,
+        "sentence": "A _ _ _ in the garden.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aboyinthegarden.mp3",
+        "answer": "boy",
+        "hint": "A boy in the garden: Một cậu bé trong khu vườn."
+      },
+      {
+        "id": 628,
+        "sentence": "_ _ _ _ _ is a goat in the garden.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagoatinthegarden.mp3",
+        "answer": "There",
+        "hint": "There is a goat in the garden: Có một con dê trong khu vườn."
+      },
+      {
+        "id": 629,
+        "sentence": "There _ _ a girl in the garden.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagirlinthegarden.mp3",
+        "answer": "is",
+        "hint": "There is a girl in the garden: Có một bé gái trong khu vườn."
+      },
+      {
+        "id": 630,
+        "sentence": "The girl is _ _  _ _ _  _ _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thegirlisinthegarden.mp3",
+        "answer": "in, the, garden",
+        "hint": "The girl is in the garden: bé gái đang ở trong khu vườn."
+      },
+      {
+        "id": 631,
+        "sentence": "go_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "goat: con dê"
+      },
+      {
+        "id": 632,
+        "sentence": "gi_l",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "girl: cô bé"
+      },
+      {
+        "id": 633,
+        "sentence": "wind__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ow",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 634,
+        "sentence": "ca_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "cake: bánh ngọt"
+      },
+      {
+        "id": 635,
+        "sentence": "coa_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "coat: áo khoác"
+      },
+      {
+        "id": 636,
+        "sentence": "rabb_t",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "rabbit: con thỏ"
+      },
+      {
+        "id": 637,
+        "sentence": "j_ice",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "juice: nước ép"
+      },
+      {
+        "id": 638,
+        "sentence": "t_is",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "this: đây, này"
+      },
+      {
+        "id": 639,
+        "sentence": "co_our",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "l",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 640,
+        "sentence": "bro_he_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "tr",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 641,
+        "sentence": "l_ok",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "look: nhìn"
+      },
+      {
+        "id": 642,
+        "sentence": "_ _ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/garden.mp3",
+        "answer": "garden",
+        "hint": "garden: khu vườn"
+      },
+      {
+        "id": 643,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/goat.mp3",
+        "answer": "goat",
+        "hint": "goat: con dê"
+      },
+      {
+        "id": 644,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/girl.mp3",
+        "answer": "girl",
+        "hint": "girl: cô bé"
+      },
+      {
+        "id": 645,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/look.mp3",
+        "answer": "look",
+        "hint": "look: nhìn"
+      },
+      {
+        "id": 646,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/gate.mp3",
+        "answer": "gate",
+        "hint": "gate: cái cổng"
+      },
+      {
+        "id": 647,
+        "sentence": "There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresabird.png",
+        "audioUrl": "",
+        "answer": "bird",
+        "hint": "There's a bird: Có một con chim."
+      },
+      {
+        "id": 648,
+        "sentence": "Look! There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresaduck.png",
+        "audioUrl": "",
+        "answer": "duck",
+        "hint": "Look! There's a duck: Nhìn kìa! Có một con vịt."
+      },
+      {
+        "id": 649,
+        "sentence": "There's a _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresahorse.png",
+        "audioUrl": "",
+        "answer": "horse",
+        "hint": "There's a horse: Có một con ngựa."
+      },
+      {
+        "id": 650,
+        "sentence": "There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresaduck.png",
+        "audioUrl": "",
+        "answer": "duck",
+        "hint": "There's a duck: Có một con vịt."
+      },
+      {
+        "id": 651,
+        "sentence": "It's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsagirl.png",
+        "audioUrl": "",
+        "answer": "girl",
+        "hint": "It's a girl: Đó là một cô bé."
+      },
+      {
+        "id": 652,
+        "sentence": "This is a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisagirl.png",
+        "audioUrl": "",
+        "answer": "girl",
+        "hint": "This is a girl: Đây là một cô bé."
+      },
+      {
+        "id": 653,
+        "sentence": "Look! There's a _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresagarden.png",
+        "audioUrl": "",
+        "answer": "garden",
+        "hint": "Look! There's a garden: Nhìn kìa! Có một khu vườn."
+      },
+      {
+        "id": 654,
+        "sentence": "There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresagirl.png",
+        "audioUrl": "",
+        "answer": "girl",
+        "hint": "There's a girl: Có một cô bé."
+      },
+      {
+        "id": 655,
+        "sentence": "_ _ _ _! There's a tree.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresatree.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! There's a tree: Nhìn kìa! Có một cái cây."
+      },
+      {
+        "id": 656,
+        "sentence": "There's a _ _ _ in the garden.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresacatinthegarden.png",
+        "audioUrl": "",
+        "answer": "cat",
+        "hint": "There's a cat in the garden: Có một con mèo ở trong khu vườn."
+      },
+      {
+        "id": 657,
+        "sentence": "There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresatree.png",
+        "audioUrl": "",
+        "answer": "tree",
+        "hint": "There's a tree: Có một cái cây."
+      },
+      {
+        "id": 658,
+        "sentence": "There's a _ _ _ in the garden.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresadoginthegarden.png",
+        "audioUrl": "",
+        "answer": "dog",
+        "hint": "There's a dog in the garden: Có một con chó ở trong khu vườn."
+      },
+      {
+        "id": 659,
+        "sentence": "_ _ _ _! There's a gate.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresagate.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! There's a gate: Nhìn kìa! Có một cái cổng."
+      },
+      {
+        "id": 660,
+        "sentence": "There's a _ _ _ _ in the garden.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresagoatinthegarden.png",
+        "audioUrl": "",
+        "answer": "goat",
+        "hint": "There's a goat in the garden: Có một con dê ở trong khu vườn."
+      },
+      {
+        "id": 661,
+        "sentence": "_irl",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "girl: bé gái"
+      },
+      {
+        "id": 662,
+        "sentence": "There is a _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagoat.mp3",
+        "answer": "goat",
+        "hint": "There is a goat: Có một con dê."
+      },
+      {
+        "id": 663,
+        "sentence": "_arden",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "garden: khu vườn"
+      },
+      {
+        "id": 664,
+        "sentence": "There is a goat _ _ the garden.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagoatinthegarden.mp3",
+        "answer": "in",
+        "hint": "There is a goat in the garden: Có một con dê trong khu vườn."
+      },
+      {
+        "id": 665,
+        "sentence": "_oat",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "g",
+        "hint": "goat: con dê"
+      },
+      {
+        "id": 666,
+        "sentence": "The girl _ _ in the garden.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thegirlisinthegarden.mp3",
+        "answer": "is",
+        "hint": "The girl is in the garden: bé gái đang ở trong khu vườn."
+      },
+      {
+        "id": 667,
+        "sentence": "There is a girl _ _ the playground.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/thereisagirlintheplayground.mp3",
+        "answer": "in",
+        "hint": "There is a girl in the playground: Có một bé gái trong sân chơi."
+      },
+      {
+        "id": 668,
+        "sentence": "col_u_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "or",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 669,
+        "sentence": "chi_k_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ce",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 670,
+        "sentence": "cook__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ie",
+        "hint": "cookie: bánh quy"
+      },
+      {
+        "id": 671,
+        "sentence": "w_n_ow",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "id",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 672,
+        "sentence": "pe_ci_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nl",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 673,
+        "sentence": "g_te",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "gate: cái cổng"
+      },
+      {
+        "id": 674,
+        "sentence": "sist__",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "er",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 675,
+        "sentence": "g_at",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "goat: con dê"
+      },
+      {
+        "id": 676,
+        "sentence": "ga_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "t",
+        "hint": "gate: cái cổng"
+      },
+      {
+        "id": 677,
+        "sentence": "g_rl",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "girl: cô bé"
+      },
+      {
+        "id": 678,
+        "sentence": "gard_n",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "garden: khu vườn"
+      },
+      {
+        "id": 679,
+        "sentence": "lo_k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "look: nhìn"
+      },
+      {
+        "id": 680,
+        "sentence": "There's a _ _ _ _ in the garden.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresagirlinthegarden.png",
+        "audioUrl": "",
+        "answer": "girl",
+        "hint": "There's a girl in the garden: Có một cô bé ở trong khu vườn."
+      },
+      {
+        "id": 681,
+        "sentence": "There's a duck in the _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresaduckinthegarden.png",
+        "audioUrl": "",
+        "answer": "garden",
+        "hint": "There's a duck in the garden: Có một con vịt ở trong khu vườn."
+      },
+      {
+        "id": 682,
+        "sentence": "Look! There's a _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresaflower.png",
+        "audioUrl": "",
+        "answer": "flower",
+        "hint": "Look! There's a flower: Nhìn kìa! Có một bông hoa."
+      },
+      {
+        "id": 683,
+        "sentence": "There's a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresadog.png",
+        "audioUrl": "",
+        "answer": "dog",
+        "hint": "There's a dog: Có một con chó."
+      },
+      {
+        "id": 684,
+        "sentence": "_ _ _ _! There's a goat.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresagoat.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! There's a goat: Nhìn kìa! Có một con dê."
+      },
+      {
+        "id": 685,
+        "sentence": "Look! There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresagirl.png",
+        "audioUrl": "",
+        "answer": "girl",
+        "hint": "Look! There's a girl: Nhìn kìa! Có một cô bé."
+      },
+      {
+        "id": 686,
+        "sentence": "There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresagoat.png",
+        "audioUrl": "",
+        "answer": "goat",
+        "hint": "There's a goat: Có một con dê."
+      },
+      {
+        "id": 687,
+        "sentence": "There's a flower in the _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresaflowerinthegarden.png",
+        "audioUrl": "",
+        "answer": "garden",
+        "hint": "There's a flower in the garden: Có một bông hoa ở trong khu vườn."
+      },
+      {
+        "id": 688,
+        "sentence": "There's a _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresacat.png",
+        "audioUrl": "",
+        "answer": "cat",
+        "hint": "There's a cat: Có một con mèo."
+      },
+      {
+        "id": 689,
+        "sentence": "I have a ball and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveaballandacar.mp3",
+        "answer": "car",
+        "hint": "I have a ball and a car: Mình có một quả bóng và một chiếc ô tô."
+      },
+      {
+        "id": 690,
+        "sentence": "I like cakes and _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikecakesandchips.mp3",
+        "answer": "chips",
+        "hint": "I like cakes and chips: Mình thích bánh ngọt và khoai tây chiên."
+      },
+      {
+        "id": 691,
+        "sentence": "I have a bike and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabikeandacar.mp3",
+        "answer": "car",
+        "hint": "I have a bike and a car: Mình có một chiếc xe đạp và một chiếc ô tô."
+      },
+      {
+        "id": 692,
+        "sentence": "I like _ _ _ _ _ _ and fish.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikeapplesandfish.mp3",
+        "answer": "apples",
+        "hint": "I like apples and fish: Mình thích táo và cá."
+      },
+      {
+        "id": 693,
+        "sentence": "I _ _ _ _ apples and cakes.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikeapplesandcakes.mp3",
+        "answer": "like",
+        "hint": "I like apples and cakes: Mình thích táo và bánh ngọt."
+      },
+      {
+        "id": 694,
+        "sentence": "Do you _ _ _ _ milk?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikemilk.mp3",
+        "answer": "like",
+        "hint": "Do you like milk: Bạn có thích sữa không?"
+      },
+      {
+        "id": 695,
+        "sentence": "A red _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aredpen.mp3",
+        "answer": "pen",
+        "hint": "A red pen: Một cái bút mực màu đỏ."
+      },
+      {
+        "id": 696,
+        "sentence": "I have a _ _ _ _ and a cat.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacakeandacat.mp3",
+        "answer": "cake",
+        "hint": "I have a cake and a cat: Mình có một cái bánh và một con mèo."
+      },
+      {
+        "id": 697,
+        "sentence": "The orange is _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/theorangeisyummy.mp3",
+        "answer": "yummy",
+        "hint": "The orange is yummy: Quả cam ngon."
+      },
+      {
+        "id": 698,
+        "sentence": "c_lo_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ou",
+        "hint": "colour: màu sắc"
+      },
+      {
+        "id": 699,
+        "sentence": "w_nd_w",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "io",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 700,
+        "sentence": "p_nc_l",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ei",
+        "hint": "pencil: cái bút chì"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Unit 8: In the park",
+    "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/unit8.png",
+    "scenes": [
+      {
+        "id": 701,
+        "sentence": "_ ands",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "hands: bàn tay"
+      },
+      {
+        "id": 702,
+        "sentence": "_ air",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "hair: tóc"
+      },
+      {
+        "id": 703,
+        "sentence": "_ ead",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "head: đầu"
+      },
+      {
+        "id": 704,
+        "sentence": "_ orse",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "horse: con ngựa"
+      },
+      {
+        "id": 705,
+        "sentence": "hai_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "r",
+        "hint": "hair: tóc"
+      },
+      {
+        "id": 706,
+        "sentence": "han_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "hand: bàn tay"
+      },
+      {
+        "id": 707,
+        "sentence": "hors_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "horse: con ngựa"
+      },
+      {
+        "id": 708,
+        "sentence": "hea_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "head: đầu"
+      },
+      {
+        "id": 709,
+        "sentence": "h_ rse",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "horse: con ngựa"
+      },
+      {
+        "id": 710,
+        "sentence": "h_ nd",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "hand: bàn tay"
+      },
+      {
+        "id": 711,
+        "sentence": "h_ ir",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "hair: tóc"
+      },
+      {
+        "id": 712,
+        "sentence": "h_ ad",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "head: đầu"
+      },
+      {
+        "id": 713,
+        "sentence": "Touch your _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhead.mp3",
+        "answer": "head",
+        "hint": "Touch your head: Chạm vào đầu của bạn."
+      },
+      {
+        "id": 714,
+        "sentence": "Touch your _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhand.mp3",
+        "answer": "hand",
+        "hint": "Touch your hand: Chạm vào tay của bạn."
+      },
+      {
+        "id": 715,
+        "sentence": "Touch your _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhorse.mp3",
+        "answer": "horse",
+        "hint": "Touch your horse: Chạm vào con ngựa của bạn."
+      },
+      {
+        "id": 716,
+        "sentence": "Touch your _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhat.mp3",
+        "answer": "hat",
+        "hint": "Touch your hat: Chạm vào mũ của bạn."
+      },
+      {
+        "id": 717,
+        "sentence": "Touch your _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhair.mp3",
+        "answer": "hair",
+        "hint": "Touch your hair: Chạm vào tóc của bạn."
+      },
+      {
+        "id": 718,
+        "sentence": "Your hat and your _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhatandyourhand.mp3",
+        "answer": "hand",
+        "hint": "Your hat and your hand: Mũ của bạn và tay của bạn."
+      },
+      {
+        "id": 719,
+        "sentence": "Your hair and your _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhairandyourhead.mp3",
+        "answer": "head",
+        "hint": "Your hair and your head: Tóc của bạn và đầu của bạn."
+      },
+      {
+        "id": 720,
+        "sentence": "Your hand and your _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhandandyourhair.mp3",
+        "answer": "hair",
+        "hint": "Your hand and your hair: Tay của bạn và tóc của bạn."
+      },
+      {
+        "id": 721,
+        "sentence": "Your horse and your _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhorseandyourhat.mp3",
+        "answer": "hat",
+        "hint": "Your horse and your hat: Con ngựa của bạn và mũ của bạn."
+      },
+      {
+        "id": 722,
+        "sentence": "Your head and your _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourheadandyourhorse.mp3",
+        "answer": "horse",
+        "hint": "Your head and your horse: Đầu của bạn và con ngựa của bạn."
+      },
+      {
+        "id": 723,
+        "sentence": "Your _ _ _ _ and your head.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhandandyourhead.mp3",
+        "answer": "hand",
+        "hint": "Your hand and your head: Tay của bạn và đầu của bạn."
+      },
+      {
+        "id": 724,
+        "sentence": "Your _ _ _ _ and your hat.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourheadandyourhat.mp3",
+        "answer": "head",
+        "hint": "Your head and your hat: Đầu của bạn và mũ của bạn."
+      },
+      {
+        "id": 725,
+        "sentence": "Your _ _ _ and your hair.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhatandyourhair.mp3",
+        "answer": "hat",
+        "hint": "Your hat and your hair: Mũ của bạn và tóc của bạn."
+      },
+      {
+        "id": 726,
+        "sentence": "Your _ _ _ _ _ and your hand.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhorseandyourhand.mp3",
+        "answer": "horse",
+        "hint": "Your horse and your hand: Con ngựa của bạn và tay của bạn."
+      },
+      {
+        "id": 727,
+        "sentence": "Your _ _ _ _ and your horse.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhairandyourhorse.mp3",
+        "answer": "hair",
+        "hint": "Your hair and your horse: Tóc của bạn và con ngựa của bạn."
+      },
+      {
+        "id": 728,
+        "sentence": "h_nd",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "hand: bàn tay"
+      },
+      {
+        "id": 729,
+        "sentence": "wind_w",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "window: cái cửa sổ"
+      },
+      {
+        "id": 730,
+        "sentence": "pen_il",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 731,
+        "sentence": "t_uch",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "touch: chạm vào"
+      },
+      {
+        "id": 732,
+        "sentence": "y_ur",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "your: của bạn"
+      },
+      {
+        "id": 733,
+        "sentence": "de_k",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "desk: cái bàn học"
+      },
+      {
+        "id": 734,
+        "sentence": "he_d",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "head: cái đầu"
+      },
+      {
+        "id": 735,
+        "sentence": "r_ce",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "rice: cơm"
+      },
+      {
+        "id": 736,
+        "sentence": "chi_s",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "p",
+        "hint": "chips: khoai tây chiên"
+      },
+      {
+        "id": 737,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touch.mp3",
+        "answer": "touch",
+        "hint": "touch: chạm vào"
+      },
+      {
+        "id": 738,
+        "sentence": "_ _ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/horse.mp3",
+        "answer": "horse",
+        "hint": "horse: con ngựa"
+      },
+      {
+        "id": 739,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/head.mp3",
+        "answer": "head",
+        "hint": "head: cái đầu"
+      },
+      {
+        "id": 740,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hair.mp3",
+        "answer": "hair",
+        "hint": "hair: tóc"
+      },
+      {
+        "id": 741,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/hand.mp3",
+        "answer": "hand",
+        "hint": "hand: bàn tay"
+      },
+      {
+        "id": 742,
+        "sentence": "_ _ _ _",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/your.mp3",
+        "answer": "your",
+        "hint": "your: của bạn"
+      },
+      {
+        "id": 743,
+        "sentence": "It's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsahand.png",
+        "audioUrl": "",
+        "answer": "hand",
+        "hint": "It's a hand: Đó là một bàn tay."
+      },
+      {
+        "id": 744,
+        "sentence": "This is a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisahand.png",
+        "audioUrl": "",
+        "answer": "hand",
+        "hint": "This is a hand: Đây là một bàn tay."
+      },
+      {
+        "id": 745,
+        "sentence": "It's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsahead.png",
+        "audioUrl": "",
+        "answer": "head",
+        "hint": "It's a head: Đó là một cái đầu."
+      },
+      {
+        "id": 746,
+        "sentence": "This is a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisahead.png",
+        "audioUrl": "",
+        "answer": "head",
+        "hint": "This is a head: Đây là một cái đầu."
+      },
+      {
+        "id": 747,
+        "sentence": "There's a _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresagarden.png",
+        "audioUrl": "",
+        "answer": "garden",
+        "hint": "There's a garden: Có một khu vườn."
+      },
+      {
+        "id": 748,
+        "sentence": "Touch the _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/touchthehorse.png",
+        "audioUrl": "",
+        "answer": "horse",
+        "hint": "Touch the horse: Hãy chạm vào con ngựa."
+      },
+      {
+        "id": 749,
+        "sentence": "_ _ _ _ out, cat!",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/lookoutcat.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look out, cat: Coi chừng, mèo con!"
+      },
+      {
+        "id": 750,
+        "sentence": "There's a _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresaflower.png",
+        "audioUrl": "",
+        "answer": "flower",
+        "hint": "There's a flower: Có một bông hoa."
+      },
+      {
+        "id": 751,
+        "sentence": "Look! There's a _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresahorse.png",
+        "audioUrl": "",
+        "answer": "horse",
+        "hint": "Look! There's a horse: Nhìn kìa! Có một con ngựa."
+      },
+      {
+        "id": 752,
+        "sentence": "There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresagate.png",
+        "audioUrl": "",
+        "answer": "gate",
+        "hint": "There's a gate: Có một cái cổng."
+      },
+      {
+        "id": 753,
+        "sentence": "There's a horse in the _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresahorseinthegarden.png",
+        "audioUrl": "",
+        "answer": "garden",
+        "hint": "There's a horse in the garden: Có một con ngựa ở trong khu vườn."
+      },
+      {
+        "id": 754,
+        "sentence": "_ _ _ _! There's a duck.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresaduck.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! There's a duck: Nhìn kìa! Có một con vịt."
+      },
+      {
+        "id": 755,
+        "sentence": "hor_e",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "s",
+        "hint": "horse: con ngựa"
+      },
+      {
+        "id": 756,
+        "sentence": "s_st_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ie",
+        "hint": "sister: chị/em gái"
+      },
+      {
+        "id": 757,
+        "sentence": "This is a _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/thisisahorse.png",
+        "audioUrl": "",
+        "answer": "horse",
+        "hint": "This is a horse: Đây là một con ngựa."
+      },
+      {
+        "id": 758,
+        "sentence": "_ _ _ _ _ the horse.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/touchthehorse.png",
+        "audioUrl": "",
+        "answer": "Touch",
+        "hint": "Touch the horse: Hãy chạm vào con ngựa."
+      },
+      {
+        "id": 759,
+        "sentence": "There's a girl in the _ _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresagirlinthegarden.png",
+        "audioUrl": "",
+        "answer": "garden",
+        "hint": "There's a girl in the garden: Có một cô bé ở trong khu vườn."
+      },
+      {
+        "id": 760,
+        "sentence": "_ _ _ _! There's a flower.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresaflower.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! There's a flower: Nhìn kìa! Có một bông hoa."
+      },
+      {
+        "id": 761,
+        "sentence": "_ands",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "hand: bàn tay"
+      },
+      {
+        "id": 762,
+        "sentence": "_air",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "hair: tóc"
+      },
+      {
+        "id": 763,
+        "sentence": "_oy",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "b",
+        "hint": "boy: cậu bé"
+      },
+      {
+        "id": 764,
+        "sentence": "_ead",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "head: đầu"
+      },
+      {
+        "id": 765,
+        "sentence": "Your hat and your _ _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhatandyourhorse.mp3",
+        "answer": "horse",
+        "hint": "Your hat and your horse: Mũ của bạn và ngựa của bạn."
+      },
+      {
+        "id": 766,
+        "sentence": "A boy _ _ the garden.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aboyinthegarden.mp3",
+        "answer": "in",
+        "hint": "A boy in the garden: Một cậu bé trong khu vườn."
+      },
+      {
+        "id": 767,
+        "sentence": "Your head and your _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourheadandyourhat.mp3",
+        "answer": "hat",
+        "hint": "Your head and your hat: Đầu bạn và mũ bạn."
+      },
+      {
+        "id": 768,
+        "sentence": "Your horse and your _ _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/yourhorseandyourhand.mp3",
+        "answer": "hand",
+        "hint": "Your horse and your hand: Ngựa của bạn và tay của bạn."
+      },
+      {
+        "id": 769,
+        "sentence": "tou_h",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "c",
+        "hint": "touch: chạm vào"
+      },
+      {
+        "id": 770,
+        "sentence": "chi__en",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ck",
+        "hint": "chicken: thịt gà"
+      },
+      {
+        "id": 771,
+        "sentence": "h_rse",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "o",
+        "hint": "horse: con ngựa"
+      },
+      {
+        "id": 772,
+        "sentence": "gar_e_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "dn",
+        "hint": "garden: khu vườn"
+      },
+      {
+        "id": 773,
+        "sentence": "b_ot_er",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "rh",
+        "hint": "brother: anh/em trai"
+      },
+      {
+        "id": 774,
+        "sentence": "f__wer",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "lo",
+        "hint": "flower: bông hoa"
+      },
+      {
+        "id": 775,
+        "sentence": "to_ch",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "touch: chạm vào"
+      },
+      {
+        "id": 776,
+        "sentence": "h_ad",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "e",
+        "hint": "head: cái đầu"
+      },
+      {
+        "id": 777,
+        "sentence": "yo_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "u",
+        "hint": "your: của bạn"
+      },
+      {
+        "id": 778,
+        "sentence": "loo_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "k",
+        "hint": "look: nhìn"
+      },
+      {
+        "id": 779,
+        "sentence": "ha_r",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "i",
+        "hint": "hair: tóc"
+      },
+      {
+        "id": 780,
+        "sentence": "There's a _ _ _ _ in the garden.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/theresatreeinthegarden.png",
+        "audioUrl": "",
+        "answer": "tree",
+        "hint": "There's a tree in the garden: Có một cái cây ở trong khu vườn."
+      },
+      {
+        "id": 781,
+        "sentence": "_ _ _ _! There's a cat.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresacat.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! There's a cat: Nhìn kìa! Có một con mèo."
+      },
+      {
+        "id": 782,
+        "sentence": "_ _ _ _! There's a garden.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresagarden.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! There's a garden: Nhìn kìa! Có một khu vườn."
+      },
+      {
+        "id": 783,
+        "sentence": "Look! There's a _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresabird.png",
+        "audioUrl": "",
+        "answer": "bird",
+        "hint": "Look! There's a bird: Nhìn kìa! Có một con chim."
+      },
+      {
+        "id": 784,
+        "sentence": "It's a _ _ _ _ _.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/itsahorse.png",
+        "audioUrl": "",
+        "answer": "horse",
+        "hint": "It's a horse: Đó là một con ngựa."
+      },
+      {
+        "id": 785,
+        "sentence": "I like _ _ _ _ _ and milk.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikecakesandmilk.mp3",
+        "answer": "cakes",
+        "hint": "I like cakes and milk: Mình thích bánh ngọt và sữa."
+      },
+      {
+        "id": 786,
+        "sentence": "I have a _ _ _ _ and a cup.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabikeandacup.mp3",
+        "answer": "bike",
+        "hint": "I have a bike and a cup: Mình có một chiếc xe đạp và một cái cốc."
+      },
+      {
+        "id": 787,
+        "sentence": "A red _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/aredbag.mp3",
+        "answer": "bag",
+        "hint": "A red bag: Một cái túi màu đỏ."
+      },
+      {
+        "id": 788,
+        "sentence": "Do you _ _ _ _ cakes?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikecakes.mp3",
+        "answer": "like",
+        "hint": "Do you like cakes: Bạn có thích bánh ngọt không?"
+      },
+      {
+        "id": 789,
+        "sentence": "I _ _ _ _ apples and chips.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikeapplesandchips.mp3",
+        "answer": "like",
+        "hint": "I like apples and chips: Mình thích táo và khoai tây chiên."
+      },
+      {
+        "id": 790,
+        "sentence": "I like _ _ _ _ _ _ _ and fish.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ilikechickenandfish.mp3",
+        "answer": "chicken",
+        "hint": "I like chicken and fish: Mình thích thịt gà và cá."
+      },
+      {
+        "id": 791,
+        "sentence": "I have a cake and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveacakeandacat.mp3",
+        "answer": "cat",
+        "hint": "I have a cake and a cat: Mình có một cái bánh và một con mèo."
+      },
+      {
+        "id": 792,
+        "sentence": "I have a book and a _ _ _.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/ihaveabookandacar.mp3",
+        "answer": "car",
+        "hint": "I have a book and a car: Mình có một quyển sách và một chiếc ô tô."
+      },
+      {
+        "id": 793,
+        "sentence": "_ _ _ _ _ your head.",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/touchyourhead.mp3",
+        "answer": "Touch",
+        "hint": "Touch your head: Hãy chạm vào cái đầu của bạn."
+      },
+      {
+        "id": 794,
+        "sentence": "Do you _ _ _ _ eggs?",
+        "imageUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/hocki1lop1/audios/doyoulikeeggs.mp3",
+        "answer": "like",
+        "hint": "Do you like eggs: Bạn có thích trứng không?"
+      },
+      {
+        "id": 795,
+        "sentence": "touc_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "h",
+        "hint": "touch: chạm vào"
+      },
+      {
+        "id": 796,
+        "sentence": "pe__il",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "nc",
+        "hint": "pencil: cái bút chì"
+      },
+      {
+        "id": 797,
+        "sentence": "h_ir",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "a",
+        "hint": "hair: tóc"
+      },
+      {
+        "id": 798,
+        "sentence": "elep_an_",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "ht",
+        "hint": "elephant: con voi"
+      },
+      {
+        "id": 799,
+        "sentence": "gar_en",
+        "imageUrl": "",
+        "audioUrl": "",
+        "answer": "d",
+        "hint": "garden: khu vườn"
+      },
+      {
+        "id": 800,
+        "sentence": "_ _ _ _! There's a girl.",
+        "imageUrl": "https://hoangminhtiendev.github.io/hocki1lop1/photos/looktheresagirl.png",
+        "audioUrl": "",
+        "answer": "Look",
+        "hint": "Look! There's a girl: Nhìn kìa! Có một cô bé."
+      }
+    ]
+  }
+]
