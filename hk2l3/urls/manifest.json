@@ -1,0 +1,7 @@
+{
+  "grade": 2,
+  "semester": 3,
+  "questionsPerTest": 50,
+  "testDurationSeconds": 600,
+  "questionsPerRound": 10
+}
