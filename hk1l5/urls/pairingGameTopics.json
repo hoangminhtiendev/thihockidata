@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "All about me",
+    "text": "Unit 1: All about me",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit1.png",
     "scenes": [
       {
@@ -2098,111 +2098,111 @@
         "id": 96,
         "title": [
           {
-            "en": "Can you tell me about yourself?",
-            "vi": "Bạn có thể kể về bản thân không?"
+            "en": "What's your favourite subject? It's science.",
+            "vi": "Môn học yêu thích của bạn là gì? Đó là môn Khoa học."
           },
           {
-            "en": "I'm in Class 5B.",
-            "vi": "Mình học lớp 5B."
+            "en": "I live in the city.",
+            "vi": "Mình sống ở thành phố."
           },
           {
-            "en": "Where do you live?",
-            "vi": "Bạn sống ở đâu?"
+            "en": "I live in a village.",
+            "vi": "Mình sống ở một ngôi làng."
           },
           {
-            "en": "No, I don't. I like tennis.",
-            "vi": "Không. Mình thích quần vợt."
+            "en": "I was in Nha Trang last summer.",
+            "vi": "Mùa hè năm ngoái mình ở Nha Trang."
           }
         ],
-        "hint": "Can you tell me about yourself? - Bạn có thể kể về bản thân không?\nI'm in Class 5B. - Mình học lớp 5B.\nWhere do you live? - Bạn sống ở đâu?\nNo, I don't. I like tennis. - Không. Mình thích quần vợt."
+        "hint": "What's your favourite subject? It's science. - Môn học yêu thích của bạn là gì? Đó là môn Khoa học.\nI live in the city. - Mình sống ở thành phố.\nI live in a village. - Mình sống ở một ngôi làng.\nI was in Nha Trang last summer. - Mùa hè năm ngoái mình ở Nha Trang."
       },
       {
         "id": 97,
         "title": [
           {
-            "en": "It's pho noodles.",
-            "vi": "Đó là phở."
+            "en": "What's your favourite food? It's sandwich.",
+            "vi": "Món ăn yêu thích của bạn là gì? Đó là bánh mì kẹp."
           },
           {
-            "en": "I'm in Class 5C.",
-            "vi": "Mình học lớp 5C."
-          },
-          {
-            "en": "Where do you live?",
-            "vi": "Bạn sống ở đâu?"
-          },
-          {
-            "en": "What's your favourite colour?",
-            "vi": "Màu sắc yêu thích của bạn là gì?"
-          }
-        ],
-        "hint": "It's pho noodles. - Đó là phở.\nI'm in Class 5C. - Mình học lớp 5C.\nWhere do you live? - Bạn sống ở đâu?\nWhat's your favourite colour? - Màu sắc yêu thích của bạn là gì?"
-      },
-      {
-        "id": 98,
-        "title": [
-          {
-            "en": "My favourite food is pho noodles.",
-            "vi": "Món ăn yêu thích của mình là phở."
-          },
-          {
-            "en": "Do you like tennis?",
-            "vi": "Bạn có thích quần vợt không?"
+            "en": "Do you want to play a game?",
+            "vi": "Bạn có muốn chơi một trò chơi không?"
           },
           {
             "en": "What about you?",
             "vi": "Còn bạn thì sao?"
           },
           {
-            "en": "I live in the countryside.",
-            "vi": "Mình sống ở vùng quê."
+            "en": "Hello. I'm Mary. Nice to meet you!",
+            "vi": "Xin chào. Mình là Mary. Rất vui được gặp bạn!"
           }
         ],
-        "hint": "My favourite food is pho noodles. - Món ăn yêu thích của mình là phở.\nDo you like tennis? - Bạn có thích quần vợt không?\nWhat about you? - Còn bạn thì sao?\nI live in the countryside. - Mình sống ở vùng quê."
+        "hint": "What's your favourite food? It's sandwich. - Món ăn yêu thích của bạn là gì? Đó là bánh mì kẹp.\nDo you want to play a game? - Bạn có muốn chơi một trò chơi không?\nWhat about you? - Còn bạn thì sao?\nHello. I'm Mary. Nice to meet you! - Xin chào. Mình là Mary. Rất vui được gặp bạn!"
+      },
+      {
+        "id": 98,
+        "title": [
+          {
+            "en": "What's your favourite colour? It's pink.",
+            "vi": "Màu sắc yêu thích của bạn là gì? Đó là màu hồng."
+          },
+          {
+            "en": "My favourite animal is the dolphin.",
+            "vi": "Con vật yêu thích của mình là cá heo."
+          },
+          {
+            "en": "What's your favourite sport?",
+            "vi": "Môn thể thao yêu thích của bạn là gì?"
+          },
+          {
+            "en": "Happy to see my friends!",
+            "vi": "Thật vui khi gặp lại các bạn!"
+          }
+        ],
+        "hint": "What's your favourite colour? It's pink. - Màu sắc yêu thích của bạn là gì? Đó là màu hồng.\nMy favourite animal is the dolphin. - Con vật yêu thích của mình là cá heo.\nWhat's your favourite sport? - Môn thể thao yêu thích của bạn là gì?\nHappy to see my friends! - Thật vui khi gặp lại các bạn!"
       },
       {
         "id": 99,
         "title": [
           {
-            "en": "I'm in Grade 3.",
-            "vi": "Mình học lớp 3."
+            "en": "What's your favourite animal?",
+            "vi": "Con vật yêu thích của bạn là gì?"
           },
           {
-            "en": "My favourite colour is pink.",
-            "vi": "Màu sắc yêu thích của mình là màu hồng."
+            "en": "It's pizza.",
+            "vi": "Đó là bánh pi-za."
           },
           {
-            "en": "My favourite animal is dolphin.",
-            "vi": "Con vật yêu thích của mình là cá heo."
+            "en": "What's your favourite sport?",
+            "vi": "Môn thể thao yêu thích của bạn là gì?"
           },
           {
-            "en": "Do you want to sing a song?",
-            "vi": "Bạn có muốn hát một bài không?"
+            "en": "I live in the city.",
+            "vi": "Mình sống ở thành phố."
           }
         ],
-        "hint": "I'm in Grade 3. - Mình học lớp 3.\nMy favourite colour is pink. - Màu sắc yêu thích của mình là màu hồng.\nMy favourite animal is dolphin. - Con vật yêu thích của mình là cá heo.\nDo you want to sing a song? - Bạn có muốn hát một bài không?"
+        "hint": "What's your favourite animal? - Con vật yêu thích của bạn là gì?\nIt's pizza. - Đó là bánh pi-za.\nWhat's your favourite sport? - Môn thể thao yêu thích của bạn là gì?\nI live in the city. - Mình sống ở thành phố."
       },
       {
         "id": 100,
         "title": [
           {
-            "en": "Yes, I was.",
-            "vi": "Có, mình có ở đó."
+            "en": "What's your favourite colour? It's pink.",
+            "vi": "Màu sắc yêu thích của bạn là gì? Đó là màu hồng."
           },
           {
-            "en": "Were you in Phu Quoc last summer?",
-            "vi": "Mùa hè năm ngoái bạn có ở Phu Quoc không?"
+            "en": "Where do you live?",
+            "vi": "Bạn sống ở đâu?"
           },
           {
-            "en": "What's your favourite colour?",
-            "vi": "Màu sắc yêu thích của bạn là gì?"
+            "en": "My favourite sport is badminton.",
+            "vi": "Môn thể thao yêu thích của mình là cầu lông."
           },
           {
-            "en": "It's panda.",
-            "vi": "Đó là gấu trúc."
+            "en": "I was in Nha Trang last summer.",
+            "vi": "Mùa hè năm ngoái mình ở Nha Trang."
           }
         ],
-        "hint": "Yes, I was. - Có, mình có ở đó.\nWere you in Phu Quoc last summer? - Mùa hè năm ngoái bạn có ở Phu Quoc không?\nWhat's your favourite colour? - Màu sắc yêu thích của bạn là gì?\nIt's panda. - Đó là gấu trúc."
+        "hint": "What's your favourite colour? It's pink. - Màu sắc yêu thích của bạn là gì? Đó là màu hồng.\nWhere do you live? - Bạn sống ở đâu?\nMy favourite sport is badminton. - Môn thể thao yêu thích của mình là cầu lông.\nI was in Nha Trang last summer. - Mùa hè năm ngoái mình ở Nha Trang."
       },
       {
         "id": 101,
@@ -3286,29 +3286,29 @@
         "id": 150,
         "title": [
           {
-            "en": "I was at the zoo.",
-            "vi": "Mình đã ở sở thú."
+            "en": "I love pets. I have two kittens in my house.",
+            "vi": "Mình yêu thú cưng. Nhà mình có hai chú mèo con."
           },
           {
-            "en": "What's your favourite food? It's sandwich.",
-            "vi": "Món ăn yêu thích của bạn là gì? Đó là bánh mì kẹp."
+            "en": "A sandwich?",
+            "vi": "Một cái bánh mì kẹp à?"
           },
           {
-            "en": "This is my sister.",
-            "vi": "Đây là chị/em gái của mình."
+            "en": "No, I wasn't. I wasn't in Ha Long Bay.",
+            "vi": "Không, mình không ở đó. Mình đã không ở Vịnh Hạ Long."
           },
           {
-            "en": "It's a horse.",
-            "vi": "Đó là con ngựa."
+            "en": "I'm going to the sports centre.",
+            "vi": "Mình đang đi đến trung tâm thể thao."
           }
         ],
-        "hint": "I was at the zoo. - Mình đã ở sở thú.\nWhat's your favourite food? It's sandwich. - Món ăn yêu thích của bạn là gì? Đó là bánh mì kẹp.\nThis is my sister. - Đây là chị/em gái của mình.\nIt's a horse. - Đó là con ngựa."
+        "hint": "I love pets. I have two kittens in my house. - Mình yêu thú cưng. Nhà mình có hai chú mèo con.\nA sandwich? - Một cái bánh mì kẹp à?\nNo, I wasn't. I wasn't in Ha Long Bay. - Không, mình không ở đó. Mình đã không ở Vịnh Hạ Long.\nI'm going to the sports centre. - Mình đang đi đến trung tâm thể thao."
       }
     ]
   },
   {
     "id": 2,
-    "text": "Our homes",
+    "text": "Unit 2: Our homes",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit2.png",
     "scenes": [
       {
@@ -6571,51 +6571,51 @@
         "id": 299,
         "title": [
           {
-            "en": "It's art.",
-            "vi": "Đó là môn Mỹ thuật."
+            "en": "Nice to meet you.",
+            "vi": "Rất vui được gặp bạn."
           },
           {
-            "en": "Where do you live?",
-            "vi": "Bạn sống ở đâu?"
+            "en": "I was in Nha Trang last summer.",
+            "vi": "Mùa hè năm ngoái mình ở Nha Trang."
           },
           {
-            "en": "Do you live near the school?",
-            "vi": "Bạn có sống gần trường không?"
+            "en": "Touch your ear.",
+            "vi": "Hãy chạm vào cái tai của bạn."
           },
           {
-            "en": "No, I don't.",
-            "vi": "Không, mình không."
+            "en": "Nice to meet you, too.",
+            "vi": "Mình cũng rất vui được gặp bạn."
           }
         ],
-        "hint": "It's art. - Đó là môn Mỹ thuật.\nWhere do you live? - Bạn sống ở đâu?\nDo you live near the school? - Bạn có sống gần trường không?\nNo, I don't. - Không, mình không."
+        "hint": "Nice to meet you. - Rất vui được gặp bạn.\nI was in Nha Trang last summer. - Mùa hè năm ngoái mình ở Nha Trang.\nTouch your ear. - Hãy chạm vào cái tai của bạn.\nNice to meet you, too. - Mình cũng rất vui được gặp bạn."
       },
       {
         "id": 300,
         "title": [
           {
-            "en": "What's your address?",
-            "vi": "Địa chỉ của bạn là gì?"
+            "en": "Nice to meet you, too.",
+            "vi": "Mình cũng rất vui được gặp bạn."
           },
           {
-            "en": "What's your favourite sport?",
-            "vi": "Môn thể thao yêu thích của bạn là gì?"
+            "en": "Touch your nose.",
+            "vi": "Hãy chạm vào cái mũi của bạn."
           },
           {
-            "en": "No, I don't.",
-            "vi": "Không, mình không."
+            "en": "Do you want to sing a song?",
+            "vi": "Bạn có muốn hát một bài không?"
           },
           {
-            "en": "Were you in Nha Trang last summer?",
-            "vi": "Mùa hè năm ngoái bạn có ở Nha Trang không?"
+            "en": "I live at thirteen Ba Trieu Street.",
+            "vi": "Mình sống ở số 13 phố Bà Triệu."
           }
         ],
-        "hint": "What's your address? - Địa chỉ của bạn là gì?\nWhat's your favourite sport? - Môn thể thao yêu thích của bạn là gì?\nNo, I don't. - Không, mình không.\nWere you in Nha Trang last summer? - Mùa hè năm ngoái bạn có ở Nha Trang không?"
+        "hint": "Nice to meet you, too. - Mình cũng rất vui được gặp bạn.\nTouch your nose. - Hãy chạm vào cái mũi của bạn.\nDo you want to sing a song? - Bạn có muốn hát một bài không?\nI live at thirteen Ba Trieu Street. - Mình sống ở số 13 phố Bà Triệu."
       }
     ]
   },
   {
     "id": 3,
-    "text": "My foreign friends",
+    "text": "Unit 3: My foreign friends",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit3.png",
     "scenes": [
       {
@@ -9900,29 +9900,29 @@
         "id": 450,
         "title": [
           {
-            "en": "It's a hippo.",
-            "vi": "Đó là hà mã."
+            "en": "What about you?",
+            "vi": "Còn bạn thì sao?"
           },
           {
-            "en": "The number is thirty-eight.",
-            "vi": "Số đó là ba mươi tám (38)."
+            "en": "Kate is British.",
+            "vi": "Kate là người Anh."
           },
           {
-            "en": "You can see the River Thames there.",
-            "vi": "Bạn có thể thấy sông Thames ở đó."
+            "en": "What's he like?",
+            "vi": "Cậu ấy là người như thế nào?"
           },
           {
-            "en": "Tony is from Australia.",
-            "vi": "Tony đến từ nước Úc."
+            "en": "Emma is Japanese.",
+            "vi": "Emma là người Nhật."
           }
         ],
-        "hint": "It's a hippo. - Đó là hà mã.\nThe number is thirty-eight. - Số đó là ba mươi tám (38).\nYou can see the River Thames there. - Bạn có thể thấy sông Thames ở đó.\nTony is from Australia. - Tony đến từ nước Úc."
+        "hint": "What about you? - Còn bạn thì sao?\nKate is British. - Kate là người Anh.\nWhat's he like? - Cậu ấy là người như thế nào?\nEmma is Japanese. - Emma là người Nhật."
       }
     ]
   },
   {
     "id": 4,
-    "text": "Our free-time activities",
+    "text": "Unit 4: Our free-time activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit4.png",
     "scenes": [
       {
@@ -12063,67 +12063,67 @@
         "id": 548,
         "title": [
           {
-            "en": "Is he active?",
-            "vi": "Cậu ấy có năng động không?"
+            "en": "I often surf the Internet on Saturdays.",
+            "vi": "Mình thường lướt mạng vào các thứ Bảy."
           },
           {
-            "en": "She likes playing volleyball.",
-            "vi": "Cô ấy thích chơi bóng chuyền."
+            "en": "I rarely play the guitar.",
+            "vi": "Mình hiếm khi chơi đàn ghi-ta."
           },
           {
-            "en": "Yes, I do.",
-            "vi": "Có."
+            "en": "Do you like listening to music? Yes, I do.",
+            "vi": "Bạn có thích nghe nhạc không? Có."
           },
           {
-            "en": "What nationality is Bill?",
-            "vi": "Bill là người nước nào?"
+            "en": "I like reading books.",
+            "vi": "Mình thích đọc sách."
           }
         ],
-        "hint": "Is he active? - Cậu ấy có năng động không?\nShe likes playing volleyball. - Cô ấy thích chơi bóng chuyền.\nYes, I do. - Có.\nWhat nationality is Bill? - Bill là người nước nào?"
+        "hint": "I often surf the Internet on Saturdays. - Mình thường lướt mạng vào các thứ Bảy.\nI rarely play the guitar. - Mình hiếm khi chơi đàn ghi-ta.\nDo you like listening to music? Yes, I do. - Bạn có thích nghe nhạc không? Có.\nI like reading books. - Mình thích đọc sách."
       },
       {
         "id": 549,
         "title": [
           {
-            "en": "She usually plays volleyball on Saturdays.",
-            "vi": "Bạn ấy thường chơi bóng chuyền vào các thứ Bảy."
+            "en": "She likes going roller skating.",
+            "vi": "Cô ấy thích đi trượt pa-tanh."
           },
           {
-            "en": "Mai sometimes plays volleyball.",
-            "vi": "Mai thỉnh thoảng chơi bóng chuyền."
+            "en": "What do you do at the weekend?",
+            "vi": "Bạn làm gì vào cuối tuần?"
           },
           {
-            "en": "She sometimes surfs the Internet.",
-            "vi": "Cô ấy thỉnh thoảng lướt mạng."
+            "en": "I usually water the flowers.",
+            "vi": "Mình thường xuyên tưới hoa."
           },
           {
-            "en": "He always waters the flowers.",
-            "vi": "Cậu ấy luôn luôn tưới hoa."
+            "en": "Yes, I do.",
+            "vi": "Có."
           }
         ],
-        "hint": "She usually plays volleyball on Saturdays. - Bạn ấy thường chơi bóng chuyền vào các thứ Bảy.\nMai sometimes plays volleyball. - Mai thỉnh thoảng chơi bóng chuyền.\nShe sometimes surfs the Internet. - Cô ấy thỉnh thoảng lướt mạng.\nHe always waters the flowers. - Cậu ấy luôn luôn tưới hoa."
+        "hint": "She likes going roller skating. - Cô ấy thích đi trượt pa-tanh.\nWhat do you do at the weekend? - Bạn làm gì vào cuối tuần?\nI usually water the flowers. - Mình thường xuyên tưới hoa.\nYes, I do. - Có."
       },
       {
         "id": 550,
         "title": [
           {
-            "en": "She loves going shopping.",
-            "vi": "Bạn ấy rất thích đi mua sắm."
+            "en": "Do you like playing the violin?",
+            "vi": "Bạn có thích chơi đàn vi-ô-lông không?"
           },
           {
-            "en": "I always play the guitar on Saturdays.",
-            "vi": "Mình luôn luôn chơi đàn ghi-ta vào các thứ Bảy."
+            "en": "She likes listening to music.",
+            "vi": "Cô ấy thích nghe nhạc."
           },
           {
-            "en": "I often water the flowers.",
-            "vi": "Mình thường tưới hoa."
+            "en": "No, I don't.",
+            "vi": "Không, mình không thích."
           },
           {
-            "en": "Do you like playing volleyball? No, I don't.",
-            "vi": "Bạn có thích chơi bóng chuyền không? Không."
+            "en": "Yes, I do.",
+            "vi": "Vâng, mình thích."
           }
         ],
-        "hint": "She loves going shopping. - Bạn ấy rất thích đi mua sắm.\nI always play the guitar on Saturdays. - Mình luôn luôn chơi đàn ghi-ta vào các thứ Bảy.\nI often water the flowers. - Mình thường tưới hoa.\nDo you like playing volleyball? No, I don't. - Bạn có thích chơi bóng chuyền không? Không."
+        "hint": "Do you like playing the violin? - Bạn có thích chơi đàn vi-ô-lông không?\nShe likes listening to music. - Cô ấy thích nghe nhạc.\nNo, I don't. - Không, mình không thích.\nYes, I do. - Vâng, mình thích."
       },
       {
         "id": 551,
@@ -13207,29 +13207,29 @@
         "id": 600,
         "title": [
           {
-            "en": "He's Malaysian.",
-            "vi": "Cậu ấy là người Ma-lai-xi-a."
+            "en": "I live in a town.",
+            "vi": "Mình sống ở một thị trấn."
           },
           {
-            "en": "It's 116 Queen Street.",
-            "vi": "Đó là số 116 phố Queen."
+            "en": "The number is eighteen.",
+            "vi": "Số đó là mười tám (18)."
           },
           {
-            "en": "What nationality is Tony?",
-            "vi": "Tony là người nước nào?"
+            "en": "It's a giraffe.",
+            "vi": "Đó là hươu cao cổ."
           },
           {
-            "en": "Do you live near the school?",
-            "vi": "Bạn có sống gần trường không?"
+            "en": "Linh lives at 88 Ba Trieu Street.",
+            "vi": "Linh sống ở số 88, Ba Trieu Street."
           }
         ],
-        "hint": "He's Malaysian. - Cậu ấy là người Ma-lai-xi-a.\nIt's 116 Queen Street. - Đó là số 116 phố Queen.\nWhat nationality is Tony? - Tony là người nước nào?\nDo you live near the school? - Bạn có sống gần trường không?"
+        "hint": "I live in a town. - Mình sống ở một thị trấn.\nThe number is eighteen. - Số đó là mười tám (18).\nIt's a giraffe. - Đó là hươu cao cổ.\nLinh lives at 88 Ba Trieu Street. - Linh sống ở số 88, Ba Trieu Street."
       }
     ]
   },
   {
     "id": 5,
-    "text": "My future job",
+    "text": "Unit 5: My future job",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit5.png",
     "scenes": [
       {
@@ -13249,17 +13249,17 @@
           },
           {
             "en": "He's a teacher. He works at a school.",
-            "vi": "Ông ấy là giáo viên. Ông ấy làm việc ở trường học."
+            "vi": "Anh ấy là giáo viên. Anh ấy làm việc ở trường học."
           }
         ],
-        "hint": "Tell me about your future job. - Hãy kể cho mình nghe về nghề nghiệp tương lai của bạn.\nI'd like to be a farmer. - Mình muốn trở thành nông dân.\nMy mother is a gardener. - Mẹ mình là người làm vườn.\nHe's a teacher. He works at a school. - Ông ấy là giáo viên. Ông ấy làm việc ở trường học."
+        "hint": "Tell me about your future job. - Hãy kể cho mình nghe về nghề nghiệp tương lai của bạn.\nI'd like to be a farmer. - Mình muốn trở thành nông dân.\nMy mother is a gardener. - Mẹ mình là người làm vườn.\nHe's a teacher. He works at a school. - Anh ấy là giáo viên. Anh ấy làm việc ở trường học."
       },
       {
         "id": 602,
         "title": [
           {
             "en": "She's a singer. She works at a theatre.",
-            "vi": "Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát."
+            "vi": "Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát."
           },
           {
             "en": "Mai is Indian.",
@@ -13271,10 +13271,10 @@
           },
           {
             "en": "I help sick people. I work in a hospital.",
-            "vi": "Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+            "vi": "Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
           }
         ],
-        "hint": "She's a singer. She works at a theatre. - Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát.\nMai is Indian. - Mai là người Ấn Độ.\nMy mother is a singer. - Mẹ mình là ca sĩ.\nI help sick people. I work in a hospital. - Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+        "hint": "She's a singer. She works at a theatre. - Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát.\nMai is Indian. - Mai là người Ấn Độ.\nMy mother is a singer. - Mẹ mình là ca sĩ.\nI help sick people. I work in a hospital. - Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
       },
       {
         "id": 603,
@@ -13347,7 +13347,7 @@
         "title": [
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "Peter would like to be a reporter.",
@@ -13362,7 +13362,7 @@
             "vi": "Vì mình muốn diễn xuất và kể chuyện."
           }
         ],
-        "hint": "I plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nPeter would like to be a reporter. - Peter muốn trở thành phóng viên.\nA farmer grows rice. - Nông dân trồng lúa.\nBecause I'd like to act and tell stories. - Vì mình muốn diễn xuất và kể chuyện."
+        "hint": "I plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nPeter would like to be a reporter. - Peter muốn trở thành phóng viên.\nA farmer grows rice. - Nông dân trồng lúa.\nBecause I'd like to act and tell stories. - Vì mình muốn diễn xuất và kể chuyện."
       },
       {
         "id": 607,
@@ -13413,7 +13413,7 @@
         "title": [
           {
             "en": "He's an actor. He works at a theatre.",
-            "vi": "Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+            "vi": "Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
           },
           {
             "en": "A singer sings songs.",
@@ -13428,7 +13428,7 @@
             "vi": "Mình muốn trở thành lính cứu hỏa."
           }
         ],
-        "hint": "He's an actor. He works at a theatre. - Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát.\nA singer sings songs. - Ca sĩ hát.\nBecause I'd like to act and tell stories. - Vì mình muốn diễn xuất và kể chuyện.\nI'd like to be a firefighter. - Mình muốn trở thành lính cứu hỏa."
+        "hint": "He's an actor. He works at a theatre. - Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát.\nA singer sings songs. - Ca sĩ hát.\nBecause I'd like to act and tell stories. - Vì mình muốn diễn xuất và kể chuyện.\nI'd like to be a firefighter. - Mình muốn trở thành lính cứu hỏa."
       },
       {
         "id": 610,
@@ -13443,14 +13443,14 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "Mary rarely goes roller skating.",
             "vi": "Mary hiếm khi đi trượt pa-tanh."
           }
         ],
-        "hint": "My mother's a teacher. - Mẹ mình là giáo viên.\nLucy is helpful. - Lucy hay giúp đỡ.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh."
+        "hint": "My mother's a teacher. - Mẹ mình là giáo viên.\nLucy is helpful. - Lucy hay giúp đỡ.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh."
       },
       {
         "id": 611,
@@ -13461,7 +13461,7 @@
           },
           {
             "en": "He's a teacher. He works at a school.",
-            "vi": "Ông ấy là giáo viên. Ông ấy làm việc ở trường học."
+            "vi": "Anh ấy là giáo viên. Anh ấy làm việc ở trường học."
           },
           {
             "en": "I'd like to be a reporter.",
@@ -13472,7 +13472,7 @@
             "vi": "Nghề của ông ấy là gì?"
           }
         ],
-        "hint": "I'm a writer. I'd like to be a writer. - Mình là nhà văn. Mình muốn trở thành nhà văn.\nHe's a teacher. He works at a school. - Ông ấy là giáo viên. Ông ấy làm việc ở trường học.\nI'd like to be a reporter. - Mình muốn trở thành phóng viên.\nWhat's his job? - Nghề của ông ấy là gì?"
+        "hint": "I'm a writer. I'd like to be a writer. - Mình là nhà văn. Mình muốn trở thành nhà văn.\nHe's a teacher. He works at a school. - Anh ấy là giáo viên. Anh ấy làm việc ở trường học.\nI'd like to be a reporter. - Mình muốn trở thành phóng viên.\nWhat's his job? - Nghề của ông ấy là gì?"
       },
       {
         "id": 612,
@@ -13505,7 +13505,7 @@
           },
           {
             "en": "She's a singer. She works at a theatre.",
-            "vi": "Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát."
+            "vi": "Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát."
           },
           {
             "en": "My father's a dentist.",
@@ -13513,10 +13513,10 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           }
         ],
-        "hint": "Yes, I would. - Có, mình muốn.\nShe's a singer. She works at a theatre. - Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát.\nMy father's a dentist. - Bố mình là nha sĩ.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+        "hint": "Yes, I would. - Có, mình muốn.\nShe's a singer. She works at a theatre. - Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát.\nMy father's a dentist. - Bố mình là nha sĩ.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
       },
       {
         "id": 614,
@@ -13579,10 +13579,10 @@
           },
           {
             "en": "She's a farmer. She works on a farm.",
-            "vi": "Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+            "vi": "Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
           }
         ],
-        "hint": "A teacher teaches children. - Giáo viên dạy trẻ em.\nI like plants and flowers. - Mình thích cây cối và hoa.\nI always listen to music. - Mình luôn luôn nghe nhạc.\nShe's a farmer. She works on a farm. - Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+        "hint": "A teacher teaches children. - Giáo viên dạy trẻ em.\nI like plants and flowers. - Mình thích cây cối và hoa.\nI always listen to music. - Mình luôn luôn nghe nhạc.\nShe's a farmer. She works on a farm. - Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
       },
       {
         "id": 617,
@@ -13593,7 +13593,7 @@
           },
           {
             "en": "I teach English. I have lots of pupils.",
-            "vi": "Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh."
+            "vi": "Mình dạy Tiếng Anh. Mình có rất nhiều học sinh."
           },
           {
             "en": "I'd like to be a doctor, too.",
@@ -13601,10 +13601,10 @@
           },
           {
             "en": "He's a dentist. He works at a dental clinic.",
-            "vi": "Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa."
+            "vi": "Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa."
           }
         ],
-        "hint": "My mother is a farmer. - Mẹ mình là nông dân.\nI teach English. I have lots of pupils. - Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh.\nI'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nHe's a dentist. He works at a dental clinic. - Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa."
+        "hint": "My mother is a farmer. - Mẹ mình là nông dân.\nI teach English. I have lots of pupils. - Mình dạy Tiếng Anh. Mình có rất nhiều học sinh.\nI'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nHe's a dentist. He works at a dental clinic. - Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa."
       },
       {
         "id": 618,
@@ -13645,10 +13645,10 @@
           },
           {
             "en": "I help sick people. I work in a hospital.",
-            "vi": "Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+            "vi": "Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
           }
         ],
-        "hint": "Because I'd like to put out fires. - Vì mình muốn dập lửa.\nI like to talk to people. - Mình thích trò chuyện với mọi người.\nI like plants and flowers. - Mình thích cây cối và hoa.\nI help sick people. I work in a hospital. - Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+        "hint": "Because I'd like to put out fires. - Vì mình muốn dập lửa.\nI like to talk to people. - Mình thích trò chuyện với mọi người.\nI like plants and flowers. - Mình thích cây cối và hoa.\nI help sick people. I work in a hospital. - Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
       },
       {
         "id": 620,
@@ -13663,14 +13663,14 @@
           },
           {
             "en": "He's a dentist. He works at a dental clinic.",
-            "vi": "Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa."
+            "vi": "Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa."
           },
           {
             "en": "My mother is a doctor.",
             "vi": "Mẹ mình là bác sĩ."
           }
         ],
-        "hint": "Ben rarely plays the violin. - Ben hiếm khi chơi đàn vi-ô-lông.\nA gardener grows flowers. - Người làm vườn trồng hoa.\nHe's a dentist. He works at a dental clinic. - Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa.\nMy mother is a doctor. - Mẹ mình là bác sĩ."
+        "hint": "Ben rarely plays the violin. - Ben hiếm khi chơi đàn vi-ô-lông.\nA gardener grows flowers. - Người làm vườn trồng hoa.\nHe's a dentist. He works at a dental clinic. - Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa.\nMy mother is a doctor. - Mẹ mình là bác sĩ."
       },
       {
         "id": 621,
@@ -13699,7 +13699,7 @@
         "title": [
           {
             "en": "He's a teacher. He works at a school.",
-            "vi": "Ông ấy là giáo viên. Ông ấy làm việc ở trường học."
+            "vi": "Anh ấy là giáo viên. Anh ấy làm việc ở trường học."
           },
           {
             "en": "My mother is a writer.",
@@ -13714,7 +13714,7 @@
             "vi": "Thật là một công việc thú vị!"
           }
         ],
-        "hint": "He's a teacher. He works at a school. - Ông ấy là giáo viên. Ông ấy làm việc ở trường học.\nMy mother is a writer. - Mẹ mình là nhà văn.\nA farmer grows rice. - Nông dân trồng lúa.\nWhat an interesting job! - Thật là một công việc thú vị!"
+        "hint": "He's a teacher. He works at a school. - Anh ấy là giáo viên. Anh ấy làm việc ở trường học.\nMy mother is a writer. - Mẹ mình là nhà văn.\nA farmer grows rice. - Nông dân trồng lúa.\nWhat an interesting job! - Thật là một công việc thú vị!"
       },
       {
         "id": 623,
@@ -13733,10 +13733,10 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           }
         ],
-        "hint": "My mother's a teacher. - Mẹ mình là giáo viên.\nBecause I'd like to report the news. - Vì mình muốn đưa tin tức.\nA writer writes stories. - Nhà văn viết truyện.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp."
+        "hint": "My mother's a teacher. - Mẹ mình là giáo viên.\nBecause I'd like to report the news. - Vì mình muốn đưa tin tức.\nA writer writes stories. - Nhà văn viết truyện.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp."
       },
       {
         "id": 624,
@@ -13843,10 +13843,10 @@
           },
           {
             "en": "She's a farmer. She works on a farm.",
-            "vi": "Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+            "vi": "Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
           }
         ],
-        "hint": "I sometimes go swimming on Sundays. - Mình thỉnh thoảng đi bơi vào các Chủ nhật.\nYes, I would. - Có, mình muốn.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng.\nShe's a farmer. She works on a farm. - Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+        "hint": "I sometimes go swimming on Sundays. - Mình thỉnh thoảng đi bơi vào các Chủ nhật.\nYes, I would. - Có, mình muốn.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng.\nShe's a farmer. She works on a farm. - Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
       },
       {
         "id": 629,
@@ -13883,14 +13883,14 @@
           },
           {
             "en": "I teach English. I have lots of pupils.",
-            "vi": "Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh."
+            "vi": "Mình dạy Tiếng Anh. Mình có rất nhiều học sinh."
           },
           {
             "en": "He's an actor. He works at a theatre.",
-            "vi": "Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+            "vi": "Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
           }
         ],
-        "hint": "She would like to make beautiful gardens. - Bạn ấy muốn tạo ra những khu vườn đẹp.\nBen would like to be a singer. - Ben muốn trở thành ca sĩ.\nI teach English. I have lots of pupils. - Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh.\nHe's an actor. He works at a theatre. - Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+        "hint": "She would like to make beautiful gardens. - Bạn ấy muốn tạo ra những khu vườn đẹp.\nBen would like to be a singer. - Ben muốn trở thành ca sĩ.\nI teach English. I have lots of pupils. - Mình dạy Tiếng Anh. Mình có rất nhiều học sinh.\nHe's an actor. He works at a theatre. - Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
       },
       {
         "id": 631,
@@ -13963,7 +13963,7 @@
         "title": [
           {
             "en": "She's a singer. She works at a theatre.",
-            "vi": "Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát."
+            "vi": "Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát."
           },
           {
             "en": "A doctor helps sick people.",
@@ -13978,14 +13978,14 @@
             "vi": "Nha sĩ chăm sóc răng."
           }
         ],
-        "hint": "She's a singer. She works at a theatre. - Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát.\nA doctor helps sick people. - Bác sĩ giúp người bệnh.\nA firefighter puts out fires. - Lính cứu hỏa dập lửa.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng."
+        "hint": "She's a singer. She works at a theatre. - Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát.\nA doctor helps sick people. - Bác sĩ giúp người bệnh.\nA firefighter puts out fires. - Lính cứu hỏa dập lửa.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng."
       },
       {
         "id": 635,
         "title": [
           {
             "en": "He's an actor. He works at a theatre.",
-            "vi": "Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+            "vi": "Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
           },
           {
             "en": "I like reading stories.",
@@ -13993,25 +13993,25 @@
           },
           {
             "en": "I help sick people. I work in a hospital.",
-            "vi": "Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+            "vi": "Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
           },
           {
             "en": "Nam is Australian.",
             "vi": "Nam là người Úc."
           }
         ],
-        "hint": "He's an actor. He works at a theatre. - Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát.\nI like reading stories. - Mình thích đọc truyện.\nI help sick people. I work in a hospital. - Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện.\nNam is Australian. - Nam là người Úc."
+        "hint": "He's an actor. He works at a theatre. - Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát.\nI like reading stories. - Mình thích đọc truyện.\nI help sick people. I work in a hospital. - Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện.\nNam is Australian. - Nam là người Úc."
       },
       {
         "id": 636,
         "title": [
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "She's a farmer. She works on a farm.",
-            "vi": "Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+            "vi": "Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
           },
           {
             "en": "I like plants and flowers.",
@@ -14022,7 +14022,7 @@
             "vi": "Giáo viên dạy trẻ em."
           }
         ],
-        "hint": "I plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nShe's a farmer. She works on a farm. - Bà ấy là nông dân. Bà ấy làm việc ở trang trại.\nI like plants and flowers. - Mình thích cây cối và hoa.\nA teacher teaches children. - Giáo viên dạy trẻ em."
+        "hint": "I plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nShe's a farmer. She works on a farm. - Cô ấy là nông dân. Cô ấy làm việc ở trang trại.\nI like plants and flowers. - Mình thích cây cối và hoa.\nA teacher teaches children. - Giáo viên dạy trẻ em."
       },
       {
         "id": 637,
@@ -14033,7 +14033,7 @@
           },
           {
             "en": "She's a gardener. She works in a garden.",
-            "vi": "Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn."
+            "vi": "Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn."
           },
           {
             "en": "Do you like watching cartoons? No, I don't.",
@@ -14044,7 +14044,7 @@
             "vi": "Mình thích trò chuyện với mọi người."
           }
         ],
-        "hint": "I like reading books. - Mình thích đọc sách.\nShe's a gardener. She works in a garden. - Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn.\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không.\nI like to talk to people. - Mình thích trò chuyện với mọi người."
+        "hint": "I like reading books. - Mình thích đọc sách.\nShe's a gardener. She works in a garden. - Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn.\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không.\nI like to talk to people. - Mình thích trò chuyện với mọi người."
       },
       {
         "id": 638,
@@ -14125,36 +14125,36 @@
           },
           {
             "en": "She's a doctor. She works at a hospital.",
-            "vi": "Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "I like to talk to people.",
             "vi": "Mình thích trò chuyện với mọi người."
           }
         ],
-        "hint": "I'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nI'd like to be an actor. - Mình muốn trở thành diễn viên.\nShe's a doctor. She works at a hospital. - Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện.\nI like to talk to people. - Mình thích trò chuyện với mọi người."
+        "hint": "I'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nI'd like to be an actor. - Mình muốn trở thành diễn viên.\nShe's a doctor. She works at a hospital. - Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện.\nI like to talk to people. - Mình thích trò chuyện với mọi người."
       },
       {
         "id": 642,
         "title": [
           {
             "en": "She's a farmer. She works on a farm.",
-            "vi": "Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+            "vi": "Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
           },
           {
             "en": "I teach English. I have lots of pupils.",
-            "vi": "Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh."
+            "vi": "Mình dạy Tiếng Anh. Mình có rất nhiều học sinh."
           },
           {
             "en": "I put out fires. I work in a fire station.",
-            "vi": "Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+            "vi": "Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
           },
           {
             "en": "I love to work in a team.",
             "vi": "Mình thích làm việc nhóm."
           }
         ],
-        "hint": "She's a farmer. She works on a farm. - Bà ấy là nông dân. Bà ấy làm việc ở trang trại.\nI teach English. I have lots of pupils. - Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh.\nI put out fires. I work in a fire station. - Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa.\nI love to work in a team. - Mình thích làm việc nhóm."
+        "hint": "She's a farmer. She works on a farm. - Cô ấy là nông dân. Cô ấy làm việc ở trang trại.\nI teach English. I have lots of pupils. - Mình dạy Tiếng Anh. Mình có rất nhiều học sinh.\nI put out fires. I work in a fire station. - Mình dập lửa. Mình làm việc ở trạm cứu hỏa.\nI love to work in a team. - Mình thích làm việc nhóm."
       },
       {
         "id": 643,
@@ -14169,14 +14169,14 @@
           },
           {
             "en": "I help sick people. I work in a hospital.",
-            "vi": "Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+            "vi": "Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
           },
           {
             "en": "He's a doctor.",
             "vi": "Bố mình là bác sĩ."
           }
         ],
-        "hint": "I want to help people. - Mình muốn giúp đỡ mọi người.\nA farmer grows rice. - Nông dân trồng lúa.\nI help sick people. I work in a hospital. - Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện.\nHe's a doctor. - Bố mình là bác sĩ."
+        "hint": "I want to help people. - Mình muốn giúp đỡ mọi người.\nA farmer grows rice. - Nông dân trồng lúa.\nI help sick people. I work in a hospital. - Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện.\nHe's a doctor. - Bố mình là bác sĩ."
       },
       {
         "id": 644,
@@ -14205,7 +14205,7 @@
         "title": [
           {
             "en": "He's a teacher. He works at a school.",
-            "vi": "Ông ấy là giáo viên. Ông ấy làm việc ở trường học."
+            "vi": "Anh ấy là giáo viên. Anh ấy làm việc ở trường học."
           },
           {
             "en": "Because I'd like to help people.",
@@ -14220,7 +14220,7 @@
             "vi": "Mình thích trò chuyện với mọi người."
           }
         ],
-        "hint": "He's a teacher. He works at a school. - Ông ấy là giáo viên. Ông ấy làm việc ở trường học.\nBecause I'd like to help people. - Vì mình muốn giúp đỡ mọi người.\nA gardener grows flowers. - Người làm vườn trồng hoa.\nI like to talk to people. - Mình thích trò chuyện với mọi người."
+        "hint": "He's a teacher. He works at a school. - Anh ấy là giáo viên. Anh ấy làm việc ở trường học.\nBecause I'd like to help people. - Vì mình muốn giúp đỡ mọi người.\nA gardener grows flowers. - Người làm vườn trồng hoa.\nI like to talk to people. - Mình thích trò chuyện với mọi người."
       },
       {
         "id": 646,
@@ -14231,7 +14231,7 @@
           },
           {
             "en": "He's an actor. He works at a theatre.",
-            "vi": "Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+            "vi": "Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
           },
           {
             "en": "A firefighter puts out fires.",
@@ -14239,10 +14239,10 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           }
         ],
-        "hint": "Mary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh.\nHe's an actor. He works at a theatre. - Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát.\nA firefighter puts out fires. - Lính cứu hỏa dập lửa.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp."
+        "hint": "Mary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh.\nHe's an actor. He works at a theatre. - Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát.\nA firefighter puts out fires. - Lính cứu hỏa dập lửa.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp."
       },
       {
         "id": 647,
@@ -14301,21 +14301,21 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           }
         ],
-        "hint": "Lucy is helpful. - Lucy hay giúp đỡ.\nI'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+        "hint": "Lucy is helpful. - Lucy hay giúp đỡ.\nI'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
       },
       {
         "id": 650,
         "title": [
           {
             "en": "She's a gardener. She works in a garden.",
-            "vi": "Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn."
+            "vi": "Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn."
           },
           {
             "en": "I'm a writer. I'd like to be a writer.",
@@ -14330,7 +14330,7 @@
             "vi": "Hãy kể cho mình nghe về nghề nghiệp tương lai của bạn."
           }
         ],
-        "hint": "She's a gardener. She works in a garden. - Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn.\nI'm a writer. I'd like to be a writer. - Mình là nhà văn. Mình muốn trở thành nhà văn.\nNam would like to be an actor. - Nam muốn trở thành diễn viên.\nTell me about your future job. - Hãy kể cho mình nghe về nghề nghiệp tương lai của bạn."
+        "hint": "She's a gardener. She works in a garden. - Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn.\nI'm a writer. I'd like to be a writer. - Mình là nhà văn. Mình muốn trở thành nhà văn.\nNam would like to be an actor. - Nam muốn trở thành diễn viên.\nTell me about your future job. - Hãy kể cho mình nghe về nghề nghiệp tương lai của bạn."
       },
       {
         "id": 651,
@@ -14367,14 +14367,14 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "He's a doctor.",
             "vi": "Bố mình là bác sĩ."
           }
         ],
-        "hint": "Would you like to be a teacher? Yes, I would. - Bạn có muốn trở thành giáo viên không? Có, mình muốn.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng.\nHe's a doctor. - Bố mình là bác sĩ."
+        "hint": "Would you like to be a teacher? Yes, I would. - Bạn có muốn trở thành giáo viên không? Có, mình muốn.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nHe's a doctor. - Bố mình là bác sĩ."
       },
       {
         "id": 653,
@@ -14385,7 +14385,7 @@
           },
           {
             "en": "He's an actor. He works at a theatre.",
-            "vi": "Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+            "vi": "Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
           },
           {
             "en": "I want to help people.",
@@ -14396,7 +14396,7 @@
             "vi": "Lính cứu hỏa dập lửa."
           }
         ],
-        "hint": "Because I'd like to act and tell stories. - Vì mình muốn diễn xuất và kể chuyện.\nHe's an actor. He works at a theatre. - Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát.\nI want to help people. - Mình muốn giúp đỡ mọi người.\nA firefighter puts out fires. - Lính cứu hỏa dập lửa."
+        "hint": "Because I'd like to act and tell stories. - Vì mình muốn diễn xuất và kể chuyện.\nHe's an actor. He works at a theatre. - Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát.\nI want to help people. - Mình muốn giúp đỡ mọi người.\nA firefighter puts out fires. - Lính cứu hỏa dập lửa."
       },
       {
         "id": 654,
@@ -14407,7 +14407,7 @@
           },
           {
             "en": "She's a farmer. She works on a farm.",
-            "vi": "Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+            "vi": "Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
           },
           {
             "en": "A doctor helps sick people.",
@@ -14418,7 +14418,7 @@
             "vi": "Nông dân trồng lúa."
           }
         ],
-        "hint": "Ben rarely plays the violin. - Ben hiếm khi chơi đàn vi-ô-lông.\nShe's a farmer. She works on a farm. - Bà ấy là nông dân. Bà ấy làm việc ở trang trại.\nA doctor helps sick people. - Bác sĩ giúp người bệnh.\nA farmer grows rice. - Nông dân trồng lúa."
+        "hint": "Ben rarely plays the violin. - Ben hiếm khi chơi đàn vi-ô-lông.\nShe's a farmer. She works on a farm. - Cô ấy là nông dân. Cô ấy làm việc ở trang trại.\nA doctor helps sick people. - Bác sĩ giúp người bệnh.\nA farmer grows rice. - Nông dân trồng lúa."
       },
       {
         "id": 655,
@@ -14429,7 +14429,7 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "What an interesting job!",
@@ -14440,7 +14440,7 @@
             "vi": "Bạn có thích xem phim hoạt hình không? Không."
           }
         ],
-        "hint": "It was very interesting. - Nó rất thú vị.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng.\nWhat an interesting job! - Thật là một công việc thú vị!\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không."
+        "hint": "It was very interesting. - Nó rất thú vị.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nWhat an interesting job! - Thật là một công việc thú vị!\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không."
       },
       {
         "id": 656,
@@ -14451,18 +14451,18 @@
           },
           {
             "en": "She's a gardener. She works in a garden.",
-            "vi": "Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn."
+            "vi": "Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn."
           },
           {
             "en": "She's a farmer. She works on a farm.",
-            "vi": "Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+            "vi": "Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
           },
           {
             "en": "Would you like to be a dentist? Yes, I would.",
             "vi": "Bạn có muốn trở thành nha sĩ không? Có, mình muốn."
           }
         ],
-        "hint": "I'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nShe's a gardener. She works in a garden. - Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn.\nShe's a farmer. She works on a farm. - Bà ấy là nông dân. Bà ấy làm việc ở trang trại.\nWould you like to be a dentist? Yes, I would. - Bạn có muốn trở thành nha sĩ không? Có, mình muốn."
+        "hint": "I'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nShe's a gardener. She works in a garden. - Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn.\nShe's a farmer. She works on a farm. - Cô ấy là nông dân. Cô ấy làm việc ở trang trại.\nWould you like to be a dentist? Yes, I would. - Bạn có muốn trở thành nha sĩ không? Có, mình muốn."
       },
       {
         "id": 657,
@@ -14473,7 +14473,7 @@
           },
           {
             "en": "She's a doctor. She works at a hospital.",
-            "vi": "Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "Nam would like to be an actor.",
@@ -14484,7 +14484,7 @@
             "vi": "Nha sĩ chăm sóc răng."
           }
         ],
-        "hint": "Mary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh.\nShe's a doctor. She works at a hospital. - Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện.\nNam would like to be an actor. - Nam muốn trở thành diễn viên.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng."
+        "hint": "Mary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh.\nShe's a doctor. She works at a hospital. - Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện.\nNam would like to be an actor. - Nam muốn trở thành diễn viên.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng."
       },
       {
         "id": 658,
@@ -14495,18 +14495,18 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "She's a doctor. She works at a hospital.",
-            "vi": "Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "A writer writes stories.",
             "vi": "Nhà văn viết truyện."
           }
         ],
-        "hint": "Would you like to be an actor? Yes, I would. - Bạn có muốn trở thành diễn viên không? Có, mình muốn.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nShe's a doctor. She works at a hospital. - Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện.\nA writer writes stories. - Nhà văn viết truyện."
+        "hint": "Would you like to be an actor? Yes, I would. - Bạn có muốn trở thành diễn viên không? Có, mình muốn.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nShe's a doctor. She works at a hospital. - Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện.\nA writer writes stories. - Nhà văn viết truyện."
       },
       {
         "id": 659,
@@ -14583,7 +14583,7 @@
           },
           {
             "en": "I teach English. I have lots of pupils.",
-            "vi": "Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh."
+            "vi": "Mình dạy Tiếng Anh. Mình có rất nhiều học sinh."
           },
           {
             "en": "Do you like watching cartoons? No, I don't.",
@@ -14594,7 +14594,7 @@
             "vi": "Mình thích đi dạo."
           }
         ],
-        "hint": "A writer writes stories. - Nhà văn viết truyện.\nI teach English. I have lots of pupils. - Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh.\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không.\nI like going for a walk. - Mình thích đi dạo."
+        "hint": "A writer writes stories. - Nhà văn viết truyện.\nI teach English. I have lots of pupils. - Mình dạy Tiếng Anh. Mình có rất nhiều học sinh.\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không.\nI like going for a walk. - Mình thích đi dạo."
       },
       {
         "id": 663,
@@ -14653,21 +14653,21 @@
           },
           {
             "en": "He's a teacher. He works at a school.",
-            "vi": "Ông ấy là giáo viên. Ông ấy làm việc ở trường học."
+            "vi": "Anh ấy là giáo viên. Anh ấy làm việc ở trường học."
           },
           {
             "en": "What's his job?",
             "vi": "Nghề của ông ấy là gì?"
           }
         ],
-        "hint": "I always listen to music. - Mình luôn luôn nghe nhạc.\nHe's a doctor. - Bố mình là bác sĩ.\nHe's a teacher. He works at a school. - Ông ấy là giáo viên. Ông ấy làm việc ở trường học.\nWhat's his job? - Nghề của ông ấy là gì?"
+        "hint": "I always listen to music. - Mình luôn luôn nghe nhạc.\nHe's a doctor. - Bố mình là bác sĩ.\nHe's a teacher. He works at a school. - Anh ấy là giáo viên. Anh ấy làm việc ở trường học.\nWhat's his job? - Nghề của ông ấy là gì?"
       },
       {
         "id": 666,
         "title": [
           {
             "en": "She's a doctor. She works at a hospital.",
-            "vi": "Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "I'm a writer. I'd like to be a writer.",
@@ -14675,14 +14675,14 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "Mary rarely goes roller skating.",
             "vi": "Mary hiếm khi đi trượt pa-tanh."
           }
         ],
-        "hint": "She's a doctor. She works at a hospital. - Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện.\nI'm a writer. I'd like to be a writer. - Mình là nhà văn. Mình muốn trở thành nhà văn.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh."
+        "hint": "She's a doctor. She works at a hospital. - Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện.\nI'm a writer. I'd like to be a writer. - Mình là nhà văn. Mình muốn trở thành nhà văn.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh."
       },
       {
         "id": 667,
@@ -14719,14 +14719,14 @@
           },
           {
             "en": "He's an actor. He works at a theatre.",
-            "vi": "Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+            "vi": "Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
           },
           {
             "en": "I put out fires. I work in a fire station.",
-            "vi": "Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+            "vi": "Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
           }
         ],
-        "hint": "I sometimes go swimming on Sundays. - Mình thỉnh thoảng đi bơi vào các Chủ nhật.\nI like reading stories. - Mình thích đọc truyện.\nHe's an actor. He works at a theatre. - Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát.\nI put out fires. I work in a fire station. - Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+        "hint": "I sometimes go swimming on Sundays. - Mình thỉnh thoảng đi bơi vào các Chủ nhật.\nI like reading stories. - Mình thích đọc truyện.\nHe's an actor. He works at a theatre. - Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát.\nI put out fires. I work in a fire station. - Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
       },
       {
         "id": 669,
@@ -14737,7 +14737,7 @@
           },
           {
             "en": "She's a doctor. She works at a hospital.",
-            "vi": "Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "Do you like watching cartoons? No, I don't.",
@@ -14748,7 +14748,7 @@
             "vi": "Bạn ấy muốn tạo ra những khu vườn đẹp."
           }
         ],
-        "hint": "I sometimes go swimming on Sundays. - Mình thỉnh thoảng đi bơi vào các Chủ nhật.\nShe's a doctor. She works at a hospital. - Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện.\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không.\nShe would like to make beautiful gardens. - Bạn ấy muốn tạo ra những khu vườn đẹp."
+        "hint": "I sometimes go swimming on Sundays. - Mình thỉnh thoảng đi bơi vào các Chủ nhật.\nShe's a doctor. She works at a hospital. - Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện.\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không.\nShe would like to make beautiful gardens. - Bạn ấy muốn tạo ra những khu vườn đẹp."
       },
       {
         "id": 670,
@@ -14767,10 +14767,10 @@
           },
           {
             "en": "I put out fires. I work in a fire station.",
-            "vi": "Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+            "vi": "Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
           }
         ],
-        "hint": "Would you like to be an actor? Yes, I would. - Bạn có muốn trở thành diễn viên không? Có, mình muốn.\nWhat an interesting job! - Thật là một công việc thú vị!\nI'd like to write stories for children. - Mình muốn viết truyện cho trẻ em.\nI put out fires. I work in a fire station. - Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+        "hint": "Would you like to be an actor? Yes, I would. - Bạn có muốn trở thành diễn viên không? Có, mình muốn.\nWhat an interesting job! - Thật là một công việc thú vị!\nI'd like to write stories for children. - Mình muốn viết truyện cho trẻ em.\nI put out fires. I work in a fire station. - Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
       },
       {
         "id": 671,
@@ -14807,14 +14807,14 @@
           },
           {
             "en": "I teach English. I have lots of pupils.",
-            "vi": "Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh."
+            "vi": "Mình dạy Tiếng Anh. Mình có rất nhiều học sinh."
           },
           {
             "en": "A gardener grows flowers.",
             "vi": "Người làm vườn trồng hoa."
           }
         ],
-        "hint": "A writer writes stories. - Nhà văn viết truyện.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh.\nI teach English. I have lots of pupils. - Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh.\nA gardener grows flowers. - Người làm vườn trồng hoa."
+        "hint": "A writer writes stories. - Nhà văn viết truyện.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh.\nI teach English. I have lots of pupils. - Mình dạy Tiếng Anh. Mình có rất nhiều học sinh.\nA gardener grows flowers. - Người làm vườn trồng hoa."
       },
       {
         "id": 673,
@@ -14865,7 +14865,7 @@
         "title": [
           {
             "en": "He's a reporter. He works in an office.",
-            "vi": "Ông ấy là phóng viên. Ông ấy làm việc ở văn phòng."
+            "vi": "Anh ấy là phóng viên. Anh ấy làm việc ở văn phòng."
           },
           {
             "en": "I like to talk to people.",
@@ -14877,10 +14877,10 @@
           },
           {
             "en": "I help sick people. I work in a hospital.",
-            "vi": "Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+            "vi": "Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
           }
         ],
-        "hint": "He's a reporter. He works in an office. - Ông ấy là phóng viên. Ông ấy làm việc ở văn phòng.\nI like to talk to people. - Mình thích trò chuyện với mọi người.\nThat's my father. What's his job? - Đó là bố mình. Nghề của bố là gì?\nI help sick people. I work in a hospital. - Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+        "hint": "He's a reporter. He works in an office. - Anh ấy là phóng viên. Anh ấy làm việc ở văn phòng.\nI like to talk to people. - Mình thích trò chuyện với mọi người.\nThat's my father. What's his job? - Đó là bố mình. Nghề của bố là gì?\nI help sick people. I work in a hospital. - Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
       },
       {
         "id": 676,
@@ -14943,10 +14943,10 @@
           },
           {
             "en": "I put out fires. I work in a fire station.",
-            "vi": "Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+            "vi": "Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
           }
         ],
-        "hint": "I like plants and flowers. - Mình thích cây cối và hoa.\nMy father is an actor. - Bố mình là diễn viên.\nI like going for a walk. - Mình thích đi dạo.\nI put out fires. I work in a fire station. - Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+        "hint": "I like plants and flowers. - Mình thích cây cối và hoa.\nMy father is an actor. - Bố mình là diễn viên.\nI like going for a walk. - Mình thích đi dạo.\nI put out fires. I work in a fire station. - Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
       },
       {
         "id": 679,
@@ -15049,14 +15049,14 @@
           },
           {
             "en": "He's a dentist. He works at a dental clinic.",
-            "vi": "Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa."
+            "vi": "Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa."
           },
           {
             "en": "A firefighter puts out fires.",
             "vi": "Lính cứu hỏa dập lửa."
           }
         ],
-        "hint": "I like plants and flowers. - Mình thích cây cối và hoa.\nI like reading books. - Mình thích đọc sách.\nHe's a dentist. He works at a dental clinic. - Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa.\nA firefighter puts out fires. - Lính cứu hỏa dập lửa."
+        "hint": "I like plants and flowers. - Mình thích cây cối và hoa.\nI like reading books. - Mình thích đọc sách.\nHe's a dentist. He works at a dental clinic. - Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa.\nA firefighter puts out fires. - Lính cứu hỏa dập lửa."
       },
       {
         "id": 684,
@@ -15269,14 +15269,14 @@
           },
           {
             "en": "She's a farmer. She works on a farm.",
-            "vi": "Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+            "vi": "Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
           },
           {
             "en": "I'd like to be a gardener.",
             "vi": "Mình muốn trở thành người làm vườn."
           }
         ],
-        "hint": "Mai would like to be a farmer. - Mai muốn trở thành nông dân.\nMy father is a firefighter. - Bố mình là lính cứu hỏa.\nShe's a farmer. She works on a farm. - Bà ấy là nông dân. Bà ấy làm việc ở trang trại.\nI'd like to be a gardener. - Mình muốn trở thành người làm vườn."
+        "hint": "Mai would like to be a farmer. - Mai muốn trở thành nông dân.\nMy father is a firefighter. - Bố mình là lính cứu hỏa.\nShe's a farmer. She works on a farm. - Cô ấy là nông dân. Cô ấy làm việc ở trang trại.\nI'd like to be a gardener. - Mình muốn trở thành người làm vườn."
       },
       {
         "id": 694,
@@ -15309,7 +15309,7 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "Because I'd like to write stories.",
@@ -15317,10 +15317,10 @@
           },
           {
             "en": "He's an actor. He works at a theatre.",
-            "vi": "Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+            "vi": "Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
           }
         ],
-        "hint": "I'd like to be a singer. - Mình muốn trở thành ca sĩ.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nBecause I'd like to write stories. - Vì mình muốn viết truyện.\nHe's an actor. He works at a theatre. - Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+        "hint": "I'd like to be a singer. - Mình muốn trở thành ca sĩ.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nBecause I'd like to write stories. - Vì mình muốn viết truyện.\nHe's an actor. He works at a theatre. - Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
       },
       {
         "id": 696,
@@ -15379,14 +15379,14 @@
           },
           {
             "en": "I help sick people. I work in a hospital.",
-            "vi": "Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện."
+            "vi": "Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện."
           },
           {
             "en": "Would you like to be an actor? Yes, I would.",
             "vi": "Bạn có muốn trở thành diễn viên không? Có, mình muốn."
           }
         ],
-        "hint": "My mother is a doctor. - Mẹ mình là bác sĩ.\nWould you like to be a dentist? Yes, I would. - Bạn có muốn trở thành nha sĩ không? Có, mình muốn.\nI help sick people. I work in a hospital. - Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện.\nWould you like to be an actor? Yes, I would. - Bạn có muốn trở thành diễn viên không? Có, mình muốn."
+        "hint": "My mother is a doctor. - Mẹ mình là bác sĩ.\nWould you like to be a dentist? Yes, I would. - Bạn có muốn trở thành nha sĩ không? Có, mình muốn.\nI help sick people. I work in a hospital. - Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện.\nWould you like to be an actor? Yes, I would. - Bạn có muốn trở thành diễn viên không? Có, mình muốn."
       },
       {
         "id": 699,
@@ -16013,7 +16013,7 @@
           },
           {
             "en": "He's a dentist. He works at a dental clinic.",
-            "vi": "Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa."
+            "vi": "Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa."
           },
           {
             "en": "I often ride my bike on Saturdays.",
@@ -16024,7 +16024,7 @@
             "vi": "Mẹ mình là người làm vườn."
           }
         ],
-        "hint": "I like oranges. - Mình thích quả cam.\nHe's a dentist. He works at a dental clinic. - Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa.\nI often ride my bike on Saturdays. - Mình thường đạp xe vào các thứ Bảy.\nMy mother is a gardener. - Mẹ mình là người làm vườn."
+        "hint": "I like oranges. - Mình thích quả cam.\nHe's a dentist. He works at a dental clinic. - Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa.\nI often ride my bike on Saturdays. - Mình thường đạp xe vào các thứ Bảy.\nMy mother is a gardener. - Mẹ mình là người làm vườn."
       },
       {
         "id": 728,
@@ -16163,7 +16163,7 @@
         "title": [
           {
             "en": "She's a gardener. She works in a garden.",
-            "vi": "Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn."
+            "vi": "Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn."
           },
           {
             "en": "Nam is Australian.",
@@ -16178,7 +16178,7 @@
             "vi": "Mùa hè năm ngoái mình ở Nha Trang."
           }
         ],
-        "hint": "She's a gardener. She works in a garden. - Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn.\nNam is Australian. - Nam là người Úc.\nI sometimes go roller skating on Sundays. - Mình thỉnh thoảng đi trượt patin vào các Chủ nhật.\nI was in Nha Trang last summer. - Mùa hè năm ngoái mình ở Nha Trang."
+        "hint": "She's a gardener. She works in a garden. - Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn.\nNam is Australian. - Nam là người Úc.\nI sometimes go roller skating on Sundays. - Mình thỉnh thoảng đi trượt patin vào các Chủ nhật.\nI was in Nha Trang last summer. - Mùa hè năm ngoái mình ở Nha Trang."
       },
       {
         "id": 735,
@@ -16329,10 +16329,10 @@
           },
           {
             "en": "I put out fires. I work in a fire station.",
-            "vi": "Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+            "vi": "Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
           }
         ],
-        "hint": "What's she like? - Cô ấy là người như thế nào?\nLaura is Vietnamese. - Laura là người Việt Nam.\nIt's a car. - Đó là ô tô.\nI put out fires. I work in a fire station. - Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+        "hint": "What's she like? - Cô ấy là người như thế nào?\nLaura is Vietnamese. - Laura là người Việt Nam.\nIt's a car. - Đó là ô tô.\nI put out fires. I work in a fire station. - Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
       },
       {
         "id": 742,
@@ -16501,14 +16501,14 @@
           },
           {
             "en": "I teach English. I have lots of pupils.",
-            "vi": "Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh."
+            "vi": "Mình dạy Tiếng Anh. Mình có rất nhiều học sinh."
           },
           {
             "en": "Ben rarely reads books.",
             "vi": "Ben hiếm khi đọc sách."
           }
         ],
-        "hint": "She would like to make beautiful gardens. - Bạn ấy muốn tạo ra những khu vườn đẹp.\nI often play the violin. - Mình thường chơi đàn vi-ô-lông.\nI teach English. I have lots of pupils. - Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh.\nBen rarely reads books. - Ben hiếm khi đọc sách."
+        "hint": "She would like to make beautiful gardens. - Bạn ấy muốn tạo ra những khu vườn đẹp.\nI often play the violin. - Mình thường chơi đàn vi-ô-lông.\nI teach English. I have lots of pupils. - Mình dạy Tiếng Anh. Mình có rất nhiều học sinh.\nBen rarely reads books. - Ben hiếm khi đọc sách."
       },
       {
         "id": 750,
@@ -16536,7 +16536,7 @@
   },
   {
     "id": 6,
-    "text": "Our school rooms",
+    "text": "Unit 6: Our school rooms",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit6.png",
     "scenes": [
       {
@@ -17270,7 +17270,7 @@
         "title": [
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "I'm looking for the music room.",
@@ -17285,7 +17285,7 @@
             "vi": "Thư viện ở đâu? Nó ở tầng một."
           }
         ],
-        "hint": "I plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nI'm looking for the music room. - Mình đang tìm phòng âm nhạc.\nWhere are the rooms in our school? - Các phòng trong trường chúng ta ở đâu?\nWhere's the library? It's on the first floor. - Thư viện ở đâu? Nó ở tầng một."
+        "hint": "I plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nI'm looking for the music room. - Mình đang tìm phòng âm nhạc.\nWhere are the rooms in our school? - Các phòng trong trường chúng ta ở đâu?\nWhere's the library? It's on the first floor. - Thư viện ở đâu? Nó ở tầng một."
       },
       {
         "id": 785,
@@ -17718,14 +17718,14 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "Thanks a lot.",
             "vi": "Cảm ơn rất nhiều."
           }
         ],
-        "hint": "Lucy is helpful. - Lucy hay giúp đỡ.\nGo upstairs. The library is on the right. - Đi lên tầng trên. Thư viện ở bên phải.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nThanks a lot. - Cảm ơn rất nhiều."
+        "hint": "Lucy is helpful. - Lucy hay giúp đỡ.\nGo upstairs. The library is on the right. - Đi lên tầng trên. Thư viện ở bên phải.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nThanks a lot. - Cảm ơn rất nhiều."
       },
       {
         "id": 805,
@@ -17846,7 +17846,7 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "Go upstairs. It's on the left.",
@@ -17857,7 +17857,7 @@
             "vi": "Cậu ấy đang đi lên tầng trên."
           }
         ],
-        "hint": "Yes, of course. - Vâng, tất nhiên rồi.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nGo upstairs. It's on the left. - Hãy đi lên tầng trên. Nó ở bên trái.\nHe's going upstairs. - Cậu ấy đang đi lên tầng trên."
+        "hint": "Yes, of course. - Vâng, tất nhiên rồi.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nGo upstairs. It's on the left. - Hãy đi lên tầng trên. Nó ở bên trái.\nHe's going upstairs. - Cậu ấy đang đi lên tầng trên."
       },
       {
         "id": 811,
@@ -18294,10 +18294,10 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           }
         ],
-        "hint": "You go upstairs, and it is on the left. - Bạn đi lên tầng trên, và nó ở bên trái.\nExcuse me. - Xin lỗi (cho hỏi).\nIt is big and beautiful. - Trường to và đẹp.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp."
+        "hint": "You go upstairs, and it is on the left. - Bạn đi lên tầng trên, và nó ở bên trái.\nExcuse me. - Xin lỗi (cho hỏi).\nIt is big and beautiful. - Trường to và đẹp.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp."
       },
       {
         "id": 831,
@@ -18378,14 +18378,14 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "You go upstairs, and it is on the left.",
             "vi": "Bạn đi lên tầng trên, và nó ở bên trái."
           }
         ],
-        "hint": "Could you tell me the way to the gym, please? - Bạn có thể chỉ cho mình đường đến phòng thể dục được không?\nTurn left. - Hãy rẽ trái.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nYou go upstairs, and it is on the left. - Bạn đi lên tầng trên, và nó ở bên trái."
+        "hint": "Could you tell me the way to the gym, please? - Bạn có thể chỉ cho mình đường đến phòng thể dục được không?\nTurn left. - Hãy rẽ trái.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nYou go upstairs, and it is on the left. - Bạn đi lên tầng trên, và nó ở bên trái."
       },
       {
         "id": 835,
@@ -18638,7 +18638,7 @@
           },
           {
             "en": "I plant beautiful flowers and trees.",
-            "vi": "Tôi trồng những loài hoa và cây đẹp."
+            "vi": "Mình trồng những loài hoa và cây đẹp."
           },
           {
             "en": "Ben rarely plays the violin.",
@@ -18649,7 +18649,7 @@
             "vi": "Cảm ơn rất nhiều."
           }
         ],
-        "hint": "Where's the library? It's on the first floor. - Thư viện ở đâu? Nó ở tầng một.\nI plant beautiful flowers and trees. - Tôi trồng những loài hoa và cây đẹp.\nBen rarely plays the violin. - Ben hiếm khi chơi đàn vi-ô-lông.\nThanks a lot. - Cảm ơn rất nhiều."
+        "hint": "Where's the library? It's on the first floor. - Thư viện ở đâu? Nó ở tầng một.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nBen rarely plays the violin. - Ben hiếm khi chơi đàn vi-ô-lông.\nThanks a lot. - Cảm ơn rất nhiều."
       },
       {
         "id": 847,
@@ -19394,10 +19394,10 @@
           },
           {
             "en": "I put out fires. I work in a fire station.",
-            "vi": "Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+            "vi": "Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
           }
         ],
-        "hint": "He's a doctor. - Bố mình là bác sĩ.\nHe always goes roller skating. - Cậu ấy luôn luôn đi trượt patin.\nIs Sally active? Yes, she is. - Sally có năng động không? Có.\nI put out fires. I work in a fire station. - Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa."
+        "hint": "He's a doctor. - Bố mình là bác sĩ.\nHe always goes roller skating. - Cậu ấy luôn luôn đi trượt patin.\nIs Sally active? Yes, she is. - Sally có năng động không? Có.\nI put out fires. I work in a fire station. - Mình dập lửa. Mình làm việc ở trạm cứu hỏa."
       },
       {
         "id": 881,
@@ -19821,29 +19821,29 @@
         "id": 900,
         "title": [
           {
-            "en": "Kenji is from Malaysia.",
-            "vi": "Kenji đến từ Ma-lai-xi-a."
+            "en": "Would you like to be a writer?",
+            "vi": "Bạn có muốn trở thành nhà văn không?"
           },
           {
-            "en": "I'd like to be a teacher.",
-            "vi": "Mình muốn trở thành giáo viên."
+            "en": "She likes watching cartoons.",
+            "vi": "Cô ấy thích xem phim hoạt hình."
           },
           {
-            "en": "Can you tell me about yourself?",
-            "vi": "Bạn có thể kể cho mình nghe về bản thân bạn không?"
+            "en": "No, I don't.",
+            "vi": "Không, mình không thích."
           },
           {
-            "en": "I usually play the violin.",
-            "vi": "Mình thường xuyên chơi đàn vi-ô-lông."
+            "en": "Is he active?",
+            "vi": "Cậu ấy có năng động không?"
           }
         ],
-        "hint": "Kenji is from Malaysia. - Kenji đến từ Ma-lai-xi-a.\nI'd like to be a teacher. - Mình muốn trở thành giáo viên.\nCan you tell me about yourself? - Bạn có thể kể cho mình nghe về bản thân bạn không?\nI usually play the violin. - Mình thường xuyên chơi đàn vi-ô-lông."
+        "hint": "Would you like to be a writer? - Bạn có muốn trở thành nhà văn không?\nShe likes watching cartoons. - Cô ấy thích xem phim hoạt hình.\nNo, I don't. - Không, mình không thích.\nIs he active? - Cậu ấy có năng động không?"
       }
     ]
   },
   {
     "id": 7,
-    "text": "Our favourite school activities",
+    "text": "Unit 7: Our favourite school activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit7.png",
     "scenes": [
       {
@@ -22187,7 +22187,7 @@
           },
           {
             "en": "He's a reporter. He works in an office.",
-            "vi": "Ông ấy là phóng viên. Ông ấy làm việc ở văn phòng."
+            "vi": "Anh ấy là phóng viên. Anh ấy làm việc ở văn phòng."
           },
           {
             "en": "My favourite subject is English.",
@@ -22198,7 +22198,7 @@
             "vi": "Lucy muốn trở thành nhà văn."
           }
         ],
-        "hint": "I usually read books. - Mình thường xuyên đọc sách.\nHe's a reporter. He works in an office. - Ông ấy là phóng viên. Ông ấy làm việc ở văn phòng.\nMy favourite subject is English. - Môn học yêu thích của mình là Tiếng Anh.\nLucy would like to be a writer. - Lucy muốn trở thành nhà văn."
+        "hint": "I usually read books. - Mình thường xuyên đọc sách.\nHe's a reporter. He works in an office. - Anh ấy là phóng viên. Anh ấy làm việc ở văn phòng.\nMy favourite subject is English. - Môn học yêu thích của mình là Tiếng Anh.\nLucy would like to be a writer. - Lucy muốn trở thành nhà văn."
       },
       {
         "id": 1008,
@@ -23019,7 +23019,7 @@
         "title": [
           {
             "en": "She's a singer. She works at a theatre.",
-            "vi": "Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát."
+            "vi": "Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát."
           },
           {
             "en": "I like playing games.",
@@ -23034,7 +23034,7 @@
             "vi": "Vì mình muốn trồng hoa."
           }
         ],
-        "hint": "She's a singer. She works at a theatre. - Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát.\nI like playing games. - Mình thích chơi trò chơi.\nMary likes dancing. - Mary thích nhảy múa.\nBecause I'd like to grow flowers. - Vì mình muốn trồng hoa."
+        "hint": "She's a singer. She works at a theatre. - Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát.\nI like playing games. - Mình thích chơi trò chơi.\nMary likes dancing. - Mary thích nhảy múa.\nBecause I'd like to grow flowers. - Vì mình muốn trồng hoa."
       },
       {
         "id": 1046,
@@ -23150,7 +23150,7 @@
   },
   {
     "id": 8,
-    "text": "In our classroom",
+    "text": "Unit 8: In our classroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit8.png",
     "scenes": [
       {
@@ -26440,7 +26440,7 @@
           },
           {
             "en": "He's a dentist. He works at a dental clinic.",
-            "vi": "Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa."
+            "vi": "Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa."
           },
           {
             "en": "Tony is Australian.",
@@ -26451,13 +26451,13 @@
             "vi": "Tại sao bạn thích nó?"
           }
         ],
-        "hint": "Is Afan clever? Yes, he is. - Afan có thông minh không? Có.\nHe's a dentist. He works at a dental clinic. - Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa.\nTony is Australian. - Tony là người Úc.\nWhy do you like it? - Tại sao bạn thích nó?"
+        "hint": "Is Afan clever? Yes, he is. - Afan có thông minh không? Có.\nHe's a dentist. He works at a dental clinic. - Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa.\nTony is Australian. - Tony là người Úc.\nWhy do you like it? - Tại sao bạn thích nó?"
       }
     ]
   },
   {
     "id": 9,
-    "text": "Our outdoor activities",
+    "text": "Unit 9: Our outdoor activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit9.png",
     "scenes": [
       {
@@ -29764,7 +29764,7 @@
   },
   {
     "id": 10,
-    "text": "Our school trip",
+    "text": "Unit 10: Our school trip",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit10.png",
     "scenes": [
       {
@@ -32104,7 +32104,7 @@
         "title": [
           {
             "en": "He's an actor. He works at a theatre.",
-            "vi": "Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+            "vi": "Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
           },
           {
             "en": "Minh would like to be a farmer.",
@@ -32119,7 +32119,7 @@
             "vi": "Xin chào. Mình là Minh. Rất vui được gặp bạn!"
           }
         ],
-        "hint": "He's an actor. He works at a theatre. - Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát.\nMinh would like to be a farmer. - Minh muốn trở thành nông dân.\nI was in Sa Pa last summer. - Mùa hè năm ngoái mình ở Sa Pa.\nHello. I'm Minh. Nice to meet you! - Xin chào. Mình là Minh. Rất vui được gặp bạn!"
+        "hint": "He's an actor. He works at a theatre. - Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát.\nMinh would like to be a farmer. - Minh muốn trở thành nông dân.\nI was in Sa Pa last summer. - Mùa hè năm ngoái mình ở Sa Pa.\nHello. I'm Minh. Nice to meet you! - Xin chào. Mình là Minh. Rất vui được gặp bạn!"
       },
       {
         "id": 1458,

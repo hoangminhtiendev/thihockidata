@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "All about me",
+    "text": "Unit 1: All about me",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit1.png",
     "scenes": [
       {
@@ -798,11 +798,11 @@
       },
       {
         "id": 100,
-        "sentence": "sc__nce",
+        "sentence": "dolph_n",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "ie",
-        "hint": "science: môn Khoa học"
+        "answer": "i",
+        "hint": "dolphin: cá heo"
       },
       {
         "id": 101,
@@ -1208,7 +1208,7 @@
   },
   {
     "id": 2,
-    "text": "Our homes",
+    "text": "Unit 2: Our homes",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit2.png",
     "scenes": [
       {
@@ -2415,7 +2415,7 @@
   },
   {
     "id": 3,
-    "text": "My foreign friends",
+    "text": "Unit 3: My foreign friends",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit3.png",
     "scenes": [
       {
@@ -3612,17 +3612,17 @@
       },
       {
         "id": 450,
-        "sentence": "sci_nce",
+        "sentence": "shi_",
         "imageUrl": "",
         "audioUrl": "",
-        "answer": "e",
-        "hint": "science: môn Khoa học"
+        "answer": "p",
+        "hint": "ship: con tàu"
       }
     ]
   },
   {
     "id": 4,
-    "text": "Our free-time activities",
+    "text": "Unit 4: Our free-time activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit4.png",
     "scenes": [
       {
@@ -4829,7 +4829,7 @@
   },
   {
     "id": 5,
-    "text": "My future job",
+    "text": "Unit 5: My future job",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit5.png",
     "scenes": [
       {
@@ -5294,7 +5294,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/shesagardenersheworksinagarden.mp3",
         "answer": "gardener",
-        "hint": "She's a gardener. She works in a garden: Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn."
+        "hint": "She's a gardener. She works in a garden: Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn."
       },
       {
         "id": 659,
@@ -5446,7 +5446,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/shesafarmersheworksonafarm.mp3",
         "answer": "farm",
-        "hint": "She's a farmer. She works on a farm: Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+        "hint": "She's a farmer. She works on a farm: Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
       },
       {
         "id": 678,
@@ -5494,7 +5494,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/hesateacherheworksataschool.mp3",
         "answer": "teacher",
-        "hint": "He's a teacher. He works at a school: Ông ấy là giáo viên. Ông ấy làm việc ở trường học."
+        "hint": "He's a teacher. He works at a school: Anh ấy là giáo viên. Anh ấy làm việc ở trường học."
       },
       {
         "id": 684,
@@ -5502,7 +5502,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/hesareporterheworksinanoffice.mp3",
         "answer": "reporter",
-        "hint": "He's a reporter. He works in an office: Ông ấy là phóng viên. Ông ấy làm việc ở văn phòng."
+        "hint": "He's a reporter. He works in an office: Anh ấy là phóng viên. Anh ấy làm việc ở văn phòng."
       },
       {
         "id": 685,
@@ -5510,7 +5510,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/hesanactorheworksatatheatre.mp3",
         "answer": "theatre",
-        "hint": "He's an actor. He works at a theatre: Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát."
+        "hint": "He's an actor. He works at a theatre: Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát."
       },
       {
         "id": 686,
@@ -5534,7 +5534,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/shesawritersheworksinanoffice.mp3",
         "answer": "writer",
-        "hint": "She's a writer. She works in an office: Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng."
+        "hint": "She's a writer. She works in an office: Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
       },
       {
         "id": 689,
@@ -5566,7 +5566,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/shesasingersheworksatatheatre.mp3",
         "answer": "singer",
-        "hint": "She's a singer. She works at a theatre: Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát."
+        "hint": "She's a singer. She works at a theatre: Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát."
       },
       {
         "id": 693,
@@ -5582,7 +5582,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/iplantbeautifulflowersandtrees.mp3",
         "answer": "beautiful",
-        "hint": "I plant beautiful flowers and trees: Tôi trồng những loài hoa và cây đẹp."
+        "hint": "I plant beautiful flowers and trees: Mình trồng những loài hoa và cây đẹp."
       },
       {
         "id": 695,
@@ -5606,7 +5606,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/shesadoctorsheworksatahospital.mp3",
         "answer": "doctor",
-        "hint": "She's a doctor. She works at a hospital: Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện."
+        "hint": "She's a doctor. She works at a hospital: Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện."
       },
       {
         "id": 698,
@@ -5838,7 +5838,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/shesafarmersheworksonafarm.mp3",
         "answer": "farmer",
-        "hint": "She's a farmer. She works on a farm: Bà ấy là nông dân. Bà ấy làm việc ở trang trại."
+        "hint": "She's a farmer. She works on a farm: Cô ấy là nông dân. Cô ấy làm việc ở trang trại."
       },
       {
         "id": 727,
@@ -6036,7 +6036,7 @@
   },
   {
     "id": 6,
-    "text": "Our school rooms",
+    "text": "Unit 6: Our school rooms",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit6.png",
     "scenes": [
       {
@@ -7243,7 +7243,7 @@
   },
   {
     "id": 7,
-    "text": "Our favourite school activities",
+    "text": "Unit 7: Our favourite school activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit7.png",
     "scenes": [
       {
@@ -8450,7 +8450,7 @@
   },
   {
     "id": 8,
-    "text": "In our classroom",
+    "text": "Unit 8: In our classroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit8.png",
     "scenes": [
       {
@@ -9657,7 +9657,7 @@
   },
   {
     "id": 9,
-    "text": "Our outdoor activities",
+    "text": "Unit 9: Our outdoor activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit9.png",
     "scenes": [
       {
@@ -10864,7 +10864,7 @@
   },
   {
     "id": 10,
-    "text": "Our school trip",
+    "text": "Unit 10: Our school trip",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit10.png",
     "scenes": [
       {

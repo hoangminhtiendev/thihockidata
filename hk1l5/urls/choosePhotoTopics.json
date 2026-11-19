@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "All about me",
+    "text": "Unit 1: All about me",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit1.png",
     "scenes": [
       {
@@ -839,54 +839,54 @@
       },
       {
         "id": 50,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yesidoilovetennis.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/doyouliketennisyesidoilovetennis.mp3",
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tennis.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/badminton.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/football.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/swimming.png"
         ],
         "imageNames": [
           "tennis",
-          "basketball",
-          "badminton"
+          "football",
+          "swimming"
         ],
         "correctIndex": 0,
-        "hint": "Yes, I do. I love tennis. → Có. Mình rất thích quần vợt.\n(Hình đúng: tennis – quần vợt)"
+        "hint": "Do you like tennis? Yes, I do. I love tennis. → Bạn có thích quần vợt không? Có. Mình rất thích quần vợt.\n(Hình đúng: tennis – quần vợt)"
       },
       {
         "id": 51,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/itsblue.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/itsenglish.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/green.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/blue.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/yellow.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/science.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/music.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/english.png"
         ],
         "imageNames": [
-          "green",
-          "blue",
-          "yellow"
+          "science",
+          "music",
+          "English"
         ],
-        "correctIndex": 1,
-        "hint": "It's blue. → Đó là màu xanh dương.\n(Hình đúng: blue – màu xanh dương)"
+        "correctIndex": 2,
+        "hint": "It's English. → Đó là môn Tiếng Anh.\n(Hình đúng: English – môn Tiếng Anh)"
       },
       {
         "id": 52,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/itsmusic.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/whatsyourfavouriteanimalitspanda.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/music.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/science.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/art.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tiger.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/monkey.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/panda.png"
         ],
         "imageNames": [
-          "music",
-          "science",
-          "art"
+          "tiger",
+          "monkey",
+          "panda"
         ],
-        "correctIndex": 0,
-        "hint": "It's music. → Đó là môn Âm nhạc.\n(Hình đúng: music – môn Âm nhạc)"
+        "correctIndex": 2,
+        "hint": "What's your favourite animal? It's panda. → Con vật yêu thích của bạn là gì? Đó là gấu trúc.\n(Hình đúng: panda – gấu trúc)"
       },
       {
         "id": 53,
@@ -2558,7 +2558,7 @@
   },
   {
     "id": 2,
-    "text": "Our homes",
+    "text": "Unit 2: Our homes",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit2.png",
     "scenes": [
       {
@@ -3396,54 +3396,54 @@
       },
       {
         "id": 127,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/iliveinabuilding.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/iliveinanapartment.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinabuilding.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinaflat.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinanapartment.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinatower.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinanapartment.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinaflat.png"
         ],
         "imageNames": [
-          "I live in a building.",
-          "I live in a flat.",
-          "I live in an apartment."
+          "I live in a tower.",
+          "I live in an apartment.",
+          "I live in a flat."
         ],
-        "correctIndex": 0,
-        "hint": "I live in a building. → Mình sống trong tòa nhà.\n(Hình đúng: I live in a building. – Mình sống trong tòa nhà.)"
+        "correctIndex": 1,
+        "hint": "I live in an apartment. → Mình sống trong căn hộ chung cư.\n(Hình đúng: I live in an apartment. – Mình sống trong căn hộ chung cư.)"
       },
       {
         "id": 128,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/doyouliveinthathouse.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/whatsyourfavouritesportitstennis.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/building.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/house.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tabletennis.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tennis.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png"
         ],
         "imageNames": [
-          "apartment",
-          "building",
-          "house"
+          "table tennis",
+          "tennis",
+          "basketball"
         ],
-        "correctIndex": 2,
-        "hint": "Do you live in that house? → Bạn có sống ở ngôi nhà kia không?\n(Hình đúng: house – ngôi nhà)"
+        "correctIndex": 1,
+        "hint": "What's your favourite sport? It's tennis. → Môn thể thao yêu thích của bạn là gì? Đó là quần vợt.\n(Hình đúng: tennis – quần vợt)"
       },
       {
         "id": 129,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/ourschoolisinthecentreofnewyorkcity.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/iliveinahouse.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/town.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/city.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/village.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinatower.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinaflat.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/iliveinahouse.png"
         ],
         "imageNames": [
-          "town",
-          "city",
-          "village"
+          "I live in a tower.",
+          "I live in a flat.",
+          "I live in a house."
         ],
-        "correctIndex": 1,
-        "hint": "Our school is in the centre of New York City. → Trường chúng mình ở trung tâm thành phố New York.\n(Hình đúng: city – thành phố)"
+        "correctIndex": 2,
+        "hint": "I live in a house. → Mình sống trong ngôi nhà.\n(Hình đúng: I live in a house. – Mình sống trong ngôi nhà.)"
       },
       {
         "id": 130,
@@ -4480,7 +4480,7 @@
           "eat local food"
         ],
         "correctIndex": 0,
-        "hint": "I teach English. I have lots of pupils. → Tôi dạy Tiếng Anh. Tôi có rất nhiều học sinh.\n(Chữ cần chọn: English – môn Tiếng Anh)"
+        "hint": "I teach English. I have lots of pupils. → Mình dạy Tiếng Anh. Mình có rất nhiều học sinh.\n(Chữ cần chọn: English – môn Tiếng Anh)"
       },
       {
         "id": 866,
@@ -5115,7 +5115,7 @@
   },
   {
     "id": 3,
-    "text": "My foreign friends",
+    "text": "Unit 3: My foreign friends",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit3.png",
     "scenes": [
       {
@@ -7672,7 +7672,7 @@
   },
   {
     "id": 4,
-    "text": "Our free-time activities",
+    "text": "Unit 4: Our free-time activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit4.png",
     "scenes": [
       {
@@ -10229,7 +10229,7 @@
   },
   {
     "id": 5,
-    "text": "My future job",
+    "text": "Unit 5: My future job",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit5.png",
     "scenes": [
       {
@@ -10281,7 +10281,7 @@
           "gardener"
         ],
         "correctIndex": 0,
-        "hint": "She's a writer. She works in an office. → Bà ấy là nhà văn. Bà ấy làm việc ở văn phòng.\n(Hình đúng: writer – nhà văn)"
+        "hint": "She's a writer. She works in an office. → Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\n(Hình đúng: writer – nhà văn)"
       },
       {
         "id": 308,
@@ -10298,7 +10298,7 @@
           "put out fires"
         ],
         "correctIndex": 2,
-        "hint": "I put out fires. I work in a fire station. → Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa.\n(Hình đúng: put out fires – dập lửa)"
+        "hint": "I put out fires. I work in a fire station. → Mình dập lửa. Mình làm việc ở trạm cứu hỏa.\n(Hình đúng: put out fires – dập lửa)"
       },
       {
         "id": 309,
@@ -10570,7 +10570,7 @@
           "help sick people"
         ],
         "correctIndex": 2,
-        "hint": "I help sick people. I work in a hospital. → Tôi giúp đỡ người bệnh. Tôi làm việc ở bệnh viện.\n(Hình đúng: help sick people – giúp người bệnh)"
+        "hint": "I help sick people. I work in a hospital. → Mình giúp đỡ người bệnh. Mình làm việc ở bệnh viện.\n(Hình đúng: help sick people – giúp người bệnh)"
       },
       {
         "id": 325,
@@ -11029,7 +11029,7 @@
           "doctor"
         ],
         "correctIndex": 0,
-        "hint": "He's a dentist. He works at a dental clinic. → Ông ấy là nha sĩ. Ông ấy làm việc ở phòng khám nha khoa.\n(Hình đúng: dentist – nha sĩ)"
+        "hint": "He's a dentist. He works at a dental clinic. → Anh ấy là nha sĩ. Anh ấy làm việc ở phòng khám nha khoa.\n(Hình đúng: dentist – nha sĩ)"
       },
       {
         "id": 352,
@@ -11509,20 +11509,20 @@
       },
       {
         "id": 380,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tonyischinese.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/itsacat.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/japanese.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/chinese.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/vietnamese.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/rabbit.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/cat.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/hippo.png"
         ],
         "imageNames": [
-          "Japanese",
-          "Chinese",
-          "Vietnamese"
+          "rabbit",
+          "cat",
+          "hippo"
         ],
         "correctIndex": 1,
-        "hint": "Tony is Chinese. → Tony là người Trung Quốc.\n(Hình đúng: Chinese – người Trung Quốc)"
+        "hint": "It's a cat. → Đó là con mèo.\n(Hình đúng: cat – con mèo)"
       },
       {
         "id": 1053,
@@ -11556,7 +11556,7 @@
           "giraffe"
         ],
         "correctIndex": 0,
-        "hint": "She's a gardener. She works in a garden. → Bà ấy là người làm vườn. Bà ấy làm việc ở khu vườn.\n(Chữ cần chọn: gardener – người làm vườn)"
+        "hint": "She's a gardener. She works in a garden. → Cô ấy là người làm vườn. Cô ấy làm việc ở khu vườn.\n(Chữ cần chọn: gardener – người làm vườn)"
       },
       {
         "id": 1055,
@@ -11624,7 +11624,7 @@
           "firefighter"
         ],
         "correctIndex": 2,
-        "hint": "He's a firefighter. He works at a fire station. → Ông ấy là lính cứu hỏa. Ông ấy làm việc ở trạm cứu hỏa.\n(Chữ cần chọn: firefighter – lính cứu hỏa)"
+        "hint": "He's a firefighter. He works at a fire station. → Anh ấy là lính cứu hỏa. Anh ấy làm việc ở trạm cứu hỏa.\n(Chữ cần chọn: firefighter – lính cứu hỏa)"
       },
       {
         "id": 1059,
@@ -11828,7 +11828,7 @@
           "farmer"
         ],
         "correctIndex": 2,
-        "hint": "She's a farmer. She works on a farm. → Bà ấy là nông dân. Bà ấy làm việc ở trang trại.\n(Chữ cần chọn: farmer – nông dân)"
+        "hint": "She's a farmer. She works on a farm. → Cô ấy là nông dân. Cô ấy làm việc ở trang trại.\n(Chữ cần chọn: farmer – nông dân)"
       },
       {
         "id": 1071,
@@ -12049,7 +12049,7 @@
           "teacher"
         ],
         "correctIndex": 2,
-        "hint": "He's a teacher. He works at a school. → Ông ấy là giáo viên. Ông ấy làm việc ở trường học.\n(Chữ cần chọn: teacher – giáo viên)"
+        "hint": "He's a teacher. He works at a school. → Anh ấy là giáo viên. Anh ấy làm việc ở trường học.\n(Chữ cần chọn: teacher – giáo viên)"
       },
       {
         "id": 1084,
@@ -12134,7 +12134,7 @@
           "doctor"
         ],
         "correctIndex": 2,
-        "hint": "She's a doctor. She works at a hospital. → Bà ấy là bác sĩ. Bà ấy làm việc ở bệnh viện.\n(Chữ cần chọn: doctor – bác sĩ)"
+        "hint": "She's a doctor. She works at a hospital. → Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện.\n(Chữ cần chọn: doctor – bác sĩ)"
       },
       {
         "id": 1089,
@@ -12287,7 +12287,7 @@
           "sing songs"
         ],
         "correctIndex": 1,
-        "hint": "She's a singer. She works at a theatre. → Bà ấy là ca sĩ. Bà ấy làm việc ở nhà hát.\n(Chữ cần chọn: singer – ca sĩ)"
+        "hint": "She's a singer. She works at a theatre. → Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát.\n(Chữ cần chọn: singer – ca sĩ)"
       },
       {
         "id": 1098,
@@ -12559,7 +12559,7 @@
           "put out fires"
         ],
         "correctIndex": 2,
-        "hint": "I put out fires. I work in a fire station. → Tôi dập lửa. Tôi làm việc ở trạm cứu hỏa.\n(Chữ cần chọn: put out fires – dập lửa)"
+        "hint": "I put out fires. I work in a fire station. → Mình dập lửa. Mình làm việc ở trạm cứu hỏa.\n(Chữ cần chọn: put out fires – dập lửa)"
       },
       {
         "id": 1114,
@@ -12786,7 +12786,7 @@
   },
   {
     "id": 6,
-    "text": "Our school rooms",
+    "text": "Unit 6: Our school rooms",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit6.png",
     "scenes": [
       {
@@ -13212,7 +13212,7 @@
           "gardener"
         ],
         "correctIndex": 1,
-        "hint": "He's a reporter. He works in an office. → Ông ấy là phóng viên. Ông ấy làm việc ở văn phòng.\n(Hình đúng: reporter – phóng viên)"
+        "hint": "He's a reporter. He works in an office. → Anh ấy là phóng viên. Anh ấy làm việc ở văn phòng.\n(Hình đúng: reporter – phóng viên)"
       },
       {
         "id": 406,
@@ -14742,7 +14742,7 @@
           "art"
         ],
         "correctIndex": 0,
-        "hint": "He's an actor. He works at a theatre. → Ông ấy là diễn viên. Ông ấy làm việc ở nhà hát.\n(Chữ cần chọn: actor – diễn viên)"
+        "hint": "He's an actor. He works at a theatre. → Anh ấy là diễn viên. Anh ấy làm việc ở nhà hát.\n(Chữ cần chọn: actor – diễn viên)"
       },
       {
         "id": 1167,
@@ -15343,7 +15343,7 @@
   },
   {
     "id": 7,
-    "text": "Our favourite school activities",
+    "text": "Unit 7: Our favourite school activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit7.png",
     "scenes": [
       {
@@ -16330,7 +16330,7 @@
           "actor"
         ],
         "correctIndex": 0,
-        "hint": "He's a teacher. He works at a school. → Ông ấy là giáo viên. Ông ấy làm việc ở trường học.\n(Hình đúng: teacher – giáo viên)"
+        "hint": "He's a teacher. He works at a school. → Anh ấy là giáo viên. Anh ấy làm việc ở trường học.\n(Hình đúng: teacher – giáo viên)"
       },
       {
         "id": 514,
@@ -16606,37 +16606,37 @@
       },
       {
         "id": 530,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/idliketowritestoriesforchildren.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/idliketobeagardenerbecauseilikeplantsandflowers.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/singsongs.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/growrice.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writestories.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/gardener.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writer.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/farmer.png"
         ],
         "imageNames": [
-          "sing songs",
-          "grow rice",
-          "write stories"
+          "gardener",
+          "writer",
+          "farmer"
         ],
-        "correctIndex": 2,
-        "hint": "I'd like to write stories for children. → Mình muốn viết truyện cho trẻ em.\n(Hình đúng: write stories – viết truyện)"
+        "correctIndex": 0,
+        "hint": "I'd like to be a gardener because I like plants and flowers. → Mình muốn trở thành người làm vườn vì mình thích cây cối và hoa.\n(Hình đúng: gardener – người làm vườn)"
       },
       {
         "id": 531,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/istheteachersroomonthefirstfloor.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/touchyourmouth.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/library.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/gym.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/teachersroom.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/eye.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/mouth.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/nose.png"
         ],
         "imageNames": [
-          "library",
-          "gym",
-          "teachers' room"
+          "eye",
+          "mouth",
+          "nose"
         ],
-        "correctIndex": 2,
-        "hint": "Is the teachers' room on the first floor? → Phòng giáo viên có ở tầng một không?\n(Hình đúng: teachers' room – phòng giáo viên)"
+        "correctIndex": 1,
+        "hint": "Touch your mouth. → Hãy chạm vào cái miệng của bạn.\n(Hình đúng: mouth – cái miệng)"
       },
       {
         "id": 1202,
@@ -17900,7 +17900,7 @@
   },
   {
     "id": 8,
-    "text": "In our classroom",
+    "text": "Unit 8: In our classroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit8.png",
     "scenes": [
       {
@@ -20457,7 +20457,7 @@
   },
   {
     "id": 9,
-    "text": "Our outdoor activities",
+    "text": "Unit 9: Our outdoor activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit9.png",
     "scenes": [
       {
@@ -23014,7 +23014,7 @@
   },
   {
     "id": 10,
-    "text": "Our school trip",
+    "text": "Unit 10: Our school trip",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit10.png",
     "scenes": [
       {
