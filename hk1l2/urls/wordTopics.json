@@ -1540,14 +1540,14 @@
       {
         "id": 219,
         "word": "He's reading a book.",
-        "meaning": "Không. Cậu ấy đang đọc sách.",
+        "meaning": "Cậu ấy đang đọc sách.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hesreadingabook.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hesreadingabook.mp3"
       },
       {
         "id": 220,
         "word": "He's playing with a cat.",
-        "meaning": "Không. Cậu ấy đang chơi với mèo.",
+        "meaning": "Cậu ấy đang chơi với con mèo.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hesplayingwithacat.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hesplayingwithacat.mp3"
       },
@@ -1561,7 +1561,7 @@
       {
         "id": 222,
         "word": "She's reading a book.",
-        "meaning": "Vâng, đúng vậy.",
+        "meaning": "Cô ấy đang đọc sách.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/shesreadingabook.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shesreadingabook.mp3"
       },
@@ -1575,7 +1575,7 @@
       {
         "id": 224,
         "word": "She's flying a kite.",
-        "meaning": "Không. Cô ấy đang thả diều.",
+        "meaning": "Cô ấy đang thả diều.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/shesflyingakite.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shesflyingakite.mp3"
       },
@@ -2849,7 +2849,7 @@
       {
         "id": 405,
         "word": "She's playing with a dog.",
-        "meaning": "Không. Cô ấy đang chơi với chó.",
+        "meaning": "Cô ấy đang chơi với con chó.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/shesplayingwithadog.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shesplayingwithadog.mp3"
       },
@@ -2863,7 +2863,7 @@
       {
         "id": 407,
         "word": "He's flying a kite.",
-        "meaning": "Không. Cậu ấy đang thả diều.",
+        "meaning": "Cậu ấy đang thả diều.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hesflyingakite.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hesflyingakite.mp3"
       },
@@ -2877,7 +2877,7 @@
       {
         "id": 409,
         "word": "He's riding a bike.",
-        "meaning": "Không. Cậu ấy đang đi xe đạp.",
+        "meaning": "Cậu ấy đang đi xe đạp.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hesridingabike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hesridingabike.mp3"
       },
@@ -3129,7 +3129,7 @@
       {
         "id": 445,
         "word": "He's playing with a dog.",
-        "meaning": "Không. Cậu ấy đang chơi với chó.",
+        "meaning": "Cậu ấy đang chơi với con chó.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hesplayingwithadog.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hesplayingwithadog.mp3"
       },
@@ -4081,7 +4081,7 @@
       {
         "id": 580,
         "word": "She's riding a bike.",
-        "meaning": "Không. Cô ấy đang đi xe đạp.",
+        "meaning": "Cô ấy đang đi xe đạp.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/shesridingabike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shesridingabike.mp3"
       },
@@ -4102,7 +4102,7 @@
       {
         "id": 583,
         "word": "He's playing with a kitten.",
-        "meaning": "Vâng, đúng vậy.",
+        "meaning": "Cậu ấy đang chơi với con mèo con.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hesplayingwithakitten.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hesplayingwithakitten.mp3"
       },
@@ -4486,10 +4486,10 @@
       },
       {
         "id": 638,
-        "word": "Ba has a girl.",
-        "meaning": "Ba có bạn nữ.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bahasagirl.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/bahasagirl.mp3"
+        "word": "Ba, look at the girl!",
+        "meaning": "Ba ơi, nhìn bạn nữ kìa!",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/balookatthegirl.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/balookatthegirl.mp3"
       },
       {
         "id": 639,
@@ -5018,10 +5018,10 @@
       },
       {
         "id": 714,
-        "word": "I like my girl.",
-        "meaning": "Mình thích bạn nữ của mình.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/ilikemygirl.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikemygirl.mp3"
+        "word": "I like that girl.",
+        "meaning": "Mình thích bạn nữ đó.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/ilikethatgirl.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikethatgirl.mp3"
       },
       {
         "id": 715,
@@ -5292,7 +5292,7 @@
       {
         "id": 752,
         "word": "She's playing with a cat.",
-        "meaning": "Không. Cô ấy đang chơi với mèo.",
+        "meaning": "Cô ấy đang chơi với con mèo.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/shesplayingwithacat.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shesplayingwithacat.mp3"
       },
@@ -6293,7 +6293,7 @@
       {
         "id": 895,
         "word": "She's playing with a kitten.",
-        "meaning": "Không. Cô ấy đang chơi với mèo con.",
+        "meaning": "Cô ấy đang chơi với con mèo con.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/shesplayingwithakitten.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shesplayingwithakitten.mp3"
       },
@@ -8799,7 +8799,7 @@
       {
         "id": 1250,
         "word": "He's playing with a ball.",
-        "meaning": "Vâng, đúng vậy.",
+        "meaning": "Cậu ấy đang chơi với quả bóng.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hesplayingwithaball.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hesplayingwithaball.mp3"
       },
@@ -8813,7 +8813,7 @@
       {
         "id": 1252,
         "word": "She's playing with a ball.",
-        "meaning": "Không. Cô ấy đang chơi với quả bóng.",
+        "meaning": "Cô ấy đang chơi với quả bóng.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/shesplayingwithaball.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shesplayingwithaball.mp3"
       },

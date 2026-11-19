@@ -5348,7 +5348,7 @@
       },
       {
         "id": 164,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/bahasagirl.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/balookatthegirl.mp3",
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hair.png",
@@ -5361,7 +5361,7 @@
           "girl"
         ],
         "correctIndex": 2,
-        "hint": "Ba has a girl. → Ba có bạn nữ.\n(Hình đúng: girl – bạn nữ)"
+        "hint": "Ba, look at the girl! → Ba ơi, nhìn bạn nữ kìa!\n(Hình đúng: girl – bạn nữ)"
       },
       {
         "id": 165,
@@ -6657,7 +6657,7 @@
       },
       {
         "id": 591,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikemygirl.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikethatgirl.mp3",
         "question": "",
         "imageUrls": [
           "",
@@ -6670,7 +6670,7 @@
           "grandpa"
         ],
         "correctIndex": 0,
-        "hint": "I like my girl. → Mình thích bạn nữ của mình.\n(Chữ cần chọn: girl – bạn nữ)"
+        "hint": "I like that girl. → Mình thích bạn nữ đó.\n(Chữ cần chọn: girl – bạn nữ)"
       },
       {
         "id": 592,

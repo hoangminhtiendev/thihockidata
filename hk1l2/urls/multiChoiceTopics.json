@@ -1499,7 +1499,7 @@
           "D. Is"
         ],
         "correctAnswerIndex": 3,
-        "hint": "📝 Is she riding a bike? – No, she isn't. She's playing with a cat. → Cô ấy có đang đi xe đạp không? – Không. Cô ấy đang chơi với mèo.\n✅ D. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
+        "hint": "📝 Is she riding a bike? – No, she isn't. She's playing with a cat. → Cô ấy có đang đi xe đạp không? – Cô ấy đang chơi với con mèo.\n✅ D. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
       },
       {
         "id": 61,
@@ -1555,7 +1555,7 @@
           "D. No, he isn't. He's riding a bike."
         ],
         "correctAnswerIndex": 1,
-        "hint": "Tranh: He's playing with a cat.\nIs he riding a bike? → Cậu ấy có đang đi xe đạp không?\n✅ B. No, he isn't. He's playing with a cat. → Không. Cậu ấy đang chơi với mèo."
+        "hint": "Tranh: He's playing with a cat.\nIs he riding a bike? → Cậu ấy có đang đi xe đạp không?\n✅ B. No, he isn't. He's playing with a cat. → Cậu ấy đang chơi với con mèo."
       },
       {
         "id": 65,
@@ -1639,7 +1639,7 @@
           "D. No, she isn't."
         ],
         "correctAnswerIndex": 1,
-        "hint": "Tranh: She's reading a book.\nIs she reading a book? → Cô ấy có đang đọc sách không?\n✅ B. Yes, she is. → Vâng, đúng vậy."
+        "hint": "Tranh: She's reading a book.\nIs she reading a book? → Cô ấy có đang đọc sách không?\n✅ B. Yes, she is. → Cô ấy đang đọc sách."
       },
       {
         "id": 71,
@@ -1723,7 +1723,7 @@
           "D. No, she isn't. She's reading a book."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: She's flying a kite.\nIs she reading a book? → Cô ấy có đang đọc sách không?\n✅ C. No, she isn't. She's flying a kite. → Không. Cô ấy đang thả diều."
+        "hint": "Tranh: She's flying a kite.\nIs she reading a book? → Cô ấy có đang đọc sách không?\n✅ C. No, she isn't. She's flying a kite. → Cô ấy đang thả diều."
       },
       {
         "id": 77,
@@ -1821,7 +1821,7 @@
           "D. Can"
         ],
         "correctAnswerIndex": 2,
-        "hint": "📝 Is she playing with a ball? – No, she isn't. She's riding a bike. → Cô ấy có đang chơi với quả bóng không? – Không. Cô ấy đang đi xe đạp.\n✅ C. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
+        "hint": "📝 Is she playing with a ball? – No, she isn't. She's riding a bike. → Cô ấy có đang chơi với quả bóng không? – Cô ấy đang đi xe đạp.\n✅ C. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
       },
       {
         "id": 84,
@@ -1905,7 +1905,7 @@
           "D. No, he isn't. He's playing with a dog."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: He's reading a book.\nIs he playing with a dog? → Cậu ấy có đang chơi với chó không?\n✅ C. No, he isn't. He's reading a book. → Không. Cậu ấy đang đọc sách."
+        "hint": "Tranh: He's reading a book.\nIs he playing with a dog? → Cậu ấy có đang chơi với chó không?\n✅ C. No, he isn't. He's reading a book. → Cậu ấy đang đọc sách."
       },
       {
         "id": 90,
@@ -2031,7 +2031,7 @@
           "D. No, she isn't. She's flying a kite."
         ],
         "correctAnswerIndex": 0,
-        "hint": "Tranh: She's playing with a dog.\nIs she flying a kite? → Cô ấy có đang thả diều không?\n✅ A. No, she isn't. She's playing with a dog. → Không. Cô ấy đang chơi với chó."
+        "hint": "Tranh: She's playing with a dog.\nIs she flying a kite? → Cô ấy có đang thả diều không?\n✅ A. No, she isn't. She's playing with a dog. → Cô ấy đang chơi với con chó."
       },
       {
         "id": 99,
@@ -2758,7 +2758,7 @@
           "D. Yes, I do."
         ],
         "correctAnswerIndex": 0,
-        "hint": "Is he playing with a ball? → Cậu ấy có đang chơi với quả bóng không?\n✅ A. No, he isn't. He's reading a book. → Không. Cậu ấy đang đọc sách."
+        "hint": "Is he playing with a ball? → Cậu ấy có đang chơi với quả bóng không?\n✅ A. No, he isn't. He's reading a book. → Cậu ấy đang đọc sách."
       },
       {
         "id": 104,
@@ -2842,7 +2842,7 @@
           "D. No, she isn't. She's playing with a dog."
         ],
         "correctAnswerIndex": 3,
-        "hint": "Tranh: She's playing with a dog.\nIs she reading a book? → Cô ấy có đang đọc sách không?\n✅ D. No, she isn't. She's playing with a dog. → Không. Cô ấy đang chơi với chó."
+        "hint": "Tranh: She's playing with a dog.\nIs she reading a book? → Cô ấy có đang đọc sách không?\n✅ D. No, she isn't. She's playing with a dog. → Cô ấy đang chơi với con chó."
       },
       {
         "id": 110,
@@ -2884,7 +2884,7 @@
           "D. She's in the yard."
         ],
         "correctAnswerIndex": 1,
-        "hint": "Is she riding a bike? → Cô ấy có đang đi xe đạp không?\n✅ B. No, she isn't. She's playing with a ball. → Không. Cô ấy đang chơi với quả bóng."
+        "hint": "Is she riding a bike? → Cô ấy có đang đi xe đạp không?\n✅ B. No, she isn't. She's playing with a ball. → Cô ấy đang chơi với quả bóng."
       },
       {
         "id": 113,
@@ -2912,7 +2912,7 @@
           "D. Are"
         ],
         "correctAnswerIndex": 2,
-        "hint": "📝 Is she playing with a cat? – No, she isn't. She's flying a kite. → Cô ấy có đang chơi với mèo không? – Không. Cô ấy đang thả diều.\n✅ C. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
+        "hint": "📝 Is she playing with a cat? – No, she isn't. She's flying a kite. → Cô ấy có đang chơi với mèo không? – Cô ấy đang thả diều.\n✅ C. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
       },
       {
         "id": 115,
@@ -2968,7 +2968,7 @@
           "D. No, he isn't. He's reading a book."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: He's flying a kite.\nIs he reading a book? → Cậu ấy có đang đọc sách không?\n✅ C. No, he isn't. He's flying a kite. → Không. Cậu ấy đang thả diều."
+        "hint": "Tranh: He's flying a kite.\nIs he reading a book? → Cậu ấy có đang đọc sách không?\n✅ C. No, he isn't. He's flying a kite. → Cậu ấy đang thả diều."
       },
       {
         "id": 119,
@@ -3094,7 +3094,7 @@
           "D. Yes, she is."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: He's riding a bike.\nIs he playing with a kitten? → Cậu ấy có đang chơi với mèo con không?\n✅ C. No, he isn't. He's riding a bike. → Không. Cậu ấy đang đi xe đạp."
+        "hint": "Tranh: He's riding a bike.\nIs he playing with a kitten? → Cậu ấy có đang chơi với mèo con không?\n✅ C. No, he isn't. He's riding a bike. → Cậu ấy đang đi xe đạp."
       },
       {
         "id": 128,
@@ -3136,7 +3136,7 @@
           "D. Yes, I do."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Is he playing with a kitten? → Cậu ấy có đang chơi với mèo con không?\n✅ C. No, he isn't. He's reading a book. → Không. Cậu ấy đang đọc sách."
+        "hint": "Is he playing with a kitten? → Cậu ấy có đang chơi với mèo con không?\n✅ C. No, he isn't. He's reading a book. → Cậu ấy đang đọc sách."
       },
       {
         "id": 131,
@@ -3290,7 +3290,7 @@
           "D. No, she isn't. She's playing with a dog."
         ],
         "correctAnswerIndex": 3,
-        "hint": "Tranh: She's playing with a dog.\nIs she riding a bike? → Cô ấy có đang đi xe đạp không?\n✅ D. No, she isn't. She's playing with a dog. → Không. Cô ấy đang chơi với chó."
+        "hint": "Tranh: She's playing with a dog.\nIs she riding a bike? → Cô ấy có đang đi xe đạp không?\n✅ D. No, she isn't. She's playing with a dog. → Cô ấy đang chơi với con chó."
       },
       {
         "id": 142,
@@ -3346,7 +3346,7 @@
           "D. Do"
         ],
         "correctAnswerIndex": 0,
-        "hint": "📝 Is he riding a bike? – No, he isn't. He's playing with a dog. → Cậu ấy có đang đi xe đạp không? – Không. Cậu ấy đang chơi với chó.\n✅ A. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
+        "hint": "📝 Is he riding a bike? – No, he isn't. He's playing with a dog. → Cậu ấy có đang đi xe đạp không? – Cậu ấy đang chơi với con chó.\n✅ A. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
       },
       {
         "id": 146,
@@ -3388,7 +3388,7 @@
           "D. No, she isn't. She's playing with a dog."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: She's riding a bike.\nIs she playing with a dog? → Cô ấy có đang chơi với chó không?\n✅ C. No, she isn't. She's riding a bike. → Không. Cô ấy đang đi xe đạp."
+        "hint": "Tranh: She's riding a bike.\nIs she playing with a dog? → Cô ấy có đang chơi với chó không?\n✅ C. No, she isn't. She's riding a bike. → Cô ấy đang đi xe đạp."
       },
       {
         "id": 149,
@@ -4199,7 +4199,7 @@
           "D. Yes, she is."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: He's riding a bike.\nIs he playing with a ball? → Cậu ấy có đang chơi với quả bóng không?\n✅ C. No, he isn't. He's riding a bike. → Không. Cậu ấy đang đi xe đạp."
+        "hint": "Tranh: He's riding a bike.\nIs he playing with a ball? → Cậu ấy có đang chơi với quả bóng không?\n✅ C. No, he isn't. He's riding a bike. → Cậu ấy đang đi xe đạp."
       },
       {
         "id": 160,
@@ -4241,7 +4241,7 @@
           "D. It's a rainbow."
         ],
         "correctAnswerIndex": 1,
-        "hint": "Is he playing with a dog? → Cậu ấy có đang chơi với chó không?\n✅ B. No, he isn't. He's riding a bike. → Không. Cậu ấy đang đi xe đạp."
+        "hint": "Is he playing with a dog? → Cậu ấy có đang chơi với chó không?\n✅ B. No, he isn't. He's riding a bike. → Cậu ấy đang đi xe đạp."
       },
       {
         "id": 163,
@@ -4255,7 +4255,7 @@
           "D. It's a road."
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Is she playing with a ball? → Cô ấy có đang chơi với quả bóng không?\n✅ B. No, she isn't. She's riding a bike. → Không. Cô ấy đang đi xe đạp."
+        "hint": "🎧 Is she playing with a ball? → Cô ấy có đang chơi với quả bóng không?\n✅ B. No, she isn't. She's riding a bike. → Cô ấy đang đi xe đạp."
       },
       {
         "id": 164,
@@ -4311,7 +4311,7 @@
           "D. Yes, he is."
         ],
         "correctAnswerIndex": 1,
-        "hint": "Tranh: She's riding a bike.\nIs she playing with a ball? → Cô ấy có đang chơi với quả bóng không?\n✅ B. No, she isn't. She's riding a bike. → Không. Cô ấy đang đi xe đạp."
+        "hint": "Tranh: She's riding a bike.\nIs she playing with a ball? → Cô ấy có đang chơi với quả bóng không?\n✅ B. No, she isn't. She's riding a bike. → Cô ấy đang đi xe đạp."
       },
       {
         "id": 168,
@@ -4423,7 +4423,7 @@
           "D. No, he isn't. He's flying a kite."
         ],
         "correctAnswerIndex": 0,
-        "hint": "Tranh: He's riding a bike.\nIs he flying a kite? → Cậu ấy có đang thả diều không?\n✅ A. No, he isn't. He's riding a bike. → Không. Cậu ấy đang đi xe đạp."
+        "hint": "Tranh: He's riding a bike.\nIs he flying a kite? → Cậu ấy có đang thả diều không?\n✅ A. No, he isn't. He's riding a bike. → Cậu ấy đang đi xe đạp."
       },
       {
         "id": 176,
@@ -4479,7 +4479,7 @@
           "D. It's a rainbow."
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Is she playing with a kitten? → Cô ấy có đang chơi với mèo con không?\n✅ A. No, she isn't. She's flying a kite. → Không. Cô ấy đang thả diều."
+        "hint": "🎧 Is she playing with a kitten? → Cô ấy có đang chơi với mèo con không?\n✅ A. No, she isn't. She's flying a kite. → Cô ấy đang thả diều."
       },
       {
         "id": 180,
@@ -4605,7 +4605,7 @@
           "D. Yes, he is."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: She's flying a kite.\nIs she riding a bike? → Cô ấy có đang đi xe đạp không?\n✅ C. No, she isn't. She's flying a kite. → Không. Cô ấy đang thả diều."
+        "hint": "Tranh: She's flying a kite.\nIs she riding a bike? → Cô ấy có đang đi xe đạp không?\n✅ C. No, she isn't. She's flying a kite. → Cô ấy đang thả diều."
       },
       {
         "id": 189,
@@ -4661,7 +4661,7 @@
           "D. Is"
         ],
         "correctAnswerIndex": 3,
-        "hint": "📝 Is she flying a kite? – No, she isn't. She's playing with a cat. → Cô ấy có đang thả diều không? – Không. Cô ấy đang chơi với mèo.\n✅ D. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
+        "hint": "📝 Is she flying a kite? – No, she isn't. She's playing with a cat. → Cô ấy có đang thả diều không? – Cô ấy đang chơi với con mèo.\n✅ D. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
       },
       {
         "id": 193,
@@ -4703,7 +4703,7 @@
           "D. Yes, he is."
         ],
         "correctAnswerIndex": 3,
-        "hint": "Tranh: He's playing with a kitten.\nIs he playing with a kitten? → Cậu ấy có đang chơi với mèo con không?\n✅ D. Yes, he is. → Vâng, đúng vậy."
+        "hint": "Tranh: He's playing with a kitten.\nIs he playing with a kitten? → Cậu ấy có đang chơi với mèo con không?\n✅ D. Yes, he is. → Cậu ấy đang chơi với con mèo con."
       },
       {
         "id": 196,
@@ -5948,7 +5948,7 @@
           "D. No, he isn't. He's flying a kite."
         ],
         "correctAnswerIndex": 3,
-        "hint": "Tranh: He's flying a kite.\nIs he playing with a cat? → Cậu ấy có đang chơi với mèo không?\n✅ D. No, he isn't. He's flying a kite. → Không. Cậu ấy đang thả diều."
+        "hint": "Tranh: He's flying a kite.\nIs he playing with a cat? → Cậu ấy có đang chơi với mèo không?\n✅ D. No, he isn't. He's flying a kite. → Cậu ấy đang thả diều."
       },
       {
         "id": 238,
@@ -6032,7 +6032,7 @@
           "D. Yes, she is."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: She's flying a kite.\nIs she playing with a kitten? → Cô ấy có đang chơi với mèo con không?\n✅ C. No, she isn't. She's flying a kite. → Không. Cô ấy đang thả diều."
+        "hint": "Tranh: She's flying a kite.\nIs she playing with a kitten? → Cô ấy có đang chơi với mèo con không?\n✅ C. No, she isn't. She's flying a kite. → Cô ấy đang thả diều."
       },
       {
         "id": 244,
@@ -6116,7 +6116,7 @@
           "D. Yes, she is."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: She's playing with a cat.\nIs she flying a kite? → Cô ấy có đang thả diều không?\n✅ C. No, she isn't. She's playing with a cat. → Không. Cô ấy đang chơi với mèo."
+        "hint": "Tranh: She's playing with a cat.\nIs she flying a kite? → Cô ấy có đang thả diều không?\n✅ C. No, she isn't. She's playing with a cat. → Cô ấy đang chơi với con mèo."
       },
       {
         "id": 250,
@@ -7347,7 +7347,7 @@
           "D. No, she isn't. She's reading a book."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: She's riding a bike.\nIs she reading a book? → Cô ấy có đang đọc sách không?\n✅ C. No, she isn't. She's riding a bike. → Không. Cô ấy đang đi xe đạp."
+        "hint": "Tranh: She's riding a bike.\nIs she reading a book? → Cô ấy có đang đọc sách không?\n✅ C. No, she isn't. She's riding a bike. → Cô ấy đang đi xe đạp."
       },
       {
         "id": 291,
@@ -7431,7 +7431,7 @@
           "D. Are"
         ],
         "correctAnswerIndex": 0,
-        "hint": "📝 Is she flying a kite? – No, she isn't. She's riding a bike. → Cô ấy có đang thả diều không? – Không. Cô ấy đang đi xe đạp.\n✅ A. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
+        "hint": "📝 Is she flying a kite? – No, she isn't. She's riding a bike. → Cô ấy có đang thả diều không? – Cô ấy đang đi xe đạp.\n✅ A. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không"
       },
       {
         "id": 297,
@@ -8718,7 +8718,7 @@
           "D. Yes, he is."
         ],
         "correctAnswerIndex": 2,
-        "hint": "Tranh: He's reading a book.\nIs he playing with a ball? → Cậu ấy có đang chơi với quả bóng không?\n✅ C. No, he isn't. He's reading a book. → Không. Cậu ấy đang đọc sách."
+        "hint": "Tranh: He's reading a book.\nIs he playing with a ball? → Cậu ấy có đang chơi với quả bóng không?\n✅ C. No, he isn't. He's reading a book. → Cậu ấy đang đọc sách."
       },
       {
         "id": 342,
@@ -10061,7 +10061,7 @@
           "D. No, she isn't."
         ],
         "correctAnswerIndex": 0,
-        "hint": "Tranh: He's playing with a ball.\nIs he playing with a ball? → Cậu ấy có đang chơi với quả bóng không?\n✅ A. Yes, he is. → Vâng, đúng vậy."
+        "hint": "Tranh: He's playing with a ball.\nIs he playing with a ball? → Cậu ấy có đang chơi với quả bóng không?\n✅ A. Yes, he is. → Cậu ấy đang chơi với quả bóng."
       },
       {
         "id": 391,
