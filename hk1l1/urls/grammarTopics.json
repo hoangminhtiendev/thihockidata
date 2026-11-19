@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "In the school playground",
+    "text": "Unit 1: In the school playground",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit1.png",
     "scenes": [
       {
@@ -508,6 +508,21 @@
       {
         "id": 29,
         "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Bye,",
+          "Ann."
+        ],
+        "scramble": [
+          "Ann.",
+          "Bye,"
+        ],
+        "hint": "Tạm biệt Ann. → Bye, Ann.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 30,
+        "audioUrl": "",
         "question": "Hello, I'm Lan.",
         "correctAnswer": [
           "Xin chào,",
@@ -524,7 +539,22 @@
         "eraseFlag": 0
       },
       {
-        "id": 30,
+        "id": 31,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Hi,",
+          "Mary."
+        ],
+        "scramble": [
+          "Mary.",
+          "Hi,"
+        ],
+        "hint": "Chào Mary. → Hi, Mary.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 32,
         "audioUrl": "",
         "question": "Đây là vườn hoa.",
         "correctAnswer": [
@@ -540,7 +570,22 @@
         "eraseFlag": 0
       },
       {
-        "id": 31,
+        "id": 33,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Hi,",
+          "Ann."
+        ],
+        "scramble": [
+          "Ann.",
+          "Hi,"
+        ],
+        "hint": "Chào Ann. → Hi, Ann.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 34,
         "audioUrl": "",
         "question": "This is a bike.",
         "correctAnswer": [
@@ -556,7 +601,22 @@
         "eraseFlag": 0
       },
       {
-        "id": 32,
+        "id": 35,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Hi,",
+          "Ba."
+        ],
+        "scramble": [
+          "Ba.",
+          "Hi,"
+        ],
+        "hint": "Chào Ba. → Hi, Ba.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 36,
         "audioUrl": "",
         "question": "Đây là sân chơi.",
         "correctAnswer": [
@@ -572,7 +632,22 @@
         "eraseFlag": 0
       },
       {
-        "id": 33,
+        "id": 37,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Bye,",
+          "Bill."
+        ],
+        "scramble": [
+          "Bill.",
+          "Bye,"
+        ],
+        "hint": "Tạm biệt Bill. → Bye, Bill.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 38,
         "audioUrl": "",
         "question": "Billy is in the classroom.",
         "correctAnswer": [
@@ -590,7 +665,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 34,
+        "id": 39,
         "audioUrl": "",
         "question": "Ann đang ở nhà.",
         "correctAnswer": [
@@ -608,7 +683,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 35,
+        "id": 40,
         "audioUrl": "",
         "question": "Chào. Mình là Bill.",
         "correctAnswer": [
@@ -625,7 +700,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 36,
+        "id": 41,
         "audioUrl": "",
         "question": "Chào. Mình là Ba.",
         "correctAnswer": [
@@ -642,7 +717,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 37,
+        "id": 42,
         "audioUrl": "",
         "question": "Một quyển sách và một quả bóng.",
         "correctAnswer": [
@@ -664,7 +739,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 38,
+        "id": 43,
         "audioUrl": "",
         "question": "Một chiếc xe đạp và một quả bóng.",
         "correctAnswer": [
@@ -686,7 +761,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 39,
+        "id": 44,
         "audioUrl": "",
         "question": "Xin chào, mình là Bill.",
         "correctAnswer": [
@@ -703,7 +778,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 40,
+        "id": 45,
         "audioUrl": "",
         "question": "Chào. Mình là Ben.",
         "correctAnswer": [
@@ -720,7 +795,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 41,
+        "id": 46,
         "audioUrl": "",
         "question": "Một quả bóng và một chiếc xe đạp.",
         "correctAnswer": [
@@ -742,7 +817,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 42,
+        "id": 47,
         "audioUrl": "",
         "question": "Xin chào, mình là Nam.",
         "correctAnswer": [
@@ -760,7 +835,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 43,
+        "id": 48,
         "audioUrl": "",
         "question": "Xin chào, mình là Ba.",
         "correctAnswer": [
@@ -777,7 +852,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 44,
+        "id": 49,
         "audioUrl": "",
         "question": "Xin chào, mình là Sue.",
         "correctAnswer": [
@@ -794,7 +869,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 45,
+        "id": 50,
         "audioUrl": "",
         "question": "Đó là một quyển sách.",
         "correctAnswer": [
@@ -811,7 +886,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 46,
+        "id": 51,
         "audioUrl": "",
         "question": "Nhìn kìa! Một chiếc xe đạp!",
         "correctAnswer": [
@@ -828,7 +903,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 47,
+        "id": 52,
         "audioUrl": "",
         "question": "Đó là một chiếc xe đạp.",
         "correctAnswer": [
@@ -846,7 +921,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 48,
+        "id": 53,
         "audioUrl": "",
         "question": "Nhìn kìa! Một quả bóng!",
         "correctAnswer": [
@@ -863,7 +938,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 49,
+        "id": 54,
         "audioUrl": "",
         "question": "Đó là một quả bóng.",
         "correctAnswer": [
@@ -880,7 +955,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 50,
+        "id": 55,
         "audioUrl": "",
         "question": "Xin chào, mình là Lucy.",
         "correctAnswer": [
@@ -898,7 +973,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 51,
+        "id": 56,
         "audioUrl": "",
         "question": "Xin chào, mình là Ben.",
         "correctAnswer": [
@@ -916,7 +991,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 52,
+        "id": 57,
         "audioUrl": "",
         "question": "Chào. Mình là Ann.",
         "correctAnswer": [
@@ -933,7 +1008,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 53,
+        "id": 58,
         "audioUrl": "",
         "question": "Chào. Mình là Mary.",
         "correctAnswer": [
@@ -950,7 +1025,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 54,
+        "id": 59,
         "audioUrl": "",
         "question": "Đây là phòng ngủ của tớ.",
         "correctAnswer": [
@@ -966,7 +1041,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 55,
+        "id": 60,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -985,7 +1060,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 56,
+        "id": 61,
         "audioUrl": "",
         "question": "Đây là cái ghế của tớ.",
         "correctAnswer": [
@@ -1001,7 +1076,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 57,
+        "id": 62,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1018,7 +1093,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 58,
+        "id": 63,
         "audioUrl": "",
         "question": "This is a robot.",
         "correctAnswer": [
@@ -1034,7 +1109,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 59,
+        "id": 64,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1056,7 +1131,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 60,
+        "id": 65,
         "audioUrl": "",
         "question": "I'm in the dining room.",
         "correctAnswer": [
@@ -1074,7 +1149,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 61,
+        "id": 66,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1091,7 +1166,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 62,
+        "id": 67,
         "audioUrl": "",
         "question": "Một quyển sách và một chiếc xe đạp.",
         "correctAnswer": [
@@ -1113,7 +1188,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 63,
+        "id": 68,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1131,7 +1206,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 64,
+        "id": 69,
         "audioUrl": "",
         "question": "Nhìn kìa! Một quyển sách!",
         "correctAnswer": [
@@ -1148,7 +1223,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 65,
+        "id": 70,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1169,7 +1244,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 66,
+        "id": 71,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1187,7 +1262,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 67,
+        "id": 72,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1205,7 +1280,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 68,
+        "id": 73,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1222,7 +1297,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 69,
+        "id": 74,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1240,7 +1315,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 685,
+        "id": 703,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1257,7 +1332,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 686,
+        "id": 704,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1274,7 +1349,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 687,
+        "id": 705,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1291,7 +1366,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 688,
+        "id": 706,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1308,7 +1383,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 689,
+        "id": 707,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1325,7 +1400,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 690,
+        "id": 708,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1342,7 +1417,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 691,
+        "id": 709,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1359,7 +1434,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 692,
+        "id": 710,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1376,7 +1451,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 693,
+        "id": 711,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1393,7 +1468,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 694,
+        "id": 712,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1410,7 +1485,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 695,
+        "id": 713,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1427,7 +1502,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 696,
+        "id": 714,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1444,7 +1519,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 697,
+        "id": 715,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1461,7 +1536,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 698,
+        "id": 716,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1478,7 +1553,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 699,
+        "id": 717,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1497,7 +1572,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 700,
+        "id": 718,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1516,7 +1591,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 701,
+        "id": 719,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1535,7 +1610,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 702,
+        "id": 720,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1554,7 +1629,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 703,
+        "id": 721,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1571,7 +1646,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 704,
+        "id": 722,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1588,7 +1663,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 705,
+        "id": 723,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1605,7 +1680,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 706,
+        "id": 724,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1624,7 +1699,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 707,
+        "id": 725,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1641,7 +1716,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 708,
+        "id": 726,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1662,7 +1737,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 709,
+        "id": 727,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1681,7 +1756,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 710,
+        "id": 728,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1701,11 +1776,11 @@
   },
   {
     "id": 2,
-    "text": "In the dining room",
+    "text": "Unit 2: In the dining room",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit2.png",
     "scenes": [
       {
-        "id": 70,
+        "id": 75,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1724,7 +1799,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 71,
+        "id": 76,
         "audioUrl": "",
         "question": "I have a cat.",
         "correctAnswer": [
@@ -1740,7 +1815,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 72,
+        "id": 77,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1759,7 +1834,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 73,
+        "id": 78,
         "audioUrl": "",
         "question": "Tớ có một chiếc ô tô.",
         "correctAnswer": [
@@ -1775,7 +1850,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 74,
+        "id": 79,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1794,7 +1869,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 75,
+        "id": 80,
         "audioUrl": "",
         "question": "I have a car and a cake.",
         "correctAnswer": [
@@ -1812,7 +1887,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 76,
+        "id": 81,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1831,7 +1906,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 77,
+        "id": 82,
         "audioUrl": "",
         "question": "Tớ có một chiếc ô tô và một cái cốc.",
         "correctAnswer": [
@@ -1849,7 +1924,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 78,
+        "id": 83,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1868,7 +1943,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 79,
+        "id": 84,
         "audioUrl": "",
         "question": "I have a cat and a cup.",
         "correctAnswer": [
@@ -1886,7 +1961,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 80,
+        "id": 85,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1905,7 +1980,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 81,
+        "id": 86,
         "audioUrl": "",
         "question": "Tớ có một cái cốc.",
         "correctAnswer": [
@@ -1921,7 +1996,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 82,
+        "id": 87,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1938,7 +2013,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 83,
+        "id": 88,
         "audioUrl": "",
         "question": "I have a cat and a cake.",
         "correctAnswer": [
@@ -1956,7 +2031,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 84,
+        "id": 89,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -1974,7 +2049,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 85,
+        "id": 90,
         "audioUrl": "",
         "question": "Tớ có một cái bánh và tớ có một cái cốc.",
         "correctAnswer": [
@@ -1992,7 +2067,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 86,
+        "id": 91,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2010,7 +2085,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 87,
+        "id": 92,
         "audioUrl": "",
         "question": "I have a cat and I have a car.",
         "correctAnswer": [
@@ -2028,7 +2103,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 88,
+        "id": 93,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2048,7 +2123,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 89,
+        "id": 94,
         "audioUrl": "",
         "question": "Tớ đang ở phòng ăn.",
         "correctAnswer": [
@@ -2066,7 +2141,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 90,
+        "id": 95,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2092,7 +2167,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 91,
+        "id": 96,
         "audioUrl": "",
         "question": "I have a cat and I have a cup.",
         "correctAnswer": [
@@ -2110,7 +2185,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 92,
+        "id": 97,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2132,7 +2207,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 93,
+        "id": 98,
         "audioUrl": "",
         "question": "Tớ có một con mèo.",
         "correctAnswer": [
@@ -2148,7 +2223,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 94,
+        "id": 99,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2173,7 +2248,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 95,
+        "id": 100,
         "audioUrl": "",
         "question": "I have a cat and I have a cake.",
         "correctAnswer": [
@@ -2191,7 +2266,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 96,
+        "id": 101,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2216,7 +2291,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 97,
+        "id": 102,
         "audioUrl": "",
         "question": "Tớ có một chiếc ô tô và một cái bánh.",
         "correctAnswer": [
@@ -2234,7 +2309,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 98,
+        "id": 103,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2259,7 +2334,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 99,
+        "id": 104,
         "audioUrl": "",
         "question": "I have a cat and a car.",
         "correctAnswer": [
@@ -2277,7 +2352,22 @@
         "eraseFlag": 0
       },
       {
-        "id": 100,
+        "id": 105,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Hi,",
+          "Lucy."
+        ],
+        "scramble": [
+          "Lucy.",
+          "Hi,"
+        ],
+        "hint": "Chào Lucy. → Hi, Lucy.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 106,
         "audioUrl": "",
         "question": "Tớ có một con mèo và một cái cốc.",
         "correctAnswer": [
@@ -2295,7 +2385,36 @@
         "eraseFlag": 0
       },
       {
-        "id": 101,
+        "id": 107,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "a",
+          "book",
+          "and",
+          "I",
+          "have",
+          "a",
+          "cup."
+        ],
+        "scramble": [
+          "and",
+          "cup.",
+          "have",
+          "a",
+          "I",
+          "have",
+          "I",
+          "book",
+          "a"
+        ],
+        "hint": "Mình có một quyển sách và mình có một cái cốc. → I have a book and I have a cup.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 108,
         "audioUrl": "",
         "question": "I have a cake.",
         "correctAnswer": [
@@ -2311,7 +2430,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 102,
+        "id": 109,
         "audioUrl": "",
         "question": "Tớ có một con mèo và một cái bánh.",
         "correctAnswer": [
@@ -2329,7 +2448,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 103,
+        "id": 110,
         "audioUrl": "",
         "question": "I have a car and I have a cake.",
         "correctAnswer": [
@@ -2347,7 +2466,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 104,
+        "id": 111,
         "audioUrl": "",
         "question": "Tớ có một con mèo và tớ có một chiếc ô tô.",
         "correctAnswer": [
@@ -2365,7 +2484,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 105,
+        "id": 112,
         "audioUrl": "",
         "question": "Mình có một quả bóng và một cái cốc.",
         "correctAnswer": [
@@ -2391,7 +2510,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 106,
+        "id": 113,
         "audioUrl": "",
         "question": "Mình có một cái bánh.",
         "correctAnswer": [
@@ -2411,7 +2530,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 107,
+        "id": 114,
         "audioUrl": "",
         "question": "Mình có một quả bóng và một con mèo.",
         "correctAnswer": [
@@ -2436,7 +2555,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 108,
+        "id": 115,
         "audioUrl": "",
         "question": "Mình có một chiếc ô tô và một con mèo.",
         "correctAnswer": [
@@ -2461,7 +2580,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 109,
+        "id": 116,
         "audioUrl": "",
         "question": "Mình có một quyển sách.",
         "correctAnswer": [
@@ -2481,7 +2600,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 110,
+        "id": 117,
         "audioUrl": "",
         "question": "Mình có một con búp bê.",
         "correctAnswer": [
@@ -2500,7 +2619,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 111,
+        "id": 118,
         "audioUrl": "",
         "question": "Mình có một cái bánh và một chiếc ô tô.",
         "correctAnswer": [
@@ -2525,7 +2644,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 112,
+        "id": 119,
         "audioUrl": "",
         "question": "Bạn có gì?",
         "correctAnswer": [
@@ -2544,7 +2663,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 113,
+        "id": 120,
         "audioUrl": "",
         "question": "Mình có một cái bánh và một con mèo.",
         "correctAnswer": [
@@ -2569,7 +2688,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 114,
+        "id": 121,
         "audioUrl": "",
         "question": "Mình có một quả bóng.",
         "correctAnswer": [
@@ -2588,7 +2707,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 115,
+        "id": 122,
         "audioUrl": "",
         "question": "Xin chào, mình là Mary.",
         "correctAnswer": [
@@ -2606,7 +2725,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 116,
+        "id": 123,
         "audioUrl": "",
         "question": "Mình có một chiếc xe đạp và một cái cốc.",
         "correctAnswer": [
@@ -2632,7 +2751,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 117,
+        "id": 124,
         "audioUrl": "",
         "question": "Mình có một con người máy.",
         "correctAnswer": [
@@ -2651,7 +2770,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 118,
+        "id": 125,
         "audioUrl": "",
         "question": "Mình có một quyển sách và một cái bánh.",
         "correctAnswer": [
@@ -2676,7 +2795,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 119,
+        "id": 126,
         "audioUrl": "",
         "question": "Mình có một cái áo khoác.",
         "correctAnswer": [
@@ -2695,7 +2814,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 120,
+        "id": 127,
         "audioUrl": "",
         "question": "Mình có một chiếc xe đạp và một chiếc ô tô.",
         "correctAnswer": [
@@ -2720,7 +2839,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 121,
+        "id": 128,
         "audioUrl": "",
         "question": "Một quả bóng và một quyển sách.",
         "correctAnswer": [
@@ -2741,7 +2860,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 122,
+        "id": 129,
         "audioUrl": "",
         "question": "Mình có một con mèo.",
         "correctAnswer": [
@@ -2761,7 +2880,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 123,
+        "id": 130,
         "audioUrl": "",
         "question": "Mình có một cái diều.",
         "correctAnswer": [
@@ -2781,7 +2900,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 124,
+        "id": 131,
         "audioUrl": "",
         "question": "Chào. Mình là Sue.",
         "correctAnswer": [
@@ -2798,7 +2917,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 125,
+        "id": 132,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2817,7 +2936,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 126,
+        "id": 133,
         "audioUrl": "",
         "question": "Tớ thích bánh.",
         "correctAnswer": [
@@ -2833,7 +2952,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 127,
+        "id": 134,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2852,7 +2971,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 128,
+        "id": 135,
         "audioUrl": "",
         "question": "I have a car.",
         "correctAnswer": [
@@ -2868,7 +2987,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 129,
+        "id": 136,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2893,7 +3012,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 130,
+        "id": 137,
         "audioUrl": "",
         "question": "I have a cup.",
         "correctAnswer": [
@@ -2909,7 +3028,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 131,
+        "id": 138,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2934,7 +3053,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 132,
+        "id": 139,
         "audioUrl": "",
         "question": "Mình có một quả bóng và một chiếc ô tô.",
         "correctAnswer": [
@@ -2960,7 +3079,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 133,
+        "id": 140,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -2986,7 +3105,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 134,
+        "id": 141,
         "audioUrl": "",
         "question": "Mình có một chiếc xe đạp và một quyển sách.",
         "correctAnswer": [
@@ -3011,7 +3130,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 135,
+        "id": 142,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3037,7 +3156,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 136,
+        "id": 143,
         "audioUrl": "",
         "question": "Mình có một quả bóng và một chiếc xe đạp.",
         "correctAnswer": [
@@ -3062,7 +3181,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 137,
+        "id": 144,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3079,7 +3198,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 138,
+        "id": 145,
         "audioUrl": "",
         "question": "Mình có một quyển sách và một cái cốc.",
         "correctAnswer": [
@@ -3104,7 +3223,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 139,
+        "id": 146,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3121,7 +3240,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 140,
+        "id": 147,
         "audioUrl": "",
         "question": "Mình có một chiếc xe đạp.",
         "correctAnswer": [
@@ -3140,7 +3259,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 141,
+        "id": 148,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3165,7 +3284,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 142,
+        "id": 149,
         "audioUrl": "",
         "question": "Chào. Mình là Nam.",
         "correctAnswer": [
@@ -3183,7 +3302,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 143,
+        "id": 150,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3208,7 +3327,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 144,
+        "id": 151,
         "audioUrl": "",
         "question": "Xin chào, mình là Ann.",
         "correctAnswer": [
@@ -3225,7 +3344,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 145,
+        "id": 152,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3250,7 +3369,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 146,
+        "id": 153,
         "audioUrl": "",
         "question": "Mình có một quả bóng và một quyển sách.",
         "correctAnswer": [
@@ -3276,7 +3395,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 147,
+        "id": 154,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3301,7 +3420,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 148,
+        "id": 155,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3319,7 +3438,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 711,
+        "id": 729,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3336,7 +3455,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 712,
+        "id": 730,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3353,7 +3472,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 713,
+        "id": 731,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3370,7 +3489,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 714,
+        "id": 732,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3387,7 +3506,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 715,
+        "id": 733,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3404,7 +3523,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 716,
+        "id": 734,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3421,7 +3540,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 717,
+        "id": 735,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3442,7 +3561,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 718,
+        "id": 736,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3463,7 +3582,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 719,
+        "id": 737,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3480,7 +3599,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 720,
+        "id": 738,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3499,7 +3618,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 721,
+        "id": 739,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3516,7 +3635,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 722,
+        "id": 740,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3535,7 +3654,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 723,
+        "id": 741,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3552,7 +3671,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 724,
+        "id": 742,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3569,7 +3688,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 725,
+        "id": 743,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3586,7 +3705,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 726,
+        "id": 744,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3603,7 +3722,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 727,
+        "id": 745,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3620,7 +3739,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 728,
+        "id": 746,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3637,7 +3756,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 729,
+        "id": 747,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3657,11 +3776,11 @@
   },
   {
     "id": 3,
-    "text": "At the street market",
+    "text": "Unit 3: At the street market",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit3.png",
     "scenes": [
       {
-        "id": 149,
+        "id": 156,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3680,7 +3799,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 150,
+        "id": 157,
         "audioUrl": "",
         "question": "Có một quả táo trong túi.",
         "correctAnswer": [
@@ -3698,7 +3817,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 151,
+        "id": 158,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3717,7 +3836,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 152,
+        "id": 159,
         "audioUrl": "",
         "question": "There is a hat in the box.",
         "correctAnswer": [
@@ -3735,7 +3854,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 153,
+        "id": 160,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3754,7 +3873,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 154,
+        "id": 161,
         "audioUrl": "",
         "question": "This is my arm.",
         "correctAnswer": [
@@ -3772,7 +3891,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 155,
+        "id": 162,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3791,7 +3910,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 156,
+        "id": 163,
         "audioUrl": "",
         "question": "Đây là mũ lưỡi trai của tớ.",
         "correctAnswer": [
@@ -3807,7 +3926,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 157,
+        "id": 164,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3824,7 +3943,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 158,
+        "id": 165,
         "audioUrl": "",
         "question": "There is a cup on the chair.",
         "correctAnswer": [
@@ -3842,7 +3961,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 159,
+        "id": 166,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3861,7 +3980,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 160,
+        "id": 167,
         "audioUrl": "",
         "question": "Tớ có một chiếc ô tô và tớ có một cái mũ lưỡi trai.",
         "correctAnswer": [
@@ -3879,7 +3998,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 161,
+        "id": 168,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3898,7 +4017,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 162,
+        "id": 169,
         "audioUrl": "",
         "question": "This is my apple.",
         "correctAnswer": [
@@ -3916,7 +4035,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 163,
+        "id": 170,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3935,7 +4054,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 164,
+        "id": 171,
         "audioUrl": "",
         "question": "There is a can on the shelf.",
         "correctAnswer": [
@@ -3953,7 +4072,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 165,
+        "id": 172,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -3971,7 +4090,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 166,
+        "id": 173,
         "audioUrl": "",
         "question": "I have a bus and a cookie.",
         "correctAnswer": [
@@ -3989,7 +4108,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 167,
+        "id": 174,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4008,7 +4127,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 168,
+        "id": 175,
         "audioUrl": "",
         "question": "Có một cái mũ trong hộp.",
         "correctAnswer": [
@@ -4026,7 +4145,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 169,
+        "id": 176,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4052,7 +4171,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 170,
+        "id": 177,
         "audioUrl": "",
         "question": "Đây là cánh tay của tớ.",
         "correctAnswer": [
@@ -4068,7 +4187,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 171,
+        "id": 178,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4085,7 +4204,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 172,
+        "id": 179,
         "audioUrl": "",
         "question": "Có một cái cốc trên ghế.",
         "correctAnswer": [
@@ -4103,7 +4222,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 173,
+        "id": 180,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4121,7 +4240,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 174,
+        "id": 181,
         "audioUrl": "",
         "question": "Mình có một cái mũ.",
         "correctAnswer": [
@@ -4140,7 +4259,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 175,
+        "id": 182,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4160,7 +4279,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 176,
+        "id": 183,
         "audioUrl": "",
         "question": "Đây là cái bánh của mình.",
         "correctAnswer": [
@@ -4179,7 +4298,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 177,
+        "id": 184,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4199,7 +4318,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 178,
+        "id": 185,
         "audioUrl": "",
         "question": "Đây là cái mũ của mình.",
         "correctAnswer": [
@@ -4218,7 +4337,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 179,
+        "id": 186,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4235,7 +4354,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 180,
+        "id": 187,
         "audioUrl": "",
         "question": "Mình có một cái bánh và một cái cốc.",
         "correctAnswer": [
@@ -4261,7 +4380,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 181,
+        "id": 188,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4287,7 +4406,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 182,
+        "id": 189,
         "audioUrl": "",
         "question": "Mình có một quả bóng và một cái bánh.",
         "correctAnswer": [
@@ -4312,7 +4431,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 183,
+        "id": 190,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4337,7 +4456,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 184,
+        "id": 191,
         "audioUrl": "",
         "question": "Nhìn kìa! Một quả táo!",
         "correctAnswer": [
@@ -4355,7 +4474,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 185,
+        "id": 192,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4380,7 +4499,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 186,
+        "id": 193,
         "audioUrl": "",
         "question": "Nhìn kìa! Một lon đồ uống!",
         "correctAnswer": [
@@ -4397,7 +4516,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 187,
+        "id": 194,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4422,7 +4541,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 188,
+        "id": 195,
         "audioUrl": "",
         "question": "Mình có một con mèo và một cái cốc.",
         "correctAnswer": [
@@ -4448,7 +4567,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 189,
+        "id": 196,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4467,7 +4586,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 190,
+        "id": 197,
         "audioUrl": "",
         "question": "Nhìn kìa! Một cái mũ!",
         "correctAnswer": [
@@ -4484,7 +4603,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 191,
+        "id": 198,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4503,7 +4622,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 192,
+        "id": 199,
         "audioUrl": "",
         "question": "Mình có một chiếc ô tô và một cái cốc.",
         "correctAnswer": [
@@ -4528,7 +4647,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 193,
+        "id": 200,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4545,7 +4664,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 194,
+        "id": 201,
         "audioUrl": "",
         "question": "Đây là quyển sách của mình.",
         "correctAnswer": [
@@ -4565,7 +4684,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 195,
+        "id": 202,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4585,7 +4704,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 196,
+        "id": 203,
         "audioUrl": "",
         "question": "Mình có một chiếc ô tô.",
         "correctAnswer": [
@@ -4604,7 +4723,27 @@
         "eraseFlag": 0
       },
       {
-        "id": 197,
+        "id": 204,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "my",
+          "cat."
+        ],
+        "scramble": [
+          "my",
+          "cat.",
+          "This",
+          "very",
+          "is"
+        ],
+        "hint": "Đây là con mèo của mình. → This is my cat.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 205,
         "audioUrl": "",
         "question": "Mình có một cái cốc.",
         "correctAnswer": [
@@ -4623,7 +4762,22 @@
         "eraseFlag": 0
       },
       {
-        "id": 198,
+        "id": 206,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Hi,",
+          "Bill."
+        ],
+        "scramble": [
+          "Bill.",
+          "Hi,"
+        ],
+        "hint": "Chào Bill. → Hi, Bill.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 207,
         "audioUrl": "",
         "question": "Mình có một quyển sách và một chiếc ô tô.",
         "correctAnswer": [
@@ -4648,7 +4802,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 199,
+        "id": 208,
         "audioUrl": "",
         "question": "Đây là chiếc xe đạp của mình.",
         "correctAnswer": [
@@ -4667,7 +4821,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 200,
+        "id": 209,
         "audioUrl": "",
         "question": "Mình có một quyển sách và một con mèo.",
         "correctAnswer": [
@@ -4692,7 +4846,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 201,
+        "id": 210,
         "audioUrl": "",
         "question": "Mình có một chiếc xe đạp và một cái bánh.",
         "correctAnswer": [
@@ -4717,7 +4871,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 202,
+        "id": 211,
         "audioUrl": "",
         "question": "Mình có một cái túi.",
         "correctAnswer": [
@@ -4737,7 +4891,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 203,
+        "id": 212,
         "audioUrl": "",
         "question": "This is my hat.",
         "correctAnswer": [
@@ -4755,7 +4909,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 204,
+        "id": 213,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4780,7 +4934,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 205,
+        "id": 214,
         "audioUrl": "",
         "question": "Đây là Linh. Cậu ấy có một cái túi màu đỏ.",
         "correctAnswer": [
@@ -4798,7 +4952,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 206,
+        "id": 215,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4818,7 +4972,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 207,
+        "id": 216,
         "audioUrl": "",
         "question": "Đây là lon đồ uống của mình.",
         "correctAnswer": [
@@ -4837,7 +4991,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 208,
+        "id": 217,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4854,7 +5008,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 209,
+        "id": 218,
         "audioUrl": "",
         "question": "Nhìn kìa! Một cái túi!",
         "correctAnswer": [
@@ -4872,7 +5026,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 210,
+        "id": 219,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4892,7 +5046,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 211,
+        "id": 220,
         "audioUrl": "",
         "question": "Chào. Mình là Lucy.",
         "correctAnswer": [
@@ -4909,7 +5063,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 212,
+        "id": 221,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4928,7 +5082,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 213,
+        "id": 222,
         "audioUrl": "",
         "question": "Mình có một quả táo.",
         "correctAnswer": [
@@ -4947,7 +5101,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 214,
+        "id": 223,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -4972,7 +5126,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 215,
+        "id": 224,
         "audioUrl": "",
         "question": "Mình có một chiếc xe đạp và một con mèo.",
         "correctAnswer": [
@@ -4997,7 +5151,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 216,
+        "id": 225,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5014,7 +5168,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 217,
+        "id": 226,
         "audioUrl": "",
         "question": "Đó là một lon đồ uống.",
         "correctAnswer": [
@@ -5031,7 +5185,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 218,
+        "id": 227,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5049,7 +5203,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 219,
+        "id": 228,
         "audioUrl": "",
         "question": "Một chiếc xe đạp và một quyển sách.",
         "correctAnswer": [
@@ -5070,7 +5224,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 220,
+        "id": 229,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5089,7 +5243,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 221,
+        "id": 230,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5114,7 +5268,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 730,
+        "id": 748,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5133,7 +5287,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 731,
+        "id": 749,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5150,7 +5304,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 732,
+        "id": 750,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5167,7 +5321,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 733,
+        "id": 751,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5184,7 +5338,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 734,
+        "id": 752,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5201,7 +5355,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 735,
+        "id": 753,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5218,7 +5372,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 736,
+        "id": 754,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5235,7 +5389,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 737,
+        "id": 755,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5252,7 +5406,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 738,
+        "id": 756,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5269,7 +5423,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 739,
+        "id": 757,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5286,7 +5440,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 740,
+        "id": 758,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5303,7 +5457,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 741,
+        "id": 759,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5322,7 +5476,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 742,
+        "id": 760,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5339,7 +5493,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 743,
+        "id": 761,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5356,7 +5510,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 744,
+        "id": 762,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5373,7 +5527,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 745,
+        "id": 763,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5390,7 +5544,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 746,
+        "id": 764,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5407,7 +5561,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 747,
+        "id": 765,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5426,7 +5580,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 748,
+        "id": 766,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5447,7 +5601,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 749,
+        "id": 767,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5466,7 +5620,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 750,
+        "id": 768,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5483,7 +5637,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 751,
+        "id": 769,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5502,7 +5656,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 752,
+        "id": 770,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5523,7 +5677,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 753,
+        "id": 771,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5544,7 +5698,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 754,
+        "id": 772,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5568,11 +5722,11 @@
   },
   {
     "id": 4,
-    "text": "In the bedroom",
+    "text": "Unit 4: In the bedroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit4.png",
     "scenes": [
       {
-        "id": 222,
+        "id": 231,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5591,7 +5745,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 223,
+        "id": 232,
         "audioUrl": "",
         "question": "The duck is on the table.",
         "correctAnswer": [
@@ -5609,7 +5763,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 224,
+        "id": 233,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5628,7 +5782,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 225,
+        "id": 234,
         "audioUrl": "",
         "question": "Đây là một con mèo.",
         "correctAnswer": [
@@ -5644,7 +5798,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 226,
+        "id": 235,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5663,7 +5817,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 227,
+        "id": 236,
         "audioUrl": "",
         "question": "This is a box.",
         "correctAnswer": [
@@ -5679,7 +5833,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 228,
+        "id": 237,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5698,7 +5852,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 229,
+        "id": 238,
         "audioUrl": "",
         "question": "Đây là một con chim.",
         "correctAnswer": [
@@ -5714,7 +5868,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 230,
+        "id": 239,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5733,7 +5887,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 231,
+        "id": 240,
         "audioUrl": "",
         "question": "I have a duck and a fish.",
         "correctAnswer": [
@@ -5751,7 +5905,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 232,
+        "id": 241,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5770,7 +5924,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 233,
+        "id": 242,
         "audioUrl": "",
         "question": "I have a dog and a desk.",
         "correctAnswer": [
@@ -5788,7 +5942,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 234,
+        "id": 243,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5805,7 +5959,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 235,
+        "id": 244,
         "audioUrl": "",
         "question": "Đây là một con búp bê.",
         "correctAnswer": [
@@ -5821,7 +5975,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 236,
+        "id": 245,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5838,7 +5992,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 237,
+        "id": 246,
         "audioUrl": "",
         "question": "I have a cat and I have a bird.",
         "correctAnswer": [
@@ -5856,7 +6010,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 238,
+        "id": 247,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5875,7 +6029,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 239,
+        "id": 248,
         "audioUrl": "",
         "question": "This is my bedroom.",
         "correctAnswer": [
@@ -5893,7 +6047,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 240,
+        "id": 249,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5910,7 +6064,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 241,
+        "id": 250,
         "audioUrl": "",
         "question": "Con vịt đang ở trên bàn.",
         "correctAnswer": [
@@ -5928,7 +6082,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 242,
+        "id": 251,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5951,7 +6105,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 243,
+        "id": 252,
         "audioUrl": "",
         "question": "The duck is near the door.",
         "correctAnswer": [
@@ -5969,7 +6123,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 244,
+        "id": 253,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -5989,7 +6143,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 245,
+        "id": 254,
         "audioUrl": "",
         "question": "Đây là một cái hộp.",
         "correctAnswer": [
@@ -6005,7 +6159,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 246,
+        "id": 255,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6024,7 +6178,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 247,
+        "id": 256,
         "audioUrl": "",
         "question": "This is my dog.",
         "correctAnswer": [
@@ -6042,7 +6196,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 248,
+        "id": 257,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6061,7 +6215,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 249,
+        "id": 258,
         "audioUrl": "",
         "question": "Tớ có một con vịt và một con cá.",
         "correctAnswer": [
@@ -6079,7 +6233,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 250,
+        "id": 259,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6102,7 +6256,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 251,
+        "id": 260,
         "audioUrl": "",
         "question": "The desk is near the window.",
         "correctAnswer": [
@@ -6120,7 +6274,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 252,
+        "id": 261,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6141,7 +6295,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 253,
+        "id": 262,
         "audioUrl": "",
         "question": "Tớ có một con chó và một cái bàn học.",
         "correctAnswer": [
@@ -6159,7 +6313,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 254,
+        "id": 263,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6182,7 +6336,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 255,
+        "id": 264,
         "audioUrl": "",
         "question": "This is my chair.",
         "correctAnswer": [
@@ -6200,7 +6354,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 256,
+        "id": 265,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6224,7 +6378,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 257,
+        "id": 266,
         "audioUrl": "",
         "question": "Tớ có một con mèo và tớ có một con chim.",
         "correctAnswer": [
@@ -6242,7 +6396,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 258,
+        "id": 267,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6263,7 +6417,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 259,
+        "id": 268,
         "audioUrl": "",
         "question": "Đây là một chiếc xe đạp.",
         "correctAnswer": [
@@ -6283,7 +6437,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 260,
+        "id": 269,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6300,7 +6454,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 261,
+        "id": 270,
         "audioUrl": "",
         "question": "Một con chó và một con vịt.",
         "correctAnswer": [
@@ -6321,7 +6475,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 262,
+        "id": 271,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6344,7 +6498,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 263,
+        "id": 272,
         "audioUrl": "",
         "question": "Đây là một cái bàn học.",
         "correctAnswer": [
@@ -6363,7 +6517,26 @@
         "eraseFlag": 0
       },
       {
-        "id": 264,
+        "id": 273,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "This",
+          "is",
+          "a",
+          "bag."
+        ],
+        "scramble": [
+          "bag.",
+          "is",
+          "a",
+          "This"
+        ],
+        "hint": "Đây là một cái túi. → This is a bag.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 274,
         "audioUrl": "",
         "question": "Con chó ở gần cái cửa sổ.",
         "correctAnswer": [
@@ -6386,7 +6559,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 265,
+        "id": 275,
         "audioUrl": "",
         "question": "Quyển sách ở trên cái bàn học.",
         "correctAnswer": [
@@ -6409,7 +6582,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 266,
+        "id": 276,
         "audioUrl": "",
         "question": "Một cái bàn học và một con chó.",
         "correctAnswer": [
@@ -6430,7 +6603,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 267,
+        "id": 277,
         "audioUrl": "",
         "question": "Chiếc xe đạp ở gần cái cửa sổ.",
         "correctAnswer": [
@@ -6454,7 +6627,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 268,
+        "id": 278,
         "audioUrl": "",
         "question": "Quả bóng ở gần cánh cửa.",
         "correctAnswer": [
@@ -6477,7 +6650,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 269,
+        "id": 279,
         "audioUrl": "",
         "question": "Con vịt ở gần cái cửa sổ.",
         "correctAnswer": [
@@ -6500,7 +6673,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 270,
+        "id": 280,
         "audioUrl": "",
         "question": "Đây là quả bóng của mình.",
         "correctAnswer": [
@@ -6520,7 +6693,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 271,
+        "id": 281,
         "audioUrl": "",
         "question": "Đây là con chó của mình.",
         "correctAnswer": [
@@ -6539,7 +6712,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 272,
+        "id": 282,
         "audioUrl": "",
         "question": "Đây là cái cốc của mình.",
         "correctAnswer": [
@@ -6558,7 +6731,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 273,
+        "id": 283,
         "audioUrl": "",
         "question": "Đây là con mèo của mình.",
         "correctAnswer": [
@@ -6577,7 +6750,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 274,
+        "id": 284,
         "audioUrl": "",
         "question": "Một cái bàn học và một con vịt.",
         "correctAnswer": [
@@ -6598,7 +6771,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 275,
+        "id": 285,
         "audioUrl": "",
         "question": "Con vịt ở gần cửa.",
         "correctAnswer": [
@@ -6616,7 +6789,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 276,
+        "id": 286,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6635,7 +6808,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 277,
+        "id": 287,
         "audioUrl": "",
         "question": "Đây là con chó của tớ.",
         "correctAnswer": [
@@ -6651,7 +6824,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 278,
+        "id": 288,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6670,7 +6843,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 279,
+        "id": 289,
         "audioUrl": "",
         "question": "Cái bàn học ở gần cửa sổ.",
         "correctAnswer": [
@@ -6688,7 +6861,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 280,
+        "id": 290,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6712,7 +6885,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 281,
+        "id": 291,
         "audioUrl": "",
         "question": "Một cánh cửa và một con vịt.",
         "correctAnswer": [
@@ -6733,7 +6906,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 282,
+        "id": 292,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6750,7 +6923,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 283,
+        "id": 293,
         "audioUrl": "",
         "question": "Một cái bàn học và một cánh cửa.",
         "correctAnswer": [
@@ -6771,7 +6944,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 284,
+        "id": 294,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6791,7 +6964,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 285,
+        "id": 295,
         "audioUrl": "",
         "question": "Cái túi ở đâu?",
         "correctAnswer": [
@@ -6808,7 +6981,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 286,
+        "id": 296,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6828,7 +7001,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 287,
+        "id": 297,
         "audioUrl": "",
         "question": "Đây là một chiếc ô tô.",
         "correctAnswer": [
@@ -6847,7 +7020,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 288,
+        "id": 298,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6866,7 +7039,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 289,
+        "id": 299,
         "audioUrl": "",
         "question": "Đây là một quyển sách.",
         "correctAnswer": [
@@ -6886,7 +7059,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 290,
+        "id": 300,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6911,7 +7084,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 291,
+        "id": 301,
         "audioUrl": "",
         "question": "Đây là một con mèo.",
         "correctAnswer": [
@@ -6930,7 +7103,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 292,
+        "id": 302,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6947,7 +7120,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 293,
+        "id": 303,
         "audioUrl": "",
         "question": "Nó ở gần cánh cửa.",
         "correctAnswer": [
@@ -6966,7 +7139,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 294,
+        "id": 304,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -6986,7 +7159,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 295,
+        "id": 305,
         "audioUrl": "",
         "question": "Đó là một quả táo.",
         "correctAnswer": [
@@ -7004,7 +7177,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 296,
+        "id": 306,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7022,7 +7195,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 297,
+        "id": 307,
         "audioUrl": "",
         "question": "Đây là quả táo của mình.",
         "correctAnswer": [
@@ -7042,7 +7215,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 298,
+        "id": 308,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7061,7 +7234,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 299,
+        "id": 309,
         "audioUrl": "",
         "question": "Đây là chiếc ô tô của mình.",
         "correctAnswer": [
@@ -7081,7 +7254,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 300,
+        "id": 310,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7100,7 +7273,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 301,
+        "id": 311,
         "audioUrl": "",
         "question": "Nó ở gần cái cửa sổ.",
         "correctAnswer": [
@@ -7120,7 +7293,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 302,
+        "id": 312,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7138,7 +7311,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 303,
+        "id": 313,
         "audioUrl": "",
         "question": "Đó là một cái túi.",
         "correctAnswer": [
@@ -7155,7 +7328,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 304,
+        "id": 314,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7174,7 +7347,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 305,
+        "id": 315,
         "audioUrl": "",
         "question": "Con mèo ở trên cái bàn học.",
         "correctAnswer": [
@@ -7198,7 +7371,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 306,
+        "id": 316,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7216,7 +7389,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 307,
+        "id": 317,
         "audioUrl": "",
         "question": "Đó là một cái mũ.",
         "correctAnswer": [
@@ -7233,7 +7406,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 308,
+        "id": 318,
         "audioUrl": "",
         "question": "Mình có một lon đồ uống.",
         "correctAnswer": [
@@ -7252,7 +7425,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 309,
+        "id": 319,
         "audioUrl": "",
         "question": "Đây là một cánh cửa.",
         "correctAnswer": [
@@ -7271,7 +7444,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 310,
+        "id": 320,
         "audioUrl": "",
         "question": "Một con chó và một cánh cửa.",
         "correctAnswer": [
@@ -7292,7 +7465,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 311,
+        "id": 321,
         "audioUrl": "",
         "question": "Con vịt ở đâu?",
         "correctAnswer": [
@@ -7309,7 +7482,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 312,
+        "id": 322,
         "audioUrl": "",
         "question": "Chiếc xe đạp ở đâu?",
         "correctAnswer": [
@@ -7326,7 +7499,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 313,
+        "id": 323,
         "audioUrl": "",
         "question": "Đây là cái túi của mình.",
         "correctAnswer": [
@@ -7345,7 +7518,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 755,
+        "id": 773,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7362,7 +7535,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 756,
+        "id": 774,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7379,7 +7552,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 757,
+        "id": 775,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7396,7 +7569,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 758,
+        "id": 776,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7413,7 +7586,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 759,
+        "id": 777,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7430,7 +7603,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 760,
+        "id": 778,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7449,7 +7622,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 761,
+        "id": 779,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7469,11 +7642,11 @@
   },
   {
     "id": 5,
-    "text": "At the fish and chip shop",
+    "text": "Unit 5: At the fish and chip shop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit5.png",
     "scenes": [
       {
-        "id": 314,
+        "id": 324,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7492,7 +7665,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 315,
+        "id": 325,
         "audioUrl": "",
         "question": "I like chicken.",
         "correctAnswer": [
@@ -7508,7 +7681,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 316,
+        "id": 326,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7527,7 +7700,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 317,
+        "id": 327,
         "audioUrl": "",
         "question": "I like milk.",
         "correctAnswer": [
@@ -7543,7 +7716,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 318,
+        "id": 328,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7560,7 +7733,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 319,
+        "id": 329,
         "audioUrl": "",
         "question": "I have fish and I have chips.",
         "correctAnswer": [
@@ -7580,7 +7753,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 320,
+        "id": 330,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7599,7 +7772,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 321,
+        "id": 331,
         "audioUrl": "",
         "question": "This is a fish and chip shop.",
         "correctAnswer": [
@@ -7617,7 +7790,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 322,
+        "id": 332,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7636,7 +7809,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 323,
+        "id": 333,
         "audioUrl": "",
         "question": "Tớ thích sữa.",
         "correctAnswer": [
@@ -7652,7 +7825,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 324,
+        "id": 334,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7671,7 +7844,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 325,
+        "id": 335,
         "audioUrl": "",
         "question": "This is my chicken.",
         "correctAnswer": [
@@ -7689,7 +7862,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 326,
+        "id": 336,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7708,7 +7881,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 327,
+        "id": 337,
         "audioUrl": "",
         "question": "I have chicken and I have chips.",
         "correctAnswer": [
@@ -7728,7 +7901,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 328,
+        "id": 338,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7747,7 +7920,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 329,
+        "id": 339,
         "audioUrl": "",
         "question": "Tớ thích cá.",
         "correctAnswer": [
@@ -7763,7 +7936,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 330,
+        "id": 340,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7784,7 +7957,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 331,
+        "id": 341,
         "audioUrl": "",
         "question": "I have milk and I have chicken.",
         "correctAnswer": [
@@ -7804,7 +7977,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 332,
+        "id": 342,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7823,7 +7996,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 333,
+        "id": 343,
         "audioUrl": "",
         "question": "Tớ thích khoai tây chiên.",
         "correctAnswer": [
@@ -7839,7 +8012,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 334,
+        "id": 344,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7857,7 +8030,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 335,
+        "id": 345,
         "audioUrl": "",
         "question": "This is my fish.",
         "correctAnswer": [
@@ -7875,7 +8048,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 336,
+        "id": 346,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7894,7 +8067,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 337,
+        "id": 347,
         "audioUrl": "",
         "question": "This is a shop.",
         "correctAnswer": [
@@ -7910,7 +8083,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 338,
+        "id": 348,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7929,7 +8102,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 339,
+        "id": 349,
         "audioUrl": "",
         "question": "Tớ thích thịt gà và cá.",
         "correctAnswer": [
@@ -7947,7 +8120,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 340,
+        "id": 350,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -7964,7 +8137,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 341,
+        "id": 351,
         "audioUrl": "",
         "question": "This is my milk.",
         "correctAnswer": [
@@ -7982,7 +8155,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 342,
+        "id": 352,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8002,7 +8175,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 343,
+        "id": 353,
         "audioUrl": "",
         "question": "I like chips.",
         "correctAnswer": [
@@ -8018,7 +8191,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 344,
+        "id": 354,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8042,7 +8215,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 345,
+        "id": 355,
         "audioUrl": "",
         "question": "I like fish.",
         "correctAnswer": [
@@ -8058,7 +8231,26 @@
         "eraseFlag": 0
       },
       {
-        "id": 346,
+        "id": 356,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "Do",
+          "you",
+          "like",
+          "eggs?"
+        ],
+        "scramble": [
+          "Do",
+          "eggs?",
+          "you",
+          "like"
+        ],
+        "hint": "Bạn có thích trứng không? → Do you like eggs?",
+        "eraseFlag": 0
+      },
+      {
+        "id": 357,
         "audioUrl": "",
         "question": "Đây là sữa của tớ.",
         "correctAnswer": [
@@ -8074,7 +8266,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 347,
+        "id": 358,
         "audioUrl": "",
         "question": "I like chicken and fish.",
         "correctAnswer": [
@@ -8092,7 +8284,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 348,
+        "id": 359,
         "audioUrl": "",
         "question": "Đây là một cửa hàng.",
         "correctAnswer": [
@@ -8108,7 +8300,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 349,
+        "id": 360,
         "audioUrl": "",
         "question": "I like chips and milk.",
         "correctAnswer": [
@@ -8126,7 +8318,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 350,
+        "id": 361,
         "audioUrl": "",
         "question": "Đây là thịt gà của tớ.",
         "correctAnswer": [
@@ -8142,7 +8334,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 351,
+        "id": 362,
         "audioUrl": "",
         "question": "I like milk and fish.",
         "correctAnswer": [
@@ -8160,7 +8352,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 352,
+        "id": 363,
         "audioUrl": "",
         "question": "Đây là cá của tớ.",
         "correctAnswer": [
@@ -8176,7 +8368,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 353,
+        "id": 364,
         "audioUrl": "",
         "question": "Mình thích thịt gà.",
         "correctAnswer": [
@@ -8194,7 +8386,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 354,
+        "id": 365,
         "audioUrl": "",
         "question": "Đây là một con chó.",
         "correctAnswer": [
@@ -8214,7 +8406,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 355,
+        "id": 366,
         "audioUrl": "",
         "question": "Mình thích táo và cá.",
         "correctAnswer": [
@@ -8236,7 +8428,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 356,
+        "id": 367,
         "audioUrl": "",
         "question": "Không, mình không thích.",
         "correctAnswer": [
@@ -8254,7 +8446,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 357,
+        "id": 368,
         "audioUrl": "",
         "question": "Mình thích khoai tây chiên và sữa.",
         "correctAnswer": [
@@ -8275,7 +8467,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 358,
+        "id": 369,
         "audioUrl": "",
         "question": "Bạn có thích trứng không?",
         "correctAnswer": [
@@ -8294,7 +8486,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 359,
+        "id": 370,
         "audioUrl": "",
         "question": "Mình thích bánh ngọt và sữa.",
         "correctAnswer": [
@@ -8315,7 +8507,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 360,
+        "id": 371,
         "audioUrl": "",
         "question": "Mình thích bánh ngọt và thịt gà.",
         "correctAnswer": [
@@ -8336,7 +8528,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 361,
+        "id": 372,
         "audioUrl": "",
         "question": "Bạn có thích sữa không?",
         "correctAnswer": [
@@ -8356,7 +8548,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 362,
+        "id": 373,
         "audioUrl": "",
         "question": "Đây là một cái túi.",
         "correctAnswer": [
@@ -8375,7 +8567,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 363,
+        "id": 374,
         "audioUrl": "",
         "question": "Mình thích trứng.",
         "correctAnswer": [
@@ -8392,7 +8584,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 364,
+        "id": 375,
         "audioUrl": "",
         "question": "Bạn có thích thịt gà không?",
         "correctAnswer": [
@@ -8411,7 +8603,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 365,
+        "id": 376,
         "audioUrl": "",
         "question": "Vâng, mình thích.",
         "correctAnswer": [
@@ -8428,7 +8620,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 366,
+        "id": 377,
         "audioUrl": "",
         "question": "Quả trứng ngon.",
         "correctAnswer": [
@@ -8448,7 +8640,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 367,
+        "id": 378,
         "audioUrl": "",
         "question": "Con mèo ở đâu?",
         "correctAnswer": [
@@ -8465,7 +8657,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 368,
+        "id": 379,
         "audioUrl": "",
         "question": "Bạn thích gì?",
         "correctAnswer": [
@@ -8484,7 +8676,27 @@
         "eraseFlag": 0
       },
       {
-        "id": 369,
+        "id": 380,
+        "audioUrl": "",
+        "question": "Bạn có thích cơm không?",
+        "correctAnswer": [
+          "Do",
+          "you",
+          "like",
+          "rice?"
+        ],
+        "scramble": [
+          "Do",
+          "of",
+          "rice?",
+          "like",
+          "you"
+        ],
+        "hint": "Bạn có thích cơm không? → Do you like rice?",
+        "eraseFlag": 0
+      },
+      {
+        "id": 381,
         "audioUrl": "",
         "question": "Tớ thích thịt gà.",
         "correctAnswer": [
@@ -8500,7 +8712,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 370,
+        "id": 382,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8521,7 +8733,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 371,
+        "id": 383,
         "audioUrl": "",
         "question": "Thịt gà ngon.",
         "correctAnswer": [
@@ -8541,7 +8753,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 372,
+        "id": 384,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8561,7 +8773,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 373,
+        "id": 385,
         "audioUrl": "",
         "question": "Mình thích cá và sữa.",
         "correctAnswer": [
@@ -8582,7 +8794,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 374,
+        "id": 386,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8601,7 +8813,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 375,
+        "id": 387,
         "audioUrl": "",
         "question": "Mình thích cơm.",
         "correctAnswer": [
@@ -8618,7 +8830,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 376,
+        "id": 388,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8639,7 +8851,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 377,
+        "id": 389,
         "audioUrl": "",
         "question": "Mình thích sữa.",
         "correctAnswer": [
@@ -8656,7 +8868,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 378,
+        "id": 390,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8676,7 +8888,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 379,
+        "id": 391,
         "audioUrl": "",
         "question": "Mình thích khoai tây chiên và cá.",
         "correctAnswer": [
@@ -8698,7 +8910,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 380,
+        "id": 392,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8717,7 +8929,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 381,
+        "id": 393,
         "audioUrl": "",
         "question": "Cá ngon.",
         "correctAnswer": [
@@ -8737,7 +8949,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 382,
+        "id": 394,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8754,7 +8966,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 383,
+        "id": 395,
         "audioUrl": "",
         "question": "Bạn có thích táo không?",
         "correctAnswer": [
@@ -8774,7 +8986,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 384,
+        "id": 396,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8793,7 +9005,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 385,
+        "id": 397,
         "audioUrl": "",
         "question": "Sữa ngon.",
         "correctAnswer": [
@@ -8813,7 +9025,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 386,
+        "id": 398,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8832,7 +9044,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 387,
+        "id": 399,
         "audioUrl": "",
         "question": "Mình thích táo và sữa.",
         "correctAnswer": [
@@ -8853,7 +9065,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 388,
+        "id": 400,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8870,7 +9082,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 389,
+        "id": 401,
         "audioUrl": "",
         "question": "Con chó ở đâu?",
         "correctAnswer": [
@@ -8887,7 +9099,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 390,
+        "id": 402,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8906,7 +9118,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 391,
+        "id": 403,
         "audioUrl": "",
         "question": "Mình thích thịt gà và sữa.",
         "correctAnswer": [
@@ -8927,7 +9139,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 392,
+        "id": 404,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8948,7 +9160,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 393,
+        "id": 405,
         "audioUrl": "",
         "question": "Quả táo ngon.",
         "correctAnswer": [
@@ -8968,7 +9180,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 394,
+        "id": 406,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -8987,7 +9199,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 395,
+        "id": 407,
         "audioUrl": "",
         "question": "Bạn có thích bánh mì không?",
         "correctAnswer": [
@@ -9006,7 +9218,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 396,
+        "id": 408,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9027,7 +9239,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 397,
+        "id": 409,
         "audioUrl": "",
         "question": "Mình thích bánh ngọt và khoai tây chiên.",
         "correctAnswer": [
@@ -9049,7 +9261,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 398,
+        "id": 410,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9070,7 +9282,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 399,
+        "id": 411,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9091,7 +9303,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 400,
+        "id": 412,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9113,7 +9325,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 401,
+        "id": 413,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9130,7 +9342,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 402,
+        "id": 414,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9147,7 +9359,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 403,
+        "id": 415,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9164,7 +9376,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 404,
+        "id": 416,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9183,7 +9395,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 405,
+        "id": 417,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9203,7 +9415,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 406,
+        "id": 418,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9220,7 +9432,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 762,
+        "id": 780,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9237,7 +9449,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 763,
+        "id": 781,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9254,7 +9466,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 764,
+        "id": 782,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9271,7 +9483,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 765,
+        "id": 783,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9288,7 +9500,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 766,
+        "id": 784,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9310,11 +9522,11 @@
   },
   {
     "id": 6,
-    "text": "In the classroom",
+    "text": "Unit 6: In the classroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit6.png",
     "scenes": [
       {
-        "id": 407,
+        "id": 419,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9333,7 +9545,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 408,
+        "id": 420,
         "audioUrl": "",
         "question": "Tớ có một con diều. Nó màu xanh dương.",
         "correctAnswer": [
@@ -9351,7 +9563,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 409,
+        "id": 421,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9370,7 +9582,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 410,
+        "id": 422,
         "audioUrl": "",
         "question": "Đây là Tom. Cậu ấy có một con diều màu đỏ.",
         "correctAnswer": [
@@ -9388,7 +9600,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 411,
+        "id": 423,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9407,7 +9619,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 412,
+        "id": 424,
         "audioUrl": "",
         "question": "This is Nam. He has a red hat.",
         "correctAnswer": [
@@ -9425,7 +9637,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 413,
+        "id": 425,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9444,7 +9656,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 414,
+        "id": 426,
         "audioUrl": "",
         "question": "Ba có một quả bóng.",
         "correctAnswer": [
@@ -9460,7 +9672,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 415,
+        "id": 427,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9479,7 +9691,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 416,
+        "id": 428,
         "audioUrl": "",
         "question": "Linh có một quả bóng. Nó màu đỏ.",
         "correctAnswer": [
@@ -9497,7 +9709,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 417,
+        "id": 429,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9514,7 +9726,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 418,
+        "id": 430,
         "audioUrl": "",
         "question": "I have a doll. It's yellow.",
         "correctAnswer": [
@@ -9532,7 +9744,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 419,
+        "id": 431,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9551,7 +9763,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 420,
+        "id": 432,
         "audioUrl": "",
         "question": "Nó là một con gà mái màu đỏ.",
         "correctAnswer": [
@@ -9567,7 +9779,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 421,
+        "id": 433,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9588,7 +9800,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 422,
+        "id": 434,
         "audioUrl": "",
         "question": "It's a red pen.",
         "correctAnswer": [
@@ -9604,7 +9816,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 423,
+        "id": 435,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9623,7 +9835,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 424,
+        "id": 436,
         "audioUrl": "",
         "question": "I have a pencil. It's red.",
         "correctAnswer": [
@@ -9641,7 +9853,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 425,
+        "id": 437,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9658,7 +9870,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 426,
+        "id": 438,
         "audioUrl": "",
         "question": "This is Ben. He has a red pen.",
         "correctAnswer": [
@@ -9676,7 +9888,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 427,
+        "id": 439,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9695,7 +9907,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 428,
+        "id": 440,
         "audioUrl": "",
         "question": "Đây là Nam. Cậu ấy có một cái mũ màu đỏ.",
         "correctAnswer": [
@@ -9713,7 +9925,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 429,
+        "id": 441,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9733,7 +9945,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 430,
+        "id": 442,
         "audioUrl": "",
         "question": "Linh has a bell. It's red.",
         "correctAnswer": [
@@ -9751,7 +9963,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 431,
+        "id": 443,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9768,7 +9980,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 432,
+        "id": 444,
         "audioUrl": "",
         "question": "This is Linh. She has a red bag.",
         "correctAnswer": [
@@ -9786,7 +9998,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 433,
+        "id": 445,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9805,7 +10017,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 434,
+        "id": 446,
         "audioUrl": "",
         "question": "Tớ có một con búp bê. Nó màu vàng.",
         "correctAnswer": [
@@ -9823,7 +10035,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 435,
+        "id": 447,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9840,7 +10052,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 436,
+        "id": 448,
         "audioUrl": "",
         "question": "Đó là một cái chuông màu đỏ.",
         "correctAnswer": [
@@ -9859,7 +10071,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 437,
+        "id": 449,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9876,7 +10088,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 438,
+        "id": 450,
         "audioUrl": "",
         "question": "Một quả bóng màu đỏ.",
         "correctAnswer": [
@@ -9894,7 +10106,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 439,
+        "id": 451,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9911,7 +10123,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 440,
+        "id": 452,
         "audioUrl": "",
         "question": "Đây là cái bút mực của mình.",
         "correctAnswer": [
@@ -9930,7 +10142,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 441,
+        "id": 453,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9949,7 +10161,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 442,
+        "id": 454,
         "audioUrl": "",
         "question": "Nó màu gì?",
         "correctAnswer": [
@@ -9968,7 +10180,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 443,
+        "id": 455,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -9987,7 +10199,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 444,
+        "id": 456,
         "audioUrl": "",
         "question": "Mình có một cái bút chì.",
         "correctAnswer": [
@@ -10006,7 +10218,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 445,
+        "id": 457,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10025,7 +10237,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 446,
+        "id": 458,
         "audioUrl": "",
         "question": "Mình có một cái chuông.",
         "correctAnswer": [
@@ -10044,7 +10256,24 @@
         "eraseFlag": 0
       },
       {
-        "id": 447,
+        "id": 459,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "It's",
+          "a",
+          "bell."
+        ],
+        "scramble": [
+          "It's",
+          "bell.",
+          "a"
+        ],
+        "hint": "Đó là một cái chuông. → It's a bell.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 460,
         "audioUrl": "",
         "question": "Đây là Jen.",
         "correctAnswer": [
@@ -10061,7 +10290,26 @@
         "eraseFlag": 0
       },
       {
-        "id": 448,
+        "id": 461,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "I",
+          "have",
+          "a",
+          "pencil."
+        ],
+        "scramble": [
+          "I",
+          "have",
+          "pencil.",
+          "a"
+        ],
+        "hint": "Mình có một cái bút chì. → I have a pencil.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 462,
         "audioUrl": "",
         "question": "Đó là một con mèo.",
         "correctAnswer": [
@@ -10078,7 +10326,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 449,
+        "id": 463,
         "audioUrl": "",
         "question": "Đó là một cái cốc.",
         "correctAnswer": [
@@ -10096,7 +10344,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 450,
+        "id": 464,
         "audioUrl": "",
         "question": "Quyển sách ở đâu?",
         "correctAnswer": [
@@ -10114,7 +10362,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 451,
+        "id": 465,
         "audioUrl": "",
         "question": "Mình thích bánh ngọt và cá.",
         "correctAnswer": [
@@ -10135,7 +10383,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 452,
+        "id": 466,
         "audioUrl": "",
         "question": "Một cái chuông màu đỏ.",
         "correctAnswer": [
@@ -10152,7 +10400,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 453,
+        "id": 467,
         "audioUrl": "",
         "question": "Một cái bút chì màu đỏ.",
         "correctAnswer": [
@@ -10169,7 +10417,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 454,
+        "id": 468,
         "audioUrl": "",
         "question": "Mình thích bánh ngọt.",
         "correctAnswer": [
@@ -10187,7 +10435,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 455,
+        "id": 469,
         "audioUrl": "",
         "question": "Đây là Ben.",
         "correctAnswer": [
@@ -10205,7 +10453,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 456,
+        "id": 470,
         "audioUrl": "",
         "question": "Bạn có thích cam không?",
         "correctAnswer": [
@@ -10224,7 +10472,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 457,
+        "id": 471,
         "audioUrl": "",
         "question": "Con vịt ở trên cái bàn học.",
         "correctAnswer": [
@@ -10248,7 +10496,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 458,
+        "id": 472,
         "audioUrl": "",
         "question": "Mình thích cá và khoai tây chiên.",
         "correctAnswer": [
@@ -10269,7 +10517,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 459,
+        "id": 473,
         "audioUrl": "",
         "question": "Mình thích cá.",
         "correctAnswer": [
@@ -10287,7 +10535,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 460,
+        "id": 474,
         "audioUrl": "",
         "question": "Đó là một cái bàn học màu đỏ.",
         "correctAnswer": [
@@ -10306,7 +10554,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 461,
+        "id": 475,
         "audioUrl": "",
         "question": "Đó là một cái bút chì màu đỏ.",
         "correctAnswer": [
@@ -10325,7 +10573,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 462,
+        "id": 476,
         "audioUrl": "",
         "question": "Nó là một cái bút màu đỏ.",
         "correctAnswer": [
@@ -10341,7 +10589,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 463,
+        "id": 477,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10362,7 +10610,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 464,
+        "id": 478,
         "audioUrl": "",
         "question": "Tớ có một cái bút chì. Nó màu đỏ.",
         "correctAnswer": [
@@ -10380,7 +10628,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 465,
+        "id": 479,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10397,7 +10645,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 466,
+        "id": 480,
         "audioUrl": "",
         "question": "Đây là Ben. Cậu ấy có một cái bút màu đỏ.",
         "correctAnswer": [
@@ -10415,7 +10663,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 467,
+        "id": 481,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10434,7 +10682,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 468,
+        "id": 482,
         "audioUrl": "",
         "question": "Linh có một cái chuông. Nó màu đỏ.",
         "correctAnswer": [
@@ -10452,7 +10700,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 469,
+        "id": 483,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10469,7 +10717,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 470,
+        "id": 484,
         "audioUrl": "",
         "question": "Đó là một cái bút mực màu đỏ.",
         "correctAnswer": [
@@ -10489,7 +10737,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 471,
+        "id": 485,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10508,7 +10756,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 472,
+        "id": 486,
         "audioUrl": "",
         "question": "Đó là một cái bàn học.",
         "correctAnswer": [
@@ -10526,7 +10774,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 473,
+        "id": 487,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10545,7 +10793,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 474,
+        "id": 488,
         "audioUrl": "",
         "question": "Mình thích thịt gà và khoai tây chiên.",
         "correctAnswer": [
@@ -10567,7 +10815,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 475,
+        "id": 489,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10584,7 +10832,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 476,
+        "id": 490,
         "audioUrl": "",
         "question": "Mình thích sữa và thịt gà.",
         "correctAnswer": [
@@ -10606,7 +10854,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 477,
+        "id": 491,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10623,7 +10871,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 478,
+        "id": 492,
         "audioUrl": "",
         "question": "Đó là một cái chuông.",
         "correctAnswer": [
@@ -10641,7 +10889,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 479,
+        "id": 493,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10660,7 +10908,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 480,
+        "id": 494,
         "audioUrl": "",
         "question": "Một cái túi màu đỏ.",
         "correctAnswer": [
@@ -10678,7 +10926,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 481,
+        "id": 495,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10699,7 +10947,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 482,
+        "id": 496,
         "audioUrl": "",
         "question": "Bạn có thích bánh ngọt không?",
         "correctAnswer": [
@@ -10719,7 +10967,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 483,
+        "id": 497,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10741,7 +10989,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 484,
+        "id": 498,
         "audioUrl": "",
         "question": "Mình thích thịt gà và cá.",
         "correctAnswer": [
@@ -10762,7 +11010,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 485,
+        "id": 499,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10784,7 +11032,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 486,
+        "id": 500,
         "audioUrl": "",
         "question": "Đây là một cái bút chì.",
         "correctAnswer": [
@@ -10803,7 +11051,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 487,
+        "id": 501,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10824,7 +11072,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 488,
+        "id": 502,
         "audioUrl": "",
         "question": "Mình thích táo và bánh ngọt.",
         "correctAnswer": [
@@ -10845,7 +11093,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 489,
+        "id": 503,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10866,7 +11114,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 490,
+        "id": 504,
         "audioUrl": "",
         "question": "Mình thích táo và khoai tây chiên.",
         "correctAnswer": [
@@ -10887,7 +11135,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 491,
+        "id": 505,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10906,7 +11154,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 492,
+        "id": 506,
         "audioUrl": "",
         "question": "Đây là cái bút chì của mình.",
         "correctAnswer": [
@@ -10925,7 +11173,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 493,
+        "id": 507,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10943,7 +11191,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 494,
+        "id": 508,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10963,7 +11211,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 495,
+        "id": 509,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -10984,7 +11232,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 496,
+        "id": 510,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11002,7 +11250,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 497,
+        "id": 511,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11020,7 +11268,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 498,
+        "id": 512,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11039,7 +11287,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 499,
+        "id": 513,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11058,7 +11306,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 767,
+        "id": 785,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11075,7 +11323,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 768,
+        "id": 786,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11094,7 +11342,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 769,
+        "id": 787,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11111,7 +11359,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 770,
+        "id": 788,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11130,7 +11378,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 771,
+        "id": 789,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11150,11 +11398,11 @@
   },
   {
     "id": 7,
-    "text": "In the garden",
+    "text": "Unit 7: In the garden",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit7.png",
     "scenes": [
       {
-        "id": 500,
+        "id": 514,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11173,7 +11421,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 501,
+        "id": 515,
         "audioUrl": "",
         "question": "There is a pig in the garden.",
         "correctAnswer": [
@@ -11191,7 +11439,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 502,
+        "id": 516,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11210,7 +11458,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 503,
+        "id": 517,
         "audioUrl": "",
         "question": "Có một con dê gần cổng.",
         "correctAnswer": [
@@ -11228,7 +11476,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 504,
+        "id": 518,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11247,7 +11495,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 505,
+        "id": 519,
         "audioUrl": "",
         "question": "This is my toy.",
         "correctAnswer": [
@@ -11265,7 +11513,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 506,
+        "id": 520,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11284,7 +11532,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 507,
+        "id": 521,
         "audioUrl": "",
         "question": "Có một cái áo khoác.",
         "correctAnswer": [
@@ -11300,7 +11548,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 508,
+        "id": 522,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11319,7 +11567,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 509,
+        "id": 523,
         "audioUrl": "",
         "question": "Có một con vịt trong vườn.",
         "correctAnswer": [
@@ -11337,7 +11585,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 510,
+        "id": 524,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11357,7 +11605,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 511,
+        "id": 525,
         "audioUrl": "",
         "question": "It's green.",
         "correctAnswer": [
@@ -11373,7 +11621,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 512,
+        "id": 526,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11392,7 +11640,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 513,
+        "id": 527,
         "audioUrl": "",
         "question": "Có một con chim trong vườn.",
         "correctAnswer": [
@@ -11410,7 +11658,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 514,
+        "id": 528,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11433,7 +11681,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 515,
+        "id": 529,
         "audioUrl": "",
         "question": "Có một chiếc thuyền.",
         "correctAnswer": [
@@ -11449,7 +11697,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 516,
+        "id": 530,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11466,7 +11714,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 517,
+        "id": 531,
         "audioUrl": "",
         "question": "The girl is in the garden.",
         "correctAnswer": [
@@ -11484,7 +11732,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 518,
+        "id": 532,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11503,7 +11751,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 519,
+        "id": 533,
         "audioUrl": "",
         "question": "Có một con lợn trong vườn.",
         "correctAnswer": [
@@ -11521,7 +11769,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 520,
+        "id": 534,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11538,7 +11786,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 521,
+        "id": 535,
         "audioUrl": "",
         "question": "The boy is in the playground.",
         "correctAnswer": [
@@ -11556,7 +11804,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 522,
+        "id": 536,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11574,7 +11822,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 523,
+        "id": 537,
         "audioUrl": "",
         "question": "Đây là đồ chơi của tớ.",
         "correctAnswer": [
@@ -11590,7 +11838,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 524,
+        "id": 538,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11608,7 +11856,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 525,
+        "id": 539,
         "audioUrl": "",
         "question": "There is a boy at school.",
         "correctAnswer": [
@@ -11626,7 +11874,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 526,
+        "id": 540,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11649,7 +11897,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 527,
+        "id": 541,
         "audioUrl": "",
         "question": "There is a goat in the garden.",
         "correctAnswer": [
@@ -11667,7 +11915,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 528,
+        "id": 542,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11687,7 +11935,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 529,
+        "id": 543,
         "audioUrl": "",
         "question": "Nó màu xanh lá.",
         "correctAnswer": [
@@ -11703,7 +11951,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 530,
+        "id": 544,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11721,7 +11969,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 531,
+        "id": 545,
         "audioUrl": "",
         "question": "There is a girl in the playground.",
         "correctAnswer": [
@@ -11739,7 +11987,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 532,
+        "id": 546,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11757,7 +12005,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 533,
+        "id": 547,
         "audioUrl": "",
         "question": "Đây là một cô bé.",
         "correctAnswer": [
@@ -11776,7 +12024,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 534,
+        "id": 548,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11797,7 +12045,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 535,
+        "id": 549,
         "audioUrl": "",
         "question": "Mình thích khoai tây chiên.",
         "correctAnswer": [
@@ -11814,7 +12062,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 536,
+        "id": 550,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11831,7 +12079,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 537,
+        "id": 551,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một cái cổng.",
         "correctAnswer": [
@@ -11851,7 +12099,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 538,
+        "id": 552,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11869,7 +12117,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 539,
+        "id": 553,
         "audioUrl": "",
         "question": "Đây là một cái bút mực.",
         "correctAnswer": [
@@ -11888,7 +12136,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 540,
+        "id": 554,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -11906,7 +12154,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 541,
+        "id": 555,
         "audioUrl": "",
         "question": "Có một con ngựa ở trong khu vườn.",
         "correctAnswer": [
@@ -11929,7 +12177,26 @@
         "eraseFlag": 0
       },
       {
-        "id": 542,
+        "id": 556,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "What's",
+          "in",
+          "the",
+          "garden?"
+        ],
+        "scramble": [
+          "in",
+          "garden?",
+          "the",
+          "What's"
+        ],
+        "hint": "Có gì ở trong khu vườn? → What's in the garden?",
+        "eraseFlag": 0
+      },
+      {
+        "id": 557,
         "audioUrl": "",
         "question": "Quả cam ngon.",
         "correctAnswer": [
@@ -11948,7 +12215,24 @@
         "eraseFlag": 0
       },
       {
-        "id": 543,
+        "id": 558,
+        "audioUrl": "",
+        "question": "",
+        "correctAnswer": [
+          "There's",
+          "a",
+          "cat."
+        ],
+        "scramble": [
+          "a",
+          "There's",
+          "cat."
+        ],
+        "hint": "Có một con mèo. → There's a cat.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 559,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một con mèo.",
         "correctAnswer": [
@@ -11968,7 +12252,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 544,
+        "id": 560,
         "audioUrl": "",
         "question": "Có một bông hoa.",
         "correctAnswer": [
@@ -11986,7 +12270,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 545,
+        "id": 561,
         "audioUrl": "",
         "question": "Có gì ở trong khu vườn?",
         "correctAnswer": [
@@ -12005,7 +12289,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 546,
+        "id": 562,
         "audioUrl": "",
         "question": "Có một con vịt.",
         "correctAnswer": [
@@ -12023,7 +12307,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 547,
+        "id": 563,
         "audioUrl": "",
         "question": "Đó là một cái mũ màu đỏ.",
         "correctAnswer": [
@@ -12042,7 +12326,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 548,
+        "id": 564,
         "audioUrl": "",
         "question": "Đó là một cô bé.",
         "correctAnswer": [
@@ -12060,7 +12344,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 549,
+        "id": 565,
         "audioUrl": "",
         "question": "Có một bông hoa ở trong khu vườn.",
         "correctAnswer": [
@@ -12083,7 +12367,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 550,
+        "id": 566,
         "audioUrl": "",
         "question": "Đó là một con dê.",
         "correctAnswer": [
@@ -12100,7 +12384,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 551,
+        "id": 567,
         "audioUrl": "",
         "question": "Có một con chim ở trong khu vườn.",
         "correctAnswer": [
@@ -12124,7 +12408,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 552,
+        "id": 568,
         "audioUrl": "",
         "question": "Đây là một cái cổng.",
         "correctAnswer": [
@@ -12143,7 +12427,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 553,
+        "id": 569,
         "audioUrl": "",
         "question": "Đó là một cái bút mực.",
         "correctAnswer": [
@@ -12160,7 +12444,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 554,
+        "id": 570,
         "audioUrl": "",
         "question": "Mình thích cam.",
         "correctAnswer": [
@@ -12177,7 +12461,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 555,
+        "id": 571,
         "audioUrl": "",
         "question": "Bé gái đang ở trong vườn.",
         "correctAnswer": [
@@ -12195,7 +12479,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 556,
+        "id": 572,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12214,7 +12498,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 557,
+        "id": 573,
         "audioUrl": "",
         "question": "Có một con dê trong vườn.",
         "correctAnswer": [
@@ -12232,7 +12516,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 558,
+        "id": 574,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12249,7 +12533,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 559,
+        "id": 575,
         "audioUrl": "",
         "question": "Có một bé gái ở sân chơi.",
         "correctAnswer": [
@@ -12267,7 +12551,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 560,
+        "id": 576,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12285,7 +12569,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 561,
+        "id": 577,
         "audioUrl": "",
         "question": "Có một con ngựa.",
         "correctAnswer": [
@@ -12302,7 +12586,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 562,
+        "id": 578,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12319,7 +12603,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 563,
+        "id": 579,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một bông hoa.",
         "correctAnswer": [
@@ -12339,7 +12623,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 564,
+        "id": 580,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12363,7 +12647,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 565,
+        "id": 581,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một cái cây.",
         "correctAnswer": [
@@ -12382,7 +12666,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 566,
+        "id": 582,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12401,7 +12685,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 567,
+        "id": 583,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một cô bé.",
         "correctAnswer": [
@@ -12420,7 +12704,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 568,
+        "id": 584,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12440,7 +12724,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 569,
+        "id": 585,
         "audioUrl": "",
         "question": "Có một con vịt ở trong khu vườn.",
         "correctAnswer": [
@@ -12463,7 +12747,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 570,
+        "id": 586,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12480,7 +12764,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 571,
+        "id": 587,
         "audioUrl": "",
         "question": "Có một con dê.",
         "correctAnswer": [
@@ -12497,7 +12781,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 572,
+        "id": 588,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12520,7 +12804,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 573,
+        "id": 589,
         "audioUrl": "",
         "question": "Có một con dê ở trong khu vườn.",
         "correctAnswer": [
@@ -12544,7 +12828,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 574,
+        "id": 590,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12567,7 +12851,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 575,
+        "id": 591,
         "audioUrl": "",
         "question": "Có một cái cây.",
         "correctAnswer": [
@@ -12584,7 +12868,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 576,
+        "id": 592,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12607,7 +12891,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 577,
+        "id": 593,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một con ngựa.",
         "correctAnswer": [
@@ -12626,7 +12910,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 578,
+        "id": 594,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12643,7 +12927,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 579,
+        "id": 595,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một con vịt.",
         "correctAnswer": [
@@ -12663,7 +12947,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 580,
+        "id": 596,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12682,7 +12966,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 581,
+        "id": 597,
         "audioUrl": "",
         "question": "Có một con chó ở trong khu vườn.",
         "correctAnswer": [
@@ -12706,7 +12990,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 582,
+        "id": 598,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12730,7 +13014,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 583,
+        "id": 599,
         "audioUrl": "",
         "question": "Có một con chó.",
         "correctAnswer": [
@@ -12747,7 +13031,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 584,
+        "id": 600,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12766,7 +13050,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 585,
+        "id": 601,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một khu vườn.",
         "correctAnswer": [
@@ -12785,7 +13069,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 586,
+        "id": 602,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12808,7 +13092,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 587,
+        "id": 603,
         "audioUrl": "",
         "question": "Có một con mèo.",
         "correctAnswer": [
@@ -12825,7 +13109,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 588,
+        "id": 604,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12845,7 +13129,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 589,
+        "id": 605,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một con chim.",
         "correctAnswer": [
@@ -12865,7 +13149,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 590,
+        "id": 606,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12883,7 +13167,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 591,
+        "id": 607,
         "audioUrl": "",
         "question": "Nhìn kìa! Có một con chó.",
         "correctAnswer": [
@@ -12902,7 +13186,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 592,
+        "id": 608,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12922,7 +13206,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 772,
+        "id": 790,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12939,7 +13223,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 773,
+        "id": 791,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12956,7 +13240,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 774,
+        "id": 792,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12973,7 +13257,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 775,
+        "id": 793,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -12990,7 +13274,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 776,
+        "id": 794,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13010,11 +13294,11 @@
   },
   {
     "id": 8,
-    "text": "In the park",
+    "text": "Unit 8: In the park",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit8.png",
     "scenes": [
       {
-        "id": 593,
+        "id": 609,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13031,7 +13315,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 594,
+        "id": 610,
         "audioUrl": "",
         "question": "I have a bed.",
         "correctAnswer": [
@@ -13047,7 +13331,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 595,
+        "id": 611,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13064,7 +13348,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 596,
+        "id": 612,
         "audioUrl": "",
         "question": "Hãy chạm vào tay và đầu của bạn.",
         "correctAnswer": [
@@ -13082,7 +13366,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 597,
+        "id": 613,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13099,7 +13383,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 598,
+        "id": 614,
         "audioUrl": "",
         "question": "There is a chair near the bed.",
         "correctAnswer": [
@@ -13117,7 +13401,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 599,
+        "id": 615,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13134,7 +13418,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 600,
+        "id": 616,
         "audioUrl": "",
         "question": "Hãy chạm vào tóc và con ngựa của bạn.",
         "correctAnswer": [
@@ -13152,7 +13436,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 601,
+        "id": 617,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13169,7 +13453,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 602,
+        "id": 618,
         "audioUrl": "",
         "question": "I have a hat and a horse.",
         "correctAnswer": [
@@ -13187,7 +13471,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 603,
+        "id": 619,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13204,7 +13488,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 604,
+        "id": 620,
         "audioUrl": "",
         "question": "Hãy chạm vào mũ và tay của bạn.",
         "correctAnswer": [
@@ -13222,7 +13506,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 605,
+        "id": 621,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13245,7 +13529,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 606,
+        "id": 622,
         "audioUrl": "",
         "question": "This is my head.",
         "correctAnswer": [
@@ -13263,7 +13547,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 607,
+        "id": 623,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13286,7 +13570,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 608,
+        "id": 624,
         "audioUrl": "",
         "question": "Đây là mũ của tớ.",
         "correctAnswer": [
@@ -13302,7 +13586,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 609,
+        "id": 625,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13320,7 +13604,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 610,
+        "id": 626,
         "audioUrl": "",
         "question": "Touch your hands and your hair.",
         "correctAnswer": [
@@ -13338,7 +13622,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 611,
+        "id": 627,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13355,7 +13639,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 612,
+        "id": 628,
         "audioUrl": "",
         "question": "Đây là một con ngựa.",
         "correctAnswer": [
@@ -13371,7 +13655,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 613,
+        "id": 629,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13388,7 +13672,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 614,
+        "id": 630,
         "audioUrl": "",
         "question": "Touch your hand.",
         "correctAnswer": [
@@ -13406,7 +13690,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 615,
+        "id": 631,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13429,7 +13713,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 616,
+        "id": 632,
         "audioUrl": "",
         "question": "Tớ có một cái giường.",
         "correctAnswer": [
@@ -13445,7 +13729,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 617,
+        "id": 633,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13464,7 +13748,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 618,
+        "id": 634,
         "audioUrl": "",
         "question": "Touch your hair.",
         "correctAnswer": [
@@ -13482,7 +13766,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 619,
+        "id": 635,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13499,7 +13783,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 620,
+        "id": 636,
         "audioUrl": "",
         "question": "Có một cái ghế gần giường.",
         "correctAnswer": [
@@ -13517,7 +13801,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 621,
+        "id": 637,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13534,7 +13818,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 622,
+        "id": 638,
         "audioUrl": "",
         "question": "Touch your head.",
         "correctAnswer": [
@@ -13552,7 +13836,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 623,
+        "id": 639,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13569,7 +13853,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 624,
+        "id": 640,
         "audioUrl": "",
         "question": "Tớ có một cái mũ và một con ngựa.",
         "correctAnswer": [
@@ -13587,7 +13871,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 625,
+        "id": 641,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -13612,7 +13896,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 626,
+        "id": 642,
         "audioUrl": "",
         "question": "Touch your horse.",
         "correctAnswer": [
@@ -13630,7 +13914,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 627,
+        "id": 643,
         "audioUrl": "",
         "question": "Đây là đầu của tớ.",
         "correctAnswer": [
@@ -13646,7 +13930,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 628,
+        "id": 644,
         "audioUrl": "",
         "question": "Touch your hat.",
         "correctAnswer": [
@@ -13664,7 +13948,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 629,
+        "id": 645,
         "audioUrl": "",
         "question": "Hãy chạm vào tay và tóc của bạn.",
         "correctAnswer": [
@@ -13682,7 +13966,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 630,
+        "id": 646,
         "audioUrl": "",
         "question": "Có một cái cây ở trong khu vườn.",
         "correctAnswer": [
@@ -13705,7 +13989,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 631,
+        "id": 647,
         "audioUrl": "",
         "question": "Đây là một bàn tay.",
         "correctAnswer": [
@@ -13724,7 +14008,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 632,
+        "id": 648,
         "audioUrl": "",
         "question": "Có một con mèo ở trong khu vườn.",
         "correctAnswer": [
@@ -13747,7 +14031,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 633,
+        "id": 649,
         "audioUrl": "",
         "question": "Xin chào Sue và Phil!",
         "correctAnswer": [
@@ -13766,7 +14050,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 634,
+        "id": 650,
         "audioUrl": "",
         "question": "Đó là một cái cổng.",
         "correctAnswer": [
@@ -13783,7 +14067,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 635,
+        "id": 651,
         "audioUrl": "",
         "question": "Đây là một cái chuông.",
         "correctAnswer": [
@@ -13802,7 +14086,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 636,
+        "id": 652,
         "audioUrl": "",
         "question": "Đây là một con dê.",
         "correctAnswer": [
@@ -13821,7 +14105,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 637,
+        "id": 653,
         "audioUrl": "",
         "question": "Hãy chạm vào bàn tay và chạm vào cái đầu của bạn.",
         "correctAnswer": [
@@ -13847,7 +14131,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 638,
+        "id": 654,
         "audioUrl": "",
         "question": "Có một cô bé.",
         "correctAnswer": [
@@ -13864,7 +14148,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 639,
+        "id": 655,
         "audioUrl": "",
         "question": "Đó là một cái túi màu đỏ.",
         "correctAnswer": [
@@ -13884,7 +14168,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 640,
+        "id": 656,
         "audioUrl": "",
         "question": "Đây là một cái đầu.",
         "correctAnswer": [
@@ -13904,7 +14188,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 641,
+        "id": 657,
         "audioUrl": "",
         "question": "Một quyển sách màu đỏ.",
         "correctAnswer": [
@@ -13921,7 +14205,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 642,
+        "id": 658,
         "audioUrl": "",
         "question": "Hãy chạm vào mái tóc và chạm vào cái đầu của bạn.",
         "correctAnswer": [
@@ -13946,7 +14230,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 643,
+        "id": 659,
         "audioUrl": "",
         "question": "Hãy chạm vào bàn tay và chạm vào mái tóc của bạn.",
         "correctAnswer": [
@@ -13972,7 +14256,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 644,
+        "id": 660,
         "audioUrl": "",
         "question": "Một cái cốc màu đỏ.",
         "correctAnswer": [
@@ -13989,7 +14273,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 645,
+        "id": 661,
         "audioUrl": "",
         "question": "Chào Ben! Mình có một quả bóng.",
         "correctAnswer": [
@@ -14012,7 +14296,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 646,
+        "id": 662,
         "audioUrl": "",
         "question": "Một cái mũ màu đỏ.",
         "correctAnswer": [
@@ -14029,7 +14313,58 @@
         "eraseFlag": 0
       },
       {
-        "id": 647,
+        "id": 663,
+        "audioUrl": "",
+        "question": "Hãy chạm vào cái đầu và chạm vào mái tóc của bạn.",
+        "correctAnswer": [
+          "Touch",
+          "your",
+          "head",
+          "and",
+          "touch",
+          "your",
+          "hair."
+        ],
+        "scramble": [
+          "Touch",
+          "hair.",
+          "your",
+          "and",
+          "your",
+          "touch",
+          "head"
+        ],
+        "hint": "Hãy chạm vào cái đầu và chạm vào mái tóc của bạn. → Touch your head and touch your hair.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 664,
+        "audioUrl": "",
+        "question": "Hãy chạm vào mái tóc và chạm vào bàn tay của bạn.",
+        "correctAnswer": [
+          "Touch",
+          "your",
+          "hair",
+          "and",
+          "touch",
+          "your",
+          "hand."
+        ],
+        "scramble": [
+          "hand.",
+          "hair",
+          "your",
+          "and",
+          "touch",
+          "your",
+          "too",
+          "Touch"
+        ],
+        "hint": "Hãy chạm vào mái tóc và chạm vào bàn tay của bạn. → Touch your hair and touch your hand.",
+        "eraseFlag": 0
+      },
+      {
+        "id": 665,
         "audioUrl": "",
         "question": "This is a horse.",
         "correctAnswer": [
@@ -14045,7 +14380,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 648,
+        "id": 666,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14064,7 +14399,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 649,
+        "id": 667,
         "audioUrl": "",
         "question": "I have a truck.",
         "correctAnswer": [
@@ -14080,7 +14415,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 650,
+        "id": 668,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14099,7 +14434,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 651,
+        "id": 669,
         "audioUrl": "",
         "question": "Cậu bé đang ở sân chơi.",
         "correctAnswer": [
@@ -14117,7 +14452,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 652,
+        "id": 670,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14142,7 +14477,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 653,
+        "id": 671,
         "audioUrl": "",
         "question": "Có một cậu bé ở trường.",
         "correctAnswer": [
@@ -14160,7 +14495,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 654,
+        "id": 672,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14185,7 +14520,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 655,
+        "id": 673,
         "audioUrl": "",
         "question": "Hãy chạm vào tay của bạn.",
         "correctAnswer": [
@@ -14201,7 +14536,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 656,
+        "id": 674,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14219,7 +14554,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 657,
+        "id": 675,
         "audioUrl": "",
         "question": "Hãy chạm vào tóc của bạn.",
         "correctAnswer": [
@@ -14235,7 +14570,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 658,
+        "id": 676,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14254,7 +14589,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 659,
+        "id": 677,
         "audioUrl": "",
         "question": "Tớ có một chiếc xe tải.",
         "correctAnswer": [
@@ -14270,7 +14605,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 660,
+        "id": 678,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14295,7 +14630,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 661,
+        "id": 679,
         "audioUrl": "",
         "question": "Có một con chim.",
         "correctAnswer": [
@@ -14312,7 +14647,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 662,
+        "id": 680,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14335,7 +14670,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 663,
+        "id": 681,
         "audioUrl": "",
         "question": "Đó là một cái đầu.",
         "correctAnswer": [
@@ -14353,7 +14688,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 664,
+        "id": 682,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14370,7 +14705,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 665,
+        "id": 683,
         "audioUrl": "",
         "question": "Hãy chạm vào cái đầu của bạn.",
         "correctAnswer": [
@@ -14387,7 +14722,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 666,
+        "id": 684,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14405,7 +14740,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 667,
+        "id": 685,
         "audioUrl": "",
         "question": "Hãy chạm vào mái tóc của bạn.",
         "correctAnswer": [
@@ -14423,7 +14758,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 668,
+        "id": 686,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14443,7 +14778,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 669,
+        "id": 687,
         "audioUrl": "",
         "question": "Chào Nam! Mình có một quả bóng.",
         "correctAnswer": [
@@ -14466,7 +14801,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 670,
+        "id": 688,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14490,7 +14825,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 671,
+        "id": 689,
         "audioUrl": "",
         "question": "Chào Bill! Mình có một quả bóng.",
         "correctAnswer": [
@@ -14514,7 +14849,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 672,
+        "id": 690,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14539,7 +14874,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 673,
+        "id": 691,
         "audioUrl": "",
         "question": "Coi chừng, mèo con!",
         "correctAnswer": [
@@ -14557,7 +14892,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 674,
+        "id": 692,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14582,7 +14917,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 675,
+        "id": 693,
         "audioUrl": "",
         "question": "Hãy chạm vào bàn tay của bạn.",
         "correctAnswer": [
@@ -14600,7 +14935,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 676,
+        "id": 694,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14619,7 +14954,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 677,
+        "id": 695,
         "audioUrl": "",
         "question": "Có một khu vườn.",
         "correctAnswer": [
@@ -14637,7 +14972,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 678,
+        "id": 696,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14656,7 +14991,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 679,
+        "id": 697,
         "audioUrl": "",
         "question": "Có một cái cổng.",
         "correctAnswer": [
@@ -14674,7 +15009,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 680,
+        "id": 698,
         "audioUrl": "",
         "question": "Hãy chạm vào cái đầu và chạm vào bàn tay của bạn.",
         "correctAnswer": [
@@ -14700,7 +15035,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 681,
+        "id": 699,
         "audioUrl": "",
         "question": "Hãy chạm vào con ngựa.",
         "correctAnswer": [
@@ -14717,7 +15052,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 682,
+        "id": 700,
         "audioUrl": "",
         "question": "Chào Ba! Mình có một quả bóng.",
         "correctAnswer": [
@@ -14741,7 +15076,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 683,
+        "id": 701,
         "audioUrl": "",
         "question": "Đó là một bàn tay.",
         "correctAnswer": [
@@ -14759,7 +15094,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 684,
+        "id": 702,
         "audioUrl": "",
         "question": "Đó là một con ngựa.",
         "correctAnswer": [
@@ -14776,7 +15111,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 777,
+        "id": 795,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14793,7 +15128,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 778,
+        "id": 796,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14810,7 +15145,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 779,
+        "id": 797,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14827,7 +15162,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 780,
+        "id": 798,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14844,7 +15179,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 781,
+        "id": 799,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
@@ -14861,7 +15196,7 @@
         "eraseFlag": 0
       },
       {
-        "id": 782,
+        "id": 800,
         "audioUrl": "",
         "question": "",
         "correctAnswer": [
