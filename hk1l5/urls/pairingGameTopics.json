@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "Unit 1: All about me",
+    "text": "All about me",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit1.png",
     "scenes": [
       {
@@ -2098,111 +2098,111 @@
         "id": 96,
         "title": [
           {
-            "en": "What's your favourite subject? It's science.",
-            "vi": "Môn học yêu thích của bạn là gì? Đó là môn Khoa học."
+            "en": "Can you tell me about yourself?",
+            "vi": "Bạn có thể kể về bản thân không?"
           },
           {
-            "en": "I live in the city.",
-            "vi": "Mình sống ở thành phố."
-          },
-          {
-            "en": "I live in a village.",
-            "vi": "Mình sống ở một ngôi làng."
-          },
-          {
-            "en": "I was in Nha Trang last summer.",
-            "vi": "Mùa hè năm ngoái mình ở Nha Trang."
-          }
-        ],
-        "hint": "What's your favourite subject? It's science. - Môn học yêu thích của bạn là gì? Đó là môn Khoa học.\nI live in the city. - Mình sống ở thành phố.\nI live in a village. - Mình sống ở một ngôi làng.\nI was in Nha Trang last summer. - Mùa hè năm ngoái mình ở Nha Trang."
-      },
-      {
-        "id": 97,
-        "title": [
-          {
-            "en": "What's your favourite food? It's sandwich.",
-            "vi": "Món ăn yêu thích của bạn là gì? Đó là bánh mì kẹp."
-          },
-          {
-            "en": "Do you want to play a game?",
-            "vi": "Bạn có muốn chơi một trò chơi không?"
-          },
-          {
-            "en": "What about you?",
-            "vi": "Còn bạn thì sao?"
-          },
-          {
-            "en": "Hello. I'm Mary. Nice to meet you!",
-            "vi": "Xin chào. Mình là Mary. Rất vui được gặp bạn!"
-          }
-        ],
-        "hint": "What's your favourite food? It's sandwich. - Món ăn yêu thích của bạn là gì? Đó là bánh mì kẹp.\nDo you want to play a game? - Bạn có muốn chơi một trò chơi không?\nWhat about you? - Còn bạn thì sao?\nHello. I'm Mary. Nice to meet you! - Xin chào. Mình là Mary. Rất vui được gặp bạn!"
-      },
-      {
-        "id": 98,
-        "title": [
-          {
-            "en": "What's your favourite colour? It's pink.",
-            "vi": "Màu sắc yêu thích của bạn là gì? Đó là màu hồng."
-          },
-          {
-            "en": "My favourite animal is the dolphin.",
-            "vi": "Con vật yêu thích của mình là cá heo."
-          },
-          {
-            "en": "What's your favourite sport?",
-            "vi": "Môn thể thao yêu thích của bạn là gì?"
-          },
-          {
-            "en": "Happy to see my friends!",
-            "vi": "Thật vui khi gặp lại các bạn!"
-          }
-        ],
-        "hint": "What's your favourite colour? It's pink. - Màu sắc yêu thích của bạn là gì? Đó là màu hồng.\nMy favourite animal is the dolphin. - Con vật yêu thích của mình là cá heo.\nWhat's your favourite sport? - Môn thể thao yêu thích của bạn là gì?\nHappy to see my friends! - Thật vui khi gặp lại các bạn!"
-      },
-      {
-        "id": 99,
-        "title": [
-          {
-            "en": "What's your favourite animal?",
-            "vi": "Con vật yêu thích của bạn là gì?"
-          },
-          {
-            "en": "It's pizza.",
-            "vi": "Đó là bánh pi-za."
-          },
-          {
-            "en": "What's your favourite sport?",
-            "vi": "Môn thể thao yêu thích của bạn là gì?"
-          },
-          {
-            "en": "I live in the city.",
-            "vi": "Mình sống ở thành phố."
-          }
-        ],
-        "hint": "What's your favourite animal? - Con vật yêu thích của bạn là gì?\nIt's pizza. - Đó là bánh pi-za.\nWhat's your favourite sport? - Môn thể thao yêu thích của bạn là gì?\nI live in the city. - Mình sống ở thành phố."
-      },
-      {
-        "id": 100,
-        "title": [
-          {
-            "en": "What's your favourite colour? It's pink.",
-            "vi": "Màu sắc yêu thích của bạn là gì? Đó là màu hồng."
+            "en": "I'm in Class 5B.",
+            "vi": "Mình học lớp 5B."
           },
           {
             "en": "Where do you live?",
             "vi": "Bạn sống ở đâu?"
           },
           {
-            "en": "My favourite sport is badminton.",
-            "vi": "Môn thể thao yêu thích của mình là cầu lông."
-          },
-          {
-            "en": "I was in Nha Trang last summer.",
-            "vi": "Mùa hè năm ngoái mình ở Nha Trang."
+            "en": "No, I don't. I like tennis.",
+            "vi": "Không. Mình thích quần vợt."
           }
         ],
-        "hint": "What's your favourite colour? It's pink. - Màu sắc yêu thích của bạn là gì? Đó là màu hồng.\nWhere do you live? - Bạn sống ở đâu?\nMy favourite sport is badminton. - Môn thể thao yêu thích của mình là cầu lông.\nI was in Nha Trang last summer. - Mùa hè năm ngoái mình ở Nha Trang."
+        "hint": "Can you tell me about yourself? - Bạn có thể kể về bản thân không?\nI'm in Class 5B. - Mình học lớp 5B.\nWhere do you live? - Bạn sống ở đâu?\nNo, I don't. I like tennis. - Không. Mình thích quần vợt."
+      },
+      {
+        "id": 97,
+        "title": [
+          {
+            "en": "It's pho noodles.",
+            "vi": "Đó là phở."
+          },
+          {
+            "en": "I'm in Class 5C.",
+            "vi": "Mình học lớp 5C."
+          },
+          {
+            "en": "Where do you live?",
+            "vi": "Bạn sống ở đâu?"
+          },
+          {
+            "en": "What's your favourite colour?",
+            "vi": "Màu sắc yêu thích của bạn là gì?"
+          }
+        ],
+        "hint": "It's pho noodles. - Đó là phở.\nI'm in Class 5C. - Mình học lớp 5C.\nWhere do you live? - Bạn sống ở đâu?\nWhat's your favourite colour? - Màu sắc yêu thích của bạn là gì?"
+      },
+      {
+        "id": 98,
+        "title": [
+          {
+            "en": "My favourite food is pho noodles.",
+            "vi": "Món ăn yêu thích của mình là phở."
+          },
+          {
+            "en": "Do you like tennis?",
+            "vi": "Bạn có thích quần vợt không?"
+          },
+          {
+            "en": "What about you?",
+            "vi": "Còn bạn thì sao?"
+          },
+          {
+            "en": "I live in the countryside.",
+            "vi": "Mình sống ở vùng quê."
+          }
+        ],
+        "hint": "My favourite food is pho noodles. - Món ăn yêu thích của mình là phở.\nDo you like tennis? - Bạn có thích quần vợt không?\nWhat about you? - Còn bạn thì sao?\nI live in the countryside. - Mình sống ở vùng quê."
+      },
+      {
+        "id": 99,
+        "title": [
+          {
+            "en": "I'm in Grade 3.",
+            "vi": "Mình học lớp 3."
+          },
+          {
+            "en": "My favourite colour is pink.",
+            "vi": "Màu sắc yêu thích của mình là màu hồng."
+          },
+          {
+            "en": "My favourite animal is dolphin.",
+            "vi": "Con vật yêu thích của mình là cá heo."
+          },
+          {
+            "en": "Do you want to sing a song?",
+            "vi": "Bạn có muốn hát một bài không?"
+          }
+        ],
+        "hint": "I'm in Grade 3. - Mình học lớp 3.\nMy favourite colour is pink. - Màu sắc yêu thích của mình là màu hồng.\nMy favourite animal is dolphin. - Con vật yêu thích của mình là cá heo.\nDo you want to sing a song? - Bạn có muốn hát một bài không?"
+      },
+      {
+        "id": 100,
+        "title": [
+          {
+            "en": "Yes, I was.",
+            "vi": "Có, mình có ở đó."
+          },
+          {
+            "en": "Were you in Phu Quoc last summer?",
+            "vi": "Mùa hè năm ngoái bạn có ở Phu Quoc không?"
+          },
+          {
+            "en": "What's your favourite colour?",
+            "vi": "Màu sắc yêu thích của bạn là gì?"
+          },
+          {
+            "en": "It's panda.",
+            "vi": "Đó là gấu trúc."
+          }
+        ],
+        "hint": "Yes, I was. - Có, mình có ở đó.\nWere you in Phu Quoc last summer? - Mùa hè năm ngoái bạn có ở Phu Quoc không?\nWhat's your favourite colour? - Màu sắc yêu thích của bạn là gì?\nIt's panda. - Đó là gấu trúc."
       },
       {
         "id": 101,
@@ -3286,29 +3286,29 @@
         "id": 150,
         "title": [
           {
-            "en": "I love pets. I have two kittens in my house.",
-            "vi": "Mình yêu thú cưng. Nhà mình có hai chú mèo con."
+            "en": "I was at the zoo.",
+            "vi": "Mình đã ở sở thú."
           },
           {
-            "en": "A sandwich?",
-            "vi": "Một cái bánh mì kẹp à?"
+            "en": "What's your favourite food? It's sandwich.",
+            "vi": "Món ăn yêu thích của bạn là gì? Đó là bánh mì kẹp."
           },
           {
-            "en": "No, I wasn't. I wasn't in Ha Long Bay.",
-            "vi": "Không, mình không ở đó. Mình đã không ở Vịnh Hạ Long."
+            "en": "This is my sister.",
+            "vi": "Đây là chị/em gái của mình."
           },
           {
-            "en": "I'm going to the sports centre.",
-            "vi": "Mình đang đi đến trung tâm thể thao."
+            "en": "It's a horse.",
+            "vi": "Đó là con ngựa."
           }
         ],
-        "hint": "I love pets. I have two kittens in my house. - Mình yêu thú cưng. Nhà mình có hai chú mèo con.\nA sandwich? - Một cái bánh mì kẹp à?\nNo, I wasn't. I wasn't in Ha Long Bay. - Không, mình không ở đó. Mình đã không ở Vịnh Hạ Long.\nI'm going to the sports centre. - Mình đang đi đến trung tâm thể thao."
+        "hint": "I was at the zoo. - Mình đã ở sở thú.\nWhat's your favourite food? It's sandwich. - Món ăn yêu thích của bạn là gì? Đó là bánh mì kẹp.\nThis is my sister. - Đây là chị/em gái của mình.\nIt's a horse. - Đó là con ngựa."
       }
     ]
   },
   {
     "id": 2,
-    "text": "Unit 2: Our homes",
+    "text": "Our homes",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit2.png",
     "scenes": [
       {
@@ -6571,51 +6571,51 @@
         "id": 299,
         "title": [
           {
-            "en": "Nice to meet you.",
-            "vi": "Rất vui được gặp bạn."
+            "en": "It's art.",
+            "vi": "Đó là môn Mỹ thuật."
           },
           {
-            "en": "I was in Nha Trang last summer.",
-            "vi": "Mùa hè năm ngoái mình ở Nha Trang."
+            "en": "Where do you live?",
+            "vi": "Bạn sống ở đâu?"
           },
           {
-            "en": "Touch your ear.",
-            "vi": "Hãy chạm vào cái tai của bạn."
+            "en": "Do you live near the school?",
+            "vi": "Bạn có sống gần trường không?"
           },
           {
-            "en": "Nice to meet you, too.",
-            "vi": "Mình cũng rất vui được gặp bạn."
+            "en": "No, I don't.",
+            "vi": "Không, mình không."
           }
         ],
-        "hint": "Nice to meet you. - Rất vui được gặp bạn.\nI was in Nha Trang last summer. - Mùa hè năm ngoái mình ở Nha Trang.\nTouch your ear. - Hãy chạm vào cái tai của bạn.\nNice to meet you, too. - Mình cũng rất vui được gặp bạn."
+        "hint": "It's art. - Đó là môn Mỹ thuật.\nWhere do you live? - Bạn sống ở đâu?\nDo you live near the school? - Bạn có sống gần trường không?\nNo, I don't. - Không, mình không."
       },
       {
         "id": 300,
         "title": [
           {
-            "en": "Nice to meet you, too.",
-            "vi": "Mình cũng rất vui được gặp bạn."
+            "en": "What's your address?",
+            "vi": "Địa chỉ của bạn là gì?"
           },
           {
-            "en": "Touch your nose.",
-            "vi": "Hãy chạm vào cái mũi của bạn."
+            "en": "What's your favourite sport?",
+            "vi": "Môn thể thao yêu thích của bạn là gì?"
           },
           {
-            "en": "Do you want to sing a song?",
-            "vi": "Bạn có muốn hát một bài không?"
+            "en": "No, I don't.",
+            "vi": "Không, mình không."
           },
           {
-            "en": "I live at thirteen Ba Trieu Street.",
-            "vi": "Mình sống ở số 13 phố Bà Triệu."
+            "en": "Were you in Nha Trang last summer?",
+            "vi": "Mùa hè năm ngoái bạn có ở Nha Trang không?"
           }
         ],
-        "hint": "Nice to meet you, too. - Mình cũng rất vui được gặp bạn.\nTouch your nose. - Hãy chạm vào cái mũi của bạn.\nDo you want to sing a song? - Bạn có muốn hát một bài không?\nI live at thirteen Ba Trieu Street. - Mình sống ở số 13 phố Bà Triệu."
+        "hint": "What's your address? - Địa chỉ của bạn là gì?\nWhat's your favourite sport? - Môn thể thao yêu thích của bạn là gì?\nNo, I don't. - Không, mình không.\nWere you in Nha Trang last summer? - Mùa hè năm ngoái bạn có ở Nha Trang không?"
       }
     ]
   },
   {
     "id": 3,
-    "text": "Unit 3: My foreign friends",
+    "text": "My foreign friends",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit3.png",
     "scenes": [
       {
@@ -9900,29 +9900,29 @@
         "id": 450,
         "title": [
           {
-            "en": "What about you?",
-            "vi": "Còn bạn thì sao?"
+            "en": "It's a hippo.",
+            "vi": "Đó là hà mã."
           },
           {
-            "en": "Kate is British.",
-            "vi": "Kate là người Anh."
+            "en": "The number is thirty-eight.",
+            "vi": "Số đó là ba mươi tám (38)."
           },
           {
-            "en": "What's he like?",
-            "vi": "Cậu ấy là người như thế nào?"
+            "en": "You can see the River Thames there.",
+            "vi": "Bạn có thể thấy sông Thames ở đó."
           },
           {
-            "en": "Emma is Japanese.",
-            "vi": "Emma là người Nhật."
+            "en": "Tony is from Australia.",
+            "vi": "Tony đến từ nước Úc."
           }
         ],
-        "hint": "What about you? - Còn bạn thì sao?\nKate is British. - Kate là người Anh.\nWhat's he like? - Cậu ấy là người như thế nào?\nEmma is Japanese. - Emma là người Nhật."
+        "hint": "It's a hippo. - Đó là hà mã.\nThe number is thirty-eight. - Số đó là ba mươi tám (38).\nYou can see the River Thames there. - Bạn có thể thấy sông Thames ở đó.\nTony is from Australia. - Tony đến từ nước Úc."
       }
     ]
   },
   {
     "id": 4,
-    "text": "Unit 4: Our free-time activities",
+    "text": "Our free-time activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit4.png",
     "scenes": [
       {
@@ -12063,67 +12063,67 @@
         "id": 548,
         "title": [
           {
-            "en": "I often surf the Internet on Saturdays.",
-            "vi": "Mình thường lướt mạng vào các thứ Bảy."
+            "en": "Is he active?",
+            "vi": "Cậu ấy có năng động không?"
           },
           {
-            "en": "I rarely play the guitar.",
-            "vi": "Mình hiếm khi chơi đàn ghi-ta."
+            "en": "She likes playing volleyball.",
+            "vi": "Cô ấy thích chơi bóng chuyền."
           },
           {
-            "en": "Do you like listening to music? Yes, I do.",
-            "vi": "Bạn có thích nghe nhạc không? Có."
+            "en": "Yes, I do.",
+            "vi": "Có."
           },
           {
-            "en": "I like reading books.",
-            "vi": "Mình thích đọc sách."
+            "en": "What nationality is Bill?",
+            "vi": "Bill là người nước nào?"
           }
         ],
-        "hint": "I often surf the Internet on Saturdays. - Mình thường lướt mạng vào các thứ Bảy.\nI rarely play the guitar. - Mình hiếm khi chơi đàn ghi-ta.\nDo you like listening to music? Yes, I do. - Bạn có thích nghe nhạc không? Có.\nI like reading books. - Mình thích đọc sách."
+        "hint": "Is he active? - Cậu ấy có năng động không?\nShe likes playing volleyball. - Cô ấy thích chơi bóng chuyền.\nYes, I do. - Có.\nWhat nationality is Bill? - Bill là người nước nào?"
       },
       {
         "id": 549,
         "title": [
           {
-            "en": "She likes going roller skating.",
-            "vi": "Cô ấy thích đi trượt pa-tanh."
+            "en": "She usually plays volleyball on Saturdays.",
+            "vi": "Bạn ấy thường chơi bóng chuyền vào các thứ Bảy."
           },
           {
-            "en": "What do you do at the weekend?",
-            "vi": "Bạn làm gì vào cuối tuần?"
+            "en": "Mai sometimes plays volleyball.",
+            "vi": "Mai thỉnh thoảng chơi bóng chuyền."
           },
           {
-            "en": "I usually water the flowers.",
-            "vi": "Mình thường xuyên tưới hoa."
+            "en": "She sometimes surfs the Internet.",
+            "vi": "Cô ấy thỉnh thoảng lướt mạng."
           },
           {
-            "en": "Yes, I do.",
-            "vi": "Có."
+            "en": "He always waters the flowers.",
+            "vi": "Cậu ấy luôn luôn tưới hoa."
           }
         ],
-        "hint": "She likes going roller skating. - Cô ấy thích đi trượt pa-tanh.\nWhat do you do at the weekend? - Bạn làm gì vào cuối tuần?\nI usually water the flowers. - Mình thường xuyên tưới hoa.\nYes, I do. - Có."
+        "hint": "She usually plays volleyball on Saturdays. - Bạn ấy thường chơi bóng chuyền vào các thứ Bảy.\nMai sometimes plays volleyball. - Mai thỉnh thoảng chơi bóng chuyền.\nShe sometimes surfs the Internet. - Cô ấy thỉnh thoảng lướt mạng.\nHe always waters the flowers. - Cậu ấy luôn luôn tưới hoa."
       },
       {
         "id": 550,
         "title": [
           {
-            "en": "Do you like playing the violin?",
-            "vi": "Bạn có thích chơi đàn vi-ô-lông không?"
+            "en": "She loves going shopping.",
+            "vi": "Bạn ấy rất thích đi mua sắm."
           },
           {
-            "en": "She likes listening to music.",
-            "vi": "Cô ấy thích nghe nhạc."
+            "en": "I always play the guitar on Saturdays.",
+            "vi": "Mình luôn luôn chơi đàn ghi-ta vào các thứ Bảy."
           },
           {
-            "en": "No, I don't.",
-            "vi": "Không, mình không thích."
+            "en": "I often water the flowers.",
+            "vi": "Mình thường tưới hoa."
           },
           {
-            "en": "Yes, I do.",
-            "vi": "Vâng, mình thích."
+            "en": "Do you like playing volleyball? No, I don't.",
+            "vi": "Bạn có thích chơi bóng chuyền không? Không."
           }
         ],
-        "hint": "Do you like playing the violin? - Bạn có thích chơi đàn vi-ô-lông không?\nShe likes listening to music. - Cô ấy thích nghe nhạc.\nNo, I don't. - Không, mình không thích.\nYes, I do. - Vâng, mình thích."
+        "hint": "She loves going shopping. - Bạn ấy rất thích đi mua sắm.\nI always play the guitar on Saturdays. - Mình luôn luôn chơi đàn ghi-ta vào các thứ Bảy.\nI often water the flowers. - Mình thường tưới hoa.\nDo you like playing volleyball? No, I don't. - Bạn có thích chơi bóng chuyền không? Không."
       },
       {
         "id": 551,
@@ -13207,29 +13207,29 @@
         "id": 600,
         "title": [
           {
-            "en": "I live in a town.",
-            "vi": "Mình sống ở một thị trấn."
+            "en": "He's Malaysian.",
+            "vi": "Cậu ấy là người Ma-lai-xi-a."
           },
           {
-            "en": "The number is eighteen.",
-            "vi": "Số đó là mười tám (18)."
+            "en": "It's 116 Queen Street.",
+            "vi": "Đó là số 116 phố Queen."
           },
           {
-            "en": "It's a giraffe.",
-            "vi": "Đó là hươu cao cổ."
+            "en": "What nationality is Tony?",
+            "vi": "Tony là người nước nào?"
           },
           {
-            "en": "Linh lives at 88 Ba Trieu Street.",
-            "vi": "Linh sống ở số 88, Ba Trieu Street."
+            "en": "Do you live near the school?",
+            "vi": "Bạn có sống gần trường không?"
           }
         ],
-        "hint": "I live in a town. - Mình sống ở một thị trấn.\nThe number is eighteen. - Số đó là mười tám (18).\nIt's a giraffe. - Đó là hươu cao cổ.\nLinh lives at 88 Ba Trieu Street. - Linh sống ở số 88, Ba Trieu Street."
+        "hint": "He's Malaysian. - Cậu ấy là người Ma-lai-xi-a.\nIt's 116 Queen Street. - Đó là số 116 phố Queen.\nWhat nationality is Tony? - Tony là người nước nào?\nDo you live near the school? - Bạn có sống gần trường không?"
       }
     ]
   },
   {
     "id": 5,
-    "text": "Unit 5: My future job",
+    "text": "My future job",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit5.png",
     "scenes": [
       {
@@ -13443,14 +13443,14 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+            "vi": "Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "Mary rarely goes roller skating.",
             "vi": "Mary hiếm khi đi trượt pa-tanh."
           }
         ],
-        "hint": "My mother's a teacher. - Mẹ mình là giáo viên.\nLucy is helpful. - Lucy hay giúp đỡ.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh."
+        "hint": "My mother's a teacher. - Mẹ mình là giáo viên.\nLucy is helpful. - Lucy hay giúp đỡ.\nShe's a writer. She works in an office. - Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh."
       },
       {
         "id": 611,
@@ -13513,10 +13513,10 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+            "vi": "Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           }
         ],
-        "hint": "Yes, I would. - Có, mình muốn.\nShe's a singer. She works at a theatre. - Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát.\nMy father's a dentist. - Bố mình là nha sĩ.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+        "hint": "Yes, I would. - Có, mình muốn.\nShe's a singer. She works at a theatre. - Cô ấy là ca sĩ. Cô ấy làm việc ở nhà hát.\nMy father's a dentist. - Bố mình là nha sĩ.\nShe's a writer. She works in an office. - Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
       },
       {
         "id": 614,
@@ -14305,10 +14305,10 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+            "vi": "Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           }
         ],
-        "hint": "Lucy is helpful. - Lucy hay giúp đỡ.\nI'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+        "hint": "Lucy is helpful. - Lucy hay giúp đỡ.\nI'd like to be a doctor, too. - Mình cũng muốn trở thành bác sĩ.\nI plant beautiful flowers and trees. - Mình trồng những loài hoa và cây đẹp.\nShe's a writer. She works in an office. - Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
       },
       {
         "id": 650,
@@ -14367,14 +14367,14 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+            "vi": "Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "He's a doctor.",
             "vi": "Bố mình là bác sĩ."
           }
         ],
-        "hint": "Would you like to be a teacher? Yes, I would. - Bạn có muốn trở thành giáo viên không? Có, mình muốn.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nHe's a doctor. - Bố mình là bác sĩ."
+        "hint": "Would you like to be a teacher? Yes, I would. - Bạn có muốn trở thành giáo viên không? Có, mình muốn.\nA dentist takes care of teeth. - Nha sĩ chăm sóc răng.\nShe's a writer. She works in an office. - Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nHe's a doctor. - Bố mình là bác sĩ."
       },
       {
         "id": 653,
@@ -14429,7 +14429,7 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+            "vi": "Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "What an interesting job!",
@@ -14440,7 +14440,7 @@
             "vi": "Bạn có thích xem phim hoạt hình không? Không."
           }
         ],
-        "hint": "It was very interesting. - Nó rất thú vị.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nWhat an interesting job! - Thật là một công việc thú vị!\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không."
+        "hint": "It was very interesting. - Nó rất thú vị.\nShe's a writer. She works in an office. - Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nWhat an interesting job! - Thật là một công việc thú vị!\nDo you like watching cartoons? No, I don't. - Bạn có thích xem phim hoạt hình không? Không."
       },
       {
         "id": 656,
@@ -14675,14 +14675,14 @@
           },
           {
             "en": "She's a writer. She works in an office.",
-            "vi": "Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+            "vi": "Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "Mary rarely goes roller skating.",
             "vi": "Mary hiếm khi đi trượt pa-tanh."
           }
         ],
-        "hint": "She's a doctor. She works at a hospital. - Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện.\nI'm a writer. I'd like to be a writer. - Mình là nhà văn. Mình muốn trở thành nhà văn.\nShe's a writer. She works in an office. - Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh."
+        "hint": "She's a doctor. She works at a hospital. - Cô ấy là bác sĩ. Cô ấy làm việc ở bệnh viện.\nI'm a writer. I'd like to be a writer. - Mình là nhà văn. Mình muốn trở thành nhà văn.\nShe's a writer. She works in an office. - Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng.\nMary rarely goes roller skating. - Mary hiếm khi đi trượt pa-tanh."
       },
       {
         "id": 667,
@@ -16536,7 +16536,7 @@
   },
   {
     "id": 6,
-    "text": "Unit 6: Our school rooms",
+    "text": "Our school rooms",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit6.png",
     "scenes": [
       {
@@ -19821,29 +19821,29 @@
         "id": 900,
         "title": [
           {
-            "en": "Would you like to be a writer?",
-            "vi": "Bạn có muốn trở thành nhà văn không?"
+            "en": "Kenji is from Malaysia.",
+            "vi": "Kenji đến từ Ma-lai-xi-a."
           },
           {
-            "en": "She likes watching cartoons.",
-            "vi": "Cô ấy thích xem phim hoạt hình."
+            "en": "I'd like to be a teacher.",
+            "vi": "Mình muốn trở thành giáo viên."
           },
           {
-            "en": "No, I don't.",
-            "vi": "Không, mình không thích."
+            "en": "Can you tell me about yourself?",
+            "vi": "Bạn có thể kể cho mình nghe về bản thân bạn không?"
           },
           {
-            "en": "Is he active?",
-            "vi": "Cậu ấy có năng động không?"
+            "en": "I usually play the violin.",
+            "vi": "Mình thường xuyên chơi đàn vi-ô-lông."
           }
         ],
-        "hint": "Would you like to be a writer? - Bạn có muốn trở thành nhà văn không?\nShe likes watching cartoons. - Cô ấy thích xem phim hoạt hình.\nNo, I don't. - Không, mình không thích.\nIs he active? - Cậu ấy có năng động không?"
+        "hint": "Kenji is from Malaysia. - Kenji đến từ Ma-lai-xi-a.\nI'd like to be a teacher. - Mình muốn trở thành giáo viên.\nCan you tell me about yourself? - Bạn có thể kể cho mình nghe về bản thân bạn không?\nI usually play the violin. - Mình thường xuyên chơi đàn vi-ô-lông."
       }
     ]
   },
   {
     "id": 7,
-    "text": "Unit 7: Our favourite school activities",
+    "text": "Our favourite school activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit7.png",
     "scenes": [
       {
@@ -23150,7 +23150,7 @@
   },
   {
     "id": 8,
-    "text": "Unit 8: In our classroom",
+    "text": "In our classroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit8.png",
     "scenes": [
       {
@@ -26457,7 +26457,7 @@
   },
   {
     "id": 9,
-    "text": "Unit 9: Our outdoor activities",
+    "text": "Our outdoor activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit9.png",
     "scenes": [
       {
@@ -26926,8 +26926,8 @@
         "id": 1222,
         "title": [
           {
-            "en": "The picture is between the board.",
-            "vi": "Bức tranh ở ở giữa cái bảng."
+            "en": "The picture is on the board.",
+            "vi": "Bức tranh ở trên cái bảng."
           },
           {
             "en": "What did you do there?",
@@ -26942,7 +26942,7 @@
             "vi": "Chủ nhật tuần trước mình ở hội chợ giải trí."
           }
         ],
-        "hint": "The picture is between the board. - Bức tranh ở ở giữa cái bảng.\nWhat did you do there? - Bạn đã làm gì ở đó?\nI watched the animals at the zoo. - Mình đã ngắm các con vật ở sở thú.\nI was at the funfair last Sunday. - Chủ nhật tuần trước mình ở hội chợ giải trí."
+        "hint": "The picture is on the board. - Bức tranh ở trên cái bảng.\nWhat did you do there? - Bạn đã làm gì ở đó?\nI watched the animals at the zoo. - Mình đã ngắm các con vật ở sở thú.\nI was at the funfair last Sunday. - Chủ nhật tuần trước mình ở hội chợ giải trí."
       },
       {
         "id": 1223,
@@ -27718,8 +27718,8 @@
         "id": 1258,
         "title": [
           {
-            "en": "The picture is between the board.",
-            "vi": "Bức tranh ở ở giữa cái bảng."
+            "en": "The picture is on the board.",
+            "vi": "Bức tranh ở trên cái bảng."
           },
           {
             "en": "Were you at the cinema last Saturday?",
@@ -27734,7 +27734,7 @@
             "vi": "Chủ nhật tuần trước bạn có ở trang trại không?"
           }
         ],
-        "hint": "The picture is between the board. - Bức tranh ở ở giữa cái bảng.\nWere you at the cinema last Saturday? - Thứ Bảy tuần trước bạn có ở rạp chiếu phim không?\nWhere were you and Ben last Sunday? - Chủ nhật tuần trước bạn và Ben ở đâu?\nWere you at the farm last Sunday? - Chủ nhật tuần trước bạn có ở trang trại không?"
+        "hint": "The picture is on the board. - Bức tranh ở trên cái bảng.\nWere you at the cinema last Saturday? - Thứ Bảy tuần trước bạn có ở rạp chiếu phim không?\nWhere were you and Ben last Sunday? - Chủ nhật tuần trước bạn và Ben ở đâu?\nWere you at the farm last Sunday? - Chủ nhật tuần trước bạn có ở trang trại không?"
       },
       {
         "id": 1259,
@@ -29764,7 +29764,7 @@
   },
   {
     "id": 10,
-    "text": "Unit 10: Our school trip",
+    "text": "Our school trip",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit10.png",
     "scenes": [
       {

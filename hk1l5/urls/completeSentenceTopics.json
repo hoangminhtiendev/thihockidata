@@ -1,14 +1,14 @@
 [
   {
     "id": 1,
-    "text": "Unit 1: All about me",
+    "text": "All about me",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit1.png",
     "scenes": [
       {
         "id": 1,
         "sentence": "e__phant",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/elephant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/elephant.mp3",
         "answer": "le",
         "hint": "elephant: con voi"
       },
@@ -16,31 +16,31 @@
         "id": 2,
         "sentence": "c_ass_ate",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "lm",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classmate.mp3",
+        "answer": "l,m",
         "hint": "classmate: bạn cùng lớp"
       },
       {
         "id": 3,
         "sentence": "ye_low",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/yellow.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yellow.mp3",
         "answer": "l",
         "hint": "yellow: màu vàng"
       },
       {
         "id": 4,
         "sentence": "blu_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/blue.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/blue.mp3",
         "answer": "e",
         "hint": "blue: màu xanh dương"
       },
       {
         "id": 5,
         "sentence": "te_nis",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tennis.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tennis.mp3",
         "answer": "n",
         "hint": "tennis: quần vợt"
       },
@@ -48,15 +48,15 @@
         "id": 6,
         "sentence": "favour_te",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/favourite.mp3",
         "answer": "i",
         "hint": "favourite: yêu thích"
       },
       {
         "id": 7,
         "sentence": "foo__all",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/football.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/football.mp3",
         "answer": "tb",
         "hint": "football: bóng đá"
       },
@@ -64,143 +64,143 @@
         "id": 8,
         "sentence": "yo_rse_f",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ul",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yourself.mp3",
+        "answer": "u,l",
         "hint": "yourself: bản thân bạn"
       },
       {
         "id": 9,
         "sentence": "pan__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/panda.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/panda.mp3",
         "answer": "da",
         "hint": "panda: gấu trúc"
       },
       {
         "id": 10,
         "sentence": "elep_ant",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/elephant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/elephant.mp3",
         "answer": "h",
         "hint": "elephant: con voi"
       },
       {
         "id": 11,
         "sentence": "y_llow",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/yellow.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yellow.mp3",
         "answer": "e",
         "hint": "yellow: màu vàng"
       },
       {
         "id": 12,
         "sentence": "t_wn",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/town.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/town.mp3",
         "answer": "o",
         "hint": "town: thị trấn"
       },
       {
         "id": 13,
         "sentence": "cit_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/city.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/city.mp3",
         "answer": "y",
         "hint": "city: thành phố"
       },
       {
         "id": 14,
         "sentence": "baske_ball",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
         "answer": "t",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 15,
         "sentence": "p_nda",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/panda.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/panda.mp3",
         "answer": "a",
         "hint": "panda: gấu trúc"
       },
       {
         "id": 16,
         "sentence": "ye_lo_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "lw",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/yellow.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yellow.mp3",
+        "answer": "l,w",
         "hint": "yellow: màu vàng"
       },
       {
         "id": 17,
         "sentence": "vil_age",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/village.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/village.mp3",
         "answer": "l",
         "hint": "village: làng"
       },
       {
         "id": 18,
         "sentence": "v_llage",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/village.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/village.mp3",
         "answer": "i",
         "hint": "village: làng"
       },
       {
         "id": 19,
         "sentence": "pi_z_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "za",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/pizza.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/pizza.mp3",
+        "answer": "z,a",
         "hint": "pizza: bánh pi-za"
       },
       {
         "id": 20,
         "sentence": "to_n",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/town.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/town.mp3",
         "answer": "w",
         "hint": "town: thị trấn"
       },
       {
         "id": 21,
         "sentence": "do__hin",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/dolphin.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/dolphin.mp3",
         "answer": "lp",
         "hint": "dolphin: cá heo"
       },
       {
         "id": 22,
         "sentence": "b__minton",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/badminton.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/badminton.mp3",
         "answer": "ad",
         "hint": "badminton: cầu lông"
       },
       {
         "id": 23,
         "sentence": "el_p_ant",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "eh",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/elephant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/elephant.mp3",
+        "answer": "e,h",
         "hint": "elephant: con voi"
       },
       {
         "id": 24,
         "sentence": "pi_k",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/pink.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/pink.mp3",
         "answer": "n",
         "hint": "pink: màu hồng"
       },
       {
         "id": 25,
         "sentence": "mon__y",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/monkey.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/monkey.mp3",
         "answer": "ke",
         "hint": "monkey: con khỉ"
       },
@@ -798,41 +798,41 @@
       },
       {
         "id": 100,
-        "sentence": "dolph_n",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "i",
-        "hint": "dolphin: cá heo"
+        "sentence": "sc__nce",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/science.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/science.mp3",
+        "answer": "ie",
+        "hint": "science: môn Khoa học"
       },
       {
         "id": 101,
         "sentence": "cl_ssmate",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classmate.mp3",
         "answer": "a",
         "hint": "classmate: bạn cùng lớp"
       },
       {
         "id": 102,
         "sentence": "le_on",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/lemon.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/lemon.mp3",
         "answer": "m",
         "hint": "lemon: quả chanh"
       },
       {
         "id": 103,
         "sentence": "pen_il",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/pencil.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/pencil.mp3",
         "answer": "c",
         "hint": "pencil: bút chì"
       },
       {
         "id": 104,
         "sentence": "sis_er",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/sister.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/sister.mp3",
         "answer": "t",
         "hint": "sister: chị/em gái"
       },
@@ -840,71 +840,71 @@
         "id": 105,
         "sentence": "int_od_ce",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ru",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/introduce.mp3",
+        "answer": "r,u",
         "hint": "introduce: giới thiệu"
       },
       {
         "id": 106,
         "sentence": "b_ll",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/ball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/ball.mp3",
         "answer": "a",
         "hint": "ball: quả bóng"
       },
       {
         "id": 107,
         "sentence": "ma__o",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/mango.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/mango.mp3",
         "answer": "ng",
         "hint": "mango: quả xoài"
       },
       {
         "id": 108,
         "sentence": "s_permarket",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/supermarket.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/supermarket.mp3",
         "answer": "u",
         "hint": "supermarket: siêu thị"
       },
       {
         "id": 109,
         "sentence": "tru_k",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/truck.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/truck.mp3",
         "answer": "c",
         "hint": "truck: xe tải"
       },
       {
         "id": 110,
         "sentence": "k_te",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/kite.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kite.mp3",
         "answer": "i",
         "hint": "kite: cái diều"
       },
       {
         "id": 111,
         "sentence": "villa_e",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/village.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/village.mp3",
         "answer": "g",
         "hint": "village: làng"
       },
       {
         "id": 112,
         "sentence": "vi_l_ge",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "la",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/village.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/village.mp3",
+        "answer": "l,a",
         "hint": "village: làng"
       },
       {
         "id": 113,
         "sentence": "ci_y",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/city.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/city.mp3",
         "answer": "t",
         "hint": "city: thành phố"
       },
@@ -1208,54 +1208,54 @@
   },
   {
     "id": 2,
-    "text": "Unit 2: Our homes",
+    "text": "Our homes",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit2.png",
     "scenes": [
       {
         "id": 151,
         "sentence": "bask_tba_l",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "el",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
+        "answer": "e,l",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 152,
         "sentence": "h_us_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "oe",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/house.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/house.mp3",
+        "answer": "o,e",
         "hint": "house: ngôi nhà"
       },
       {
         "id": 153,
         "sentence": "distric_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/district.mp3",
         "answer": "t",
         "hint": "district: quận"
       },
       {
         "id": 154,
         "sentence": "b_s_etball",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ak",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
+        "answer": "a,k",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 155,
         "sentence": "to_er",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tower.mp3",
         "answer": "w",
         "hint": "tower: tòa tháp"
       },
       {
         "id": 156,
         "sentence": "apa__ment",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
         "answer": "rt",
         "hint": "apartment: căn hộ chung cư"
       },
@@ -1263,63 +1263,63 @@
         "id": 157,
         "sentence": "t_we_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "or",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tower.mp3",
+        "answer": "o,r",
         "hint": "tower: tòa tháp"
       },
       {
         "id": 158,
         "sentence": "st_ee_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "rt",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/street.mp3",
+        "answer": "r,t",
         "hint": "street: phố"
       },
       {
         "id": 159,
         "sentence": "ho_se",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/house.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/house.mp3",
         "answer": "u",
         "hint": "house: ngôi nhà"
       },
       {
         "id": 160,
         "sentence": "bas__tball",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
         "answer": "ke",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 161,
         "sentence": "ap_rtment",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
         "answer": "a",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 162,
         "sentence": "p_n_a",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ad",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/panda.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/panda.mp3",
+        "answer": "a,d",
         "hint": "panda: gấu trúc"
       },
       {
         "id": 163,
         "sentence": "stre__",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/street.mp3",
         "answer": "et",
         "hint": "street: phố"
       },
       {
         "id": 164,
         "sentence": "hous_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/house.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/house.mp3",
         "answer": "e",
         "hint": "house: ngôi nhà"
       },
@@ -1327,23 +1327,23 @@
         "id": 165,
         "sentence": "introduc_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/introduce.mp3",
         "answer": "e",
         "hint": "introduce: giới thiệu"
       },
       {
         "id": 166,
         "sentence": "b_ske_ball",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "at",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
+        "answer": "a,t",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 167,
         "sentence": "f_at",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/flat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/flat.mp3",
         "answer": "l",
         "hint": "flat: căn hộ"
       },
@@ -1351,15 +1351,15 @@
         "id": 168,
         "sentence": "introdu_e",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/introduce.mp3",
         "answer": "c",
         "hint": "introduce: giới thiệu"
       },
       {
         "id": 169,
         "sentence": "fla_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/flat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/flat.mp3",
         "answer": "t",
         "hint": "flat: căn hộ"
       },
@@ -1367,23 +1367,23 @@
         "id": 170,
         "sentence": "t__er",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tower.mp3",
         "answer": "ow",
         "hint": "tower: tòa tháp"
       },
       {
         "id": 171,
         "sentence": "ba_ke_ball",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "st",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
+        "answer": "s,t",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 172,
         "sentence": "ne_r",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/near.mp3",
         "answer": "a",
         "hint": "near: gần"
       },
@@ -1391,23 +1391,23 @@
         "id": 173,
         "sentence": "k_lome_re",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "it",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kilometre.mp3",
+        "answer": "i,t",
         "hint": "kilometre: ki-lô-mét"
       },
       {
         "id": 174,
         "sentence": "ho_s_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ue",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/house.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/house.mp3",
+        "answer": "u,e",
         "hint": "house: ngôi nhà"
       },
       {
         "id": 175,
         "sentence": "d__trict",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/district.mp3",
         "answer": "is",
         "hint": "district: quận"
       },
@@ -2014,104 +2014,104 @@
       {
         "id": 251,
         "sentence": "co_n_ryside",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ut",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/countryside.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/countryside.mp3",
+        "answer": "u,t",
         "hint": "countryside: vùng quê"
       },
       {
         "id": 252,
         "sentence": "f_vourite",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/favourite.mp3",
         "answer": "a",
         "hint": "favourite: yêu thích"
       },
       {
         "id": 253,
         "sentence": "mo_her",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/mother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/mother.mp3",
         "answer": "t",
         "hint": "mother: mẹ"
       },
       {
         "id": 254,
         "sentence": "ma_hs",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/maths.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/maths.mp3",
         "answer": "t",
         "hint": "maths: môn Toán"
       },
       {
         "id": 255,
         "sentence": "giraf__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/giraffe.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/giraffe.mp3",
         "answer": "fe",
         "hint": "giraffe: hươu cao cổ"
       },
       {
         "id": 256,
         "sentence": "tow_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/town.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/town.mp3",
         "answer": "n",
         "hint": "town: thị trấn"
       },
       {
         "id": 257,
         "sentence": "v_l_age",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "il",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/village.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/village.mp3",
+        "answer": "i,l",
         "hint": "village: làng"
       },
       {
         "id": 258,
         "sentence": "mon_e_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ky",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/monkey.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/monkey.mp3",
+        "answer": "k,y",
         "hint": "monkey: con khỉ"
       },
       {
         "id": 259,
         "sentence": "m_nke_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "oy",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/monkey.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/monkey.mp3",
+        "answer": "o,y",
         "hint": "monkey: con khỉ"
       },
       {
         "id": 260,
         "sentence": "fl_t",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/flat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/flat.mp3",
         "answer": "a",
         "hint": "flat: căn hộ"
       },
       {
         "id": 261,
         "sentence": "parr_t",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/parrot.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/parrot.mp3",
         "answer": "o",
         "hint": "parrot: con vẹt"
       },
       {
         "id": 262,
         "sentence": "kit_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/kite.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kite.mp3",
         "answer": "e",
         "hint": "kite: cái diều"
       },
       {
         "id": 263,
         "sentence": "clo__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/clock.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/clock.mp3",
         "answer": "ck",
         "hint": "clock: cái đồng hồ"
       },
@@ -2415,38 +2415,38 @@
   },
   {
     "id": 3,
-    "text": "Unit 3: My foreign friends",
+    "text": "My foreign friends",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit3.png",
     "scenes": [
       {
         "id": 301,
         "sentence": "f_nny",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/funny.mp3",
         "answer": "u",
         "hint": "funny: hài hước"
       },
       {
         "id": 302,
         "sentence": "pa_d_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "na",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/panda.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/panda.mp3",
+        "answer": "n,a",
         "hint": "panda: gấu trúc"
       },
       {
         "id": 303,
         "sentence": "fav_u_ite",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "or",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/favourite.mp3",
+        "answer": "o,r",
         "hint": "favourite: yêu thích"
       },
       {
         "id": 304,
         "sentence": "acti_e",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/active.mp3",
         "answer": "v",
         "hint": "active: năng động"
       },
@@ -2454,23 +2454,23 @@
         "id": 305,
         "sentence": "ki_ometr_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "le",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kilometre.mp3",
+        "answer": "l,e",
         "hint": "kilometre: ki-lô-mét"
       },
       {
         "id": 306,
         "sentence": "t_w_r",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "oe",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tower.mp3",
+        "answer": "o,e",
         "hint": "tower: tòa tháp"
       },
       {
         "id": 307,
         "sentence": "pa_da",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/panda.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/panda.mp3",
         "answer": "n",
         "hint": "panda: gấu trúc"
       },
@@ -2478,39 +2478,39 @@
         "id": 308,
         "sentence": "act_v_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ie",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/active.mp3",
+        "answer": "i,e",
         "hint": "active: năng động"
       },
       {
         "id": 309,
         "sentence": "swi__ing",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/swimming.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/swimming.mp3",
         "answer": "mm",
         "hint": "swimming: bơi lội"
       },
       {
         "id": 310,
         "sentence": "swi_mi_g",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "mn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/swimming.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/swimming.mp3",
+        "answer": "m,n",
         "hint": "swimming: bơi lội"
       },
       {
         "id": 311,
         "sentence": "t_nni_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "es",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tennis.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tennis.mp3",
+        "answer": "e,s",
         "hint": "tennis: quần vợt"
       },
       {
         "id": 312,
         "sentence": "helpf__",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/helpful.mp3",
         "answer": "ul",
         "hint": "helpful: hay giúp đỡ"
       },
@@ -2518,23 +2518,23 @@
         "id": 313,
         "sentence": "nati_nalit_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "oy",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/nationality.mp3",
+        "answer": "o,y",
         "hint": "nationality: quốc tịch"
       },
       {
         "id": 314,
         "sentence": "t_wer",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tower.mp3",
         "answer": "o",
         "hint": "tower: tòa tháp"
       },
       {
         "id": 315,
         "sentence": "swimm_ng",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/swimming.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/swimming.mp3",
         "answer": "i",
         "hint": "swimming: bơi lội"
       },
@@ -2542,7 +2542,7 @@
         "id": 316,
         "sentence": "kilomet_e",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kilometre.mp3",
         "answer": "r",
         "hint": "kilometre: ki-lô-mét"
       },
@@ -2550,23 +2550,23 @@
         "id": 317,
         "sentence": "kin_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kind.mp3",
         "answer": "d",
         "hint": "kind: tốt bụng"
       },
       {
         "id": 318,
         "sentence": "swimm_n_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ig",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/swimming.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/swimming.mp3",
+        "answer": "i,g",
         "hint": "swimming: bơi lội"
       },
       {
         "id": 319,
         "sentence": "funn_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/funny.mp3",
         "answer": "y",
         "hint": "funny: hài hước"
       },
@@ -2574,31 +2574,31 @@
         "id": 320,
         "sentence": "na_iona_ity",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "tl",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/nationality.mp3",
+        "answer": "t,l",
         "hint": "nationality: quốc tịch"
       },
       {
         "id": 321,
         "sentence": "favo_r_te",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ui",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/favourite.mp3",
+        "answer": "u,i",
         "hint": "favourite: yêu thích"
       },
       {
         "id": 322,
         "sentence": "ten_i_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ns",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tennis.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tennis.mp3",
+        "answer": "n,s",
         "hint": "tennis: quần vợt"
       },
       {
         "id": 323,
         "sentence": "friendl_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/friendly.mp3",
         "answer": "y",
         "hint": "friendly: thân thiện"
       },
@@ -2606,7 +2606,7 @@
         "id": 324,
         "sentence": "hel__ul",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/helpful.mp3",
         "answer": "pf",
         "hint": "helpful: hay giúp đỡ"
       },
@@ -2614,7 +2614,7 @@
         "id": 325,
         "sentence": "f_iendly",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/friendly.mp3",
         "answer": "r",
         "hint": "friendly: thân thiện"
       },
@@ -3221,72 +3221,72 @@
       {
         "id": 401,
         "sentence": "hou_e",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/house.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/house.mp3",
         "answer": "s",
         "hint": "house: ngôi nhà"
       },
       {
         "id": 402,
         "sentence": "math_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/maths.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/maths.mp3",
         "answer": "s",
         "hint": "maths: môn Toán"
       },
       {
         "id": 403,
         "sentence": "foo_ball",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/football.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/football.mp3",
         "answer": "t",
         "hint": "football: bóng đá"
       },
       {
         "id": 404,
         "sentence": "d_i_er",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "rv",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/driver.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/driver.mp3",
+        "answer": "r,v",
         "hint": "driver: tài xế"
       },
       {
         "id": 405,
         "sentence": "han_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/hand.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/hand.mp3",
         "answer": "d",
         "hint": "hand: bàn tay"
       },
       {
         "id": 406,
         "sentence": "bu__ding",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/building.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/building.mp3",
         "answer": "il",
         "hint": "building: tòa nhà"
       },
       {
         "id": 407,
         "sentence": "s_ip",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/ship.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/ship.mp3",
         "answer": "h",
         "hint": "ship: con tàu"
       },
       {
         "id": 408,
         "sentence": "g_at",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/goat.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/goat.mp3",
         "answer": "o",
         "hint": "goat: con dê"
       },
       {
         "id": 409,
         "sentence": "yel_ow",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/yellow.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yellow.mp3",
         "answer": "l",
         "hint": "yellow: màu vàng"
       },
@@ -3294,31 +3294,31 @@
         "id": 410,
         "sentence": "cl_v_r",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ee",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/clever.mp3",
+        "answer": "e,e",
         "hint": "clever: thông minh"
       },
       {
         "id": 411,
         "sentence": "k_nd",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kind.mp3",
         "answer": "i",
         "hint": "kind: tốt bụng"
       },
       {
         "id": 412,
         "sentence": "scienc_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/science.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/science.mp3",
         "answer": "e",
         "hint": "science: môn Khoa học"
       },
       {
         "id": 413,
         "sentence": "fat__r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/father.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/father.mp3",
         "answer": "he",
         "hint": "father: bố"
       },
@@ -3612,40 +3612,40 @@
       },
       {
         "id": 450,
-        "sentence": "shi_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "p",
-        "hint": "ship: con tàu"
+        "sentence": "sci_nce",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/science.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/science.mp3",
+        "answer": "e",
+        "hint": "science: môn Khoa học"
       }
     ]
   },
   {
     "id": 4,
-    "text": "Unit 4: Our free-time activities",
+    "text": "Our free-time activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit4.png",
     "scenes": [
       {
         "id": 451,
         "sentence": "we_kend",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/weekend.mp3",
         "answer": "e",
         "hint": "weekend: cuối tuần"
       },
       {
         "id": 452,
         "sentence": "bask_t_all",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "eb",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
+        "answer": "e,b",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 453,
         "sentence": "rarel_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/rarely.mp3",
         "answer": "y",
         "hint": "rarely: hiếm khi"
       },
@@ -3653,15 +3653,15 @@
         "id": 454,
         "sentence": "kil_metr_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "oe",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kilometre.mp3",
+        "answer": "o,e",
         "hint": "kilometre: ki-lô-mét"
       },
       {
         "id": 455,
         "sentence": "apartmen_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
         "answer": "t",
         "hint": "apartment: căn hộ chung cư"
       },
@@ -3669,7 +3669,7 @@
         "id": 456,
         "sentence": "tow_r",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tower.mp3",
         "answer": "e",
         "hint": "tower: tòa tháp"
       },
@@ -3677,7 +3677,7 @@
         "id": 457,
         "sentence": "usua_ly",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/usually.mp3",
         "answer": "l",
         "hint": "usually: thường xuyên"
       },
@@ -3685,23 +3685,23 @@
         "id": 458,
         "sentence": "ra__ly",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/rarely.mp3",
         "answer": "re",
         "hint": "rarely: hiếm khi"
       },
       {
         "id": 459,
         "sentence": "ba_ketbal_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "sl",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
+        "answer": "s,l",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 460,
         "sentence": "s__etimes",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/sometimes.mp3",
         "answer": "om",
         "hint": "sometimes: thỉnh thoảng"
       },
@@ -3709,7 +3709,7 @@
         "id": 461,
         "sentence": "entertai_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/entertain.mp3",
         "answer": "n",
         "hint": "entertain: giải trí"
       },
@@ -3717,23 +3717,23 @@
         "id": 462,
         "sentence": "kilome_re",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kilometre.mp3",
         "answer": "t",
         "hint": "kilometre: ki-lô-mét"
       },
       {
         "id": 463,
         "sentence": "a_artme_t",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "pn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
+        "answer": "p,n",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 464,
         "sentence": "of_en",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/often.mp3",
         "answer": "t",
         "hint": "often: thường"
       },
@@ -3741,7 +3741,7 @@
         "id": 465,
         "sentence": "al_ays",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/always.mp3",
         "answer": "w",
         "hint": "always: luôn luôn"
       },
@@ -3749,15 +3749,15 @@
         "id": 466,
         "sentence": "a_way_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ls",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/always.mp3",
+        "answer": "l,s",
         "hint": "always: luôn luôn"
       },
       {
         "id": 467,
         "sentence": "r__ely",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/rarely.mp3",
         "answer": "ar",
         "hint": "rarely: hiếm khi"
       },
@@ -3765,31 +3765,31 @@
         "id": 468,
         "sentence": "som_t_mes",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ei",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/sometimes.mp3",
+        "answer": "e,i",
         "hint": "sometimes: thỉnh thoảng"
       },
       {
         "id": 469,
         "sentence": "ne_e_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "vr",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/never.mp3",
+        "answer": "v,r",
         "hint": "never: không bao giờ"
       },
       {
         "id": 470,
         "sentence": "bas_etba_l",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "kl",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
+        "answer": "k,l",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 471,
         "sentence": "of__n",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/often.mp3",
         "answer": "te",
         "hint": "often: thường"
       },
@@ -3797,7 +3797,7 @@
         "id": 472,
         "sentence": "usu_lly",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/usually.mp3",
         "answer": "a",
         "hint": "usually: thường xuyên"
       },
@@ -3805,7 +3805,7 @@
         "id": 473,
         "sentence": "ent_rtain",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/entertain.mp3",
         "answer": "e",
         "hint": "entertain: giải trí"
       },
@@ -3813,7 +3813,7 @@
         "id": 474,
         "sentence": "ne_er",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/never.mp3",
         "answer": "v",
         "hint": "never: không bao giờ"
       },
@@ -3821,7 +3821,7 @@
         "id": 475,
         "sentence": "o_ten",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/often.mp3",
         "answer": "f",
         "hint": "often: thường"
       },
@@ -4428,16 +4428,16 @@
       {
         "id": 551,
         "sentence": "yell__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/yellow.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yellow.mp3",
         "answer": "ow",
         "hint": "yellow: màu vàng"
       },
       {
         "id": 552,
         "sentence": "wo__er",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/worker.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/worker.mp3",
         "answer": "rk",
         "hint": "worker: công nhân"
       },
@@ -4445,7 +4445,7 @@
         "id": 553,
         "sentence": "yoursel_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yourself.mp3",
         "answer": "f",
         "hint": "yourself: bản thân bạn"
       },
@@ -4453,15 +4453,15 @@
         "id": 554,
         "sentence": "towe_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tower.mp3",
         "answer": "r",
         "hint": "tower: tòa tháp"
       },
       {
         "id": 555,
         "sentence": "m_ther",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/mother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/mother.mp3",
         "answer": "o",
         "hint": "mother: mẹ"
       },
@@ -4469,63 +4469,63 @@
         "id": 556,
         "sentence": "ki_d",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kind.mp3",
         "answer": "n",
         "hint": "kind: tốt bụng"
       },
       {
         "id": 557,
         "sentence": "eleph_n_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "at",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/elephant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/elephant.mp3",
+        "answer": "a,t",
         "hint": "elephant: con voi"
       },
       {
         "id": 558,
         "sentence": "ha_d",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/hand.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/hand.mp3",
         "answer": "n",
         "hint": "hand: bàn tay"
       },
       {
         "id": 559,
         "sentence": "s__ermarket",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/supermarket.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/supermarket.mp3",
         "answer": "up",
         "hint": "supermarket: siêu thị"
       },
       {
         "id": 560,
         "sentence": "plan_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/plane.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/plane.mp3",
         "answer": "e",
         "hint": "plane: máy bay"
       },
       {
         "id": 561,
         "sentence": "b_ok_hop",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "os",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookshop.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/bookshop.mp3",
+        "answer": "o,s",
         "hint": "bookshop: hiệu sách"
       },
       {
         "id": 562,
         "sentence": "b__ana",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/banana.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/banana.mp3",
         "answer": "an",
         "hint": "banana: quả chuối"
       },
       {
         "id": 563,
         "sentence": "pin_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/pink.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/pink.mp3",
         "answer": "k",
         "hint": "pink: màu hồng"
       },
@@ -4829,30 +4829,30 @@
   },
   {
     "id": 5,
-    "text": "Unit 5: My future job",
+    "text": "My future job",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit5.png",
     "scenes": [
       {
         "id": 601,
         "sentence": "wr_ter",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/writer.mp3",
         "answer": "i",
         "hint": "writer: nhà văn"
       },
       {
         "id": 602,
         "sentence": "write_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/writer.mp3",
         "answer": "r",
         "hint": "writer: nhà văn"
       },
       {
         "id": 603,
         "sentence": "dentis_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/dentist.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/dentist.mp3",
         "answer": "t",
         "hint": "dentist: nha sĩ"
       },
@@ -4860,15 +4860,15 @@
         "id": 604,
         "sentence": "fut_re",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/future.mp3",
         "answer": "u",
         "hint": "future: tương lai"
       },
       {
         "id": 605,
         "sentence": "r_porter",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
         "answer": "e",
         "hint": "reporter: phóng viên"
       },
@@ -4876,23 +4876,23 @@
         "id": 606,
         "sentence": "futu_e",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/future.mp3",
         "answer": "r",
         "hint": "future: tương lai"
       },
       {
         "id": 607,
         "sentence": "teac_er",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/teacher.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/teacher.mp3",
         "answer": "h",
         "hint": "teacher: giáo viên"
       },
       {
         "id": 608,
         "sentence": "re_orter",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
         "answer": "p",
         "hint": "reporter: phóng viên"
       },
@@ -4900,31 +4900,31 @@
         "id": 609,
         "sentence": "a_ways",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/always.mp3",
         "answer": "l",
         "hint": "always: luôn luôn"
       },
       {
         "id": 610,
         "sentence": "pand_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/panda.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/panda.mp3",
         "answer": "a",
         "hint": "panda: gấu trúc"
       },
       {
         "id": 611,
         "sentence": "d_ntist",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/dentist.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/dentist.mp3",
         "answer": "e",
         "hint": "dentist: nha sĩ"
       },
       {
         "id": 612,
         "sentence": "ac_or",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/actor.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/actor.mp3",
         "answer": "t",
         "hint": "actor: diễn viên"
       },
@@ -4932,31 +4932,31 @@
         "id": 613,
         "sentence": "someti_es",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/sometimes.mp3",
         "answer": "m",
         "hint": "sometimes: thỉnh thoảng"
       },
       {
         "id": 614,
         "sentence": "te_cher",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/teacher.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/teacher.mp3",
         "answer": "a",
         "hint": "teacher: giáo viên"
       },
       {
         "id": 615,
         "sentence": "fire_ighter",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/firefighter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/firefighter.mp3",
         "answer": "f",
         "hint": "firefighter: lính cứu hỏa"
       },
       {
         "id": 616,
         "sentence": "writ_r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/writer.mp3",
         "answer": "e",
         "hint": "writer: nhà văn"
       },
@@ -4964,71 +4964,71 @@
         "id": 617,
         "sentence": "fu_ure",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/future.mp3",
         "answer": "t",
         "hint": "future: tương lai"
       },
       {
         "id": 618,
         "sentence": "firefi_hter",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/firefighter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/firefighter.mp3",
         "answer": "g",
         "hint": "firefighter: lính cứu hỏa"
       },
       {
         "id": 619,
         "sentence": "wr__er",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/writer.mp3",
         "answer": "it",
         "hint": "writer: nhà văn"
       },
       {
         "id": 620,
         "sentence": "h__se",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/house.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/house.mp3",
         "answer": "ou",
         "hint": "house: ngôi nhà"
       },
       {
         "id": 621,
         "sentence": "si__er",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/singer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/singer.mp3",
         "answer": "ng",
         "hint": "singer: ca sĩ"
       },
       {
         "id": 622,
         "sentence": "hou__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/house.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/house.mp3",
         "answer": "se",
         "hint": "house: ngôi nhà"
       },
       {
         "id": 623,
         "sentence": "firef_ghte_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ir",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/firefighter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/firefighter.mp3",
+        "answer": "i,r",
         "hint": "firefighter: lính cứu hỏa"
       },
       {
         "id": 624,
         "sentence": "ba_ketba_l",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "sl",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
+        "answer": "s,l",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 625,
         "sentence": "wri__r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/writer.mp3",
         "answer": "te",
         "hint": "writer: nhà văn"
       },
@@ -5534,7 +5534,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/shesawritersheworksinanoffice.mp3",
         "answer": "writer",
-        "hint": "She's a writer. She works in an office: Bà ấy là nhà văn. Cô ấy làm việc ở văn phòng."
+        "hint": "She's a writer. She works in an office: Cô ấy là nhà văn. Cô ấy làm việc ở văn phòng."
       },
       {
         "id": 689,
@@ -5636,71 +5636,71 @@
         "id": 701,
         "sentence": "favour_t_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ie",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/favourite.mp3",
+        "answer": "i,e",
         "hint": "favourite: yêu thích"
       },
       {
         "id": 702,
         "sentence": "b_droom",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bedroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/bedroom.mp3",
         "answer": "e",
         "hint": "bedroom: phòng ngủ"
       },
       {
         "id": 703,
         "sentence": "ye_l_w",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "lo",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/yellow.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yellow.mp3",
+        "answer": "l,o",
         "hint": "yellow: màu vàng"
       },
       {
         "id": 704,
         "sentence": "ba__na",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/banana.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/banana.mp3",
         "answer": "na",
         "hint": "banana: quả chuối"
       },
       {
         "id": 705,
         "sentence": "po_icem_n",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "la",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/policeman.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/policeman.mp3",
+        "answer": "l,a",
         "hint": "policeman: chú cảnh sát"
       },
       {
         "id": 706,
         "sentence": "some__mes",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/sometimes.mp3",
         "answer": "ti",
         "hint": "sometimes: thỉnh thoảng"
       },
       {
         "id": 707,
         "sentence": "repo__er",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
         "answer": "rt",
         "hint": "reporter: phóng viên"
       },
       {
         "id": 708,
         "sentence": "p_nk",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/pink.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/pink.mp3",
         "answer": "i",
         "hint": "pink: màu hồng"
       },
       {
         "id": 709,
         "sentence": "polic_man",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/policeman.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/policeman.mp3",
         "answer": "e",
         "hint": "policeman: chú cảnh sát"
       },
@@ -5708,15 +5708,15 @@
         "id": 710,
         "sentence": "ac_ive",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/active.mp3",
         "answer": "t",
         "hint": "active: năng động"
       },
       {
         "id": 711,
         "sentence": "bo_k",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/book.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/book.mp3",
         "answer": "o",
         "hint": "book: quyển sách"
       },
@@ -5724,16 +5724,16 @@
         "id": 712,
         "sentence": "wee_en_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "kd",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/weekend.mp3",
+        "answer": "k,d",
         "hint": "weekend: cuối tuần"
       },
       {
         "id": 713,
         "sentence": "garde_e_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "nr",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/gardener.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/gardener.mp3",
+        "answer": "n,r",
         "hint": "gardener: người làm vườn"
       },
       {
@@ -6036,30 +6036,30 @@
   },
   {
     "id": 6,
-    "text": "Unit 6: Our school rooms",
+    "text": "Our school rooms",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit6.png",
     "scenes": [
       {
         "id": 751,
         "sentence": "lib_a_y",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "rr",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/library.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/library.mp3",
+        "answer": "r,r",
         "hint": "library: thư viện"
       },
       {
         "id": 752,
         "sentence": "tea_her",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/teacher.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/teacher.mp3",
         "answer": "c",
         "hint": "teacher: giáo viên"
       },
       {
         "id": 753,
         "sentence": "teache_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/teacher.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/teacher.mp3",
         "answer": "r",
         "hint": "teacher: giáo viên"
       },
@@ -6067,31 +6067,31 @@
         "id": 754,
         "sentence": "ofte_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/often.mp3",
         "answer": "n",
         "hint": "often: thường"
       },
       {
         "id": 755,
         "sentence": "firefighte_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/firefighter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/firefighter.mp3",
         "answer": "r",
         "hint": "firefighter: lính cứu hỏa"
       },
       {
         "id": 756,
         "sentence": "repo_ter",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
         "answer": "r",
         "hint": "reporter: phóng viên"
       },
       {
         "id": 757,
         "sentence": "cl__sroom",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
         "answer": "as",
         "hint": "classroom: lớp học"
       },
@@ -6099,7 +6099,7 @@
         "id": 758,
         "sentence": "oft__",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/often.mp3",
         "answer": "en",
         "hint": "often: thường"
       },
@@ -6107,15 +6107,15 @@
         "id": 759,
         "sentence": "so_etime_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ms",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/sometimes.mp3",
+        "answer": "m,s",
         "hint": "sometimes: thỉnh thoảng"
       },
       {
         "id": 760,
         "sentence": "oft_n",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/often.mp3",
         "answer": "e",
         "hint": "often: thường"
       },
@@ -6123,119 +6123,119 @@
         "id": 761,
         "sentence": "some_ime_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ts",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/sometimes.mp3",
+        "answer": "t,s",
         "hint": "sometimes: thỉnh thoảng"
       },
       {
         "id": 762,
         "sentence": "clas_ro_m",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "so",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
+        "answer": "s,o",
         "hint": "classroom: lớp học"
       },
       {
         "id": 763,
         "sentence": "librar_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/library.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/library.mp3",
         "answer": "y",
         "hint": "library: thư viện"
       },
       {
         "id": 764,
         "sentence": "repo_te_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "rr",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
+        "answer": "r,r",
         "hint": "reporter: phóng viên"
       },
       {
         "id": 765,
         "sentence": "garden_r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/gardener.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/gardener.mp3",
         "answer": "e",
         "hint": "gardener: người làm vườn"
       },
       {
         "id": 766,
         "sentence": "cl_ssroom",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
         "answer": "a",
         "hint": "classroom: lớp học"
       },
       {
         "id": 767,
         "sentence": "repor_er",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
         "answer": "t",
         "hint": "reporter: phóng viên"
       },
       {
         "id": 768,
         "sentence": "classro_m",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
         "answer": "o",
         "hint": "classroom: lớp học"
       },
       {
         "id": 769,
         "sentence": "fi_efighter",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/firefighter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/firefighter.mp3",
         "answer": "r",
         "hint": "firefighter: lính cứu hỏa"
       },
       {
         "id": 770,
         "sentence": "garde_er",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/gardener.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/gardener.mp3",
         "answer": "n",
         "hint": "gardener: người làm vườn"
       },
       {
         "id": 771,
         "sentence": "firefight_r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/firefighter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/firefighter.mp3",
         "answer": "e",
         "hint": "firefighter: lính cứu hỏa"
       },
       {
         "id": 772,
         "sentence": "gar_e_er",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "dn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/gardener.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/gardener.mp3",
+        "answer": "d,n",
         "hint": "gardener: người làm vườn"
       },
       {
         "id": 773,
         "sentence": "cla_sroo_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "sm",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
+        "answer": "s,m",
         "hint": "classroom: lớp học"
       },
       {
         "id": 774,
         "sentence": "teach_r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/teacher.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/teacher.mp3",
         "answer": "e",
         "hint": "teacher: giáo viên"
       },
       {
         "id": 775,
         "sentence": "reporte_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
         "answer": "r",
         "hint": "reporter: phóng viên"
       },
@@ -6842,48 +6842,48 @@
       {
         "id": 851,
         "sentence": "bl_e",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/blue.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/blue.mp3",
         "answer": "u",
         "hint": "blue: màu xanh dương"
       },
       {
         "id": 852,
         "sentence": "f_rm_r",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ae",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/farmer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/farmer.mp3",
+        "answer": "a,e",
         "hint": "farmer: nông dân"
       },
       {
         "id": 853,
         "sentence": "k_lomet_e",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ir",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kilometre.mp3",
+        "answer": "i,r",
         "hint": "kilometre: ki-lô-mét"
       },
       {
         "id": 854,
         "sentence": "tig__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tiger.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tiger.mp3",
         "answer": "er",
         "hint": "tiger: con hổ"
       },
       {
         "id": 855,
         "sentence": "bask_tball",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/basketball.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/basketball.mp3",
         "answer": "e",
         "hint": "basketball: bóng rổ"
       },
       {
         "id": 856,
         "sentence": "mo__h",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/mouth.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/mouth.mp3",
         "answer": "ut",
         "hint": "mouth: cái miệng"
       },
@@ -6891,55 +6891,55 @@
         "id": 857,
         "sentence": "f_i_ndly",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "re",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/friendly.mp3",
+        "answer": "r,e",
         "hint": "friendly: thân thiện"
       },
       {
         "id": 858,
         "sentence": "usu_l_y",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "al",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/usually.mp3",
+        "answer": "a,l",
         "hint": "usually: thường xuyên"
       },
       {
         "id": 859,
         "sentence": "el_pha_t",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "en",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/elephant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/elephant.mp3",
+        "answer": "e,n",
         "hint": "elephant: con voi"
       },
       {
         "id": 860,
         "sentence": "f_rmer",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/farmer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/farmer.mp3",
         "answer": "a",
         "hint": "farmer: nông dân"
       },
       {
         "id": 861,
         "sentence": "h_pp_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "io",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/hippo.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/hippo.mp3",
+        "answer": "i,o",
         "hint": "hippo: hà mã"
       },
       {
         "id": 862,
         "sentence": "b_na_a",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "an",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/banana.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/banana.mp3",
+        "answer": "a,n",
         "hint": "banana: quả chuối"
       },
       {
         "id": 863,
         "sentence": "oran_e",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/orange.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/orange.mp3",
         "answer": "g",
         "hint": "orange: quả cam"
       },
@@ -7243,38 +7243,38 @@
   },
   {
     "id": 7,
-    "text": "Unit 7: Our favourite school activities",
+    "text": "Our favourite school activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit7.png",
     "scenes": [
       {
         "id": 901,
         "sentence": "t_i_k",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "hn",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/think.mp3",
+        "answer": "h,n",
         "hint": "think: nghĩ"
       },
       {
         "id": 902,
         "sentence": "be_aus_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ce",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/because.mp3",
+        "answer": "c,e",
         "hint": "because: bởi vì"
       },
       {
         "id": 903,
         "sentence": "ap_rtme_t",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "an",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
+        "answer": "a,n",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 904,
         "sentence": "use_ul",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/useful.mp3",
         "answer": "f",
         "hint": "useful: hữu ích"
       },
@@ -7282,7 +7282,7 @@
         "id": 905,
         "sentence": "ea_y",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/easy.mp3",
         "answer": "s",
         "hint": "easy: dễ"
       },
@@ -7290,31 +7290,31 @@
         "id": 906,
         "sentence": "sci_n_ist",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "et",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/scientist.mp3",
+        "answer": "e,t",
         "hint": "scientist: nhà khoa học"
       },
       {
         "id": 907,
         "sentence": "scie__ist",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/scientist.mp3",
         "answer": "nt",
         "hint": "scientist: nhà khoa học"
       },
       {
         "id": 908,
         "sentence": "ap_r_ment",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "at",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
+        "answer": "a,t",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 909,
         "sentence": "scient__t",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/scientist.mp3",
         "answer": "is",
         "hint": "scientist: nhà khoa học"
       },
@@ -7322,7 +7322,7 @@
         "id": 910,
         "sentence": "sci__tist",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/scientist.mp3",
         "answer": "en",
         "hint": "scientist: nhà khoa học"
       },
@@ -7330,23 +7330,23 @@
         "id": 911,
         "sentence": "o_te_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "fn",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/often.mp3",
+        "answer": "f,n",
         "hint": "often: thường"
       },
       {
         "id": 912,
         "sentence": "inter_sti_g",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "en",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/interesting.mp3",
+        "answer": "e,n",
         "hint": "interesting: thú vị"
       },
       {
         "id": 913,
         "sentence": "e_sy",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/easy.mp3",
         "answer": "a",
         "hint": "easy: dễ"
       },
@@ -7354,23 +7354,23 @@
         "id": 914,
         "sentence": "use__l",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/useful.mp3",
         "answer": "fu",
         "hint": "useful: hữu ích"
       },
       {
         "id": 915,
         "sentence": "s_n_er",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ig",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/singer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/singer.mp3",
+        "answer": "i,g",
         "hint": "singer: ca sĩ"
       },
       {
         "id": 916,
         "sentence": "eas_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/easy.mp3",
         "answer": "y",
         "hint": "easy: dễ"
       },
@@ -7378,39 +7378,39 @@
         "id": 917,
         "sentence": "u_efu_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "sl",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/useful.mp3",
+        "answer": "s,l",
         "hint": "useful: hữu ích"
       },
       {
         "id": 918,
         "sentence": "gar_ene_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "dr",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/gardener.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/gardener.mp3",
+        "answer": "d,r",
         "hint": "gardener: người làm vườn"
       },
       {
         "id": 919,
         "sentence": "wri_e_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "tr",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/writer.mp3",
+        "answer": "t,r",
         "hint": "writer: nhà văn"
       },
       {
         "id": 920,
         "sentence": "be_ause",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/because.mp3",
         "answer": "c",
         "hint": "because: bởi vì"
       },
       {
         "id": 921,
         "sentence": "ap__tment",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
         "answer": "ar",
         "hint": "apartment: căn hộ chung cư"
       },
@@ -7418,15 +7418,15 @@
         "id": 922,
         "sentence": "diffi_ult",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/difficult.mp3",
         "answer": "c",
         "hint": "difficult: khó"
       },
       {
         "id": 923,
         "sentence": "a_artment",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
         "answer": "p",
         "hint": "apartment: căn hộ chung cư"
       },
@@ -7434,15 +7434,15 @@
         "id": 924,
         "sentence": "us_fu_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "el",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/useful.mp3",
+        "answer": "e,l",
         "hint": "useful: hữu ích"
       },
       {
         "id": 925,
         "sentence": "da_ce",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/dance.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/dance.mp3",
         "answer": "n",
         "hint": "dance: nhảy múa"
       },
@@ -8049,24 +8049,24 @@
       {
         "id": 1001,
         "sentence": "nos_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/nose.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/nose.mp3",
         "answer": "e",
         "hint": "nose: cái mũi"
       },
       {
         "id": 1002,
         "sentence": "mothe_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/mother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/mother.mp3",
         "answer": "r",
         "hint": "mother: mẹ"
       },
       {
         "id": 1003,
         "sentence": "wo_ker",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/worker.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/worker.mp3",
         "answer": "r",
         "hint": "worker: công nhân"
       },
@@ -8074,31 +8074,31 @@
         "id": 1004,
         "sentence": "so_e_imes",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "mt",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/sometimes.mp3",
+        "answer": "m,t",
         "hint": "sometimes: thỉnh thoảng"
       },
       {
         "id": 1005,
         "sentence": "era__r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/eraser.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/eraser.mp3",
         "answer": "se",
         "hint": "eraser: cục tẩy"
       },
       {
         "id": 1006,
         "sentence": "t__nis",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/tennis.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tennis.mp3",
         "answer": "en",
         "hint": "tennis: quần vợt"
       },
       {
         "id": 1007,
         "sentence": "n_se",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/nose.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/nose.mp3",
         "answer": "o",
         "hint": "nose: cái mũi"
       },
@@ -8106,47 +8106,47 @@
         "id": 1008,
         "sentence": "fa_ourite",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/favourite.mp3",
         "answer": "v",
         "hint": "favourite: yêu thích"
       },
       {
         "id": 1009,
         "sentence": "tr_i_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "an",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/train.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/train.mp3",
+        "answer": "a,n",
         "hint": "train: tàu hỏa"
       },
       {
         "id": 1010,
         "sentence": "musi_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/music.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/music.mp3",
         "answer": "c",
         "hint": "music: môn Âm nhạc"
       },
       {
         "id": 1011,
         "sentence": "be_roo_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "dm",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bedroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/bedroom.mp3",
+        "answer": "d,m",
         "hint": "bedroom: phòng ngủ"
       },
       {
         "id": 1012,
         "sentence": "introd_ce",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/introduce.mp3",
         "answer": "u",
         "hint": "introduce: giới thiệu"
       },
       {
         "id": 1013,
         "sentence": "nurs_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/nurse.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/nurse.mp3",
         "answer": "e",
         "hint": "nurse: y tá"
       },
@@ -8450,86 +8450,86 @@
   },
   {
     "id": 8,
-    "text": "Unit 8: In our classroom",
+    "text": "In our classroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit8.png",
     "scenes": [
       {
         "id": 1051,
         "sentence": "w_n_ow",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "id",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/window.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/window.mp3",
+        "answer": "i,d",
         "hint": "window: cửa sổ"
       },
       {
         "id": 1052,
         "sentence": "w_o_e",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "hs",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/whose.mp3",
+        "answer": "h,s",
         "hint": "whose: của ai"
       },
       {
         "id": 1053,
         "sentence": "t_dy",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/tidy.mp3",
         "answer": "i",
         "hint": "tidy: gọn gàng"
       },
       {
         "id": 1054,
         "sentence": "boar_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/board.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/board.mp3",
         "answer": "d",
         "hint": "board: cái bảng"
       },
       {
         "id": 1055,
         "sentence": "t_b_e",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "al",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/table.mp3",
+        "answer": "a,l",
         "hint": "table: cái bàn"
       },
       {
         "id": 1056,
         "sentence": "abo_e",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/above.mp3",
         "answer": "v",
         "hint": "above: ở phía trên"
       },
       {
         "id": 1057,
         "sentence": "r_l_r",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ue",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/ruler.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/ruler.mp3",
+        "answer": "u,e",
         "hint": "ruler: thước kẻ"
       },
       {
         "id": 1058,
         "sentence": "report_r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
         "answer": "e",
         "hint": "reporter: phóng viên"
       },
       {
         "id": 1059,
         "sentence": "wi_dow",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/window.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/window.mp3",
         "answer": "n",
         "hint": "window: cửa sổ"
       },
       {
         "id": 1060,
         "sentence": "d_sk",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/desk.mp3",
         "answer": "e",
         "hint": "desk: bàn học"
       },
@@ -8537,39 +8537,39 @@
         "id": 1061,
         "sentence": "intere_ting",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/interesting.mp3",
         "answer": "s",
         "hint": "interesting: thú vị"
       },
       {
         "id": 1062,
         "sentence": "t_bl_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ae",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/table.mp3",
+        "answer": "a,e",
         "hint": "table: cái bàn"
       },
       {
         "id": 1063,
         "sentence": "apart_ent",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
         "answer": "m",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 1064,
         "sentence": "cray_n",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/crayon.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/crayon.mp3",
         "answer": "o",
         "hint": "crayon: bút sáp màu"
       },
       {
         "id": 1065,
         "sentence": "wind__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/window.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/window.mp3",
         "answer": "ow",
         "hint": "window: cửa sổ"
       },
@@ -8577,23 +8577,23 @@
         "id": 1066,
         "sentence": "o_t_n",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "fe",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/often.mp3",
+        "answer": "f,e",
         "hint": "often: thường"
       },
       {
         "id": 1067,
         "sentence": "inte_es_ing",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "rt",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/interesting.mp3",
+        "answer": "r,t",
         "hint": "interesting: thú vị"
       },
       {
         "id": 1068,
         "sentence": "interestin_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/interesting.mp3",
         "answer": "g",
         "hint": "interesting: thú vị"
       },
@@ -8601,23 +8601,23 @@
         "id": 1069,
         "sentence": "b_hi_d",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "en",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/behind.mp3",
+        "answer": "e,n",
         "hint": "behind: ở phía sau"
       },
       {
         "id": 1070,
         "sentence": "int_resting",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/interesting.mp3",
         "answer": "e",
         "hint": "interesting: thú vị"
       },
       {
         "id": 1071,
         "sentence": "des_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/desk.mp3",
         "answer": "k",
         "hint": "desk: bàn học"
       },
@@ -8625,31 +8625,31 @@
         "id": 1072,
         "sentence": "in_eres_ing",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "tt",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/interesting.mp3",
+        "answer": "t,t",
         "hint": "interesting: thú vị"
       },
       {
         "id": 1073,
         "sentence": "a_a_tment",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "pr",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
+        "answer": "p,r",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 1074,
         "sentence": "ta__e",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/table.mp3",
         "answer": "bl",
         "hint": "table: cái bàn"
       },
       {
         "id": 1075,
         "sentence": "si_ger",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/singer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/singer.mp3",
         "answer": "n",
         "hint": "singer: ca sĩ"
       },
@@ -8855,11 +8855,11 @@
       },
       {
         "id": 1101,
-        "sentence": "The picture is between the _ _ _ _ _.",
+        "sentence": "The picture is on the _ _ _ _ _.",
         "imageUrl": "",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/thepictureisbetweentheboard.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/thepictureisontheboard.mp3",
         "answer": "board",
-        "hint": "The picture is between the board: Bức tranh ở ở giữa cái bảng."
+        "hint": "The picture is on the board: Bức tranh ở trên cái bảng."
       },
       {
         "id": 1102,
@@ -9256,16 +9256,16 @@
       {
         "id": 1151,
         "sentence": "e_ephant",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/elephant.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/elephant.mp3",
         "answer": "l",
         "hint": "elephant: con voi"
       },
       {
         "id": 1152,
         "sentence": "bedroo_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bedroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/bedroom.mp3",
         "answer": "m",
         "hint": "bedroom: phòng ngủ"
       },
@@ -9273,31 +9273,31 @@
         "id": 1153,
         "sentence": "be__use",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/because.mp3",
         "answer": "ca",
         "hint": "because: bởi vì"
       },
       {
         "id": 1154,
         "sentence": "l_on",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/lion.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/lion.mp3",
         "answer": "i",
         "hint": "lion: sư tử"
       },
       {
         "id": 1155,
         "sentence": "f_otb_ll",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "oa",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/football.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/football.mp3",
+        "answer": "o,a",
         "hint": "football: bóng đá"
       },
       {
         "id": 1156,
         "sentence": "repor__r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/reporter.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/reporter.mp3",
         "answer": "te",
         "hint": "reporter: phóng viên"
       },
@@ -9305,15 +9305,15 @@
         "id": 1157,
         "sentence": "b_ca_se",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "eu",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/because.mp3",
+        "answer": "e,u",
         "hint": "because: bởi vì"
       },
       {
         "id": 1158,
         "sentence": "k_lometre",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/kilometre.mp3",
         "answer": "i",
         "hint": "kilometre: ki-lô-mét"
       },
@@ -9321,23 +9321,23 @@
         "id": 1159,
         "sentence": "nationalit_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/nationality.mp3",
         "answer": "y",
         "hint": "nationality: quốc tịch"
       },
       {
         "id": 1160,
         "sentence": "cray__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/crayon.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/crayon.mp3",
         "answer": "on",
         "hint": "crayon: bút sáp màu"
       },
       {
         "id": 1161,
         "sentence": "rule_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/ruler.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/ruler.mp3",
         "answer": "r",
         "hint": "ruler: thước kẻ"
       },
@@ -9345,16 +9345,16 @@
         "id": 1162,
         "sentence": "betw__n",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/between.mp3",
         "answer": "ee",
         "hint": "between: ở giữa"
       },
       {
         "id": 1163,
         "sentence": "s_ng_r",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ie",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/singer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/singer.mp3",
+        "answer": "i,e",
         "hint": "singer: ca sĩ"
       },
       {
@@ -9657,22 +9657,22 @@
   },
   {
     "id": 9,
-    "text": "Unit 9: Our outdoor activities",
+    "text": "Our outdoor activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit9.png",
     "scenes": [
       {
         "id": 1201,
         "sentence": "f_rm",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/farm.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/farm.mp3",
         "answer": "a",
         "hint": "farm: nông trại"
       },
       {
         "id": 1202,
         "sentence": "bo__d",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/board.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/board.mp3",
         "answer": "ar",
         "hint": "board: cái bảng"
       },
@@ -9680,31 +9680,31 @@
         "id": 1203,
         "sentence": "c_usin",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/cousin.mp3",
         "answer": "o",
         "hint": "cousin: anh/chị/em họ"
       },
       {
         "id": 1204,
         "sentence": "c_n_ma",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ie",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/cinema.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/cinema.mp3",
+        "answer": "i,e",
         "hint": "cinema: rạp chiếu phim"
       },
       {
         "id": 1205,
         "sentence": "boo_cas_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ke",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookcase.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/bookcase.mp3",
+        "answer": "k,e",
         "hint": "bookcase: tủ sách"
       },
       {
         "id": 1206,
         "sentence": "far_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/farm.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/farm.mp3",
         "answer": "m",
         "hint": "farm: nông trại"
       },
@@ -9712,31 +9712,31 @@
         "id": 1207,
         "sentence": "vi_i_",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "st",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/visit.mp3",
+        "answer": "s,t",
         "hint": "visit: thăm"
       },
       {
         "id": 1208,
         "sentence": "boa__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/board.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/board.mp3",
         "answer": "rd",
         "hint": "board: cái bảng"
       },
       {
         "id": 1209,
         "sentence": "bo_r_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ad",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/board.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/board.mp3",
+        "answer": "a,d",
         "hint": "board: cái bảng"
       },
       {
         "id": 1210,
         "sentence": "bak_ry",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bakery.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/bakery.mp3",
         "answer": "e",
         "hint": "bakery: tiệm bánh"
       },
@@ -9744,39 +9744,39 @@
         "id": 1211,
         "sentence": "delici_us",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/delicious.mp3",
         "answer": "o",
         "hint": "delicious: ngon"
       },
       {
         "id": 1212,
         "sentence": "cin_ma",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/cinema.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/cinema.mp3",
         "answer": "e",
         "hint": "cinema: rạp chiếu phim"
       },
       {
         "id": 1213,
         "sentence": "n_t_book",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "oe",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/notebook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/notebook.mp3",
+        "answer": "o,e",
         "hint": "notebook: quyển vở"
       },
       {
         "id": 1214,
         "sentence": "t_eatre",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/theatre.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/theatre.mp3",
         "answer": "h",
         "hint": "theatre: nhà hát"
       },
       {
         "id": 1215,
         "sentence": "aquari_m",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/aquarium.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/aquarium.mp3",
         "answer": "u",
         "hint": "aquarium: thủy cung"
       },
@@ -9784,31 +9784,31 @@
         "id": 1216,
         "sentence": "ye_terday",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yesterday.mp3",
         "answer": "s",
         "hint": "yesterday: hôm qua"
       },
       {
         "id": 1217,
         "sentence": "a_u_rium",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "qa",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/aquarium.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/aquarium.mp3",
+        "answer": "q,a",
         "hint": "aquarium: thủy cung"
       },
       {
         "id": 1218,
         "sentence": "a_uariu_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "qm",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/aquarium.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/aquarium.mp3",
+        "answer": "q,m",
         "hint": "aquarium: thủy cung"
       },
       {
         "id": 1219,
         "sentence": "theat__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/theatre.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/theatre.mp3",
         "answer": "re",
         "hint": "theatre: nhà hát"
       },
@@ -9816,7 +9816,7 @@
         "id": 1220,
         "sentence": "v_sit",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/visit.mp3",
         "answer": "i",
         "hint": "visit: thăm"
       },
@@ -9824,39 +9824,39 @@
         "id": 1221,
         "sentence": "d_lic_ous",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ei",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/delicious.mp3",
+        "answer": "e,i",
         "hint": "delicious: ngon"
       },
       {
         "id": 1222,
         "sentence": "ca_psit_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "me",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/campsite.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/campsite.mp3",
+        "answer": "m,e",
         "hint": "campsite: khu cắm trại"
       },
       {
         "id": 1223,
         "sentence": "cam_site",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/campsite.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/campsite.mp3",
         "answer": "p",
         "hint": "campsite: khu cắm trại"
       },
       {
         "id": 1224,
         "sentence": "funfa__",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/funfair.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/funfair.mp3",
         "answer": "ir",
         "hint": "funfair: hội chợ giải trí"
       },
       {
         "id": 1225,
         "sentence": "funfa_r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/funfair.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/funfair.mp3",
         "answer": "i",
         "hint": "funfair: hội chợ giải trí"
       },
@@ -10463,8 +10463,8 @@
       {
         "id": 1301,
         "sentence": "denti_t",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/dentist.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/dentist.mp3",
         "answer": "s",
         "hint": "dentist: nha sĩ"
       },
@@ -10472,15 +10472,15 @@
         "id": 1302,
         "sentence": "nat__nality",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/nationality.mp3",
         "answer": "io",
         "hint": "nationality: quốc tịch"
       },
       {
         "id": 1303,
         "sentence": "driv_r",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/driver.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/driver.mp3",
         "answer": "e",
         "hint": "driver: tài xế"
       },
@@ -10488,15 +10488,15 @@
         "id": 1304,
         "sentence": "act__e",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/active.mp3",
         "answer": "iv",
         "hint": "active: năng động"
       },
       {
         "id": 1305,
         "sentence": "cine_a",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/cinema.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/cinema.mp3",
         "answer": "m",
         "hint": "cinema: rạp chiếu phim"
       },
@@ -10504,15 +10504,15 @@
         "id": 1306,
         "sentence": "addre__",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/address.mp3",
         "answer": "ss",
         "hint": "address: địa chỉ"
       },
       {
         "id": 1307,
         "sentence": "s_nger",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/singer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/singer.mp3",
         "answer": "i",
         "hint": "singer: ca sĩ"
       },
@@ -10520,47 +10520,47 @@
         "id": 1308,
         "sentence": "e_tert_in",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "na",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/entertain.mp3",
+        "answer": "n,a",
         "hint": "entertain: giải trí"
       },
       {
         "id": 1309,
         "sentence": "abo__",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/above.mp3",
         "answer": "ve",
         "hint": "above: ở phía trên"
       },
       {
         "id": 1310,
         "sentence": "d_c_or",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ot",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/doctor.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/doctor.mp3",
+        "answer": "o,t",
         "hint": "doctor: bác sĩ"
       },
       {
         "id": 1311,
         "sentence": "ne__r",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/never.mp3",
         "answer": "ve",
         "hint": "never: không bao giờ"
       },
       {
         "id": 1312,
         "sentence": "class_oom",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
         "answer": "r",
         "hint": "classroom: lớp học"
       },
       {
         "id": 1313,
         "sentence": "cr__on",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/crayon.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/crayon.mp3",
         "answer": "ay",
         "hint": "crayon: bút sáp màu"
       },
@@ -10864,22 +10864,22 @@
   },
   {
     "id": 10,
-    "text": "Unit 10: Our school trip",
+    "text": "Our school trip",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/unit10.png",
     "scenes": [
       {
         "id": 1351,
         "sentence": "j_urn_y",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "oe",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/journey.mp3",
+        "answer": "o,e",
         "hint": "journey: hành trình"
       },
       {
         "id": 1352,
         "sentence": "enjo_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/enjoy.mp3",
         "answer": "y",
         "hint": "enjoy: thích thú"
       },
@@ -10887,87 +10887,87 @@
         "id": 1353,
         "sentence": "enj_y",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/enjoy.mp3",
         "answer": "o",
         "hint": "enjoy: thích thú"
       },
       {
         "id": 1354,
         "sentence": "cinem_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/cinema.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/cinema.mp3",
         "answer": "a",
         "hint": "cinema: rạp chiếu phim"
       },
       {
         "id": 1355,
         "sentence": "no__book",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/notebook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/notebook.mp3",
         "answer": "te",
         "hint": "notebook: quyển vở"
       },
       {
         "id": 1356,
         "sentence": "cla_sroom",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
         "answer": "s",
         "hint": "classroom: lớp học"
       },
       {
         "id": 1357,
         "sentence": "clas_r_om",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "so",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
+        "answer": "s,o",
         "hint": "classroom: lớp học"
       },
       {
         "id": 1358,
         "sentence": "noteboo_",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/notebook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/notebook.mp3",
         "answer": "k",
         "hint": "notebook: quyển vở"
       },
       {
         "id": 1359,
         "sentence": "ci_ema",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/cinema.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/cinema.mp3",
         "answer": "n",
         "hint": "cinema: rạp chiếu phim"
       },
       {
         "id": 1360,
         "sentence": "ap_rtmen_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "at",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
+        "answer": "a,t",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 1361,
         "sentence": "apartm_nt",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
         "answer": "e",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 1362,
         "sentence": "apar_me_t",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "tn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apartment.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apartment.mp3",
+        "answer": "t,n",
         "hint": "apartment: căn hộ chung cư"
       },
       {
         "id": 1363,
         "sentence": "b_kery",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bakery.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/bakery.mp3",
         "answer": "a",
         "hint": "bakery: tiệm bánh"
       },
@@ -10975,23 +10975,23 @@
         "id": 1364,
         "sentence": "yesterda_",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yesterday.mp3",
         "answer": "y",
         "hint": "yesterday: hôm qua"
       },
       {
         "id": 1365,
         "sentence": "cla_sr_om",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "so",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/classroom.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classroom.mp3",
+        "answer": "s,o",
         "hint": "classroom: lớp học"
       },
       {
         "id": 1366,
         "sentence": "bake_y",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bakery.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/bakery.mp3",
         "answer": "r",
         "hint": "bakery: tiệm bánh"
       },
@@ -10999,15 +10999,15 @@
         "id": 1367,
         "sentence": "enj__",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/enjoy.mp3",
         "answer": "oy",
         "hint": "enjoy: thích thú"
       },
       {
         "id": 1368,
         "sentence": "n_tebook",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/notebook.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/notebook.mp3",
         "answer": "o",
         "hint": "notebook: quyển vở"
       },
@@ -11015,39 +11015,39 @@
         "id": 1369,
         "sentence": "jou_ney",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/journey.mp3",
         "answer": "r",
         "hint": "journey: hành trình"
       },
       {
         "id": 1370,
         "sentence": "ci__ma",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/cinema.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/cinema.mp3",
         "answer": "ne",
         "hint": "cinema: rạp chiếu phim"
       },
       {
         "id": 1371,
         "sentence": "aqu_riu_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "am",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/aquarium.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/aquarium.mp3",
+        "answer": "a,m",
         "hint": "aquarium: thủy cung"
       },
       {
         "id": 1372,
         "sentence": "ye_te_day",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "sr",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yesterday.mp3",
+        "answer": "s,r",
         "hint": "yesterday: hôm qua"
       },
       {
         "id": 1373,
         "sentence": "ye__erday",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yesterday.mp3",
         "answer": "st",
         "hint": "yesterday: hôm qua"
       },
@@ -11055,15 +11055,15 @@
         "id": 1374,
         "sentence": "e_j_y",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "no",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/enjoy.mp3",
+        "answer": "n,o",
         "hint": "enjoy: thích thú"
       },
       {
         "id": 1375,
         "sentence": "yes__rday",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/yesterday.mp3",
         "answer": "te",
         "hint": "yesterday: hôm qua"
       },
@@ -11670,16 +11670,16 @@
       {
         "id": 1451,
         "sentence": "the_t_e",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ar",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/theatre.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/theatre.mp3",
+        "answer": "a,r",
         "hint": "theatre: nhà hát"
       },
       {
         "id": 1452,
         "sentence": "beca_se",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/because.mp3",
         "answer": "u",
         "hint": "because: bởi vì"
       },
@@ -11687,71 +11687,71 @@
         "id": 1453,
         "sentence": "weeke_d",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/weekend.mp3",
         "answer": "n",
         "hint": "weekend: cuối tuần"
       },
       {
         "id": 1454,
         "sentence": "ap_le",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/apple.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/apple.mp3",
         "answer": "p",
         "hint": "apple: quả táo"
       },
       {
         "id": 1455,
         "sentence": "fa_mer",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/farmer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/farmer.mp3",
         "answer": "r",
         "hint": "farmer: nông dân"
       },
       {
         "id": 1456,
         "sentence": "poli_eman",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/policeman.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/policeman.mp3",
         "answer": "c",
         "hint": "policeman: chú cảnh sát"
       },
       {
         "id": 1457,
         "sentence": "wr_te_",
-        "imageUrl": "",
-        "audioUrl": "",
-        "answer": "ir",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/writer.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/writer.mp3",
+        "answer": "i,r",
         "hint": "writer: nhà văn"
       },
       {
         "id": 1458,
         "sentence": "classm__e",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/classmate.mp3",
         "answer": "at",
         "hint": "classmate: bạn cùng lớp"
       },
       {
         "id": 1459,
         "sentence": "gir_ffe",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/giraffe.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/giraffe.mp3",
         "answer": "a",
         "hint": "giraffe: hươu cao cổ"
       },
       {
         "id": 1460,
         "sentence": "b_ue",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/blue.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/blue.mp3",
         "answer": "l",
         "hint": "blue: màu xanh dương"
       },
       {
         "id": 1461,
         "sentence": "g_andmother",
-        "imageUrl": "",
-        "audioUrl": "",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/grandmother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/grandmother.mp3",
         "answer": "r",
         "hint": "grandmother: bà"
       },
@@ -11759,7 +11759,7 @@
         "id": 1462,
         "sentence": "fu__y",
         "imageUrl": "",
-        "audioUrl": "",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/funny.mp3",
         "answer": "nn",
         "hint": "funny: hài hước"
       },
@@ -11767,8 +11767,8 @@
         "id": 1463,
         "sentence": "int_resti_g",
         "imageUrl": "",
-        "audioUrl": "",
-        "answer": "en",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/interesting.mp3",
+        "answer": "e,n",
         "hint": "interesting: thú vị"
       },
       {
