@@ -3,5 +3,5 @@
   "semester": 1,
   "questionsPerTest": 30,
   "testDurationSeconds": 600,
-  "questionsPerRound": 10
+  "questionsPerRound": 20
 }
