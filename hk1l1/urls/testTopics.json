@@ -46,7 +46,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 353,
+          "id": 330,
           "sentence": "This is a _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/thisisacat.png",
           "audioUrl": "",
@@ -166,7 +166,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 119,
+          "id": 123,
           "sentence": "a _ _ _ and a _ _ _ _",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/acarandacake.mp3",
@@ -286,7 +286,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 748,
+          "id": 719,
           "sentence": "There's a _ _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/theresahorse.png",
           "audioUrl": "",
@@ -407,7 +407,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 554,
+          "id": 553,
           "sentence": "It's a _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/itsacup.png",
           "audioUrl": "",
@@ -536,7 +536,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 419,
+          "id": 499,
           "sentence": "milk and _ _ _ _ _ _ _",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/milkandchicken.mp3",
@@ -655,7 +655,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 210,
+          "id": 225,
           "sentence": "street marke_",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/streetmarket.mp3",
@@ -776,12 +776,12 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 16,
-          "sentence": "sch_ ol",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/school.png",
-          "audioUrl": "",
-          "answer": "o",
-          "hint": "school: trường học",
+          "id": 30,
+          "sentence": "Show me the bike, _ _ _ _ _ _.",
+          "imageUrl": "",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/showmethebikeplease.mp3",
+          "answer": "please",
+          "hint": "Show me the bike, please: Làm ơn chỉ cho mình chiếc xe đạp.",
           "topicId": 1
         }
       },
@@ -895,7 +895,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 679,
+          "id": 666,
           "sentence": "_ _ _ _! There's a horse.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/looktheresahorse.png",
           "audioUrl": "",
@@ -1025,7 +1025,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 558,
+          "id": 502,
           "sentence": "I like _ _ _ _ and milk.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikefishandmilk.mp3",
@@ -1147,7 +1147,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 317,
+          "id": 399,
           "sentence": "This is a _ _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisisawindow.mp3",
@@ -1264,7 +1264,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 112,
+          "id": 137,
           "sentence": "c_ r",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/car.png",
           "audioUrl": "",
@@ -1384,7 +1384,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 749,
+          "id": 757,
           "sentence": "There's a _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/theresagirl.png",
           "audioUrl": "",
@@ -1511,7 +1511,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 620,
+          "id": 616,
           "sentence": "A girl _ _ _ a goat.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/agirlandagoat.mp3",
@@ -1633,7 +1633,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 496,
+          "id": 451,
           "sentence": "I like _ _ _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikeoranges.mp3",
@@ -1751,7 +1751,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 215,
+          "id": 253,
           "sentence": "str_ et market",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/streetmarket.mp3",
@@ -1871,7 +1871,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 19,
+          "id": 33,
           "sentence": "b_ l_",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/ball.png",
           "audioUrl": "",
@@ -1998,7 +1998,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 751,
+          "id": 752,
           "sentence": "It's a _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/itsahead.png",
           "audioUrl": "",
@@ -2117,7 +2117,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 555,
+          "id": 569,
           "sentence": "This is a _ _ _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/thisisapencil.png",
           "audioUrl": "",
@@ -2239,7 +2239,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 322,
+          "id": 358,
           "sentence": "a desk and a _ _ _ _",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/adeskandaduck.mp3",
@@ -2359,7 +2359,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 192,
+          "id": 170,
           "sentence": "I have a _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/ihaveacoat.png",
           "audioUrl": "",
@@ -2484,7 +2484,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 21,
+          "id": 80,
           "sentence": "b_ o_",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/book.png",
           "audioUrl": "",
@@ -2605,7 +2605,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 616,
+          "id": 617,
           "sentence": "A goat and a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/agoatandagate.mp3",
@@ -2727,7 +2727,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 426,
+          "id": 459,
           "sentence": "I like chicken and _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikechickenandfish.mp3",
@@ -2847,7 +2847,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 264,
+          "id": 221,
           "sentence": "This is my _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismyapple.mp3",
@@ -2972,7 +2972,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 124,
+          "id": 141,
           "sentence": "a cat and a _ _ _",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/acatandacar.mp3",
@@ -3092,7 +3092,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 787,
+          "id": 769,
           "sentence": "Touch the _ _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/touchthehorse.png",
           "audioUrl": "",
@@ -3213,7 +3213,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 591,
+          "id": 523,
           "sentence": "I _ _ _ _ cakes.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikecakes.mp3",
@@ -3336,7 +3336,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 393,
+          "id": 391,
           "sentence": "A desk and a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/adeskandadoor.mp3",
@@ -3462,7 +3462,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 219,
+          "id": 246,
           "sentence": "This _ _ my can .",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismycan.mp3",
@@ -3582,7 +3582,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 68,
+          "id": 23,
           "sentence": "Hi, I' _ Bill.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbill.mp3",
@@ -3702,7 +3702,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 681,
+          "id": 651,
           "sentence": "_ _ _ _! There's a gate.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/looktheresagate.png",
           "audioUrl": "",
@@ -3824,7 +3824,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 427,
+          "id": 452,
           "sentence": "I like fish and _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikefishandchips.mp3",
@@ -3952,7 +3952,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 365,
+          "id": 372,
           "sentence": "This is a _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisisadog.mp3",
@@ -4072,7 +4072,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 166,
+          "id": 163,
           "sentence": "a cat and a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/acatandacake.mp3",
@@ -4190,7 +4190,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 724,
+          "id": 727,
           "sentence": "Your _ _ _ _ and your hat.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/yourheadandyourhat.mp3",
@@ -4309,7 +4309,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 566,
+          "id": 529,
           "sentence": "_ _ is a red bell.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsaredbell.mp3",
@@ -4439,7 +4439,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 413,
+          "id": 492,
           "sentence": "ch_ cken",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/chicken.png",
           "audioUrl": "",
@@ -4559,7 +4559,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 217,
+          "id": 278,
           "sentence": "This is  _ _  _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismyapple.mp3",
@@ -4679,7 +4679,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 13,
+          "id": 67,
           "sentence": "b_ ll",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/ball.png",
           "audioUrl": "",
@@ -4800,7 +4800,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 623,
+          "id": 687,
           "sentence": "There is a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thereisagirl.mp3",
@@ -4930,7 +4930,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 599,
+          "id": 571,
           "sentence": "I _ _ _ _ rice.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikerice.mp3",
@@ -5051,7 +5051,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 316,
+          "id": 379,
           "sentence": "This is _ _  _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismydesk.mp3",
@@ -5171,7 +5171,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 182,
+          "id": 156,
           "sentence": "I have a _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/ihaveacake.png",
           "audioUrl": "",
@@ -5291,7 +5291,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 713,
+          "id": 760,
           "sentence": "Touch your _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/touchyourhead.mp3",
@@ -5417,7 +5417,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 627,
+          "id": 642,
           "sentence": "A _ _ _ in the garden.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/aboyinthegarden.mp3",
@@ -5539,7 +5539,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 429,
+          "id": 432,
           "sentence": "I like _ _ _ _  _ _ _  _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikemilkandfish.mp3",
@@ -5659,7 +5659,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 266,
+          "id": 243,
           "sentence": "This is my _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismycan.mp3",
@@ -5781,7 +5781,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 17,
+          "id": 62,
           "sentence": "play_ round",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/playground.png",
           "audioUrl": "",
@@ -5908,7 +5908,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 793,
+          "id": 742,
           "sentence": "I _ _ _ _ milk and chicken.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikemilkandchicken.mp3",
@@ -6029,7 +6029,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 523,
+          "id": 562,
           "sentence": "_ _ is a red pen.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsaredpen.mp3",
@@ -6149,7 +6149,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 324,
+          "id": 361,
           "sentence": " _ _ _ _ is a door.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisisadoor.mp3",
@@ -6267,7 +6267,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 116,
+          "id": 106,
           "sentence": "a _ _ _ _ and a _ _ _",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/acakeandacup.mp3",
@@ -6394,7 +6394,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 69,
+          "id": 65,
           "sentence": "I'm in the dining _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/iminthediningroom.mp3",
@@ -6515,7 +6515,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 621,
+          "id": 613,
           "sentence": "A garden and a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/agardenandagate.mp3",
@@ -6637,7 +6637,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 428,
+          "id": 417,
           "sentence": "I like chips and _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikechipsandmilk.mp3",
@@ -6757,7 +6757,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 213,
+          "id": 234,
           "sentence": "c_ n",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/can.png",
           "audioUrl": "",
@@ -6884,7 +6884,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 186,
+          "id": 116,
           "sentence": "A _ _ _ _ and a bike.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/aballandabike.mp3",
@@ -7002,7 +7002,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 800,
+          "id": 745,
           "sentence": "_ _ _ _! There's a girl.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/looktheresagirl.png",
           "audioUrl": "",
@@ -7123,7 +7123,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 524,
+          "id": 577,
           "sentence": "It's a _ _ _ pencil.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsaredpencil.mp3",
@@ -7241,7 +7241,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 394,
+          "id": 386,
           "sentence": "Where's the _ _ _?",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/wheresthecup.mp3",
@@ -7369,7 +7369,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 259,
+          "id": 235,
           "sentence": "_ _ _ _! A can!",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/lookacan.png",
           "audioUrl": "",
@@ -7489,7 +7489,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 12,
+          "id": 25,
           "sentence": "Hi, _'m Bill.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbill.mp3",
@@ -7607,7 +7607,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 624,
+          "id": 691,
           "sentence": "There is a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thereisagate.mp3",
@@ -7728,7 +7728,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 498,
+          "id": 474,
           "sentence": "I _ _ _ _ chicken and fish.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikechickenandfish.mp3",
@@ -7855,7 +7855,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 319,
+          "id": 324,
           "sentence": "a duck and a _ _ _",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/aduckandadog.mp3",
@@ -7976,7 +7976,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 105,
+          "id": 197,
           "sentence": "_ ining room",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/diningroom.mp3",
@@ -8094,7 +8094,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 722,
+          "id": 706,
           "sentence": "Your head and your _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/yourheadandyourhorse.mp3",
@@ -8215,7 +8215,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 593,
+          "id": 519,
           "sentence": "Do you like _ _ _ _?",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/doyoulikeeggs.mp3",
@@ -8342,7 +8342,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 415,
+          "id": 484,
           "sentence": "I like _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikechips.mp3",
@@ -8460,7 +8460,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 282,
+          "id": 216,
           "sentence": "This is my _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismyball.mp3",
@@ -8580,7 +8580,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 66,
+          "id": 22,
           "sentence": "_ _ , I'm Ba.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimba.mp3",
@@ -8701,7 +8701,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 686,
+          "id": 640,
           "sentence": "There's a _ _ _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/theresagarden.png",
           "audioUrl": "",
@@ -8830,7 +8830,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 512,
+          "id": 570,
           "sentence": "p_ ncil",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/pencil.png",
           "audioUrl": "",
@@ -8953,7 +8953,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 388,
+          "id": 304,
           "sentence": "A _ _ _ and a door.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/adogandadoor.mp3",
@@ -9069,7 +9069,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 114,
+          "id": 200,
           "sentence": "c_ p",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/cup.png",
           "audioUrl": "",
@@ -9189,7 +9189,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 720,
+          "id": 788,
           "sentence": "Your hand and your _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/yourhandandyourhair.mp3",
@@ -9317,7 +9317,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 618,
+          "id": 673,
           "sentence": "A gate and a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/agateandagirl.mp3",
@@ -9439,7 +9439,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 425,
+          "id": 450,
           "sentence": "I  _ _ _ _ milk and chicken.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikemilkandchicken.mp3",
@@ -9562,7 +9562,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 214,
+          "id": 220,
           "sentence": "b_ g",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bag.png",
           "audioUrl": "",
@@ -9685,7 +9685,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 62,
+          "id": 2,
           "sentence": "I'm at _ _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/imatschool.mp3",
@@ -9810,7 +9810,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 717,
+          "id": 722,
           "sentence": "Touch your _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/touchyourhair.mp3",
@@ -9928,7 +9928,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 592,
+          "id": 530,
           "sentence": "I _ _ _ _ chips.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikechips.mp3",
@@ -10048,7 +10048,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 354,
+          "id": 312,
           "sentence": "It's _ _ _ _ the window.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/itsnearthewindow.png",
           "audioUrl": "",
@@ -10168,7 +10168,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 126,
+          "id": 196,
           "sentence": "I have a _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ihaveacat.mp3",
@@ -10295,7 +10295,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 20,
+          "id": 88,
           "sentence": "b_ k_",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bike.png",
           "audioUrl": "",
@@ -10416,7 +10416,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 615,
+          "id": 624,
           "sentence": "g_ te",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/gate.png",
           "audioUrl": "",
@@ -10538,7 +10538,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 466,
+          "id": 476,
           "sentence": "fish and _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/fishandchips.mp3",
@@ -10659,7 +10659,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 205,
+          "id": 291,
           "sentence": "_ treet market",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/streetmarket.mp3",
@@ -10786,7 +10786,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 113,
+          "id": 126,
           "sentence": "c_ ke",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/cake.png",
           "audioUrl": "",
@@ -10902,7 +10902,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 711,
+          "id": 768,
           "sentence": "h_ ir",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/hair.png",
           "audioUrl": "",
@@ -11023,7 +11023,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 567,
+          "id": 505,
           "sentence": "Bill _ _ _ a pencil.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/billhasapencil.mp3",
@@ -11145,7 +11145,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 358,
+          "id": 320,
           "sentence": "I have a _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/ihaveadog.png",
           "audioUrl": "",
@@ -11270,7 +11270,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 288,
+          "id": 230,
           "sentence": "A ball and a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/aballandabook.mp3",
@@ -11390,7 +11390,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 15,
+          "id": 46,
           "sentence": "bo_ k",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/book.png",
           "audioUrl": "",
@@ -11510,7 +11510,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 612,
+          "id": 645,
           "sentence": "b_ y",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/boy.png",
           "audioUrl": "",
@@ -11631,7 +11631,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 488,
+          "id": 485,
           "sentence": "The _ _ _ _ is yummy.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thericeisyummy.mp3",
@@ -11758,7 +11758,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 392,
+          "id": 335,
           "sentence": "Where's the _ _ _ _?",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/wherestheduck.mp3",
@@ -11874,7 +11874,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 110,
+          "id": 128,
           "sentence": "dining roo_",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/diningroom.mp3",
@@ -11994,7 +11994,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 760,
+          "id": 786,
           "sentence": "It's a _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/itsahand.png",
           "audioUrl": "",
@@ -12113,7 +12113,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 585,
+          "id": 552,
           "sentence": "He has a _ _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hehasapencil.mp3",
@@ -12242,7 +12242,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 465,
+          "id": 457,
           "sentence": "I like fish and _ _ _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikefishandchicken.mp3",
@@ -12362,7 +12362,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 260,
+          "id": 273,
           "sentence": "It's a _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/itsahat.png",
           "audioUrl": "",
@@ -12483,7 +12483,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 14,
+          "id": 63,
           "sentence": "b_ ke",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bike.png",
           "audioUrl": "",
@@ -12602,7 +12602,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 630,
+          "id": 607,
           "sentence": "The girl is _ _  _ _ _  _ _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thegirlisinthegarden.mp3",
@@ -12731,7 +12731,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 516,
+          "id": 567,
           "sentence": "a red _ _ _ _ _ _",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/aredpencil.mp3",
@@ -12854,7 +12854,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 356,
+          "id": 329,
           "sentence": "It's on the _ _ _ _.",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/itsonthedesk.png",
           "audioUrl": "",
@@ -12974,7 +12974,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 127,
+          "id": 111,
           "sentence": "I _ _ _ _ a cake.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ihaveacake.mp3",
@@ -13094,7 +13094,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 723,
+          "id": 701,
           "sentence": "Your _ _ _ _ and your head.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/yourhandandyourhead.mp3",
@@ -13220,7 +13220,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 689,
+          "id": 671,
           "sentence": "The _ _ _ _ _ _ is yummy.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/theorangeisyummy.mp3",
@@ -13342,7 +13342,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 497,
+          "id": 429,
           "sentence": "I like _ _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikecakes.mp3",
@@ -13578,7 +13578,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 6,
+          "id": 78,
           "sentence": "H_ , I'm Bill.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbill.mp3",
@@ -13705,7 +13705,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 721,
+          "id": 754,
           "sentence": "Your horse and your _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/yourhorseandyourhat.mp3",
@@ -13826,7 +13826,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 588,
+          "id": 546,
           "sentence": "Do you _ _ _ _ chips?",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/doyoulikechips.mp3",
@@ -13948,7 +13948,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 362,
+          "id": 376,
           "sentence": "This is a _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisisadesk.mp3",
@@ -14066,7 +14066,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 115,
+          "id": 108,
           "sentence": "d_ ning room",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/diningroom.mp3",
@@ -14193,7 +14193,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 24,
+          "id": 4,
           "sentence": "Hi, _ 'm Bill.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbill.mp3",
@@ -14314,7 +14314,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 694,
+          "id": 606,
           "sentence": "It's a _ _ _ cup.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsaredcup.mp3",
@@ -14436,7 +14436,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 414,
+          "id": 472,
           "sentence": "I like _ _ _ _.",
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikefish.mp3",
@@ -14556,7 +14556,7 @@
       {
         "type": "completeSentence",
         "value": {
-          "id": 212,
+          "id": 202,
           "sentence": "app_ e",
           "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/apple.png",
           "audioUrl": "",
