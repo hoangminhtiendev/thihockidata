@@ -2,7 +2,7 @@
   {
     "id": 1,
     "text": "In the school playground",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit1.png",
+    "imageUrl": "photos/unit1.png",
     "scenes": [
       {
         "id": 1,
@@ -41,7 +41,7 @@
           "A. in",
           "B. is",
           "C. am",
-          "D. at"
+          "D. to"
         ],
         "correctAnswerIndex": 0,
         "hint": "I'm ___ the park.\n✅ A. in the park: ở trong công viên"
@@ -433,7 +433,7 @@
           "A. have",
           "B. has",
           "C. having",
-          "D. had"
+          "D. be"
         ],
         "correctAnswerIndex": 1,
         "hint": "Ben ___ a ball.\n✅ B. has (Ben chỉ 1 người → has)"
@@ -444,13 +444,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. my",
-          "B. a",
-          "C. an",
-          "D. the"
+          "A. a",
+          "B. an",
+          "C. two",
+          "D. many"
         ],
         "correctAnswerIndex": 0,
-        "hint": "This is ___ robot.\n✅ A. my (This is my robot: người máy của tôi)"
+        "hint": "This is ___ robot.\n✅ A. a (robot bắt đầu bằng phụ âm → a; two/many không đi với robot số ít)"
       },
       {
         "id": 33,
@@ -1359,7 +1359,7 @@
   {
     "id": 2,
     "text": "In the dining room",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit2.png",
+    "imageUrl": "photos/unit2.png",
     "scenes": [
       {
         "id": 52,
@@ -1397,7 +1397,7 @@
         "choices": [
           "A. and",
           "B. but",
-          "C. or",
+          "C. is",
           "D. the"
         ],
         "correctAnswerIndex": 0,
@@ -1465,10 +1465,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. It",
-          "B. This",
+          "A. Hi",
+          "B. Bye",
           "C. There",
-          "D. He"
+          "D. Look"
         ],
         "correctAnswerIndex": 2,
         "hint": "___ is a cake in the box.\n✅ C. There is: có (There is a cake)"
@@ -1551,7 +1551,7 @@
         "choices": [
           "A. a",
           "B. an",
-          "C. the",
+          "C. two",
           "D. some"
         ],
         "correctAnswerIndex": 0,
@@ -1815,9 +1815,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. in",
+          "A. of",
           "B. on",
-          "C. at",
+          "C. be",
           "D. to"
         ],
         "correctAnswerIndex": 1,
@@ -1874,7 +1874,7 @@
           "A. an",
           "B. two",
           "C. a",
-          "D. some"
+          "D. many"
         ],
         "correctAnswerIndex": 2,
         "hint": "📝 I have a cake and I have a car. → Mình có một cái bánh và mình có một chiếc ô tô.\n✅ C. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -2716,7 +2716,7 @@
   {
     "id": 3,
     "text": "At the street market",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit3.png",
+    "imageUrl": "photos/unit3.png",
     "scenes": [
       {
         "id": 102,
@@ -2739,8 +2739,8 @@
         "questionAudioUrl": "",
         "choices": [
           "A. in",
-          "B. on",
-          "C. at",
+          "B. of",
+          "C. be",
           "D. to"
         ],
         "correctAnswerIndex": 0,
@@ -2768,7 +2768,7 @@
         "choices": [
           "A. in",
           "B. on",
-          "C. at",
+          "C. of",
           "D. to"
         ],
         "correctAnswerIndex": 1,
@@ -2782,7 +2782,7 @@
         "choices": [
           "A. a",
           "B. an",
-          "C. the",
+          "C. two",
           "D. some"
         ],
         "correctAnswerIndex": 1,
@@ -3006,7 +3006,7 @@
         "choices": [
           "A. an",
           "B. two",
-          "C. some",
+          "C. many",
           "D. a"
         ],
         "correctAnswerIndex": 3,
@@ -4073,7 +4073,7 @@
   {
     "id": 4,
     "text": "In the bedroom",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit4.png",
+    "imageUrl": "photos/unit4.png",
     "scenes": [
       {
         "id": 153,
@@ -4097,8 +4097,8 @@
         "choices": [
           "A. a",
           "B. an",
-          "C. the",
-          "D. my"
+          "C. two",
+          "D. many"
         ],
         "correctAnswerIndex": 1,
         "hint": "This is ___ apple.\n✅ B. an apple (apple bắt đầu bằng nguyên âm → an)"
@@ -4153,8 +4153,8 @@
         "choices": [
           "A. on",
           "B. near",
-          "C. at",
-          "D. in"
+          "C. of",
+          "D. to"
         ],
         "correctAnswerIndex": 1,
         "hint": "The dog is ___ the door.\n✅ B. near: gần (con chó ở gần cửa)"
@@ -4265,7 +4265,7 @@
         "choices": [
           "A. on",
           "B. in",
-          "C. at",
+          "C. of",
           "D. to"
         ],
         "correctAnswerIndex": 0,
@@ -4448,7 +4448,7 @@
           "A. an",
           "B. two",
           "C. a",
-          "D. some"
+          "D. many"
         ],
         "correctAnswerIndex": 2,
         "hint": "📝 Hi, I'm Ann. I have a cake. → Chào. Mình là Ann. Mình có một cái bánh.\n✅ C. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -4531,8 +4531,8 @@
         "choices": [
           "A. near",
           "B. on",
-          "C. in",
-          "D. at"
+          "C. to",
+          "D. of"
         ],
         "correctAnswerIndex": 0,
         "hint": "The desk is ___ the window.\n✅ A. near: gần (cái bàn ở gần cửa sổ)"
@@ -5430,7 +5430,7 @@
   {
     "id": 5,
     "text": "At the fish and chip shop",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit5.png",
+    "imageUrl": "photos/unit5.png",
     "scenes": [
       {
         "id": 203,
@@ -5511,7 +5511,7 @@
           "A. like",
           "B. likes",
           "C. liking",
-          "D. liked"
+          "D. be"
         ],
         "correctAnswerIndex": 0,
         "hint": "I ___ fish.\n✅ A. like (I không thêm s): Tôi thích cá"
@@ -5566,7 +5566,7 @@
         "choices": [
           "A. likes",
           "B. like",
-          "C. liked",
+          "C. be",
           "D. liking"
         ],
         "correctAnswerIndex": 1,
@@ -5636,8 +5636,8 @@
         "choices": [
           "A. and",
           "B. but",
-          "C. or",
-          "D. with"
+          "C. to",
+          "D. of"
         ],
         "correctAnswerIndex": 0,
         "hint": "I like candy ___ juice.\n✅ A. and: và"
@@ -5790,7 +5790,7 @@
         "choices": [
           "A. This is a car.",
           "B. Yes, I do.",
-          "C. I like milk.",
+          "C. Bye.",
           "D. It's near the door."
         ],
         "correctAnswerIndex": 1,
@@ -5888,7 +5888,7 @@
         "choices": [
           "A. and",
           "B. but",
-          "C. or",
+          "C. is",
           "D. the"
         ],
         "correctAnswerIndex": 0,
@@ -6787,7 +6787,7 @@
   {
     "id": 6,
     "text": "In the classroom",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit6.png",
+    "imageUrl": "photos/unit6.png",
     "scenes": [
       {
         "id": 253,
@@ -6826,7 +6826,7 @@
           "A. have",
           "B. has",
           "C. having",
-          "D. had"
+          "D. be"
         ],
         "correctAnswerIndex": 0,
         "hint": "I ___ a bell.\n✅ A. have (I đi với have)"
@@ -6907,7 +6907,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. He",
+          "A. We",
           "B. She",
           "C. It",
           "D. They"
@@ -7217,7 +7217,7 @@
         "choices": [
           "A. a",
           "B. an",
-          "C. the",
+          "C. two",
           "D. some"
         ],
         "correctAnswerIndex": 0,
@@ -7232,7 +7232,7 @@
           "A. have",
           "B. has",
           "C. having",
-          "D. had"
+          "D. be"
         ],
         "correctAnswerIndex": 0,
         "hint": "I ___ a pencil.\n✅ A. have (I đi với have)"
@@ -8144,7 +8144,7 @@
   {
     "id": 7,
     "text": "In the garden",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit7.png",
+    "imageUrl": "photos/unit7.png",
     "scenes": [
       {
         "id": 304,
@@ -8251,9 +8251,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. There",
-          "B. It",
-          "C. He",
-          "D. This"
+          "B. Hi",
+          "C. Bye",
+          "D. Look"
         ],
         "correctAnswerIndex": 0,
         "hint": "___ is a boy in the garden.\n✅ A. There (a goat số ít → there is)"
@@ -8293,9 +8293,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. in",
-          "B. on",
-          "C. at",
-          "D. of"
+          "B. of",
+          "C. to",
+          "D. be"
         ],
         "correctAnswerIndex": 0,
         "hint": "The girl is ___ the garden.\n✅ A. in: ở bên trong"
@@ -8391,7 +8391,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. Hi, Mary.",
-          "B. This is a duck.",
+          "B. Bye.",
           "C. There's a cat.",
           "D. This is my bike."
         ],
@@ -8630,7 +8630,7 @@
         "choices": [
           "A. two",
           "B. a",
-          "C. some",
+          "C. many",
           "D. an"
         ],
         "correctAnswerIndex": 1,
@@ -9501,7 +9501,7 @@
   {
     "id": 8,
     "text": "In the park",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit8.png",
+    "imageUrl": "photos/unit8.png",
     "scenes": [
       {
         "id": 354,
@@ -9540,7 +9540,7 @@
           "A. your",
           "B. you",
           "C. are",
-          "D. the"
+          "D. is"
         ],
         "correctAnswerIndex": 0,
         "hint": "Touch ___ hand.\n✅ A. your (của bạn)"
@@ -9608,9 +9608,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. There",
-          "B. She",
-          "C. He",
-          "D. This"
+          "B. Hi",
+          "C. Bye",
+          "D. Look"
         ],
         "correctAnswerIndex": 0,
         "hint": "___ is a horse in the garden.\n✅ A. There (mẫu câu There is: có)"
@@ -9974,7 +9974,7 @@
           "A. your",
           "B. you",
           "C. are",
-          "D. the"
+          "D. is"
         ],
         "correctAnswerIndex": 0,
         "hint": "Touch ___ hair.\n✅ A. your (của bạn )"
@@ -10002,7 +10002,7 @@
           "A. your",
           "B. you",
           "C. are",
-          "D. the"
+          "D. is"
         ],
         "correctAnswerIndex": 0,
         "hint": "Touch ___ head.\n✅ A. your (của bạn)"
@@ -10197,7 +10197,7 @@
         "choices": [
           "A. two",
           "B. a",
-          "C. some",
+          "C. many",
           "D. an"
         ],
         "correctAnswerIndex": 1,

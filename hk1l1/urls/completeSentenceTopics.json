@@ -2,7 +2,7 @@
   {
     "id": 1,
     "text": "In the school playground",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit1.png",
+    "imageUrl": "photos/unit1.png",
     "scenes": [
       {
         "id": 1,
@@ -809,7 +809,7 @@
   {
     "id": 2,
     "text": "In the dining room",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit2.png",
+    "imageUrl": "photos/unit2.png",
     "scenes": [
       {
         "id": 101,
@@ -1616,7 +1616,7 @@
   {
     "id": 3,
     "text": "At the street market",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit3.png",
+    "imageUrl": "photos/unit3.png",
     "scenes": [
       {
         "id": 201,
@@ -2423,7 +2423,7 @@
   {
     "id": 4,
     "text": "In the bedroom",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit4.png",
+    "imageUrl": "photos/unit4.png",
     "scenes": [
       {
         "id": 301,
@@ -3230,7 +3230,7 @@
   {
     "id": 5,
     "text": "At the fish and chip shop",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit5.png",
+    "imageUrl": "photos/unit5.png",
     "scenes": [
       {
         "id": 401,
@@ -4037,7 +4037,7 @@
   {
     "id": 6,
     "text": "In the classroom",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit6.png",
+    "imageUrl": "photos/unit6.png",
     "scenes": [
       {
         "id": 501,
@@ -4844,7 +4844,7 @@
   {
     "id": 7,
     "text": "In the garden",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit7.png",
+    "imageUrl": "photos/unit7.png",
     "scenes": [
       {
         "id": 601,
@@ -5651,7 +5651,7 @@
   {
     "id": 8,
     "text": "In the park",
-    "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit8.png",
+    "imageUrl": "photos/unit8.png",
     "scenes": [
       {
         "id": 701,
