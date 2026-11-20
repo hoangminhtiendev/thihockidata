@@ -2374,7 +2374,7 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Is she flying a kite?",
@@ -2385,7 +2385,7 @@
             "vi": "Kate ở đâu?"
           }
         ],
-        "hint": "Is he flying a kite? - Cậu ấy có đang thả diều không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nWhere's Kate? - Kate ở đâu?"
+        "hint": "Is he flying a kite? - Cậu ấy có đang thả diều không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nWhere's Kate? - Kate ở đâu?"
       },
       {
         "id": 109,
@@ -2532,14 +2532,14 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Yes, she is.",
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "She's in the yard. - Cô ấy ở trong sân.\nWhere's Ken? - Ken ở đâu?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nYes, she is. - Vâng, đúng vậy."
+        "hint": "She's in the yard. - Cô ấy ở trong sân.\nWhere's Ken? - Ken ở đâu?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nYes, she is. - Vâng, đúng vậy."
       },
       {
         "id": 116,
@@ -2550,7 +2550,7 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "Is she reading a book?",
@@ -2558,10 +2558,10 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           }
         ],
-        "hint": "She's in the backyard. - Cô ấy ở sân sau.\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều."
+        "hint": "She's in the backyard. - Cô ấy ở sân sau.\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều."
       },
       {
         "id": 117,
@@ -2590,7 +2590,7 @@
         "title": [
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "Is she playing with a cat?",
@@ -2598,14 +2598,14 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is he reading a book?",
             "vi": "Cậu ấy có đang đọc sách không?"
           }
         ],
-        "hint": "No, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
+        "hint": "No, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
       },
       {
         "id": 119,
@@ -2678,7 +2678,7 @@
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is she playing with a kitten?",
@@ -2686,14 +2686,14 @@
           },
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "She's in the yard.",
             "vi": "Cô ấy ở trong sân."
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nNo, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nShe's in the yard. - Cô ấy ở trong sân."
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nNo, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nShe's in the yard. - Cô ấy ở trong sân."
       },
       {
         "id": 123,
@@ -2704,25 +2704,25 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           }
         ],
-        "hint": "Is she flying a kite? - Cô ấy có đang thả diều không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp."
+        "hint": "Is she flying a kite? - Cô ấy có đang thả diều không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp."
       },
       {
         "id": 124,
         "title": [
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "Is she playing with a cat?",
@@ -2730,14 +2730,14 @@
           },
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Is she reading a book?",
             "vi": "Cô ấy có đang đọc sách không?"
           }
         ],
-        "hint": "No, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nNo, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nIs she reading a book? - Cô ấy có đang đọc sách không?"
+        "hint": "No, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nNo, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nIs she reading a book? - Cô ấy có đang đọc sách không?"
       },
       {
         "id": 125,
@@ -2752,14 +2752,14 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "Yes, he is.",
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "Is he flying a kite? - Cậu ấy có đang thả diều không?\nWhere's Mai? - Mai ở đâu?\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nYes, he is. - Vâng, đúng vậy."
+        "hint": "Is he flying a kite? - Cậu ấy có đang thả diều không?\nWhere's Mai? - Mai ở đâu?\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nYes, he is. - Vâng, đúng vậy."
       },
       {
         "id": 126,
@@ -2832,7 +2832,7 @@
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is she reading a book?",
@@ -2847,7 +2847,7 @@
             "vi": "Cô ấy có đang đi xe đạp không?"
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nIs she flying a kite? - Cô ấy có đang thả diều không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?"
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nIs she flying a kite? - Cô ấy có đang thả diều không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?"
       },
       {
         "id": 130,
@@ -2862,14 +2862,14 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "He's in the backyard.",
             "vi": "Cậu ấy ở sân sau."
           }
         ],
-        "hint": "She's in the backyard. - Cô ấy ở sân sau.\nIs he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nHe's in the backyard. - Cậu ấy ở sân sau."
+        "hint": "She's in the backyard. - Cô ấy ở sân sau.\nIs he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nHe's in the backyard. - Cậu ấy ở sân sau."
       },
       {
         "id": 131,
@@ -3184,7 +3184,7 @@
         "title": [
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Yes, he is.",
@@ -3192,14 +3192,14 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Yes, I do.",
             "vi": "Vâng, mình thích."
           }
         ],
-        "hint": "No, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nYes, he is. - Vâng, đúng vậy.\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nYes, I do. - Vâng, mình thích."
+        "hint": "No, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nYes, he is. - Vâng, đúng vậy.\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nYes, I do. - Vâng, mình thích."
       },
       {
         "id": 146,
@@ -3294,7 +3294,7 @@
         "title": [
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "He's in the yard.",
@@ -3302,14 +3302,14 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "Is he riding a bike?",
             "vi": "Cậu ấy có đang đi xe đạp không?"
           }
         ],
-        "hint": "No, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?"
+        "hint": "No, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?"
       },
       {
         "id": 151,
@@ -3346,14 +3346,14 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "She's in the backyard.",
             "vi": "Cô ấy ở sân sau."
           }
         ],
-        "hint": "Is he riding a bike? - Cậu ấy có đang đi xe đạp không?\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nShe's in the backyard. - Cô ấy ở sân sau."
+        "hint": "Is he riding a bike? - Cậu ấy có đang đi xe đạp không?\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nShe's in the backyard. - Cô ấy ở sân sau."
       },
       {
         "id": 153,
@@ -3390,14 +3390,14 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "She's in the yard.",
             "vi": "Cô ấy ở trong sân."
           }
         ],
-        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nShe's in the yard. - Cô ấy ở trong sân."
+        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nShe's in the yard. - Cô ấy ở trong sân."
       },
       {
         "id": 155,
@@ -3426,7 +3426,7 @@
         "title": [
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "He's in the yard.",
@@ -3434,14 +3434,14 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "No, he isn't. He's playing with a ball.",
-            "vi": "Cậu ấy đang chơi với quả bóng."
+            "vi": "Không. Cậu ấy đang chơi với quả bóng."
           }
         ],
-        "hint": "No, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nNo, he isn't. He's playing with a ball. - Cậu ấy đang chơi với quả bóng."
+        "hint": "No, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nNo, he isn't. He's playing with a ball. - Không. Cậu ấy đang chơi với quả bóng."
       },
       {
         "id": 157,
@@ -3522,14 +3522,14 @@
           },
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           }
         ],
-        "hint": "Yes, I do. - Vâng, mình thích.\nShe's in the yard. - Cô ấy ở trong sân.\nNo, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nNo, he isn't. He's reading a book. - Cậu ấy đang đọc sách."
+        "hint": "Yes, I do. - Vâng, mình thích.\nShe's in the yard. - Cô ấy ở trong sân.\nNo, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nNo, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách."
       },
       {
         "id": 161,
@@ -3680,10 +3680,10 @@
           },
           {
             "en": "No, he isn't. He's playing with a ball.",
-            "vi": "Cậu ấy đang chơi với quả bóng."
+            "vi": "Không. Cậu ấy đang chơi với quả bóng."
           }
         ],
-        "hint": "He's in the backyard. - Cậu ấy ở sân sau.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs she flying a kite? - Cô ấy có đang thả diều không?\nNo, he isn't. He's playing with a ball. - Cậu ấy đang chơi với quả bóng."
+        "hint": "He's in the backyard. - Cậu ấy ở sân sau.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs she flying a kite? - Cô ấy có đang thả diều không?\nNo, he isn't. He's playing with a ball. - Không. Cậu ấy đang chơi với quả bóng."
       },
       {
         "id": 168,
@@ -3712,7 +3712,7 @@
         "title": [
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "Where's Mai?",
@@ -3720,14 +3720,14 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Is he reading a book?",
             "vi": "Cậu ấy có đang đọc sách không?"
           }
         ],
-        "hint": "No, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nWhere's Mai? - Mai ở đâu?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
+        "hint": "No, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nWhere's Mai? - Mai ở đâu?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
       },
       {
         "id": 170,
@@ -3804,18 +3804,18 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           },
           {
             "en": "Is she flying a kite?",
             "vi": "Cô ấy có đang thả diều không?"
           }
         ],
-        "hint": "She's in the yard. - Cô ấy ở trong sân.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó.\nIs she flying a kite? - Cô ấy có đang thả diều không?"
+        "hint": "She's in the yard. - Cô ấy ở trong sân.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó.\nIs she flying a kite? - Cô ấy có đang thả diều không?"
       },
       {
         "id": 174,
@@ -3922,17 +3922,17 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           }
         ],
-        "hint": "Where's Lan? - Lan ở đâu?\nHe's in the backyard. - Cậu ấy ở sân sau.\nIs she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều."
+        "hint": "Where's Lan? - Lan ở đâu?\nHe's in the backyard. - Cậu ấy ở sân sau.\nIs she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều."
       },
       {
         "id": 179,
         "title": [
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Where's Bill?",
@@ -3947,7 +3947,7 @@
             "vi": "Cô ấy ở sân sau."
           }
         ],
-        "hint": "No, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nWhere's Bill? - Bill ở đâu?\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nShe's in the backyard. - Cô ấy ở sân sau."
+        "hint": "No, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nWhere's Bill? - Bill ở đâu?\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nShe's in the backyard. - Cô ấy ở sân sau."
       },
       {
         "id": 180,
@@ -4020,7 +4020,7 @@
         "title": [
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "Is he reading a book?",
@@ -4035,7 +4035,7 @@
             "vi": "Cô ấy có đang thả diều không?"
           }
         ],
-        "hint": "No, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nIs she flying a kite? - Cô ấy có đang thả diều không?"
+        "hint": "No, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nIs she flying a kite? - Cô ấy có đang thả diều không?"
       },
       {
         "id": 184,
@@ -4072,25 +4072,25 @@
           },
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           }
         ],
-        "hint": "Yes, she is. - Vâng, đúng vậy.\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều."
+        "hint": "Yes, she is. - Vâng, đúng vậy.\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều."
       },
       {
         "id": 186,
         "title": [
           {
             "en": "No, he isn't. He's playing with a ball.",
-            "vi": "Cậu ấy đang chơi với quả bóng."
+            "vi": "Không. Cậu ấy đang chơi với quả bóng."
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "She's in the yard.",
@@ -4098,10 +4098,10 @@
           },
           {
             "en": "Yes, he is.",
-            "vi": "Cậu ấy đang chơi với quả bóng."
+            "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "No, he isn't. He's playing with a ball. - Cậu ấy đang chơi với quả bóng.\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nShe's in the yard. - Cô ấy ở trong sân.\nYes, he is. - Cậu ấy đang chơi với quả bóng."
+        "hint": "No, he isn't. He's playing with a ball. - Không. Cậu ấy đang chơi với quả bóng.\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nShe's in the yard. - Cô ấy ở trong sân.\nYes, he is. - Vâng, đúng vậy."
       },
       {
         "id": 187,
@@ -4174,7 +4174,7 @@
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Yes, he is.",
@@ -4182,21 +4182,21 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "She's in the yard.",
             "vi": "Cô ấy ở trong sân."
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy.\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nShe's in the yard. - Cô ấy ở trong sân."
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy.\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nShe's in the yard. - Cô ấy ở trong sân."
       },
       {
         "id": 191,
         "title": [
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Is she playing with a ball?",
@@ -4208,10 +4208,10 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           }
         ],
-        "hint": "No, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp."
+        "hint": "No, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp."
       },
       {
         "id": 192,
@@ -4248,14 +4248,14 @@
           },
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "Yes, she is.",
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "Is she flying a kite? - Cô ấy có đang thả diều không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nYes, she is. - Vâng, đúng vậy."
+        "hint": "Is she flying a kite? - Cô ấy có đang thả diều không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nYes, she is. - Vâng, đúng vậy."
       },
       {
         "id": 194,
@@ -4288,7 +4288,7 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "Is he reading a book?",
@@ -4299,62 +4299,62 @@
             "vi": "Cậu ấy có đang chơi với mèo không?"
           }
         ],
-        "hint": "Is she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nIs he playing with a cat? - Cậu ấy có đang chơi với mèo không?"
+        "hint": "Is she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nIs he playing with a cat? - Cậu ấy có đang chơi với mèo không?"
       },
       {
         "id": 196,
         "title": [
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Yes, she is.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "No, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nYes, she is. - Cô ấy đang đọc sách."
+        "hint": "No, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nYes, she is. - Vâng, đúng vậy."
       },
       {
         "id": 197,
         "title": [
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "Yes, he is.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Vâng, đúng vậy."
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           }
         ],
-        "hint": "No, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nYes, he is. - Cô ấy đang đọc sách.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều."
+        "hint": "No, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nYes, he is. - Vâng, đúng vậy.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều."
       },
       {
         "id": 198,
         "title": [
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Is she reading a book?",
@@ -4362,10 +4362,10 @@
           },
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           }
         ],
-        "hint": "No, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó."
+        "hint": "No, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó."
       },
       {
         "id": 199,
@@ -4497,14 +4497,14 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Where's Nam?",
             "vi": "Nam ở đâu?"
           }
         ],
-        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nWhere's Nam? - Nam ở đâu?"
+        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nWhere's Nam? - Nam ở đâu?"
       },
       {
         "id": 205,
@@ -4519,14 +4519,14 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Where's Kate?",
             "vi": "Kate ở đâu?"
           }
         ],
-        "hint": "Is he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nWhere's Kate? - Kate ở đâu?"
+        "hint": "Is he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nWhere's Kate? - Kate ở đâu?"
       },
       {
         "id": 206,
@@ -4541,14 +4541,14 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "Where's Ba?",
             "vi": "Ba ở đâu?"
           }
         ],
-        "hint": "Yes, he is. - Vâng, đúng vậy.\nIs she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nWhere's Ba? - Ba ở đâu?"
+        "hint": "Yes, he is. - Vâng, đúng vậy.\nIs she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nWhere's Ba? - Ba ở đâu?"
       },
       {
         "id": 207,
@@ -4563,14 +4563,14 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           }
         ],
-        "hint": "He's in the yard. - Cậu ấy ở trong sân.\nWhere's Ba? - Ba ở đâu?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó."
+        "hint": "He's in the yard. - Cậu ấy ở trong sân.\nWhere's Ba? - Ba ở đâu?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó."
       },
       {
         "id": 208,
@@ -4589,10 +4589,10 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           }
         ],
-        "hint": "She's in the yard. - Cô ấy ở trong sân.\nIs he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nShe's in the backyard. - Cô ấy ở sân sau.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp."
+        "hint": "She's in the yard. - Cô ấy ở trong sân.\nIs he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nShe's in the backyard. - Cô ấy ở sân sau.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp."
       },
       {
         "id": 209,
@@ -4699,10 +4699,10 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           }
         ],
-        "hint": "Is he playing with a dog? - Cậu ấy có đang chơi với chó không?\nIs she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo."
+        "hint": "Is he playing with a dog? - Cậu ấy có đang chơi với chó không?\nIs she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo."
       },
       {
         "id": 214,
@@ -4805,14 +4805,14 @@
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           },
           {
             "en": "Is he playing with a kitten?",
             "vi": "Cậu ấy có đang chơi với mèo con không?"
           }
         ],
-        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nIs she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó.\nIs he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?"
+        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nIs she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó.\nIs he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?"
       },
       {
         "id": 219,
@@ -4845,7 +4845,7 @@
           },
           {
             "en": "No, he isn't. He's playing with a ball.",
-            "vi": "Cậu ấy đang chơi với quả bóng."
+            "vi": "Không. Cậu ấy đang chơi với quả bóng."
           },
           {
             "en": "Is she riding a bike?",
@@ -4853,10 +4853,10 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           }
         ],
-        "hint": "Is she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, he isn't. He's playing with a ball. - Cậu ấy đang chơi với quả bóng.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo."
+        "hint": "Is she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, he isn't. He's playing with a ball. - Không. Cậu ấy đang chơi với quả bóng.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo."
       },
       {
         "id": 221,
@@ -4885,11 +4885,11 @@
         "title": [
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Is he flying a kite?",
@@ -4900,14 +4900,14 @@
             "vi": "Cậu ấy ở sân sau."
           }
         ],
-        "hint": "No, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nHe's in the backyard. - Cậu ấy ở sân sau."
+        "hint": "No, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nHe's in the backyard. - Cậu ấy ở sân sau."
       },
       {
         "id": 223,
         "title": [
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "She's in the yard.",
@@ -4922,7 +4922,7 @@
             "vi": "Cậu ấy ở sân sau."
           }
         ],
-        "hint": "No, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nShe's in the yard. - Cô ấy ở trong sân.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nHe's in the backyard. - Cậu ấy ở sân sau."
+        "hint": "No, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nShe's in the yard. - Cô ấy ở trong sân.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nHe's in the backyard. - Cậu ấy ở sân sau."
       },
       {
         "id": 224,
@@ -4959,14 +4959,14 @@
           },
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "Is he flying a kite?",
             "vi": "Cậu ấy có đang thả diều không?"
           }
         ],
-        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nIs he flying a kite? - Cậu ấy có đang thả diều không?"
+        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nIs he flying a kite? - Cậu ấy có đang thả diều không?"
       },
       {
         "id": 226,
@@ -4977,18 +4977,18 @@
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Is she reading a book?",
             "vi": "Cô ấy có đang đọc sách không?"
           }
         ],
-        "hint": "Is he riding a bike? - Cậu ấy có đang đi xe đạp không?\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nIs she reading a book? - Cô ấy có đang đọc sách không?"
+        "hint": "Is he riding a bike? - Cậu ấy có đang đi xe đạp không?\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nIs she reading a book? - Cô ấy có đang đọc sách không?"
       },
       {
         "id": 227,
@@ -5047,14 +5047,14 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           }
         ],
-        "hint": "She's in the backyard. - Cô ấy ở sân sau.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều."
+        "hint": "She's in the backyard. - Cô ấy ở sân sau.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều."
       },
       {
         "id": 230,
@@ -5105,7 +5105,7 @@
         "title": [
           {
             "en": "Yes, she is.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Vâng, đúng vậy."
           },
           {
             "en": "He's in the backyard.",
@@ -5113,14 +5113,14 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "She's in the yard.",
             "vi": "Cô ấy ở trong sân."
           }
         ],
-        "hint": "Yes, she is. - Cô ấy đang đọc sách.\nHe's in the backyard. - Cậu ấy ở sân sau.\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nShe's in the yard. - Cô ấy ở trong sân."
+        "hint": "Yes, she is. - Vâng, đúng vậy.\nHe's in the backyard. - Cậu ấy ở sân sau.\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nShe's in the yard. - Cô ấy ở trong sân."
       },
       {
         "id": 233,
@@ -5175,7 +5175,7 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "He's in the backyard.",
@@ -5183,10 +5183,10 @@
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           }
         ],
-        "hint": "She's in the yard. - Cô ấy ở trong sân.\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nHe's in the backyard. - Cậu ấy ở sân sau.\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó."
+        "hint": "She's in the yard. - Cô ấy ở trong sân.\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nHe's in the backyard. - Cậu ấy ở sân sau.\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó."
       },
       {
         "id": 236,
@@ -5197,18 +5197,18 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is he flying a kite?",
             "vi": "Cậu ấy có đang thả diều không?"
           }
         ],
-        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs he flying a kite? - Cậu ấy có đang thả diều không?"
+        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs he flying a kite? - Cậu ấy có đang thả diều không?"
       },
       {
         "id": 237,
@@ -5223,14 +5223,14 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           }
         ],
-        "hint": "She's in the backyard. - Cô ấy ở sân sau.\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nNo, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó."
+        "hint": "She's in the backyard. - Cô ấy ở sân sau.\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nNo, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó."
       },
       {
         "id": 238,
@@ -5303,7 +5303,7 @@
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is she flying a kite?",
@@ -5318,7 +5318,7 @@
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nShe's in the backyard. - Cô ấy ở sân sau.\nYes, he is. - Vâng, đúng vậy."
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nShe's in the backyard. - Cô ấy ở sân sau.\nYes, he is. - Vâng, đúng vậy."
       },
       {
         "id": 242,
@@ -5417,18 +5417,18 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Yes, he is.",
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "Is he reading a book? - Cậu ấy có đang đọc sách không?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy."
+        "hint": "Is he reading a book? - Cậu ấy có đang đọc sách không?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy."
       },
       {
         "id": 247,
@@ -5457,11 +5457,11 @@
         "title": [
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "Yes, he is.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Vâng, đúng vậy."
           },
           {
             "en": "He's in the yard.",
@@ -5469,10 +5469,10 @@
           },
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           }
         ],
-        "hint": "No, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nYes, he is. - Cô ấy đang đọc sách.\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, he isn't. He's reading a book. - Cậu ấy đang đọc sách."
+        "hint": "No, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nYes, he is. - Vâng, đúng vậy.\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách."
       },
       {
         "id": 249,
@@ -5545,11 +5545,11 @@
         "title": [
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Yes, he is.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Vâng, đúng vậy."
           },
           {
             "en": "Is she riding a bike?",
@@ -5557,10 +5557,10 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           }
         ],
-        "hint": "No, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nYes, he is. - Cô ấy đang đọc sách.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách."
+        "hint": "No, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách."
       },
       {
         "id": 253,
@@ -5623,10 +5623,10 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           }
         ],
-        "hint": "Is she flying a kite? - Cô ấy có đang thả diều không?\nHe's in the yard. - Cậu ấy ở trong sân.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách."
+        "hint": "Is she flying a kite? - Cô ấy có đang thả diều không?\nHe's in the yard. - Cậu ấy ở trong sân.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách."
       },
       {
         "id": 256,
@@ -5733,10 +5733,10 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           }
         ],
-        "hint": "He's in the yard. - Cậu ấy ở trong sân.\nYes, she is. - Vâng, đúng vậy.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều."
+        "hint": "He's in the yard. - Cậu ấy ở trong sân.\nYes, she is. - Vâng, đúng vậy.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều."
       },
       {
         "id": 261,
@@ -5791,18 +5791,18 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "He's in the yard.",
             "vi": "Cậu ấy ở trong sân."
           }
         ],
-        "hint": "Is he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nHe's in the yard. - Cậu ấy ở trong sân."
+        "hint": "Is he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nHe's in the yard. - Cậu ấy ở trong sân."
       },
       {
         "id": 264,
@@ -5865,10 +5865,10 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           }
         ],
-        "hint": "Is he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nHe's in the yard. - Cậu ấy ở trong sân.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều."
+        "hint": "Is he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nHe's in the yard. - Cậu ấy ở trong sân.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều."
       },
       {
         "id": 267,
@@ -5887,10 +5887,10 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           }
         ],
-        "hint": "Yes, she is. - Vâng, đúng vậy.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nIs he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo."
+        "hint": "Yes, she is. - Vâng, đúng vậy.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nIs he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo."
       },
       {
         "id": 268,
@@ -5905,14 +5905,14 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "Is she riding a bike?",
             "vi": "Cô ấy có đang đi xe đạp không?"
           }
         ],
-        "hint": "Is he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nWhere's Kate? - Kate ở đâu?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?"
+        "hint": "Is he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nWhere's Kate? - Kate ở đâu?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?"
       },
       {
         "id": 269,
@@ -5941,7 +5941,7 @@
         "title": [
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Is she flying a kite?",
@@ -5956,7 +5956,7 @@
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "No, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nShe's in the yard. - Cô ấy ở trong sân.\nYes, she is. - Vâng, đúng vậy."
+        "hint": "No, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nShe's in the yard. - Cô ấy ở trong sân.\nYes, she is. - Vâng, đúng vậy."
       },
       {
         "id": 271,
@@ -6007,7 +6007,7 @@
         "title": [
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Is he flying a kite?",
@@ -6019,10 +6019,10 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           }
         ],
-        "hint": "No, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo."
+        "hint": "No, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nHe's in the yard. - Cậu ấy ở trong sân.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo."
       },
       {
         "id": 274,
@@ -6037,14 +6037,14 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "Is he reading a book?",
             "vi": "Cậu ấy có đang đọc sách không?"
           }
         ],
-        "hint": "Is she playing with a cat? - Cô ấy có đang chơi với mèo không?\nHe's in the backyard. - Cậu ấy ở sân sau.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
+        "hint": "Is she playing with a cat? - Cô ấy có đang chơi với mèo không?\nHe's in the backyard. - Cậu ấy ở sân sau.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
       },
       {
         "id": 275,
@@ -6121,7 +6121,7 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Yes, he is.",
@@ -6132,7 +6132,7 @@
             "vi": "Cô ấy có đang thả diều không?"
           }
         ],
-        "hint": "Is she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nYes, he is. - Vâng, đúng vậy.\nIs she flying a kite? - Cô ấy có đang thả diều không?"
+        "hint": "Is she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nYes, he is. - Vâng, đúng vậy.\nIs she flying a kite? - Cô ấy có đang thả diều không?"
       },
       {
         "id": 279,
@@ -6147,14 +6147,14 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           }
         ],
-        "hint": "Is she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nIs she flying a kite? - Cô ấy có đang thả diều không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo."
+        "hint": "Is she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nIs she flying a kite? - Cô ấy có đang thả diều không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo."
       },
       {
         "id": 280,
@@ -6261,10 +6261,10 @@
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           }
         ],
-        "hint": "Where's Lan? - Lan ở đâu?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó."
+        "hint": "Where's Lan? - Lan ở đâu?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó."
       },
       {
         "id": 285,
@@ -6283,10 +6283,10 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           }
         ],
-        "hint": "Where's Ba? - Ba ở đâu?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nYes, he is. - Vâng, đúng vậy.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp."
+        "hint": "Where's Ba? - Ba ở đâu?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nYes, he is. - Vâng, đúng vậy.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp."
       },
       {
         "id": 286,
@@ -6315,7 +6315,7 @@
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Yes, he is.",
@@ -6330,7 +6330,7 @@
             "vi": "Cậu ấy có đang đọc sách không?"
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
       },
       {
         "id": 288,
@@ -6363,7 +6363,7 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "Is he flying a kite?",
@@ -6374,7 +6374,7 @@
             "vi": "Cậu ấy có đang đọc sách không?"
           }
         ],
-        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
+        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nIs he flying a kite? - Cậu ấy có đang thả diều không?\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
       },
       {
         "id": 290,
@@ -6389,14 +6389,14 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           }
         ],
-        "hint": "Is he reading a book? - Cậu ấy có đang đọc sách không?\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó."
+        "hint": "Is he reading a book? - Cậu ấy có đang đọc sách không?\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó."
       },
       {
         "id": 291,
@@ -6459,17 +6459,17 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           }
         ],
-        "hint": "Yes, she is. - Vâng, đúng vậy.\nWhere's Bill? - Bill ở đâu?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp."
+        "hint": "Yes, she is. - Vâng, đúng vậy.\nWhere's Bill? - Bill ở đâu?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp."
       },
       {
         "id": 294,
         "title": [
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Yes, he is.",
@@ -6484,7 +6484,7 @@
             "vi": "Cậu ấy có đang thả diều không?"
           }
         ],
-        "hint": "No, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nYes, he is. - Vâng, đúng vậy.\nShe's in the backyard. - Cô ấy ở sân sau.\nIs he flying a kite? - Cậu ấy có đang thả diều không?"
+        "hint": "No, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nYes, he is. - Vâng, đúng vậy.\nShe's in the backyard. - Cô ấy ở sân sau.\nIs he flying a kite? - Cậu ấy có đang thả diều không?"
       },
       {
         "id": 295,
@@ -6535,7 +6535,7 @@
         "title": [
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "Great!",
@@ -6547,10 +6547,10 @@
           },
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           }
         ],
-        "hint": "No, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nGreat! - Tuyệt!\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nNo, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo."
+        "hint": "No, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nGreat! - Tuyệt!\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nNo, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo."
       },
       {
         "id": 298,
@@ -6652,7 +6652,7 @@
         "title": [
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "She's in the yard.",
@@ -6667,7 +6667,7 @@
             "vi": "Mình nhìn thấy một cái hồ."
           }
         ],
-        "hint": "No, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nShe's in the yard. - Cô ấy ở trong sân.\nHe's in the backyard. - Cậu ấy ở sân sau.\nI can see a lake. - Mình nhìn thấy một cái hồ."
+        "hint": "No, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nShe's in the yard. - Cô ấy ở trong sân.\nHe's in the backyard. - Cậu ấy ở sân sau.\nI can see a lake. - Mình nhìn thấy một cái hồ."
       },
       {
         "id": 303,
@@ -6718,11 +6718,11 @@
         "title": [
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "Is she playing with a cat?",
@@ -6733,14 +6733,14 @@
             "vi": "Bạn nhìn thấy gì?"
           }
         ],
-        "hint": "No, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nWhat can you see? - Bạn nhìn thấy gì?"
+        "hint": "No, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nWhat can you see? - Bạn nhìn thấy gì?"
       },
       {
         "id": 306,
         "title": [
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Yes, he is.",
@@ -6755,7 +6755,7 @@
             "vi": "Bạn nhìn thấy gì?"
           }
         ],
-        "hint": "No, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nWhat can you see? - Bạn nhìn thấy gì?"
+        "hint": "No, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nYes, he is. - Vâng, đúng vậy.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nWhat can you see? - Bạn nhìn thấy gì?"
       },
       {
         "id": 307,
@@ -6784,11 +6784,11 @@
         "title": [
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "Is she playing with a cat?",
@@ -6799,7 +6799,7 @@
             "vi": "Lan ở đâu?"
           }
         ],
-        "hint": "No, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nNo, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nWhere's Lan? - Lan ở đâu?"
+        "hint": "No, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nNo, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?\nWhere's Lan? - Lan ở đâu?"
       },
       {
         "id": 309,
@@ -6818,10 +6818,10 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           }
         ],
-        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nI can see a car. - Mình nhìn thấy một chiếc ô tô.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách."
+        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nI can see a car. - Mình nhìn thấy một chiếc ô tô.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách."
       },
       {
         "id": 310,
@@ -6850,22 +6850,22 @@
         "title": [
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "What can you see?",
             "vi": "Bạn nhìn thấy gì?"
           }
         ],
-        "hint": "No, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nNo, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nWhat can you see? - Bạn nhìn thấy gì?"
+        "hint": "No, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nNo, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nWhat can you see? - Bạn nhìn thấy gì?"
       },
       {
         "id": 312,
@@ -6884,10 +6884,10 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           }
         ],
-        "hint": "It's a river. - Đó là một dòng sông.\nHe's in the yard. - Cậu ấy ở trong sân.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều."
+        "hint": "It's a river. - Đó là một dòng sông.\nHe's in the yard. - Cậu ấy ở trong sân.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều."
       },
       {
         "id": 313,
@@ -6906,10 +6906,10 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           }
         ],
-        "hint": "Is he riding a bike? - Cậu ấy có đang đi xe đạp không?\nWhat can you see? - Bạn nhìn thấy gì?\nI can see a river. - Mình nhìn thấy một dòng sông.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp."
+        "hint": "Is he riding a bike? - Cậu ấy có đang đi xe đạp không?\nWhat can you see? - Bạn nhìn thấy gì?\nI can see a river. - Mình nhìn thấy một dòng sông.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp."
       },
       {
         "id": 314,
@@ -6938,11 +6938,11 @@
         "title": [
           {
             "en": "Yes, she is.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Vâng, đúng vậy."
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "Is he playing with a dog?",
@@ -6953,7 +6953,7 @@
             "vi": "Cậu ấy có đang thả diều không?"
           }
         ],
-        "hint": "Yes, she is. - Cô ấy đang đọc sách.\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nIs he flying a kite? - Cậu ấy có đang thả diều không?"
+        "hint": "Yes, she is. - Vâng, đúng vậy.\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nIs he flying a kite? - Cậu ấy có đang thả diều không?"
       },
       {
         "id": 316,
@@ -6986,7 +6986,7 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "Is she playing with a ball?",
@@ -6997,7 +6997,7 @@
             "vi": "Chúng ta hãy nhìn biển nào!"
           }
         ],
-        "hint": "Where's Mai? - Mai ở đâu?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nLet's look at the sea! - Chúng ta hãy nhìn biển nào!"
+        "hint": "Where's Mai? - Mai ở đâu?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nLet's look at the sea! - Chúng ta hãy nhìn biển nào!"
       },
       {
         "id": 318,
@@ -7070,7 +7070,7 @@
         "title": [
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Is he playing with a dog?",
@@ -7078,14 +7078,14 @@
           },
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           }
         ],
-        "hint": "No, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nNo, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp."
+        "hint": "No, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nNo, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp."
       },
       {
         "id": 322,
@@ -7136,7 +7136,7 @@
         "title": [
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "Where's Sue?",
@@ -7151,7 +7151,7 @@
             "vi": "Cô ấy ở trong sân."
           }
         ],
-        "hint": "No, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nWhere's Sue? - Sue ở đâu?\nIs he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nShe's in the yard. - Cô ấy ở trong sân."
+        "hint": "No, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nWhere's Sue? - Sue ở đâu?\nIs he playing with a cat? - Cậu ấy có đang chơi với mèo không?\nShe's in the yard. - Cô ấy ở trong sân."
       },
       {
         "id": 325,
@@ -7180,7 +7180,7 @@
         "title": [
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "Is he riding a bike?",
@@ -7192,17 +7192,17 @@
           },
           {
             "en": "Yes, she is.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "No, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nYes, she is. - Cô ấy đang chơi với con chó."
+        "hint": "No, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nYes, she is. - Vâng, đúng vậy."
       },
       {
         "id": 327,
         "title": [
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "He's in the backyard.",
@@ -7210,14 +7210,14 @@
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           },
           {
             "en": "Where's Ken?",
             "vi": "Ken ở đâu?"
           }
         ],
-        "hint": "No, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nHe's in the backyard. - Cậu ấy ở sân sau.\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó.\nWhere's Ken? - Ken ở đâu?"
+        "hint": "No, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nHe's in the backyard. - Cậu ấy ở sân sau.\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó.\nWhere's Ken? - Ken ở đâu?"
       },
       {
         "id": 328,
@@ -7250,7 +7250,7 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Is she flying a kite?",
@@ -7258,10 +7258,10 @@
           },
           {
             "en": "No, he isn't. He's playing with a dog.",
-            "vi": "Cậu ấy đang chơi với con chó."
+            "vi": "Không. Cậu ấy đang chơi với chó."
           }
         ],
-        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nNo, he isn't. He's playing with a dog. - Cậu ấy đang chơi với con chó."
+        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nNo, he isn't. He's playing with a dog. - Không. Cậu ấy đang chơi với chó."
       },
       {
         "id": 330,
@@ -7368,10 +7368,10 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           }
         ],
-        "hint": "Is he reading a book? - Cậu ấy có đang đọc sách không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp."
+        "hint": "Is he reading a book? - Cậu ấy có đang đọc sách không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nIs she reading a book? - Cô ấy có đang đọc sách không?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp."
       },
       {
         "id": 335,
@@ -7492,18 +7492,18 @@
           },
           {
             "en": "Yes, he is.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Vâng, đúng vậy."
           },
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "She's in the backyard.",
             "vi": "Cô ấy ở sân sau."
           }
         ],
-        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nYes, he is. - Cô ấy đang chơi với con chó.\nNo, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nShe's in the backyard. - Cô ấy ở sân sau."
+        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nYes, he is. - Vâng, đúng vậy.\nNo, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nShe's in the backyard. - Cô ấy ở sân sau."
       },
       {
         "id": 341,
@@ -7532,7 +7532,7 @@
         "title": [
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "I can see the sea.",
@@ -7547,7 +7547,7 @@
             "vi": "Cô ấy có đang đi xe đạp không?"
           }
         ],
-        "hint": "No, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nI can see the sea. - Mình nhìn thấy biển.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?"
+        "hint": "No, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nI can see the sea. - Mình nhìn thấy biển.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?"
       },
       {
         "id": 343,
@@ -7558,7 +7558,7 @@
           },
           {
             "en": "No, he isn't. He's playing with a ball.",
-            "vi": "Cậu ấy đang chơi với quả bóng."
+            "vi": "Không. Cậu ấy đang chơi với quả bóng."
           },
           {
             "en": "Is she reading a book?",
@@ -7569,7 +7569,7 @@
             "vi": "Cậu ấy ở trong sân."
           }
         ],
-        "hint": "It's a rainbow. - Đó là một cầu vồng.\nNo, he isn't. He's playing with a ball. - Cậu ấy đang chơi với quả bóng.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nHe's in the yard. - Cậu ấy ở trong sân."
+        "hint": "It's a rainbow. - Đó là một cầu vồng.\nNo, he isn't. He's playing with a ball. - Không. Cậu ấy đang chơi với quả bóng.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nHe's in the yard. - Cậu ấy ở trong sân."
       },
       {
         "id": 344,
@@ -7598,7 +7598,7 @@
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is he riding a bike?",
@@ -7613,7 +7613,7 @@
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nWhere's Bill? - Bill ở đâu?\nYes, she is. - Vâng, đúng vậy."
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nWhere's Bill? - Bill ở đâu?\nYes, she is. - Vâng, đúng vậy."
       },
       {
         "id": 346,
@@ -7734,7 +7734,7 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "She's in the backyard.",
@@ -7745,7 +7745,7 @@
             "vi": "Cậu ấy có đang đi xe đạp không?"
           }
         ],
-        "hint": "Yes, he is. - Vâng, đúng vậy.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nShe's in the backyard. - Cô ấy ở sân sau.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?"
+        "hint": "Yes, he is. - Vâng, đúng vậy.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nShe's in the backyard. - Cô ấy ở sân sau.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?"
       },
       {
         "id": 352,
@@ -7804,14 +7804,14 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "She's in the backyard.",
             "vi": "Cô ấy ở sân sau."
           }
         ],
-        "hint": "He's in the backyard. - Cậu ấy ở sân sau.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nShe's in the backyard. - Cô ấy ở sân sau."
+        "hint": "He's in the backyard. - Cậu ấy ở sân sau.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nShe's in the backyard. - Cô ấy ở sân sau."
       },
       {
         "id": 355,
@@ -7884,11 +7884,11 @@
         "title": [
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "She's in the backyard.",
@@ -7896,10 +7896,10 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           }
         ],
-        "hint": "No, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nNo, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nShe's in the backyard. - Cô ấy ở sân sau.\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách."
+        "hint": "No, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nNo, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nShe's in the backyard. - Cô ấy ở sân sau.\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách."
       },
       {
         "id": 359,
@@ -7914,14 +7914,14 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "Is she reading a book?",
             "vi": "Cô ấy có đang đọc sách không?"
           }
         ],
-        "hint": "Is he flying a kite? - Cậu ấy có đang thả diều không?\nShe's in the yard. - Cô ấy ở trong sân.\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nIs she reading a book? - Cô ấy có đang đọc sách không?"
+        "hint": "Is he flying a kite? - Cậu ấy có đang thả diều không?\nShe's in the yard. - Cô ấy ở trong sân.\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nIs she reading a book? - Cô ấy có đang đọc sách không?"
       },
       {
         "id": 360,
@@ -7950,7 +7950,7 @@
         "title": [
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "Is she playing with a ball?",
@@ -7965,7 +7965,7 @@
             "vi": "Ken ở đâu?"
           }
         ],
-        "hint": "No, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nShe's in the backyard. - Cô ấy ở sân sau.\nWhere's Ken? - Ken ở đâu?"
+        "hint": "No, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nIs she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nShe's in the backyard. - Cô ấy ở sân sau.\nWhere's Ken? - Ken ở đâu?"
       },
       {
         "id": 362,
@@ -8002,14 +8002,14 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is he riding a bike?",
             "vi": "Cậu ấy có đang đi xe đạp không?"
           }
         ],
-        "hint": "Is he playing with a ball? - Cậu ấy có đang chơi với quả bóng không?\nShe's in the yard. - Cô ấy ở trong sân.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?"
+        "hint": "Is he playing with a ball? - Cậu ấy có đang chơi với quả bóng không?\nShe's in the yard. - Cô ấy ở trong sân.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?"
       },
       {
         "id": 364,
@@ -8090,14 +8090,14 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "What can you see?",
             "vi": "Bạn nhìn thấy gì?"
           }
         ],
-        "hint": "I can see a dog. - Mình nhìn thấy một con chó.\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nWhat can you see? - Bạn nhìn thấy gì?"
+        "hint": "I can see a dog. - Mình nhìn thấy một con chó.\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nWhat can you see? - Bạn nhìn thấy gì?"
       },
       {
         "id": 368,
@@ -8138,10 +8138,10 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           }
         ],
-        "hint": "Yes, he is. - Vâng, đúng vậy.\nIs he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nI can see the sand. - Mình nhìn thấy bãi cát.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều."
+        "hint": "Yes, he is. - Vâng, đúng vậy.\nIs he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nI can see the sand. - Mình nhìn thấy bãi cát.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều."
       },
       {
         "id": 370,
@@ -8280,7 +8280,7 @@
         "title": [
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "He's in the backyard.",
@@ -8292,10 +8292,10 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           }
         ],
-        "hint": "No, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nHe's in the backyard. - Cậu ấy ở sân sau.\nWhat can you see? - Bạn nhìn thấy gì?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp."
+        "hint": "No, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nHe's in the backyard. - Cậu ấy ở sân sau.\nWhat can you see? - Bạn nhìn thấy gì?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp."
       },
       {
         "id": 377,
@@ -8314,10 +8314,10 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           }
         ],
-        "hint": "Is she playing with a cat? - Cô ấy có đang chơi với mèo không?\nWhat can you see? - Bạn nhìn thấy gì?\nWhat is it? - Đó là gì?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều."
+        "hint": "Is she playing with a cat? - Cô ấy có đang chơi với mèo không?\nWhat can you see? - Bạn nhìn thấy gì?\nWhat is it? - Đó là gì?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều."
       },
       {
         "id": 378,
@@ -8394,7 +8394,7 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Is he riding a bike?",
@@ -8405,14 +8405,14 @@
             "vi": "Cậu ấy có đang chơi với mèo không?"
           }
         ],
-        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs he playing with a cat? - Cậu ấy có đang chơi với mèo không?"
+        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs he playing with a cat? - Cậu ấy có đang chơi với mèo không?"
       },
       {
         "id": 382,
         "title": [
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Is she playing with a kitten?",
@@ -8427,7 +8427,7 @@
             "vi": "Cậu ấy có đang đọc sách không?"
           }
         ],
-        "hint": "No, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nIs she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nShe's in the backyard. - Cô ấy ở sân sau.\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
+        "hint": "No, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nIs she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nShe's in the backyard. - Cô ấy ở sân sau.\nIs he reading a book? - Cậu ấy có đang đọc sách không?"
       },
       {
         "id": 383,
@@ -10201,7 +10201,7 @@
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is he reading a book?",
@@ -10209,14 +10209,14 @@
           },
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "She's playing with a cat.",
             "vi": "Cô ấy đang chơi với mèo."
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nShe's playing with a cat. - Cô ấy đang chơi với mèo."
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs he reading a book? - Cậu ấy có đang đọc sách không?\nNo, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nShe's playing with a cat. - Cô ấy đang chơi với mèo."
       },
       {
         "id": 464,
@@ -10355,7 +10355,7 @@
         "title": [
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "I can see a car.",
@@ -10367,10 +10367,10 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           }
         ],
-        "hint": "No, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nI can see a car. - Mình nhìn thấy một chiếc ô tô.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp."
+        "hint": "No, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nI can see a car. - Mình nhìn thấy một chiếc ô tô.\nIs she flying a kite? - Cô ấy có đang thả diều không?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp."
       },
       {
         "id": 471,
@@ -10429,14 +10429,14 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "I can see a seal.",
             "vi": "Mình nhìn thấy một con hải cẩu."
           }
         ],
-        "hint": "Is he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nI can see a seal. - Mình nhìn thấy một con hải cẩu."
+        "hint": "Is he riding a bike? - Cậu ấy có đang đi xe đạp không?\nIs she playing with a dog? - Cô ấy có đang chơi với chó không?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nI can see a seal. - Mình nhìn thấy một con hải cẩu."
       },
       {
         "id": 474,
@@ -10513,7 +10513,7 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "What's she doing?",
@@ -10521,10 +10521,10 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           }
         ],
-        "hint": "Yes, she is. - Vâng, đúng vậy.\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nWhat's she doing? - Cô ấy đang làm gì?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều."
+        "hint": "Yes, she is. - Vâng, đúng vậy.\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nWhat's she doing? - Cô ấy đang làm gì?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều."
       },
       {
         "id": 478,
@@ -10535,7 +10535,7 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "I can see a rainbow.",
@@ -10546,14 +10546,14 @@
             "vi": "Ba ở đâu?"
           }
         ],
-        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nI can see a rainbow. - Mình nhìn thấy một cầu vồng.\nWhere's Ba? - Ba ở đâu?"
+        "hint": "Is she riding a bike? - Cô ấy có đang đi xe đạp không?\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nI can see a rainbow. - Mình nhìn thấy một cầu vồng.\nWhere's Ba? - Ba ở đâu?"
       },
       {
         "id": 479,
         "title": [
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Yes, I do.",
@@ -10565,10 +10565,10 @@
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           }
         ],
-        "hint": "No, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nYes, I do. - Vâng, mình thích.\nIs he playing with a ball? - Cậu ấy có đang chơi với quả bóng không?\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách."
+        "hint": "No, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nYes, I do. - Vâng, mình thích.\nIs he playing with a ball? - Cậu ấy có đang chơi với quả bóng không?\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách."
       },
       {
         "id": 480,
@@ -10711,7 +10711,7 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "What is it?",
@@ -10722,14 +10722,14 @@
             "vi": "Bill ở đâu?"
           }
         ],
-        "hint": "Is he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nWhat is it? - Đó là gì?\nWhere's Bill? - Bill ở đâu?"
+        "hint": "Is he playing with a kitten? - Cậu ấy có đang chơi với mèo con không?\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nWhat is it? - Đó là gì?\nWhere's Bill? - Bill ở đâu?"
       },
       {
         "id": 487,
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "She's in the backyard.",
@@ -10744,7 +10744,7 @@
             "vi": "Mai ở đâu?"
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nShe's in the backyard. - Cô ấy ở sân sau.\nWhat can you see? - Bạn nhìn thấy gì?\nWhere's Mai? - Mai ở đâu?"
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nShe's in the backyard. - Cô ấy ở sân sau.\nWhat can you see? - Bạn nhìn thấy gì?\nWhere's Mai? - Mai ở đâu?"
       },
       {
         "id": 488,
@@ -10869,14 +10869,14 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Is she riding a bike?",
             "vi": "Cô ấy có đang đi xe đạp không?"
           }
         ],
-        "hint": "She's flying a kite. - Cô ấy đang thả diều.\nWhat's he doing? - Cậu ấy đang làm gì?\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?"
+        "hint": "She's flying a kite. - Cô ấy đang thả diều.\nWhat's he doing? - Cậu ấy đang làm gì?\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?"
       },
       {
         "id": 494,
@@ -11005,10 +11005,10 @@
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           }
         ],
-        "hint": "I can see a truck. - Mình nhìn thấy một chiếc xe tải.\nWhat can you see? - Bạn nhìn thấy gì?\nYes, she is. - Vâng, đúng vậy.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều."
+        "hint": "I can see a truck. - Mình nhìn thấy một chiếc xe tải.\nWhat can you see? - Bạn nhìn thấy gì?\nYes, she is. - Vâng, đúng vậy.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều."
       },
       {
         "id": 500,
@@ -12584,22 +12584,22 @@
         "title": [
           {
             "en": "No, he isn't. He's playing with a ball.",
-            "vi": "Cậu ấy đang chơi với quả bóng."
+            "vi": "Không. Cậu ấy đang chơi với quả bóng."
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "Is there a horse in the box?",
             "vi": "Có một con ngựa ở trong cái hộp không?"
           }
         ],
-        "hint": "No, he isn't. He's playing with a ball. - Cậu ấy đang chơi với quả bóng.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nNo, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nIs there a horse in the box? - Có một con ngựa ở trong cái hộp không?"
+        "hint": "No, he isn't. He's playing with a ball. - Không. Cậu ấy đang chơi với quả bóng.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nNo, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nIs there a horse in the box? - Có một con ngựa ở trong cái hộp không?"
       },
       {
         "id": 572,
@@ -12636,14 +12636,14 @@
           },
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           },
           {
             "en": "What can you see?",
             "vi": "Bạn nhìn thấy gì?"
           }
         ],
-        "hint": "Is she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nIs there a cup on the farm? - Ở nông trại có một cái cốc không?\nNo, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó.\nWhat can you see? - Bạn nhìn thấy gì?"
+        "hint": "Is she playing with a ball? - Cô ấy có đang chơi với quả bóng không?\nIs there a cup on the farm? - Ở nông trại có một cái cốc không?\nNo, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó.\nWhat can you see? - Bạn nhìn thấy gì?"
       },
       {
         "id": 574,
@@ -12654,7 +12654,7 @@
           },
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Where's Lan?",
@@ -12665,7 +12665,7 @@
             "vi": "Cậu ấy ở trong sân."
           }
         ],
-        "hint": "He's riding a bike. - Cậu ấy đang đi xe đạp.\nNo, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nWhere's Lan? - Lan ở đâu?\nHe's in the yard. - Cậu ấy ở trong sân."
+        "hint": "He's riding a bike. - Cậu ấy đang đi xe đạp.\nNo, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nWhere's Lan? - Lan ở đâu?\nHe's in the yard. - Cậu ấy ở trong sân."
       },
       {
         "id": 575,
@@ -12794,10 +12794,10 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           }
         ],
-        "hint": "No, there isn't. - Không, không có.\nHe's in the backyard. - Cậu ấy ở sân sau.\nYes, he is. - Vâng, đúng vậy.\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp."
+        "hint": "No, there isn't. - Không, không có.\nHe's in the backyard. - Cậu ấy ở sân sau.\nYes, he is. - Vâng, đúng vậy.\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp."
       },
       {
         "id": 581,
@@ -12980,7 +12980,7 @@
         "title": [
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "Is she reading a book?",
@@ -12995,7 +12995,7 @@
             "vi": "Sue ở đâu?"
           }
         ],
-        "hint": "No, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nWhere's Sue? - Sue ở đâu?"
+        "hint": "No, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nIs she reading a book? - Cô ấy có đang đọc sách không?\nIs he playing with a dog? - Cậu ấy có đang chơi với chó không?\nWhere's Sue? - Sue ở đâu?"
       },
       {
         "id": 590,
@@ -13200,11 +13200,11 @@
         "title": [
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Yes, I do.",
@@ -13215,7 +13215,7 @@
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "No, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nYes, I do. - Vâng, mình thích.\nYes, he is. - Vâng, đúng vậy."
+        "hint": "No, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nYes, I do. - Vâng, mình thích.\nYes, he is. - Vâng, đúng vậy."
       },
       {
         "id": 600,
@@ -13230,14 +13230,14 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           }
         ],
-        "hint": "Yes, there is. - Vâng, có.\nHe's playing with a cat. - Cậu ấy đang chơi với mèo.\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều."
+        "hint": "Yes, there is. - Vâng, có.\nHe's playing with a cat. - Cậu ấy đang chơi với mèo.\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều."
       }
     ]
   },
@@ -14619,7 +14619,7 @@
           },
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "Where's Bill?",
@@ -14630,7 +14630,7 @@
             "vi": "Có một con vịt ở trong cái hộp không?"
           }
         ],
-        "hint": "Yes, she is. - Vâng, đúng vậy.\nNo, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nWhere's Bill? - Bill ở đâu?\nIs there a duck in the box? - Có một con vịt ở trong cái hộp không?"
+        "hint": "Yes, she is. - Vâng, đúng vậy.\nNo, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nWhere's Bill? - Bill ở đâu?\nIs there a duck in the box? - Có một con vịt ở trong cái hộp không?"
       },
       {
         "id": 664,
@@ -14755,14 +14755,14 @@
           },
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "She's playing with a kitten.",
             "vi": "Cô ấy đang chơi với mèo con."
           }
         ],
-        "hint": "He's flying a kite. - Cậu ấy đang thả diều.\nShe's colouring a square. - Cô ấy đang tô màu hình vuông.\nNo, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nShe's playing with a kitten. - Cô ấy đang chơi với mèo con."
+        "hint": "He's flying a kite. - Cậu ấy đang thả diều.\nShe's colouring a square. - Cô ấy đang tô màu hình vuông.\nNo, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nShe's playing with a kitten. - Cô ấy đang chơi với mèo con."
       },
       {
         "id": 670,
@@ -14839,7 +14839,7 @@
           },
           {
             "en": "No, she isn't. She's riding a bike.",
-            "vi": "Cô ấy đang đi xe đạp."
+            "vi": "Không. Cô ấy đang đi xe đạp."
           },
           {
             "en": "Is there a cup on the farm?",
@@ -14850,14 +14850,14 @@
             "vi": "Cậu ấy có đang đi xe đạp không?"
           }
         ],
-        "hint": "No, there isn't. - Không, không có.\nNo, she isn't. She's riding a bike. - Cô ấy đang đi xe đạp.\nIs there a cup on the farm? - Ở nông trại có một cái cốc không?\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?"
+        "hint": "No, there isn't. - Không, không có.\nNo, she isn't. She's riding a bike. - Không. Cô ấy đang đi xe đạp.\nIs there a cup on the farm? - Ở nông trại có một cái cốc không?\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?"
       },
       {
         "id": 674,
         "title": [
           {
             "en": "No, he isn't. He's reading a book.",
-            "vi": "Cậu ấy đang đọc sách."
+            "vi": "Không. Cậu ấy đang đọc sách."
           },
           {
             "en": "Is there a ball in the box?",
@@ -14869,10 +14869,10 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           }
         ],
-        "hint": "No, he isn't. He's reading a book. - Cậu ấy đang đọc sách.\nIs there a ball in the box? - Có một quả bóng ở trong cái hộp không?\nIs she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều."
+        "hint": "No, he isn't. He's reading a book. - Không. Cậu ấy đang đọc sách.\nIs there a ball in the box? - Có một quả bóng ở trong cái hộp không?\nIs she playing with a kitten? - Cô ấy có đang chơi với mèo con không?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều."
       },
       {
         "id": 675,
@@ -14905,7 +14905,7 @@
           },
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "Yes, there is.",
@@ -14913,10 +14913,10 @@
           },
           {
             "en": "No, she isn't. She's playing with a dog.",
-            "vi": "Cô ấy đang chơi với con chó."
+            "vi": "Không. Cô ấy đang chơi với chó."
           }
         ],
-        "hint": "Is she flying a kite? - Cô ấy có đang thả diều không?\nNo, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nYes, there is. - Vâng, có.\nNo, she isn't. She's playing with a dog. - Cô ấy đang chơi với con chó."
+        "hint": "Is she flying a kite? - Cô ấy có đang thả diều không?\nNo, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nYes, there is. - Vâng, có.\nNo, she isn't. She's playing with a dog. - Không. Cô ấy đang chơi với chó."
       },
       {
         "id": 677,
@@ -15033,11 +15033,11 @@
         "title": [
           {
             "en": "No, he isn't. He's flying a kite.",
-            "vi": "Cậu ấy đang thả diều."
+            "vi": "Không. Cậu ấy đang thả diều."
           },
           {
             "en": "No, she isn't. She's reading a book.",
-            "vi": "Cô ấy đang đọc sách."
+            "vi": "Không. Cô ấy đang đọc sách."
           },
           {
             "en": "Pass me the chips, please.",
@@ -15048,7 +15048,7 @@
             "vi": "Bạn nhìn thấy gì?"
           }
         ],
-        "hint": "No, he isn't. He's flying a kite. - Cậu ấy đang thả diều.\nNo, she isn't. She's reading a book. - Cô ấy đang đọc sách.\nPass me the chips, please. - Làm ơn đưa cho mình khoai tây chiên.\nWhat can you see? - Bạn nhìn thấy gì?"
+        "hint": "No, he isn't. He's flying a kite. - Không. Cậu ấy đang thả diều.\nNo, she isn't. She's reading a book. - Không. Cô ấy đang đọc sách.\nPass me the chips, please. - Làm ơn đưa cho mình khoai tây chiên.\nWhat can you see? - Bạn nhìn thấy gì?"
       },
       {
         "id": 683,
@@ -15177,10 +15177,10 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           }
         ],
-        "hint": "Let's look at the sea! - Chúng ta hãy nhìn biển nào!\nIs she flying a kite? - Cô ấy có đang thả diều không?\nShe's in the backyard. - Cô ấy ở sân sau.\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều."
+        "hint": "Let's look at the sea! - Chúng ta hãy nhìn biển nào!\nIs she flying a kite? - Cô ấy có đang thả diều không?\nShe's in the backyard. - Cô ấy ở sân sau.\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều."
       },
       {
         "id": 689,
@@ -15349,14 +15349,14 @@
           },
           {
             "en": "No, he isn't. He's playing with a cat.",
-            "vi": "Cậu ấy đang chơi với con mèo."
+            "vi": "Không. Cậu ấy đang chơi với mèo."
           },
           {
             "en": "Is she playing with a cat?",
             "vi": "Cô ấy có đang chơi với mèo không?"
           }
         ],
-        "hint": "What can you see? - Bạn nhìn thấy gì?\nIs there a duck on the farm? - Ở nông trại có một con vịt không?\nNo, he isn't. He's playing with a cat. - Cậu ấy đang chơi với con mèo.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?"
+        "hint": "What can you see? - Bạn nhìn thấy gì?\nIs there a duck on the farm? - Ở nông trại có một con vịt không?\nNo, he isn't. He's playing with a cat. - Không. Cậu ấy đang chơi với mèo.\nIs she playing with a cat? - Cô ấy có đang chơi với mèo không?"
       },
       {
         "id": 697,
@@ -16998,7 +16998,7 @@
         "title": [
           {
             "en": "No, he isn't. He's riding a bike.",
-            "vi": "Cậu ấy đang đi xe đạp."
+            "vi": "Không. Cậu ấy đang đi xe đạp."
           },
           {
             "en": "Is there a dog in the box?",
@@ -17013,7 +17013,7 @@
             "vi": "Cô ấy có đang đọc sách không?"
           }
         ],
-        "hint": "No, he isn't. He's riding a bike. - Cậu ấy đang đi xe đạp.\nIs there a dog in the box? - Có một con chó ở trong cái hộp không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nIs she reading a book? - Cô ấy có đang đọc sách không?"
+        "hint": "No, he isn't. He's riding a bike. - Không. Cậu ấy đang đi xe đạp.\nIs there a dog in the box? - Có một con chó ở trong cái hộp không?\nIs she riding a bike? - Cô ấy có đang đi xe đạp không?\nIs she reading a book? - Cô ấy có đang đọc sách không?"
       },
       {
         "id": 772,
@@ -17112,7 +17112,7 @@
           },
           {
             "en": "No, she isn't. She's flying a kite.",
-            "vi": "Cô ấy đang thả diều."
+            "vi": "Không. Cô ấy đang thả diều."
           },
           {
             "en": "No, I can't.",
@@ -17123,7 +17123,7 @@
             "vi": "Có một con dê ở trong cái hộp không?"
           }
         ],
-        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's flying a kite. - Cô ấy đang thả diều.\nNo, I can't. - Không, mình không vẽ được.\nIs there a goat in the box? - Có một con dê ở trong cái hộp không?"
+        "hint": "Is she reading a book? - Cô ấy có đang đọc sách không?\nNo, she isn't. She's flying a kite. - Không. Cô ấy đang thả diều.\nNo, I can't. - Không, mình không vẽ được.\nIs there a goat in the box? - Có một con dê ở trong cái hộp không?"
       },
       {
         "id": 777,
@@ -17420,7 +17420,7 @@
           },
           {
             "en": "No, she isn't. She's playing with a cat.",
-            "vi": "Cô ấy đang chơi với con mèo."
+            "vi": "Không. Cô ấy đang chơi với mèo."
           },
           {
             "en": "Is he riding a bike?",
@@ -17431,7 +17431,7 @@
             "vi": "Bạn có vẽ được một bánh pizza không?"
           }
         ],
-        "hint": "What's he doing? - Cậu ấy đang làm gì?\nNo, she isn't. She's playing with a cat. - Cô ấy đang chơi với con mèo.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nCan you draw a pizza? - Bạn có vẽ được một bánh pizza không?"
+        "hint": "What's he doing? - Cậu ấy đang làm gì?\nNo, she isn't. She's playing with a cat. - Không. Cô ấy đang chơi với mèo.\nIs he riding a bike? - Cậu ấy có đang đi xe đạp không?\nCan you draw a pizza? - Bạn có vẽ được một bánh pizza không?"
       },
       {
         "id": 791,

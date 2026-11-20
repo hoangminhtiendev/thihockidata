@@ -88,7 +88,7 @@
           "id": 261,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/icanseeadoginthecountryside.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/dog.mp3",
           "choices": [
             "A. kitten",
             "B. fox",
@@ -96,7 +96,7 @@
             "D. dog"
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 I can see a dog in the countryside. → Mình nhìn thấy một con chó ở vùng nông thôn.\n✅ D. dog → con chó",
+          "hint": "🎧 Bài nghe: dog\n→ con chó\n✅ D. dog → con chó",
           "topicId": 6
         }
       },
@@ -289,11 +289,11 @@
         "type": "completeSentence",
         "value": {
           "id": 774,
-          "sentence": "A river _ _ _ _ the road.",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/ariverneartheroad.png",
+          "sentence": "There's a road _ _ _ _ the river.",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/theresaroadneartheriver.png",
           "audioUrl": "",
           "answer": "near",
-          "hint": "A river near the road: Một dòng sông gần con đường.",
+          "hint": "There's a road near the river: Có một con đường gần dòng sông.",
           "topicId": 8
         }
       },
@@ -448,7 +448,7 @@
         "type": "multiChoice",
         "value": {
           "id": 377,
-          "question": "Listen and choose the correct answer.",
+          "question": "Listen and choose the correct reply.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/canyoudrawatruck.mp3",
           "choices": [
@@ -577,7 +577,7 @@
         "type": "multiChoice",
         "value": {
           "id": 328,
-          "question": "Listen and choose the correct answer.",
+          "question": "Listen and choose the correct reply.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/isthereakiteonthefarm.mp3",
           "choices": [
@@ -1069,7 +1069,7 @@
           "id": 393,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/thereisntanoxonthefarm.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ox.mp3",
           "choices": [
             "A. kitten",
             "B. cat",
@@ -1077,7 +1077,7 @@
             "D. goat"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 There isn't an ox on the farm. → Không có con bò đực nào ở nông trại.\n✅ C. ox → con bò đực",
+          "hint": "🎧 Bài nghe: ox\n→ con bò đực\n✅ C. ox → con bò đực",
           "topicId": 8
         }
       },
@@ -1190,7 +1190,7 @@
           "id": 252,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookabus.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/bus.mp3",
           "choices": [
             "A. car",
             "B. truck",
@@ -1198,7 +1198,7 @@
             "D. bike"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 Look! A bus! → Nhìn kìa! Một chiếc xe buýt!\n✅ C. bus → xe buýt",
+          "hint": "🎧 Bài nghe: bus\n→ xe buýt\n✅ C. bus → xe buýt",
           "topicId": 6
         }
       },
@@ -1308,7 +1308,7 @@
         "type": "multiChoice",
         "value": {
           "id": 680,
-          "question": "Find the mistake.\nI can see an bike in the countryside.",
+          "question": "Find the mistake.\nI can <u>see</u> <u>an</u> <u>bike</u> in <u>the</u> countryside.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1549,7 +1549,7 @@
         "type": "multiChoice",
         "value": {
           "id": 417,
-          "question": "Read and choose True or False.\nHi, I'm Kate. It's my birthday party. I like popcorn. The popcorn is yummy.\n\nKate likes cake.",
+          "question": "Read and choose True or False.\n💬 “Hi, I'm Kate. It's my birthday party. I like popcorn. The popcorn is yummy.”\n\n👉 Kate likes cake.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1908,7 +1908,7 @@
         "type": "multiChoice",
         "value": {
           "id": 104,
-          "question": "Listen and choose the correct answer.",
+          "question": "Listen and choose the correct reply.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/wheresmai.mp3",
           "choices": [
@@ -2151,7 +2151,7 @@
         "type": "multiChoice",
         "value": {
           "id": 585,
-          "question": "Read and choose True or False.\nCan you draw a volleyball? Yes, I can. Look! This is a volleyball.\n\nThe child can draw a volleyball.",
+          "question": "Read and choose True or False.\n📖 Can you draw a volleyball?\nYes, I can.\nLook!\nThis is a volleyball.\n\n👉 The child can draw a volleyball.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2758,7 +2758,7 @@
         "type": "multiChoice",
         "value": {
           "id": 765,
-          "question": "Find the mistake.\nThe popcorn are in the kitchen.",
+          "question": "Find the mistake.\nThe popcorn <u>are</u> <u>in</u> <u>the</u> <u>kitchen</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2882,7 +2882,7 @@
           "id": 229,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/icanseeacat.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/cat.mp3",
           "choices": [
             "A. dog",
             "B. tiger",
@@ -2890,7 +2890,7 @@
             "D. monkey"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 I can see a cat. → Mình nhìn thấy một con mèo.\n✅ C. cat → con mèo",
+          "hint": "🎧 Bài nghe: cat\n→ con mèo\n✅ C. cat → con mèo",
           "topicId": 5
         }
       },
@@ -3251,7 +3251,7 @@
           "id": 382,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/letslookattherainbow.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/rainbow.mp3",
           "choices": [
             "A. sun",
             "B. rainbow",
@@ -3259,7 +3259,7 @@
             "D. road"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Let's look at the rainbow! → Chúng ta hãy nhìn cầu vồng nào!\n✅ B. rainbow → cầu vồng",
+          "hint": "🎧 Bài nghe: rainbow\n→ cầu vồng\n✅ B. rainbow → cầu vồng",
           "topicId": 8
         }
       },
@@ -3498,7 +3498,7 @@
         "type": "multiChoice",
         "value": {
           "id": 510,
-          "question": "Read and choose True or False.\nKen is in the classroom. He's doing a quiz.\n\nKen is doing a quiz.",
+          "question": "Read and choose True or False.\n📖 Ken is in the classroom.\nHe's doing a quiz.\n\n👉 Ken is doing a quiz.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3605,7 +3605,7 @@
             "playing",
             "Bill",
             "a",
-            "too",
+            "of",
             "ball.",
             "is",
             "with"
@@ -3619,7 +3619,7 @@
         "type": "multiChoice",
         "value": {
           "id": 452,
-          "question": "Read and choose True or False.\nIt's Saturday. It's a sunny day. We're at the seaside.\n\nThey are at the seaside.",
+          "question": "Read and choose True or False.\n📖 It's Saturday.\nIt's a sunny day.\nWe're at the seaside.\n\n👉 They are at the seaside.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3692,7 +3692,7 @@
             "D. Are"
           ],
           "correctAnswerIndex": 0,
-          "hint": "📝 Is she flying a kite? – No, she isn't. She's riding a bike. → Cô ấy có đang thả diều không? – Cô ấy đang đi xe đạp.\n✅ A. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không",
+          "hint": "📝 Is she flying a kite? – No, she isn't. She's riding a bike. → Cô ấy có đang thả diều không? – Không. Cô ấy đang đi xe đạp.\n✅ A. Is\n💡 Is + chủ ngữ số ít ...? hỏi một việc có đúng không",
           "topicId": 6
         }
       },
@@ -3739,7 +3739,7 @@
           "id": 25,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikebananas.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/bananas.mp3",
           "choices": [
             "A. pizza",
             "B. apple",
@@ -3747,7 +3747,7 @@
             "D. mango"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 I like bananas. → Mình thích chuối.\n✅ C. bananas → chuối",
+          "hint": "🎧 Bài nghe: bananas\n→ chuối\n✅ C. bananas → chuối",
           "topicId": 1
         }
       },
@@ -3804,7 +3804,7 @@
           "id": 697,
           "question": "Complete the word.\nplay_ng",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/playing.mp3",
           "choices": [
             "A. e",
             "B. a",
@@ -3860,7 +3860,7 @@
         "type": "multiChoice",
         "value": {
           "id": 760,
-          "question": "Find the mistake.\nKen are colouring a square.",
+          "question": "Find the mistake.\n<u>Ken</u> <u>are</u> colouring <u>a</u> <u>square</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4212,7 +4212,7 @@
           ],
           "scramble": [
             "I'm",
-            "to",
+            "of",
             "at",
             "party.",
             "my",
@@ -4228,7 +4228,7 @@
         "type": "multiChoice",
         "value": {
           "id": 635,
-          "question": "Find the mistake.\nLan are flying a kite.",
+          "question": "Find the mistake.\nLan <u>are</u> <u>flying</u> <u>a</u> <u>kite</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4348,7 +4348,7 @@
         "type": "multiChoice",
         "value": {
           "id": 780,
-          "question": "Find the mistake.\nI can't draw a ox.",
+          "question": "Find the mistake.\n<u>I</u> can't <u>draw</u> <u>a</u> <u>ox</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4422,7 +4422,7 @@
           "id": 692,
           "question": "Complete the word.\ns_aside",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/seaside.mp3",
           "choices": [
             "A. a",
             "B. o",
@@ -4479,7 +4479,7 @@
           "id": 310,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikecakepassmethecakeplease.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/cake.mp3",
           "choices": [
             "A. cake",
             "B. jelly",
@@ -4487,7 +4487,7 @@
             "D. noodles"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 I like cake. Pass me the cake, please. → Mình thích cái bánh. Làm ơn đưa cho mình cái bánh.\n✅ A. cake → bánh ngọt",
+          "hint": "🎧 Bài nghe: cake\n→ bánh ngọt\n✅ A. cake → bánh ngọt",
           "topicId": 7
         }
       },
@@ -4599,7 +4599,7 @@
         "type": "multiChoice",
         "value": {
           "id": 720,
-          "question": "Find the mistake.\nI can see an horse in the countryside.",
+          "question": "Find the mistake.\n<u>I</u> can see <u>an</u> horse <u>in</u> <u>the</u> countryside.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4842,7 +4842,7 @@
           "id": 10,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikechicken.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/chicken.mp3",
           "choices": [
             "A. apple",
             "B. chicken",
@@ -4850,7 +4850,7 @@
             "D. chips"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 I like chicken. → Mình thích thịt gà.\n✅ B. chicken → thịt gà",
+          "hint": "🎧 Bài nghe: chicken\n→ thịt gà\n✅ B. chicken → thịt gà",
           "topicId": 1
         }
       },
@@ -4969,7 +4969,7 @@
         "type": "multiChoice",
         "value": {
           "id": 395,
-          "question": "Listen and choose the correct answer.",
+          "question": "Listen and choose the correct reply.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/canyoudrawacat.mp3",
           "choices": [
@@ -5089,7 +5089,7 @@
         "type": "multiChoice",
         "value": {
           "id": 268,
-          "question": "Read and choose the correct answer.\nWe're on the farm. Look! There's a duck on the farm.\n\nWhat is on the farm?",
+          "question": "Read and choose the correct answer.\n📖 We're on the farm.\nLook!\nThere's a duck on the farm.\n\n❓ What is on the farm?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5211,7 +5211,7 @@
           "id": 152,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/icanseearoadinthecountryside.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/road.mp3",
           "choices": [
             "A. road",
             "B. lake",
@@ -5219,7 +5219,7 @@
             "D. sail"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 I can see a road in the countryside. → Mình nhìn thấy một con đường ở vùng nông thôn.\n✅ A. road → con đường",
+          "hint": "🎧 Bài nghe: road\n→ con đường\n✅ A. road → con đường",
           "topicId": 4
         }
       },
@@ -5569,7 +5569,7 @@
             "truck",
             "There's",
             "road.",
-            "too"
+            "of"
           ],
           "hint": "Có một chiếc xe tải trên đường. → There's a truck on the road.",
           "eraseFlag": 0,
@@ -5580,7 +5580,7 @@
         "type": "multiChoice",
         "value": {
           "id": 770,
-          "question": "Find the mistake.\nSue are playing with a kitten.",
+          "question": "Find the mistake.\n<u>Sue</u> <u>are</u> <u>playing</u> with <u>a</u> kitten.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5699,7 +5699,7 @@
         "type": "multiChoice",
         "value": {
           "id": 517,
-          "question": "Read and choose True or False.\nKen is in the countryside. Ken can see a river.\n\nKen can see a river.",
+          "question": "Read and choose True or False.\n📖 Ken is in the countryside.\nKen can see a river.\n\n👉 Ken can see a river.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5819,7 +5819,7 @@
         "type": "multiChoice",
         "value": {
           "id": 460,
-          "question": "Read and choose True or False.\nIt's Saturday. It's a sunny day. We're at the seaside. Let's look at the sea!\n\nThey look at the sand.",
+          "question": "Read and choose True or False.\n📖 It's Saturday.\nIt's a sunny day.\nWe're at the seaside.\nLet's look at the sea!\n\n👉 They look at the sand.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5944,7 +5944,7 @@
         "type": "multiChoice",
         "value": {
           "id": 645,
-          "question": "Find the mistake.\nMai are playing with a dog.",
+          "question": "Find the mistake.\nMai <u>are</u> <u>playing</u> <u>with</u> a <u>dog</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6066,7 +6066,7 @@
         "type": "multiChoice",
         "value": {
           "id": 596,
-          "question": "Read and choose True or False.\nKen is in the countryside. Ken can see a river.\n\nKen can see a rainbow.",
+          "question": "Read and choose True or False.\n📖 Ken is in the countryside.\nKen can see a river.\n\n👉 Ken can see a rainbow.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6256,7 +6256,7 @@
             "A. some",
             "B. a",
             "C. an",
-            "D. the"
+            "D. two"
           ],
           "correctAnswerIndex": 1,
           "hint": "📝 It's a tiger. → Đó là một con hổ.\n✅ B. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)",
@@ -6431,7 +6431,7 @@
         "type": "multiChoice",
         "value": {
           "id": 665,
-          "question": "Find the mistake.\nMai are playing with a ball.",
+          "question": "Find the mistake.\n<u>Mai</u> <u>are</u> <u>playing</u> with <u>a</u> ball.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6552,7 +6552,7 @@
         "type": "multiChoice",
         "value": {
           "id": 615,
-          "question": "Find the mistake.\nI have a apple.",
+          "question": "Find the mistake.\n<u>I</u> <u>have</u> <u>a</u> <u>apple</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6737,7 +6737,7 @@
           "id": 627,
           "question": "Complete the word.\nwh_re",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/where.mp3",
           "choices": [
             "A. o",
             "B. e",
@@ -6915,7 +6915,7 @@
         "type": "multiChoice",
         "value": {
           "id": 685,
-          "question": "Find the mistake.\nSue is playing with an cat.",
+          "question": "Find the mistake.\n<u>Sue</u> <u>is</u> playing with <u>an</u> <u>cat</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6987,7 +6987,7 @@
             "A. an",
             "B. a",
             "C. some",
-            "D. the"
+            "D. two"
           ],
           "correctAnswerIndex": 1,
           "hint": "📝 There's a turtle on the farm. → Có một con rùa ở nông trại.\n✅ B. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)",
@@ -7157,7 +7157,7 @@
         "type": "multiChoice",
         "value": {
           "id": 592,
-          "question": "Read and choose True or False.\nIt's Saturday. It's a sunny day. We're at the seaside.\n\nIt's Monday.",
+          "question": "Read and choose True or False.\n📖 It's Saturday.\nIt's a sunny day.\nWe're at the seaside.\n\n👉 It's Monday.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7276,7 +7276,7 @@
         "type": "multiChoice",
         "value": {
           "id": 546,
-          "question": "Read and choose True or False.\nHi, I'm Ken. It's my birthday party. I like pasta. The pasta is yummy.\n\nKen likes popcorn.",
+          "question": "Read and choose True or False.\n💬 “Hi, I'm Ken. It's my birthday party. I like pasta. The pasta is yummy.”\n\n👉 Ken likes popcorn.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7399,7 +7399,7 @@
         "type": "multiChoice",
         "value": {
           "id": 525,
-          "question": "Read and choose True or False.\nHello, I'm Mai. It's my birthday party. I like pizza. The pizza is yummy.\n\nMai likes pasta.",
+          "question": "Read and choose True or False.\n💬 “Hello, I'm Mai. It's my birthday party. I like pizza. The pizza is yummy.”\n\n👉 Mai likes pasta.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7755,7 +7755,7 @@
         "type": "multiChoice",
         "value": {
           "id": 571,
-          "question": "Read and choose True or False.\nHello, I'm Nam. It's my birthday party. I like pizza. The pizza is yummy.\n\nNam likes popcorn.",
+          "question": "Read and choose True or False.\n💬 “Hello, I'm Nam. It's my birthday party. I like pizza. The pizza is yummy.”\n\n👉 Nam likes popcorn.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7866,7 +7866,7 @@
           ],
           "scramble": [
             "can",
-            "too",
+            "of",
             "I",
             "a",
             "see",
@@ -7881,7 +7881,7 @@
         "type": "multiChoice",
         "value": {
           "id": 730,
-          "question": "Find the mistake.\nThere isn't an dog on the farm.",
+          "question": "Find the mistake.\n<u>There</u> <u>isn't</u> <u>an</u> dog <u>on</u> the farm.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7948,7 +7948,7 @@
           "id": 602,
           "question": "Complete the word.\ny_mmy",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/yummy.mp3",
           "choices": [
             "A. u",
             "B. a",
@@ -8001,7 +8001,7 @@
         "type": "multiChoice",
         "value": {
           "id": 481,
-          "question": "Read and choose True or False.\nKate is in the countryside. Kate can see a rainbow.\n\nKate can see a river.",
+          "question": "Read and choose True or False.\n📖 Kate is in the countryside.\nKate can see a rainbow.\n\n👉 Kate can see a river.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8082,11 +8082,11 @@
         "type": "completeSentence",
         "value": {
           "id": 770,
-          "sentence": "A rainbow in the _ _ _.",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/arainbowinthesky.png",
-          "audioUrl": "",
+          "sentence": "There's a rainbow in the _ _ _.",
+          "imageUrl": "",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/theresarainbowinthesky.mp3",
           "answer": "sky",
-          "hint": "A rainbow in the sky: Một cầu vồng trên bầu trời.",
+          "hint": "There's a rainbow in the sky: Có một cầu vồng trên bầu trời.",
           "topicId": 8
         }
       },
@@ -8227,7 +8227,7 @@
           "scramble": [
             "pasta",
             "kitchen.",
-            "too",
+            "of",
             "the",
             "is",
             "in",
@@ -8242,7 +8242,7 @@
         "type": "multiChoice",
         "value": {
           "id": 790,
-          "question": "Find the mistake.\nI can't draw an pizza.",
+          "question": "Find the mistake.\n<u>I</u> can't <u>draw</u> <u>an</u> <u>pizza</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8485,7 +8485,7 @@
         "type": "multiChoice",
         "value": {
           "id": 715,
-          "question": "Find the mistake.\nShe's answering an question.",
+          "question": "Find the mistake.\n<u>She's</u> <u>answering</u> <u>an</u> <u>question</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8551,8 +8551,8 @@
         "value": {
           "id": 792,
           "question": "Complete the word.\ns_y",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sky.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/sky.mp3",
           "choices": [
             "A. c",
             "B. k",
@@ -8712,7 +8712,7 @@
           ],
           "scramble": [
             "village.",
-            "too",
+            "of",
             "in",
             "Lan",
             "the",
@@ -9339,7 +9339,7 @@
           "id": 18,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ihaveafootball.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/football.mp3",
           "choices": [
             "A. football",
             "B. sun",
@@ -9347,7 +9347,7 @@
             "D. lake"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 I have a football. → Mình có một quả bóng đá.\n✅ A. football → quả bóng đá",
+          "hint": "🎧 Bài nghe: football\n→ quả bóng đá\n✅ A. football → quả bóng đá",
           "topicId": 1
         }
       },
@@ -9406,7 +9406,7 @@
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
-            "A. the",
+            "A. two",
             "B. some",
             "C. an",
             "D. a"
@@ -9457,7 +9457,7 @@
         "type": "multiChoice",
         "value": {
           "id": 340,
-          "question": "Read and choose the correct answer.\nHello, I'm Nam. It's my birthday party. I like pizza. The pizza is yummy.\n\nWhat does Nam like?",
+          "question": "Read and choose the correct answer.\n💬 “Hello, I'm Nam. It's my birthday party. I like pizza. The pizza is yummy.”\n\n❓ What does Nam like?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9577,7 +9577,7 @@
         "type": "multiChoice",
         "value": {
           "id": 514,
-          "question": "Read and choose True or False.\nSue is in the classroom. She's doing a quiz.\n\nSue is answering a question.",
+          "question": "Read and choose True or False.\n📖 Sue is in the classroom.\nShe's doing a quiz.\n\n👉 Sue is answering a question.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9696,7 +9696,7 @@
         "type": "multiChoice",
         "value": {
           "id": 475,
-          "question": "Read and choose True or False.\nWhere's Ba? He's in the backyard. He's playing with a kitten.\n\nBa is riding a bike.",
+          "question": "Read and choose True or False.\nA: Where's Ba?\nB: He's in the backyard. He's playing with a kitten.\n\n👉 Ba is riding a bike.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9768,7 +9768,7 @@
           "id": 772,
           "question": "Complete the word.\nh_re",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/here.mp3",
           "choices": [
             "A. i",
             "B. e",
@@ -9947,7 +9947,7 @@
           "id": 368,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/icantdrawabike.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/bike.mp3",
           "choices": [
             "A. bus",
             "B. van",
@@ -9955,7 +9955,7 @@
             "D. truck"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 I can't draw a bike. → Mình không vẽ được một chiếc xe đạp.\n✅ C. bike → xe đạp",
+          "hint": "🎧 Bài nghe: bike\n→ xe đạp\n✅ C. bike → xe đạp",
           "topicId": 8
         }
       },
@@ -10067,7 +10067,7 @@
           "id": 270,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/theresafoxonthefarm.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/fox.mp3",
           "choices": [
             "A. tiger",
             "B. fox",
@@ -10075,7 +10075,7 @@
             "D. dog"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 There's a fox on the farm. → Có một con cáo ở nông trại.\n✅ B. fox → con cáo",
+          "hint": "🎧 Bài nghe: fox\n→ con cáo\n✅ B. fox → con cáo",
           "topicId": 6
         }
       },
@@ -10148,11 +10148,11 @@
         "type": "completeSentence",
         "value": {
           "id": 143,
-          "sentence": "Yes, _ _ _ is.",
+          "sentence": "Is she _ _ _ _ _ _ a bike?",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/yessheis.mp3",
-          "answer": "she",
-          "hint": "Yes, she is: Vâng, đúng vậy.",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/issheridingabike.mp3",
+          "answer": "riding",
+          "hint": "Is she riding a bike: Cô ấy có đang đi xe đạp không?",
           "topicId": 2
         }
       },
@@ -10187,7 +10187,7 @@
           "id": 169,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/icanseearainbow.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/rainbow.mp3",
           "choices": [
             "A. sun",
             "B. river",
@@ -10195,7 +10195,7 @@
             "D. sky"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 I can see a rainbow. → Mình nhìn thấy một cầu vồng.\n✅ C. rainbow → cầu vồng",
+          "hint": "🎧 Bài nghe: rainbow\n→ cầu vồng\n✅ C. rainbow → cầu vồng",
           "topicId": 4
         }
       },
@@ -10259,7 +10259,7 @@
           "id": 787,
           "question": "Complete the word.\npl_y",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/play.mp3",
           "choices": [
             "A. u",
             "B. o",
@@ -10316,7 +10316,7 @@
           "id": 111,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikechickenyummy.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/chicken.mp3",
           "choices": [
             "A. milk",
             "B. chips",
@@ -10324,7 +10324,7 @@
             "D. fish"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 I like chicken. Yummy! → Mình thích thịt gà. Ngon quá!\n✅ C. chicken → thịt gà",
+          "hint": "🎧 Bài nghe: chicken\n→ thịt gà\n✅ C. chicken → thịt gà",
           "topicId": 3
         }
       },
@@ -10434,7 +10434,7 @@
         "type": "multiChoice",
         "value": {
           "id": 605,
-          "question": "Find the mistake.\nThis are my book.",
+          "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>my</u> <u>book</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10556,7 +10556,7 @@
         "type": "multiChoice",
         "value": {
           "id": 755,
-          "question": "Find the mistake.\nThere's an horse on the farm.",
+          "question": "Find the mistake.\n<u>There's</u> <u>an</u> <u>horse</u> <u>on</u> the farm.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10748,7 +10748,7 @@
           "id": 622,
           "question": "Complete the word.\nb_rthday",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/birthday.mp3",
           "choices": [
             "A. a",
             "B. e",
@@ -10801,7 +10801,7 @@
         "type": "multiChoice",
         "value": {
           "id": 477,
-          "question": "Read and choose True or False.\nSue is in the countryside. Sue can see a road.\n\nSue can see a river.",
+          "question": "Read and choose True or False.\n📖 Sue is in the countryside.\nSue can see a road.\n\n👉 Sue can see a river.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10919,7 +10919,7 @@
         "type": "multiChoice",
         "value": {
           "id": 88,
-          "question": "Read and choose the correct answer.\nHi, I'm Nam. It's my birthday party. I like popcorn. The popcorn is yummy.\n\nWhat does Nam like?",
+          "question": "Read and choose the correct answer.\n💬 “Hi, I'm Nam. It's my birthday party. I like popcorn. The popcorn is yummy.”\n\n❓ What does Nam like?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10986,7 +10986,7 @@
           "id": 702,
           "question": "Complete the word.\nansw_ring",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/answering.mp3",
           "choices": [
             "A. o",
             "B. a",
@@ -11041,7 +11041,7 @@
         "type": "multiChoice",
         "value": {
           "id": 795,
-          "question": "Find the mistake.\nShe's flying an kite.",
+          "question": "Find the mistake.\n<u>She's</u> <u>flying</u> <u>an</u> <u>kite</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11291,7 +11291,7 @@
         "type": "multiChoice",
         "value": {
           "id": 502,
-          "question": "Read and choose True or False.\nBa is in the classroom. He's answering a question.\n\nBa is colouring a square.",
+          "question": "Read and choose True or False.\n📖 Ba is in the classroom.\nHe's answering a question.\n\n👉 Ba is colouring a square.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11477,7 +11477,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. some",
-            "B. the",
+            "B. two",
             "C. an",
             "D. a"
           ],
@@ -11531,7 +11531,7 @@
           "id": 46,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikenoodlesyummy.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/noodles.mp3",
           "choices": [
             "A. nuts",
             "B. bananas",
@@ -11539,7 +11539,7 @@
             "D. noodles"
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 I like noodles. Yummy! → Mình thích mì. Ngon quá!\n✅ D. noodles → mì",
+          "hint": "🎧 Bài nghe: noodles\n→ mì\n✅ D. noodles → mì",
           "topicId": 1
         }
       },
@@ -11649,17 +11649,17 @@
         "type": "multiChoice",
         "value": {
           "id": 775,
-          "question": "Find the mistake.\nI is happy at my birthday party.",
+          "question": "Find the mistake.\n<u>I</u> <u>is</u> <u>happy</u> at my <u>birthday</u> party.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
             "A. I",
-            "B. my",
+            "B. is",
             "C. happy",
             "D. birthday"
           ],
-          "correctAnswerIndex": 0,
-          "hint": "Câu đúng: I'm happy at my birthday party. → Mình vui ở bữa tiệc sinh nhật của mình.\nSai ở \"I\": I → am ('m).\n✅ A. I",
+          "correctAnswerIndex": 1,
+          "hint": "Câu đúng: I'm happy at my birthday party. → Mình vui ở bữa tiệc sinh nhật của mình.\nSai ở \"is\": I đi với am (I'm), không đi với is.\n✅ B. is",
           "topicId": 7
         }
       },
@@ -11775,7 +11775,7 @@
         "type": "multiChoice",
         "value": {
           "id": 527,
-          "question": "Read and choose True or False.\nWe're on the farm. Look! There's an ox on the farm.\n\nA fox is on the farm.",
+          "question": "Read and choose True or False.\n📖 We're on the farm.\nLook!\nThere's an ox on the farm.\n\n👉 A fox is on the farm.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11891,7 +11891,7 @@
         "type": "multiChoice",
         "value": {
           "id": 485,
-          "question": "Read and choose True or False.\nBa is in the countryside. Ba can see a river.\n\nBa can see a rainbow.",
+          "question": "Read and choose True or False.\n📖 Ba is in the countryside.\nBa can see a river.\n\n👉 Ba can see a rainbow.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12009,7 +12009,7 @@
         "type": "multiChoice",
         "value": {
           "id": 630,
-          "question": "Find the mistake.\nLan are riding a bike.",
+          "question": "Find the mistake.\n<u>Lan</u> <u>are</u> <u>riding</u> <u>a</u> bike.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12132,7 +12132,7 @@
           "id": 375,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/icantdrawavan.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/van.mp3",
           "choices": [
             "A. car",
             "B. van",
@@ -12140,7 +12140,7 @@
             "D. bike"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 I can't draw a van. → Mình không vẽ được một chiếc xe tải nhỏ.\n✅ B. van → xe tải nhỏ",
+          "hint": "🎧 Bài nghe: van\n→ xe tải nhỏ\n✅ B. van → xe tải nhỏ",
           "topicId": 8
         }
       },
@@ -12257,7 +12257,7 @@
         "type": "multiChoice",
         "value": {
           "id": 320,
-          "question": "Listen and choose the correct answer.",
+          "question": "Listen and choose the correct reply.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/passmethecakeplease.mp3",
           "choices": [
@@ -12379,7 +12379,7 @@
         "type": "multiChoice",
         "value": {
           "id": 521,
-          "question": "Read and choose True or False.\nWhere's Kate? She's in the backyard. She's playing with a kitten.\n\nKate is riding a bike.",
+          "question": "Read and choose True or False.\nA: Where's Kate?\nB: She's in the backyard. She's playing with a kitten.\n\n👉 Kate is riding a bike.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12489,7 +12489,7 @@
             "cat?",
             "Is",
             "with",
-            "too"
+            "of"
           ],
           "hint": "Cô ấy có đang chơi với mèo không? → Is she playing with a cat?",
           "eraseFlag": 0,
@@ -12500,7 +12500,7 @@
         "type": "multiChoice",
         "value": {
           "id": 675,
-          "question": "Find the mistake.\nHe are playing with a kitten.",
+          "question": "Find the mistake.\n<u>He</u> <u>are</u> playing with <u>a</u> <u>kitten</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12623,7 +12623,7 @@
           "id": 32,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ilikepizzayummy.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/pizza.mp3",
           "choices": [
             "A. chicken",
             "B. milk",
@@ -12631,7 +12631,7 @@
             "D. pizza"
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 I like pizza. Yummy! → Mình thích bánh pizza. Ngon quá!\n✅ D. pizza → bánh pizza",
+          "hint": "🎧 Bài nghe: pizza\n→ bánh pizza\n✅ D. pizza → bánh pizza",
           "topicId": 1
         }
       },
@@ -12736,7 +12736,7 @@
             "book.",
             "reading",
             "is",
-            "too",
+            "of",
             "Lan",
             "a"
           ],
@@ -12816,7 +12816,7 @@
           "id": 657,
           "question": "Complete the word.\nse_side",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/seaside.mp3",
           "choices": [
             "A. i",
             "B. e",
@@ -12869,7 +12869,7 @@
         "type": "multiChoice",
         "value": {
           "id": 254,
-          "question": "Listen and choose the correct answer.",
+          "question": "Listen and choose the correct reply.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/isthereakitteninthebox.mp3",
           "choices": [
@@ -12991,7 +12991,7 @@
         "type": "multiChoice",
         "value": {
           "id": 690,
-          "question": "Find the mistake.\nBill are playing with a ball.",
+          "question": "Find the mistake.\nBill <u>are</u> <u>playing</u> <u>with</u> a <u>ball</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13112,7 +13112,7 @@
           "id": 78,
           "question": "Listen and choose the correct answer.",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/thenutsareyummy.mp3",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/nuts.mp3",
           "choices": [
             "A. cake",
             "B. nuts",
@@ -13120,7 +13120,7 @@
             "D. lemon"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 The nuts are yummy. → Hạt lạc ngon.\n✅ B. nuts → hạt lạc",
+          "hint": "🎧 Bài nghe: nuts\n→ hạt lạc\n✅ B. nuts → hạt lạc",
           "topicId": 2
         }
       },
@@ -13184,7 +13184,7 @@
           "id": 742,
           "question": "Complete the word.\nc_untryside",
           "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/countryside.mp3",
           "choices": [
             "A. o",
             "B. i",
@@ -13239,7 +13239,7 @@
         "type": "multiChoice",
         "value": {
           "id": 23,
-          "question": "Read and choose the correct answer.\nHello, I'm Kate. It's my birthday party. I like pizza. The pizza is yummy.\n\nWhat does Kate like?",
+          "question": "Read and choose the correct answer.\n💬 “Hello, I'm Kate. It's my birthday party. I like pizza. The pizza is yummy.”\n\n❓ What does Kate like?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13322,11 +13322,11 @@
         "type": "completeSentence",
         "value": {
           "id": 448,
-          "sentence": "It's a _ _ _ _ _ _ _ _.",
+          "sentence": "She's answering a _ _ _ _ _ _ _ _.",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/itsaquestion.mp3",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shesansweringaquestion.mp3",
           "answer": "question",
-          "hint": "It's a question: Đó là một câu hỏi.",
+          "hint": "She's answering a question: Cô ấy đang trả lời câu hỏi.",
           "topicId": 5
         }
       },
@@ -13359,7 +13359,7 @@
         "type": "multiChoice",
         "value": {
           "id": 552,
-          "question": "Read and choose True or False.\nWe're in the kitchen. Pass me the juice, please. Here you are. Thank you.\n\nThe child wants juice.",
+          "question": "Read and choose True or False.\n📖 We're in the kitchen.\nPass me the juice, please.\nHere you are.\nThank you.\n\n👉 The child wants juice.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13598,7 +13598,7 @@
         "type": "multiChoice",
         "value": {
           "id": 670,
-          "question": "Find the mistake.\nBa is playing with an cat.",
+          "question": "Find the mistake.\n<u>Ba</u> is playing <u>with</u> <u>an</u> <u>cat</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13677,7 +13677,7 @@
             "A. pass",
             "B. passs",
             "C. psas",
-            "D. pas"
+            "D. pasd"
           ],
           "correctAnswerIndex": 0,
           "hint": "pass → đưa, chuyền\n✅ A. pass",
@@ -13688,11 +13688,11 @@
         "type": "completeSentence",
         "value": {
           "id": 791,
-          "sentence": "A _ _ _ _ _ near the road.",
-          "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ariverneartheroad.mp3",
+          "sentence": "There's a road near the _ _ _ _ _.",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/theresaroadneartheriver.png",
+          "audioUrl": "",
           "answer": "river",
-          "hint": "A river near the road: Một dòng sông gần con đường.",
+          "hint": "There's a road near the river: Có một con đường gần dòng sông.",
           "topicId": 8
         }
       },
@@ -13712,7 +13712,7 @@
           ],
           "scramble": [
             "I'm",
-            "to",
+            "of",
             "at",
             "party.",
             "my",
@@ -13847,7 +13847,7 @@
         "type": "multiChoice",
         "value": {
           "id": 384,
-          "question": "Listen and choose the correct answer.",
+          "question": "Listen and choose the correct reply.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/passmethepizzaplease.mp3",
           "choices": [
@@ -13966,7 +13966,7 @@
         "type": "multiChoice",
         "value": {
           "id": 539,
-          "question": "Read and choose True or False.\nWe're on the farm. Look! There's a duck on the farm.\n\nA goat is on the farm.",
+          "question": "Read and choose True or False.\n📖 We're on the farm.\nLook!\nThere's a duck on the farm.\n\n👉 A goat is on the farm.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -14454,7 +14454,7 @@
         "type": "multiChoice",
         "value": {
           "id": 304,
-          "question": "Listen and choose the correct answer.",
+          "question": "Listen and choose the correct reply.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/isthereaboxonthefarm.mp3",
           "choices": [
