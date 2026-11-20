@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "Unit 1: In the school playground",
+    "text": "In the school playground",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit1.png",
     "scenes": [
       {
@@ -450,7 +450,7 @@
           "D. the"
         ],
         "correctAnswerIndex": 0,
-        "hint": "This is ___ robot.\n✅ A. my (This is my robot: người máy của mình)"
+        "hint": "This is ___ robot.\n✅ A. my (This is my robot: người máy của tôi)"
       },
       {
         "id": 33,
@@ -1094,8 +1094,8 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. bbye",
-          "B. ybe",
+          "A. ybe",
+          "B. bbye",
           "C. byee",
           "D. bye"
         ],
@@ -1124,8 +1124,8 @@
         "choices": [
           "A. I'm Hi, Nam.",
           "B. Hi, I'm Nam.",
-          "C. I'm Nam Hi,.",
-          "D. Nam I'm Hi,."
+          "C. Nam I'm Hi,.",
+          "D. I'm Nam Hi,."
         ],
         "correctAnswerIndex": 1,
         "hint": "Hi, I'm Nam. → Chào. Mình là Nam.\n✅ B. Hi, I'm Nam."
@@ -1151,8 +1151,8 @@
         "questionAudioUrl": "",
         "choices": [
           "A. frog",
-          "B. rog",
-          "C. fro",
+          "B. fro",
+          "C. rog",
           "D. ffrog"
         ],
         "correctAnswerIndex": 0,
@@ -1178,8 +1178,8 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. I'm Hello, Ben.",
-          "B. I'm Ben Hello,.",
+          "A. I'm Ben Hello,.",
+          "B. I'm Hello, Ben.",
           "C. Hello, Ben I'm.",
           "D. Hello, I'm Ben."
         ],
@@ -1208,8 +1208,8 @@
         "choices": [
           "A. juice",
           "B. uice",
-          "C. jucie",
-          "D. juiec"
+          "C. juiec",
+          "D. jucie"
         ],
         "correctAnswerIndex": 0,
         "hint": "juice → nước ép\n✅ A. juice"
@@ -1221,8 +1221,8 @@
         "questionAudioUrl": "",
         "choices": [
           "A. A book and a ball.",
-          "B. and ball book A a.",
-          "C. book A ball a and.",
+          "B. book A ball a and.",
+          "C. and ball book A a.",
           "D. A ball book a and."
         ],
         "correctAnswerIndex": 0,
@@ -1319,8 +1319,8 @@
         "questionAudioUrl": "",
         "choices": [
           "A. bok",
-          "B. boko",
-          "C. bouk",
+          "B. bouk",
+          "C. boko",
           "D. book"
         ],
         "correctAnswerIndex": 3,
@@ -1358,7 +1358,7 @@
   },
   {
     "id": 2,
-    "text": "Unit 2: In the dining room",
+    "text": "In the dining room",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit2.png",
     "scenes": [
       {
@@ -1793,7 +1793,7 @@
           "D. I have a cake and a cup."
         ],
         "correctAnswerIndex": 0,
-        "hint": "Nghe và chọn\n✅ A. I have a cat and a car: Mình có một con mèo và một chiếc ô tô"
+        "hint": "Nghe và chọn\n✅ A. I have a cat and a car: Tôi có một con mèo và một chiếc ô tô"
       },
       {
         "id": 83,
@@ -2437,9 +2437,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. ave",
+          "A. ahve",
           "B. hhave",
-          "C. ahve",
+          "C. ave",
           "D. have"
         ],
         "correctAnswerIndex": 3,
@@ -2479,10 +2479,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. bike book a I a and have.",
+          "A. book bike and a I have a.",
           "B. I have a bike and a book.",
           "C. I a have book bike and a.",
-          "D. book bike and a I have a."
+          "D. bike book a I a and have."
         ],
         "correctAnswerIndex": 1,
         "hint": "I have a bike and a book. → Mình có một chiếc xe đạp và một quyển sách.\n✅ B. I have a bike and a book."
@@ -2507,9 +2507,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. tre",
+          "A. trree",
           "B. tree",
-          "C. trree",
+          "C. tre",
           "D. treee"
         ],
         "correctAnswerIndex": 1,
@@ -2593,8 +2593,8 @@
         "choices": [
           "A. bball",
           "B. ball",
-          "C. all",
-          "D. bal"
+          "C. bal",
+          "D. all"
         ],
         "correctAnswerIndex": 1,
         "hint": "ball → quả bóng\n✅ B. ball"
@@ -2633,9 +2633,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. I'm Ann Hi,.",
+          "A. I'm Hi, Ann.",
           "B. Hi, I'm Ann.",
-          "C. I'm Hi, Ann.",
+          "C. I'm Ann Hi,.",
           "D. Ann Hi, I'm."
         ],
         "correctAnswerIndex": 1,
@@ -2703,10 +2703,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. a bike It's.",
+          "A. It's bike a.",
           "B. It's a bike.",
-          "C. It's bike a.",
-          "D. bike It's a."
+          "C. bike It's a.",
+          "D. a bike It's."
         ],
         "correctAnswerIndex": 1,
         "hint": "It's a bike. → Đó là một chiếc xe đạp.\n✅ B. It's a bike."
@@ -2715,7 +2715,7 @@
   },
   {
     "id": 3,
-    "text": "Unit 3: At the street market",
+    "text": "At the street market",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit3.png",
     "scenes": [
       {
@@ -3850,10 +3850,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. flwoer",
-          "B. lfower",
+          "A. lfower",
+          "B. flwer",
           "C. flower",
-          "D. flwer"
+          "D. flwoer"
         ],
         "correctAnswerIndex": 2,
         "hint": "flower → bông hoa\n✅ C. flower"
@@ -3892,8 +3892,8 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. I a have bag.",
-          "B. a bag have I.",
+          "A. a bag have I.",
+          "B. I a have bag.",
           "C. I have a bag.",
           "D. a have I bag."
         ],
@@ -3920,9 +3920,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. cpa",
+          "A. capp",
           "B. ccap",
-          "C. capp",
+          "C. cpa",
           "D. cap"
         ],
         "correctAnswerIndex": 3,
@@ -3977,9 +3977,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. This is my cat.",
-          "B. my is This cat.",
-          "C. my cat is This.",
-          "D. is cat This my."
+          "B. is cat This my.",
+          "C. my is This cat.",
+          "D. my cat is This."
         ],
         "correctAnswerIndex": 0,
         "hint": "This is my cat. → Đây là con mèo của mình.\n✅ A. This is my cat."
@@ -4019,9 +4019,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. It's a can.",
-          "B. can a It's.",
-          "C. It's can a.",
-          "D. can It's a."
+          "B. can It's a.",
+          "C. can a It's.",
+          "D. It's can a."
         ],
         "correctAnswerIndex": 0,
         "hint": "It's a can. → Đó là một lon đồ uống.\n✅ A. It's a can."
@@ -4060,8 +4060,8 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. A ball a and book.",
-          "B. and book a A ball.",
+          "A. and book a A ball.",
+          "B. A ball a and book.",
           "C. A book and a ball.",
           "D. A ball a book and."
         ],
@@ -4072,7 +4072,7 @@
   },
   {
     "id": 4,
-    "text": "Unit 4: In the bedroom",
+    "text": "In the bedroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit4.png",
     "scenes": [
       {
@@ -5013,7 +5013,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "✅ B. False\n👉 Hình vẽ: brother (anh/em trai).\nThis is my sister. → Đây là chị/em gái của mình.\n(Câu này sai vì hình không phải sister. Câu đúng cho hình: This is my brother.)"
+        "hint": "✅ B. False\n👉 Hình vẽ: brother (anh/em trai).\nThis is my sister. → Đây là chị/em gái của mình.\n(Câu này sai vì hình không phải sister. Câu đúng cho hình: It's a brother.)"
       },
       {
         "id": 499,
@@ -5151,9 +5151,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. nar",
+          "A. nearr",
           "B. near",
-          "C. nearr",
+          "C. nar",
           "D. nera"
         ],
         "correctAnswerIndex": 1,
@@ -5193,10 +5193,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. cup the The on is desk.",
+          "A. cup desk is the The on.",
           "B. The cup is on the desk.",
           "C. desk the The is on cup.",
-          "D. cup desk is the The on."
+          "D. cup the The on is desk."
         ],
         "correctAnswerIndex": 1,
         "hint": "The cup is on the desk. → Cái cốc ở trên cái bàn học.\n✅ B. The cup is on the desk."
@@ -5221,10 +5221,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. adn",
+          "A. annd",
           "B. ond",
           "C. and",
-          "D. annd"
+          "D. adn"
         ],
         "correctAnswerIndex": 2,
         "hint": "and → và\n✅ C. and"
@@ -5389,10 +5389,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. book have and bike a I a.",
+          "A. a bike book a have I and.",
           "B. I have a bike and a book.",
           "C. a I book a and have bike.",
-          "D. a bike book a have I and."
+          "D. book have and bike a I a."
         ],
         "correctAnswerIndex": 1,
         "hint": "I have a bike and a book. → Mình có một chiếc xe đạp và một quyển sách.\n✅ B. I have a bike and a book."
@@ -5429,7 +5429,7 @@
   },
   {
     "id": 5,
-    "text": "Unit 5: At the fish and chip shop",
+    "text": "At the fish and chip shop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit5.png",
     "scenes": [
       {
@@ -5514,7 +5514,7 @@
           "D. liked"
         ],
         "correctAnswerIndex": 0,
-        "hint": "I ___ fish.\n✅ A. like (I không thêm s): Mình thích cá"
+        "hint": "I ___ fish.\n✅ A. like (I không thêm s): Tôi thích cá"
       },
       {
         "id": 209,
@@ -5528,7 +5528,7 @@
           "D. I like candy and cake."
         ],
         "correctAnswerIndex": 0,
-        "hint": "Nghe và chọn\n✅ A. I like chicken and milk: Mình thích thịt gà và sữa"
+        "hint": "Nghe và chọn\n✅ A. I like chicken and milk: Tôi thích thịt gà và sữa"
       },
       {
         "id": 210,
@@ -5864,7 +5864,7 @@
           "D. to like"
         ],
         "correctAnswerIndex": 0,
-        "hint": "I ___ milk.\n✅ A. like (I không thêm s): Mình thích sữa"
+        "hint": "I ___ milk.\n✅ A. like (I không thêm s): Tôi thích sữa"
       },
       {
         "id": 234,
@@ -5878,7 +5878,7 @@
           "D. I like fish and milk."
         ],
         "correctAnswerIndex": 0,
-        "hint": "Nghe và chọn\n✅ A. I like fish and chips: Mình thích cá và khoai tây chiên"
+        "hint": "Nghe và chọn\n✅ A. I like fish and chips: Tôi thích cá và khoai tây chiên"
       },
       {
         "id": 235,
@@ -6495,8 +6495,8 @@
         "questionAudioUrl": "",
         "choices": [
           "A. dol",
-          "B. dooll",
-          "C. dolll",
+          "B. dolll",
+          "C. dooll",
           "D. doll"
         ],
         "correctAnswerIndex": 3,
@@ -6565,8 +6565,8 @@
         "questionAudioUrl": "",
         "choices": [
           "A. candy",
-          "B. candyy",
-          "C. ccandy",
+          "B. ccandy",
+          "C. candyy",
           "D. canndy"
         ],
         "correctAnswerIndex": 0,
@@ -6607,8 +6607,8 @@
         "questionAudioUrl": "",
         "choices": [
           "A. It's a bag.",
-          "B. It's bag a.",
-          "C. a bag It's.",
+          "B. a bag It's.",
+          "C. It's bag a.",
           "D. bag It's a."
         ],
         "correctAnswerIndex": 0,
@@ -6635,9 +6635,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. like",
-          "B. lke",
-          "C. lik",
-          "D. liku"
+          "B. lik",
+          "C. liku",
+          "D. lke"
         ],
         "correctAnswerIndex": 0,
         "hint": "like → thích\n✅ A. like"
@@ -6676,10 +6676,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. egg yummy The is.",
-          "B. The is egg yummy.",
+          "A. The is egg yummy.",
+          "B. yummy is The egg.",
           "C. The egg is yummy.",
-          "D. yummy is The egg."
+          "D. egg yummy The is."
         ],
         "correctAnswerIndex": 2,
         "hint": "The egg is yummy. → Quả trứng ngon.\n✅ C. The egg is yummy."
@@ -6761,9 +6761,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. I like apples and chips.",
-          "B. and apples like chips I.",
-          "C. chips I like apples and.",
-          "D. I chips like and apples."
+          "B. I chips like and apples.",
+          "C. and apples like chips I.",
+          "D. chips I like apples and."
         ],
         "correctAnswerIndex": 0,
         "hint": "I like apples and chips. → Mình thích táo và khoai tây chiên.\n✅ A. I like apples and chips."
@@ -6786,7 +6786,7 @@
   },
   {
     "id": 6,
-    "text": "Unit 6: In the classroom",
+    "text": "In the classroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit6.png",
     "scenes": [
       {
@@ -7893,9 +7893,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. chaair",
+          "A. cahir",
           "B. hcair",
-          "C. cahir",
+          "C. chaair",
           "D. chair"
         ],
         "correctAnswerIndex": 3,
@@ -7936,9 +7936,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. The fish is yummy.",
-          "B. The is yummy fish.",
+          "B. is The yummy fish.",
           "C. yummy is The fish.",
-          "D. is The yummy fish."
+          "D. The is yummy fish."
         ],
         "correctAnswerIndex": 0,
         "hint": "The fish is yummy. → Cá ngon.\n✅ A. The fish is yummy."
@@ -8005,10 +8005,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. red A pen.",
+          "A. red pen A.",
           "B. A pen red.",
           "C. A red pen.",
-          "D. red pen A."
+          "D. red A pen."
         ],
         "correctAnswerIndex": 2,
         "hint": "A red pen. → Một cái bút mực màu đỏ.\n✅ C. A red pen."
@@ -8061,8 +8061,8 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. are The chips yummy.",
-          "B. are The yummy chips.",
+          "A. are The yummy chips.",
+          "B. are The chips yummy.",
           "C. The are chips yummy.",
           "D. The chips are yummy."
         ],
@@ -8104,9 +8104,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. pen have a I.",
-          "B. a I have pen.",
+          "B. a pen have I.",
           "C. I have a pen.",
-          "D. a pen have I."
+          "D. a I have pen."
         ],
         "correctAnswerIndex": 2,
         "hint": "I have a pen. → Mình có một cái bút mực.\n✅ C. I have a pen."
@@ -8143,7 +8143,7 @@
   },
   {
     "id": 7,
-    "text": "Unit 7: In the garden",
+    "text": "In the garden",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit7.png",
     "scenes": [
       {
@@ -9208,10 +9208,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. colou",
+          "A. ccolour",
           "B. colour",
-          "C. ccolour",
-          "D. coluor"
+          "C. coluor",
+          "D. colou"
         ],
         "correctAnswerIndex": 1,
         "hint": "colour → màu sắc\n✅ B. colour"
@@ -9250,9 +9250,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. A book red.",
-          "B. red book A.",
-          "C. book A red.",
+          "A. book A red.",
+          "B. A book red.",
+          "C. red book A.",
           "D. A red book."
         ],
         "correctAnswerIndex": 3,
@@ -9278,9 +9278,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. graden",
+          "A. gerden",
           "B. garden",
-          "C. gerden",
+          "C. graden",
           "D. garen"
         ],
         "correctAnswerIndex": 1,
@@ -9320,10 +9320,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. gate There's a.",
+          "A. a gate There's.",
           "B. There's a gate.",
-          "C. There's gate a.",
-          "D. a gate There's."
+          "C. gate There's a.",
+          "D. There's gate a."
         ],
         "correctAnswerIndex": 1,
         "hint": "There's a gate. → Có một cái cổng.\n✅ B. There's a gate."
@@ -9349,9 +9349,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. look",
-          "B. loook",
+          "B. lok",
           "C. olok",
-          "D. lok"
+          "D. loook"
         ],
         "correctAnswerIndex": 0,
         "hint": "look → nhìn\n✅ A. look"
@@ -9364,8 +9364,8 @@
         "choices": [
           "A. acn",
           "B. can",
-          "C. caan",
-          "D. ccan"
+          "C. ccan",
+          "D. caan"
         ],
         "correctAnswerIndex": 1,
         "hint": "can → lon đồ uống\n✅ B. can"
@@ -9460,10 +9460,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. pencil red It's a.",
+          "A. It's red a pencil.",
           "B. It's a red pencil.",
-          "C. red a pencil It's.",
-          "D. It's red a pencil."
+          "C. pencil red It's a.",
+          "D. red a pencil It's."
         ],
         "correctAnswerIndex": 1,
         "hint": "It's a red pencil. → Đó là một cái bút chì màu đỏ.\n✅ B. It's a red pencil."
@@ -9500,7 +9500,7 @@
   },
   {
     "id": 8,
-    "text": "Unit 8: In the park",
+    "text": "In the park",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/unit8.png",
     "scenes": [
       {
@@ -10607,10 +10607,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. yoru",
+          "A. you",
           "B. yyour",
           "C. your",
-          "D. you"
+          "D. yoru"
         ],
         "correctAnswerIndex": 2,
         "hint": "your → của bạn\n✅ C. your"
@@ -10649,10 +10649,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. pencil A red.",
+          "A. red pencil A.",
           "B. A red pencil.",
           "C. red A pencil.",
-          "D. red pencil A."
+          "D. pencil A red."
         ],
         "correctAnswerIndex": 1,
         "hint": "A red pencil. → Một cái bút chì màu đỏ.\n✅ B. A red pencil."
@@ -10678,9 +10678,9 @@
         "questionAudioUrl": "",
         "choices": [
           "A. dog",
-          "B. ddog",
-          "C. dogg",
-          "D. doog"
+          "B. dogg",
+          "C. doog",
+          "D. ddog"
         ],
         "correctAnswerIndex": 0,
         "hint": "dog → con chó\n✅ A. dog"
@@ -10719,10 +10719,10 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. har",
-          "B. hari",
+          "A. hai",
+          "B. har",
           "C. hair",
-          "D. hai"
+          "D. hari"
         ],
         "correctAnswerIndex": 2,
         "hint": "hair → tóc\n✅ C. hair"
@@ -10761,9 +10761,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. and bike I a have a cake.",
-          "B. cake and I bike have a a.",
-          "C. have cake and bike a a I.",
+          "A. have cake and bike a a I.",
+          "B. and bike I a have a cake.",
+          "C. cake and I bike have a a.",
           "D. I have a bike and a cake."
         ],
         "correctAnswerIndex": 3,
@@ -10817,9 +10817,9 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. book This a is.",
-          "B. a is This book.",
-          "C. This a is book.",
+          "A. a is This book.",
+          "B. This a is book.",
+          "C. book This a is.",
           "D. This is a book."
         ],
         "correctAnswerIndex": 3,
