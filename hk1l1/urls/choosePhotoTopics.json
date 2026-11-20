@@ -740,12 +740,12 @@
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/yesitsmysister.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/girl.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/boy.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/brother.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/sister.png"
         ],
         "imageNames": [
-          "girl",
+          "boy",
           "brother",
           "sister"
         ],
@@ -864,9 +864,9 @@
           ""
         ],
         "imageNames": [
-          "ball",
-          "bat",
-          "balloon"
+          "Look! A ball!",
+          "Look! A bat!",
+          "Look! A balloon!"
         ],
         "correctIndex": 0,
         "hint": "Look! A ball! → Nhìn kìa! Quả bóng!\n(Chữ cần chọn: ball – quả bóng)"
@@ -881,9 +881,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "bike",
-          "block"
+          "Is it a bus?",
+          "Is it a bike?",
+          "Is it a block?"
         ],
         "correctIndex": 1,
         "hint": "Is it a bike? → Đó có phải là chiếc xe đạp không?\n(Chữ cần chọn: bike – xe đạp)"
@@ -898,9 +898,9 @@
           ""
         ],
         "imageNames": [
-          "tea",
-          "turtle",
-          "tree"
+          "Look! A train!",
+          "Look! A turtle!",
+          "Look! A tree!"
         ],
         "correctIndex": 2,
         "hint": "Look! A tree! → Nhìn kìa! Cái cây!\n(Chữ cần chọn: tree – cái cây)"
@@ -915,9 +915,9 @@
           ""
         ],
         "imageNames": [
-          "bench",
-          "book",
-          "board"
+          "It's my bench.",
+          "It's my book.",
+          "It's my board."
         ],
         "correctIndex": 1,
         "hint": "It's my book. → Đó là quyển sách của mình.\n(Chữ cần chọn: book – quyển sách)"
@@ -932,9 +932,9 @@
           ""
         ],
         "imageNames": [
-          "bear",
-          "ball",
-          "bus"
+          "Look at the bear!",
+          "Look at the ball!",
+          "Look at the bus!"
         ],
         "correctIndex": 1,
         "hint": "Look at the ball! → Nhìn quả bóng kìa!\n(Chữ cần chọn: ball – quả bóng)"
@@ -949,9 +949,9 @@
           ""
         ],
         "imageNames": [
-          "boat",
-          "bear",
-          "balloon"
+          "I see a boat.",
+          "I see a bear.",
+          "I see a balloon."
         ],
         "correctIndex": 0,
         "hint": "I see a boat. → Mình nhìn thấy con thuyền.\n(Chữ cần chọn: boat – con thuyền)"
@@ -966,9 +966,9 @@
           ""
         ],
         "imageNames": [
-          "bat",
-          "block",
-          "bike"
+          "Yes, it's my bat.",
+          "Yes, it's my block.",
+          "Yes, it's my bike."
         ],
         "correctIndex": 2,
         "hint": "Yes, it's my bike. → Vâng, đó là chiếc xe đạp của mình.\n(Chữ cần chọn: bike – xe đạp)"
@@ -983,9 +983,9 @@
           ""
         ],
         "imageNames": [
-          "board",
-          "book",
-          "bell"
+          "I can see a board.",
+          "I can see a book.",
+          "I can see a bell."
         ],
         "correctIndex": 1,
         "hint": "I can see a book. → Mình có thể nhìn thấy quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -1000,9 +1000,9 @@
           ""
         ],
         "imageNames": [
-          "crow",
-          "cow",
-          "camel"
+          "Point to the crow.",
+          "Point to the cow.",
+          "Point to the camel."
         ],
         "correctIndex": 1,
         "hint": "Point to the cow. → Hãy chỉ vào con bò.\n(Chữ cần chọn: cow – con bò)"
@@ -1017,9 +1017,9 @@
           ""
         ],
         "imageNames": [
-          "block",
-          "bike",
-          "ball"
+          "It's a block.",
+          "It's a bike.",
+          "It's a ball."
         ],
         "correctIndex": 2,
         "hint": "It's a ball. → Đó là quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -1034,9 +1034,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "boat",
-          "bear"
+          "My bike is here.",
+          "My boat is here.",
+          "My bear is here."
         ],
         "correctIndex": 0,
         "hint": "My bike is here. → Chiếc xe đạp của mình ở đây.\n(Chữ cần chọn: bike – xe đạp)"
@@ -1051,9 +1051,9 @@
           ""
         ],
         "imageNames": [
-          "finger",
-          "flower",
-          "fork"
+          "Where's the finger?",
+          "Where's the flower?",
+          "Where's the fork?"
         ],
         "correctIndex": 1,
         "hint": "Where's the flower? → Bông hoa ở đâu?\n(Chữ cần chọn: flower – bông hoa)"
@@ -1068,9 +1068,9 @@
           ""
         ],
         "imageNames": [
-          "book",
-          "bin",
-          "bell"
+          "Is this your book?",
+          "Is this your bin?",
+          "Is this your bell?"
         ],
         "correctIndex": 0,
         "hint": "Is this your book? → Đây có phải quyển sách của bạn không?\n(Chữ cần chọn: book – quyển sách)"
@@ -1085,9 +1085,9 @@
           ""
         ],
         "imageNames": [
-          "ball",
-          "bat",
-          "block"
+          "Yes, it's my ball.",
+          "Yes, it's my bat.",
+          "Yes, it's my block."
         ],
         "correctIndex": 0,
         "hint": "Yes, it's my ball. → Vâng, đó là quả bóng của mình.\n(Chữ cần chọn: ball – quả bóng)"
@@ -1102,9 +1102,9 @@
           ""
         ],
         "imageNames": [
-          "bird",
-          "boy",
-          "baby"
+          "I have a bird.",
+          "I have a bed.",
+          "I have a bug."
         ],
         "correctIndex": 0,
         "hint": "I have a bird. → Mình có con chim.\n(Chữ cần chọn: bird – con chim)"
@@ -1119,9 +1119,9 @@
           ""
         ],
         "imageNames": [
-          "ball",
-          "bus",
-          "bike"
+          "Show me the ball, please.",
+          "Show me the bus, please.",
+          "Show me the bike, please."
         ],
         "correctIndex": 2,
         "hint": "Show me the bike, please. → Làm ơn chỉ cho mình chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -1136,9 +1136,9 @@
           ""
         ],
         "imageNames": [
-          "bench",
-          "book",
-          "bin"
+          "Show me the bench, please.",
+          "Show me the book, please.",
+          "Show me the bin, please."
         ],
         "correctIndex": 1,
         "hint": "Show me the book, please. → Làm ơn chỉ cho mình quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -1153,9 +1153,9 @@
           ""
         ],
         "imageNames": [
-          "room",
-          "rabbit",
-          "robot"
+          "That's a room.",
+          "That's a rabbit.",
+          "That's a robot."
         ],
         "correctIndex": 2,
         "hint": "That's a robot. → Kia là con người máy.\n(Chữ cần chọn: robot – người máy)"
@@ -1170,9 +1170,9 @@
           ""
         ],
         "imageNames": [
-          "bear",
-          "ball",
-          "boat"
+          "She has a bear.",
+          "She has a ball.",
+          "She has a boat."
         ],
         "correctIndex": 1,
         "hint": "She has a ball. → Cô ấy có quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -1187,9 +1187,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "bus",
-          "balloon"
+          "I can see a bike.",
+          "I can see a bus.",
+          "I can see a balloon."
         ],
         "correctIndex": 0,
         "hint": "I can see a bike. → Mình có thể nhìn thấy chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -1204,9 +1204,9 @@
           ""
         ],
         "imageNames": [
-          "table",
-          "teddy",
-          "train"
+          "Wow! A table!",
+          "Wow! A teddy!",
+          "Wow! A train!"
         ],
         "correctIndex": 0,
         "hint": "Wow! A table! → Ồ! Cái bàn!\n(Chữ cần chọn: table – cái bàn)"
@@ -1221,9 +1221,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "board",
-          "book"
+          "Touch the bag.",
+          "Touch the board.",
+          "Touch the book."
         ],
         "correctIndex": 2,
         "hint": "Touch the book. → Hãy chạm vào quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -1238,9 +1238,9 @@
           ""
         ],
         "imageNames": [
-          "ball",
-          "balloon",
-          "bus"
+          "What's this? It's a ball.",
+          "What's this? It's a balloon.",
+          "What's this? It's a bus."
         ],
         "correctIndex": 0,
         "hint": "What's this? It's a ball. → Đây là gì? Đó là quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -1255,9 +1255,9 @@
           ""
         ],
         "imageNames": [
-          "rock",
-          "rice",
-          "rain"
+          "Yes, I like jelly.",
+          "Yes, I like rice.",
+          "Yes, I like beef."
         ],
         "correctIndex": 1,
         "hint": "Yes, I like rice. → Vâng, mình thích cơm.\n(Chữ cần chọn: rice – cơm)"
@@ -1272,9 +1272,9 @@
           ""
         ],
         "imageNames": [
-          "boat",
-          "balloon",
-          "bike"
+          "I see a boat.",
+          "I see a balloon.",
+          "I see a bike."
         ],
         "correctIndex": 2,
         "hint": "I see a bike. → Mình nhìn thấy chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -1289,9 +1289,9 @@
           ""
         ],
         "imageNames": [
-          "board",
-          "book",
-          "bin"
+          "Hello! It's a board.",
+          "Hello! It's a book.",
+          "Hello! It's a bin."
         ],
         "correctIndex": 1,
         "hint": "Hello! It's a book. → Xin chào! Đó là quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -1306,9 +1306,9 @@
           ""
         ],
         "imageNames": [
-          "cheese",
-          "cream",
-          "cookie"
+          "It's a cow.",
+          "It's a cat.",
+          "It's a cookie."
         ],
         "correctIndex": 2,
         "hint": "It's a cookie. → Đó là cái bánh quy.\n(Chữ cần chọn: cookie – bánh quy)"
@@ -1323,9 +1323,9 @@
           ""
         ],
         "imageNames": [
-          "bear",
-          "bat",
-          "ball"
+          "Touch the bear.",
+          "Touch the bat.",
+          "Touch the ball."
         ],
         "correctIndex": 2,
         "hint": "Touch the ball. → Hãy chạm vào quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -1340,9 +1340,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "balloon",
-          "block"
+          "Look! A bike!",
+          "Look! A balloon!",
+          "Look! A block!"
         ],
         "correctIndex": 0,
         "hint": "Look! A bike! → Nhìn kìa! Chiếc xe đạp!\n(Chữ cần chọn: bike – xe đạp)"
@@ -1357,9 +1357,9 @@
           ""
         ],
         "imageNames": [
-          "bowl",
-          "box",
-          "bath"
+          "She has a bowl.",
+          "She has a box.",
+          "She has a bath."
         ],
         "correctIndex": 1,
         "hint": "She has a box. → Cô ấy có cái hộp.\n(Chữ cần chọn: box – cái hộp)"
@@ -1374,9 +1374,9 @@
           ""
         ],
         "imageNames": [
-          "bin",
-          "book",
-          "bus"
+          "She has a bin.",
+          "She has a book.",
+          "She has a bus."
         ],
         "correctIndex": 1,
         "hint": "She has a book. → Cô ấy có quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -1391,9 +1391,9 @@
           ""
         ],
         "imageNames": [
-          "ball",
-          "bear",
-          "bike"
+          "Look at the ball!",
+          "Look at the bear!",
+          "Look at the bike!"
         ],
         "correctIndex": 2,
         "hint": "Look at the bike! → Nhìn chiếc xe đạp kìa!\n(Chữ cần chọn: bike – xe đạp)"
@@ -1408,9 +1408,9 @@
           ""
         ],
         "imageNames": [
-          "fridge",
-          "frog",
-          "floor"
+          "Show me the fridge, please.",
+          "Show me the frog, please.",
+          "Show me the floor, please."
         ],
         "correctIndex": 1,
         "hint": "Show me the frog, please. → Làm ơn chỉ cho mình con ếch.\n(Chữ cần chọn: frog – con ếch)"
@@ -1425,9 +1425,9 @@
           ""
         ],
         "imageNames": [
-          "ball",
-          "balloon",
-          "boat"
+          "Look at my ball!",
+          "Look at my balloon!",
+          "Look at my boat!"
         ],
         "correctIndex": 0,
         "hint": "Look at my ball! → Nhìn quả bóng của mình này!\n(Chữ cần chọn: ball – quả bóng)"
@@ -1442,9 +1442,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "bench",
-          "book"
+          "I like the bus.",
+          "I like the bench.",
+          "I like the book."
         ],
         "correctIndex": 2,
         "hint": "I like the book. → Mình thích quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -1459,9 +1459,9 @@
           ""
         ],
         "imageNames": [
-          "ship",
-          "snake",
-          "sheep"
+          "Yes, it's my ship.",
+          "Yes, it's my snake.",
+          "Yes, it's my sheep."
         ],
         "correctIndex": 2,
         "hint": "Yes, it's my sheep. → Vâng, đó là con cừu của mình.\n(Chữ cần chọn: sheep – con cừu)"
@@ -1476,9 +1476,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "bat",
-          "balloon"
+          "Hello! It's a bike.",
+          "Hello! It's a bat.",
+          "Hello! It's a balloon."
         ],
         "correctIndex": 0,
         "hint": "Hello! It's a bike. → Xin chào! Đó là chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -1493,9 +1493,9 @@
           ""
         ],
         "imageNames": [
-          "ball",
-          "balloon",
-          "bear"
+          "He has a ball.",
+          "He has a balloon.",
+          "He has a bear."
         ],
         "correctIndex": 0,
         "hint": "He has a ball. → Cậu ấy có quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -1510,9 +1510,9 @@
           ""
         ],
         "imageNames": [
-          "block",
-          "boat",
-          "balloon"
+          "I can see a block.",
+          "I can see a boat.",
+          "I can see a balloon."
         ],
         "correctIndex": 1,
         "hint": "I can see a boat. → Mình có thể nhìn thấy con thuyền.\n(Chữ cần chọn: boat – con thuyền)"
@@ -1527,9 +1527,9 @@
           ""
         ],
         "imageNames": [
-          "bench",
-          "bell",
-          "book"
+          "I have a bench.",
+          "I have a bell.",
+          "I have a book."
         ],
         "correctIndex": 2,
         "hint": "I have a book. → Mình có quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -1544,9 +1544,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "bat",
-          "ball"
+          "Look at my bike!",
+          "Look at my bat!",
+          "Look at my ball!"
         ],
         "correctIndex": 0,
         "hint": "Look at my bike! → Nhìn chiếc xe đạp của mình này!\n(Chữ cần chọn: bike – xe đạp)"
@@ -1561,9 +1561,9 @@
           ""
         ],
         "imageNames": [
-          "coat",
-          "cap",
-          "crab"
+          "Where's the coat?",
+          "Where's the cap?",
+          "Where's the crab?"
         ],
         "correctIndex": 0,
         "hint": "Where's the coat? → Cái áo khoác ở đâu?\n(Chữ cần chọn: coat – áo khoác)"
@@ -1578,9 +1578,9 @@
           ""
         ],
         "imageNames": [
-          "ball",
-          "block",
-          "boat"
+          "I like my ball.",
+          "I like my block.",
+          "I like my boat."
         ],
         "correctIndex": 0,
         "hint": "I like my ball. → Mình thích quả bóng của mình.\n(Chữ cần chọn: ball – quả bóng)"
@@ -1595,9 +1595,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "book",
-          "board"
+          "He has a bus.",
+          "He has a book.",
+          "He has a board."
         ],
         "correctIndex": 1,
         "hint": "He has a book. → Cậu ấy có quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -1612,9 +1612,9 @@
           ""
         ],
         "imageNames": [
-          "cat",
-          "cap",
-          "crab"
+          "She has a cat.",
+          "She has a cap.",
+          "She has a crab."
         ],
         "correctIndex": 1,
         "hint": "She has a cap. → Cô ấy có cái mũ lưỡi trai.\n(Chữ cần chọn: cap – mũ lưỡi trai)"
@@ -1629,9 +1629,9 @@
           ""
         ],
         "imageNames": [
-          "block",
-          "bike",
-          "boat"
+          "Wow! A block!",
+          "Wow! A bike!",
+          "Wow! A boat!"
         ],
         "correctIndex": 1,
         "hint": "Wow! A bike! → Ồ! Chiếc xe đạp!\n(Chữ cần chọn: bike – xe đạp)"
@@ -1646,9 +1646,9 @@
           ""
         ],
         "imageNames": [
-          "bear",
-          "block",
-          "ball"
+          "My bear is here.",
+          "My block is here.",
+          "My ball is here."
         ],
         "correctIndex": 2,
         "hint": "My ball is here. → Quả bóng của mình ở đây.\n(Chữ cần chọn: ball – quả bóng)"
@@ -1663,9 +1663,9 @@
           ""
         ],
         "imageNames": [
-          "cherry",
-          "cheese",
-          "candy"
+          "Look! Chicken!",
+          "Look! Cheese!",
+          "Look! Candy!"
         ],
         "correctIndex": 2,
         "hint": "Look! Candy! → Nhìn kìa! Kẹo!\n(Chữ cần chọn: candy – kẹo)"
@@ -1680,9 +1680,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "book",
-          "bench"
+          "Is it a bag?",
+          "Is it a book?",
+          "Is it a bench?"
         ],
         "correctIndex": 1,
         "hint": "Is it a book? → Đó có phải là quyển sách không?\n(Chữ cần chọn: book – quyển sách)"
@@ -1697,9 +1697,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "bike",
-          "bear"
+          "I have a bus.",
+          "I have a bike.",
+          "I have a bear."
         ],
         "correctIndex": 1,
         "hint": "I have a bike. → Mình có chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -2571,9 +2571,9 @@
           ""
         ],
         "imageNames": [
-          "class",
-          "card",
-          "cup"
+          "My car is here.",
+          "My card is here.",
+          "My cup is here."
         ],
         "correctIndex": 2,
         "hint": "My cup is here. → Cái cốc của mình ở đây.\n(Chữ cần chọn: cup – cái cốc)"
@@ -2588,9 +2588,9 @@
           ""
         ],
         "imageNames": [
-          "cake",
-          "cherry",
-          "cheese"
+          "Ba has a cake.",
+          "Ba has a cherry.",
+          "Ba has a car."
         ],
         "correctIndex": 0,
         "hint": "Ba has a cake. → Ba có cái bánh.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -2605,9 +2605,9 @@
           ""
         ],
         "imageNames": [
-          "eye",
-          "ear",
-          "egg"
+          "Wow! An eye!",
+          "Wow! An ear!",
+          "Wow! An egg!"
         ],
         "correctIndex": 2,
         "hint": "Wow! An egg! → Ồ! Quả trứng!\n(Chữ cần chọn: egg – quả trứng)"
@@ -2622,9 +2622,9 @@
           ""
         ],
         "imageNames": [
-          "car",
-          "cap",
-          "crab"
+          "Here's a car.",
+          "Here's a cap.",
+          "Here's a crab."
         ],
         "correctIndex": 0,
         "hint": "Here's a car. → Đây là chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -2639,9 +2639,9 @@
           ""
         ],
         "imageNames": [
-          "camel",
-          "cat",
-          "chick"
+          "Hi! I have a camel.",
+          "Hi! I have a cat.",
+          "Hi! I have a chick."
         ],
         "correctIndex": 1,
         "hint": "Hi! I have a cat. → Chào! Mình có con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -2656,9 +2656,9 @@
           ""
         ],
         "imageNames": [
-          "fridge",
-          "fox",
-          "frog"
+          "Wow! A fridge!",
+          "Wow! A fox!",
+          "Wow! A frog!"
         ],
         "correctIndex": 2,
         "hint": "Wow! A frog! → Ồ! Con ếch!\n(Chữ cần chọn: frog – con ếch)"
@@ -2673,9 +2673,9 @@
           ""
         ],
         "imageNames": [
-          "cup",
-          "clock",
-          "crayon"
+          "That's a cup.",
+          "That's a clock.",
+          "That's a crayon."
         ],
         "correctIndex": 0,
         "hint": "That's a cup. → Kia là cái cốc.\n(Chữ cần chọn: cup – cái cốc)"
@@ -2690,9 +2690,9 @@
           ""
         ],
         "imageNames": [
-          "corn",
-          "coffee",
-          "cake"
+          "Wow! A clock!",
+          "Wow! A crayon!",
+          "Wow! A cake!"
         ],
         "correctIndex": 2,
         "hint": "Wow! A cake! → Ồ! Cái bánh!\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -2707,9 +2707,9 @@
           ""
         ],
         "imageNames": [
-          "bun",
-          "butter",
-          "bread"
+          "Here's some bun.",
+          "Here's some butter.",
+          "Here's some bread."
         ],
         "correctIndex": 2,
         "hint": "Here's some bread. → Đây là một ít bánh mì.\n(Chữ cần chọn: bread – bánh mì)"
@@ -2724,9 +2724,9 @@
           ""
         ],
         "imageNames": [
-          "card",
-          "car",
-          "cake"
+          "What's this? It's a card.",
+          "What's this? It's a car.",
+          "What's this? It's a cake."
         ],
         "correctIndex": 1,
         "hint": "What's this? It's a car. → Đây là gì? Đó là chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -2741,9 +2741,9 @@
           ""
         ],
         "imageNames": [
-          "crow",
-          "chick",
-          "cat"
+          "What's this? It's a crow.",
+          "What's this? It's a chick.",
+          "What's this? It's a cat."
         ],
         "correctIndex": 2,
         "hint": "What's this? It's a cat. → Đây là gì? Đó là con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -2758,9 +2758,9 @@
           ""
         ],
         "imageNames": [
-          "flower",
-          "floor",
-          "friend"
+          "That's a flower.",
+          "That's a floor.",
+          "That's a friend."
         ],
         "correctIndex": 0,
         "hint": "That's a flower. → Kia là bông hoa.\n(Chữ cần chọn: flower – bông hoa)"
@@ -2775,9 +2775,9 @@
           ""
         ],
         "imageNames": [
-          "chair",
-          "cup",
-          "cap"
+          "Touch the chair.",
+          "Touch the cup.",
+          "Touch the cap."
         ],
         "correctIndex": 1,
         "hint": "Touch the cup. → Hãy chạm vào cái cốc.\n(Chữ cần chọn: cup – cái cốc)"
@@ -2792,9 +2792,9 @@
           ""
         ],
         "imageNames": [
-          "cake",
-          "cookie",
-          "carrot"
+          "It's a cake.",
+          "It's a cookie.",
+          "It's a carrot."
         ],
         "correctIndex": 0,
         "hint": "It's a cake. → Đó là cái bánh.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -2809,9 +2809,9 @@
           ""
         ],
         "imageNames": [
-          "bin",
-          "bag",
-          "book"
+          "This is my bin.",
+          "This is my bag.",
+          "This is my book."
         ],
         "correctIndex": 2,
         "hint": "This is my book. → Đây là quyển sách của mình.\n(Chữ cần chọn: book – quyển sách)"
@@ -2826,9 +2826,9 @@
           ""
         ],
         "imageNames": [
-          "cake",
-          "car",
-          "cat"
+          "Ba has a cake.",
+          "Ba has a car.",
+          "Ba has a cat."
         ],
         "correctIndex": 1,
         "hint": "Ba has a car. → Ba có chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -2843,9 +2843,9 @@
           ""
         ],
         "imageNames": [
-          "cat",
-          "coat",
-          "crow"
+          "He has a cat.",
+          "He has a coat.",
+          "He has a crow."
         ],
         "correctIndex": 0,
         "hint": "He has a cat. → Cậu ấy có con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -2860,9 +2860,9 @@
           ""
         ],
         "imageNames": [
-          "pony",
-          "parrot",
-          "pig"
+          "Look! A pony!",
+          "Look! A parrot!",
+          "Look! A pig!"
         ],
         "correctIndex": 2,
         "hint": "Look! A pig! → Nhìn kìa! Con lợn!\n(Chữ cần chọn: pig – con lợn)"
@@ -2877,9 +2877,9 @@
           ""
         ],
         "imageNames": [
-          "card",
-          "cup",
-          "chair"
+          "He has a card.",
+          "He has a cup.",
+          "He has a chair."
         ],
         "correctIndex": 1,
         "hint": "He has a cup. → Cậu ấy có cái cốc.\n(Chữ cần chọn: cup – cái cốc)"
@@ -2894,9 +2894,9 @@
           ""
         ],
         "imageNames": [
-          "cookie",
-          "cake",
-          "corn"
+          "What's this? It's a cookie.",
+          "What's this? It's a cake.",
+          "What's this? It's a chair."
         ],
         "correctIndex": 1,
         "hint": "What's this? It's a cake. → Đây là gì? Đó là cái bánh.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -2911,9 +2911,9 @@
           ""
         ],
         "imageNames": [
-          "cow",
-          "crab",
-          "cat"
+          "Is this your cow?",
+          "Is this your crab?",
+          "Is this your cat?"
         ],
         "correctIndex": 0,
         "hint": "Is this your cow? → Đây có phải con bò của bạn không?\n(Chữ cần chọn: cow – con bò)"
@@ -2928,9 +2928,9 @@
           ""
         ],
         "imageNames": [
-          "car",
-          "cat",
-          "cap"
+          "I want a car.",
+          "I want a cat.",
+          "I want a cap."
         ],
         "correctIndex": 0,
         "hint": "I want a car. → Mình muốn chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -2945,9 +2945,9 @@
           ""
         ],
         "imageNames": [
-          "cow",
-          "cat",
-          "chick"
+          "It's my cow.",
+          "It's my cat.",
+          "It's my chick."
         ],
         "correctIndex": 1,
         "hint": "It's my cat. → Đó là con mèo của mình.\n(Chữ cần chọn: cat – con mèo)"
@@ -2962,9 +2962,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "bat",
-          "bike"
+          "What's this? It's a bus.",
+          "What's this? It's a bat.",
+          "What's this? It's a bike."
         ],
         "correctIndex": 2,
         "hint": "What's this? It's a bike. → Đây là gì? Đó là chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -2979,9 +2979,9 @@
           ""
         ],
         "imageNames": [
-          "class",
-          "crayon",
-          "cup"
+          "This is my chick.",
+          "This is my crayon.",
+          "This is my cup."
         ],
         "correctIndex": 2,
         "hint": "This is my cup. → Đây là cái cốc của mình.\n(Chữ cần chọn: cup – cái cốc)"
@@ -2996,9 +2996,9 @@
           ""
         ],
         "imageNames": [
-          "cake",
-          "cream",
-          "cherry"
+          "That's a cake.",
+          "That's a cup.",
+          "That's a cherry."
         ],
         "correctIndex": 0,
         "hint": "That's a cake. → Kia là cái bánh.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -3013,9 +3013,9 @@
           ""
         ],
         "imageNames": [
-          "hand",
-          "ant",
-          "arm"
+          "Raise your hand.",
+          "Raise your ant.",
+          "Raise your arm."
         ],
         "correctIndex": 2,
         "hint": "Raise your arm. → Hãy giơ cánh tay của bạn lên.\n(Chữ cần chọn: arm – cánh tay)"
@@ -3030,9 +3030,9 @@
           ""
         ],
         "imageNames": [
-          "crab",
-          "chair",
-          "car"
+          "Look at my crab!",
+          "Look at my chair!",
+          "Look at my car!"
         ],
         "correctIndex": 2,
         "hint": "Look at my car! → Nhìn chiếc ô tô của mình này!\n(Chữ cần chọn: car – ô tô)"
@@ -3047,9 +3047,9 @@
           ""
         ],
         "imageNames": [
-          "crow",
-          "cow",
-          "cat"
+          "Touch the crow.",
+          "Touch the cow.",
+          "Touch the cat."
         ],
         "correctIndex": 2,
         "hint": "Touch the cat. → Hãy chạm vào con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -3064,9 +3064,9 @@
           ""
         ],
         "imageNames": [
-          "spoon",
-          "sheep",
-          "spider"
+          "That's a spoon.",
+          "That's a sheep.",
+          "That's a spider."
         ],
         "correctIndex": 1,
         "hint": "That's a sheep. → Kia là con cừu.\n(Chữ cần chọn: sheep – con cừu)"
@@ -3081,9 +3081,9 @@
           ""
         ],
         "imageNames": [
-          "cake",
-          "carrot",
-          "coffee"
+          "She has a cake.",
+          "She has a carrot.",
+          "She has a car."
         ],
         "correctIndex": 0,
         "hint": "She has a cake. → Cô ấy có cái bánh.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -3098,9 +3098,9 @@
           ""
         ],
         "imageNames": [
-          "cat",
-          "camel",
-          "cow"
+          "Mary has a cat.",
+          "Mary has a camel.",
+          "Mary has a cow."
         ],
         "correctIndex": 0,
         "hint": "Mary has a cat. → Mary có con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -3115,9 +3115,9 @@
           ""
         ],
         "imageNames": [
-          "roof",
-          "rice",
-          "rain"
+          "I see corn.",
+          "I see rice.",
+          "I see beef."
         ],
         "correctIndex": 1,
         "hint": "I see rice. → Mình nhìn thấy cơm.\n(Chữ cần chọn: rice – cơm)"
@@ -3132,9 +3132,9 @@
           ""
         ],
         "imageNames": [
-          "book",
-          "bag",
-          "bus"
+          "Ba has a book.",
+          "Ba has a bag.",
+          "Ba has a bus."
         ],
         "correctIndex": 0,
         "hint": "Ba has a book. → Ba có quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -3149,9 +3149,9 @@
           ""
         ],
         "imageNames": [
-          "block",
-          "ball",
-          "bus"
+          "Show me the block, please.",
+          "Show me the ball, please.",
+          "Show me the bus, please."
         ],
         "correctIndex": 1,
         "hint": "Show me the ball, please. → Làm ơn chỉ cho mình quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -3166,9 +3166,9 @@
           ""
         ],
         "imageNames": [
-          "rubber",
-          "ruler",
-          "rabbit"
+          "Here's a rubber.",
+          "Here's a ruler.",
+          "Here's a rabbit."
         ],
         "correctIndex": 2,
         "hint": "Here's a rabbit. → Đây là con thỏ.\n(Chữ cần chọn: rabbit – con thỏ)"
@@ -3183,9 +3183,9 @@
           ""
         ],
         "imageNames": [
-          "card",
-          "cup",
-          "clock"
+          "Look! A card!",
+          "Look! A cup!",
+          "Look! A clock!"
         ],
         "correctIndex": 1,
         "hint": "Look! A cup! → Nhìn kìa! Cái cốc!\n(Chữ cần chọn: cup – cái cốc)"
@@ -3200,9 +3200,9 @@
           ""
         ],
         "imageNames": [
-          "card",
-          "car",
-          "crab"
+          "I have a card.",
+          "I have a car.",
+          "I have a crab."
         ],
         "correctIndex": 1,
         "hint": "I have a car. → Mình có chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -3217,9 +3217,9 @@
           ""
         ],
         "imageNames": [
-          "bowl",
-          "box",
-          "board"
+          "My bowl is here.",
+          "My box is here.",
+          "My board is here."
         ],
         "correctIndex": 1,
         "hint": "My box is here. → Cái hộp của mình ở đây.\n(Chữ cần chọn: box – cái hộp)"
@@ -3234,9 +3234,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "boat",
-          "ball"
+          "Mary has a bike.",
+          "Mary has a boat.",
+          "Mary has a ball."
         ],
         "correctIndex": 0,
         "hint": "Mary has a bike. → Mary có chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -3251,9 +3251,9 @@
           ""
         ],
         "imageNames": [
-          "cream",
-          "cake",
-          "coffee"
+          "Yes, it's my cream.",
+          "Yes, it's my cake.",
+          "Yes, it's my coffee."
         ],
         "correctIndex": 1,
         "hint": "Yes, it's my cake. → Vâng, đó là cái bánh của mình.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -3268,9 +3268,9 @@
           ""
         ],
         "imageNames": [
-          "face",
-          "apple",
-          "arm"
+          "Show me your face.",
+          "Show me your apple.",
+          "Show me your arm."
         ],
         "correctIndex": 2,
         "hint": "Show me your arm. → Cho mình xem cánh tay của bạn.\n(Chữ cần chọn: arm – cánh tay)"
@@ -3285,9 +3285,9 @@
           ""
         ],
         "imageNames": [
-          "coat",
-          "camel",
-          "cat"
+          "Point to the coat.",
+          "Point to the camel.",
+          "Point to the cat."
         ],
         "correctIndex": 2,
         "hint": "Point to the cat. → Hãy chỉ vào con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -3302,9 +3302,9 @@
           ""
         ],
         "imageNames": [
-          "book",
-          "bell",
-          "bag"
+          "Point to the book.",
+          "Point to the bell.",
+          "Point to the bag."
         ],
         "correctIndex": 0,
         "hint": "Point to the book. → Hãy chỉ vào quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -3319,9 +3319,9 @@
           ""
         ],
         "imageNames": [
-          "shoe",
-          "sock",
-          "skirt"
+          "Touch the shoe.",
+          "Touch the sock.",
+          "Touch the skirt."
         ],
         "correctIndex": 0,
         "hint": "Touch the shoe. → Hãy chạm vào chiếc giày.\n(Chữ cần chọn: shoe – chiếc giày)"
@@ -3336,9 +3336,9 @@
           ""
         ],
         "imageNames": [
-          "block",
-          "ball",
-          "balloon"
+          "I can see a block.",
+          "I can see a ball.",
+          "I can see a balloon."
         ],
         "correctIndex": 1,
         "hint": "I can see a ball. → Mình có thể nhìn thấy quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -3353,9 +3353,9 @@
           ""
         ],
         "imageNames": [
-          "cup",
-          "clock",
-          "chair"
+          "Mary has a cup.",
+          "Mary has a clock.",
+          "Mary has a chair."
         ],
         "correctIndex": 0,
         "hint": "Mary has a cup. → Mary có cái cốc.\n(Chữ cần chọn: cup – cái cốc)"
@@ -3370,9 +3370,9 @@
           ""
         ],
         "imageNames": [
-          "beef",
-          "banana",
-          "bread"
+          "Ba likes beef.",
+          "Ba likes cream.",
+          "Ba likes bread."
         ],
         "correctIndex": 2,
         "hint": "Ba likes bread. → Ba thích bánh mì.\n(Chữ cần chọn: bread – bánh mì)"
@@ -3387,9 +3387,9 @@
           ""
         ],
         "imageNames": [
-          "chair",
-          "card",
-          "car"
+          "He has a chair.",
+          "He has a card.",
+          "He has a car."
         ],
         "correctIndex": 2,
         "hint": "He has a car. → Cậu ấy có chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -3404,9 +3404,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "balloon",
-          "ball"
+          "I like the bike.",
+          "I like the balloon.",
+          "I like the ball."
         ],
         "correctIndex": 0,
         "hint": "I like the bike. → Mình thích chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -4278,9 +4278,9 @@
           ""
         ],
         "imageNames": [
-          "peach",
-          "apple",
-          "salad"
+          "I have a peach.",
+          "I have an apple.",
+          "I have a salad."
         ],
         "correctIndex": 1,
         "hint": "I have an apple. → Mình có quả táo.\n(Chữ cần chọn: apple – quả táo)"
@@ -4295,9 +4295,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "hat",
-          "ham"
+          "Yes, it's my hair.",
+          "Yes, it's my hat.",
+          "Yes, it's my ham."
         ],
         "correctIndex": 1,
         "hint": "Yes, it's my hat. → Vâng, đó là cái mũ của mình.\n(Chữ cần chọn: hat – cái mũ)"
@@ -4312,9 +4312,9 @@
           ""
         ],
         "imageNames": [
-          "car",
-          "crab",
-          "cat"
+          "I can see a car.",
+          "I can see a crab.",
+          "I can see a cat."
         ],
         "correctIndex": 0,
         "hint": "I can see a car. → Mình có thể nhìn thấy chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -4329,9 +4329,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "boot",
-          "belt"
+          "It's my bag.",
+          "It's my boot.",
+          "It's my belt."
         ],
         "correctIndex": 0,
         "hint": "It's my bag. → Đó là cái túi của mình.\n(Chữ cần chọn: bag – cái túi)"
@@ -4346,9 +4346,9 @@
           ""
         ],
         "imageNames": [
-          "can",
-          "car",
-          "card"
+          "It's my can.",
+          "It's my car.",
+          "It's my card."
         ],
         "correctIndex": 0,
         "hint": "It's my can. → Đó là lon đồ uống của mình.\n(Chữ cần chọn: can – lon đồ uống)"
@@ -4363,9 +4363,9 @@
           ""
         ],
         "imageNames": [
-          "ruler",
-          "rain",
-          "rice"
+          "Do you like meat?",
+          "Do you like cream?",
+          "Do you like rice?"
         ],
         "correctIndex": 2,
         "hint": "Do you like rice? → Bạn có thích cơm không?\n(Chữ cần chọn: rice – cơm)"
@@ -4380,9 +4380,9 @@
           ""
         ],
         "imageNames": [
-          "apple",
-          "lemon",
-          "arm"
+          "Hello! It's an apple.",
+          "Hello! It's a lemon.",
+          "Hello! It's an arm."
         ],
         "correctIndex": 0,
         "hint": "Hello! It's an apple. → Xin chào! Đó là quả táo.\n(Chữ cần chọn: apple – quả táo)"
@@ -4397,9 +4397,9 @@
           ""
         ],
         "imageNames": [
-          "hat",
-          "hill",
-          "ham"
+          "Look! A hat!",
+          "Look! A hill!",
+          "Look! A ham!"
         ],
         "correctIndex": 0,
         "hint": "Look! A hat! → Nhìn kìa! Cái mũ!\n(Chữ cần chọn: hat – cái mũ)"
@@ -4414,9 +4414,9 @@
           ""
         ],
         "imageNames": [
-          "elephant",
-          "eraser",
-          "eagle"
+          "That's an elephant.",
+          "That's an eraser.",
+          "That's an eagle."
         ],
         "correctIndex": 0,
         "hint": "That's an elephant. → Kia là con voi.\n(Chữ cần chọn: elephant – con voi)"
@@ -4431,9 +4431,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "boot",
-          "bench"
+          "My bag is here.",
+          "My boot is here.",
+          "My bench is here."
         ],
         "correctIndex": 0,
         "hint": "My bag is here. → Cái túi của mình ở đây.\n(Chữ cần chọn: bag – cái túi)"
@@ -4448,9 +4448,9 @@
           ""
         ],
         "imageNames": [
-          "class",
-          "can",
-          "crayon"
+          "I class see a can.",
+          "I can see a can.",
+          "I crayon see a can."
         ],
         "correctIndex": 1,
         "hint": "I can see a can. → Mình có thể nhìn thấy lon đồ uống.\n(Chữ cần chọn: can – lon đồ uống)"
@@ -4465,9 +4465,9 @@
           ""
         ],
         "imageNames": [
-          "eraser",
-          "egg",
-          "elephant"
+          "I can see an eraser.",
+          "I can see an egg.",
+          "I can see an elephant."
         ],
         "correctIndex": 1,
         "hint": "I can see an egg. → Mình có thể nhìn thấy quả trứng.\n(Chữ cần chọn: egg – quả trứng)"
@@ -4482,9 +4482,9 @@
           ""
         ],
         "imageNames": [
-          "apple",
-          "peach",
-          "grape"
+          "My apple is here.",
+          "My peach is here.",
+          "My grape is here."
         ],
         "correctIndex": 0,
         "hint": "My apple is here. → Quả táo của mình ở đây.\n(Chữ cần chọn: apple – quả táo)"
@@ -4499,9 +4499,9 @@
           ""
         ],
         "imageNames": [
-          "hat",
-          "hill",
-          "hair"
+          "Ba has a hat.",
+          "Ba has a hand.",
+          "Ba has a horse."
         ],
         "correctIndex": 0,
         "hint": "Ba has a hat. → Ba có cái mũ.\n(Chữ cần chọn: hat – cái mũ)"
@@ -4516,9 +4516,9 @@
           ""
         ],
         "imageNames": [
-          "doll",
-          "duck",
-          "drum"
+          "I can see a doll.",
+          "I can see a duck.",
+          "I can see a drum."
         ],
         "correctIndex": 0,
         "hint": "I can see a doll. → Mình có thể nhìn thấy con búp bê.\n(Chữ cần chọn: doll – búp bê)"
@@ -4533,9 +4533,9 @@
           ""
         ],
         "imageNames": [
-          "belt",
-          "bag",
-          "board"
+          "Here's a belt.",
+          "Here's a bag.",
+          "Here's a board."
         ],
         "correctIndex": 1,
         "hint": "Here's a bag. → Đây là cái túi.\n(Chữ cần chọn: bag – cái túi)"
@@ -4550,9 +4550,9 @@
           ""
         ],
         "imageNames": [
-          "crayon",
-          "can",
-          "card"
+          "This is my crayon.",
+          "This is my can.",
+          "This is my card."
         ],
         "correctIndex": 1,
         "hint": "This is my can. → Đây là lon đồ uống của mình.\n(Chữ cần chọn: can – lon đồ uống)"
@@ -4567,9 +4567,9 @@
           ""
         ],
         "imageNames": [
-          "sister",
-          "shorts",
-          "shirt"
+          "Is this your sister?",
+          "Is this your shorts?",
+          "Is this your shirt?"
         ],
         "correctIndex": 0,
         "hint": "Is this your sister? → Đây có phải chị/em gái của bạn không?\n(Chữ cần chọn: sister – chị/em gái)"
@@ -4584,9 +4584,9 @@
           ""
         ],
         "imageNames": [
-          "apple",
-          "grape",
-          "arm"
+          "I see an apple.",
+          "I see a grape.",
+          "I see an arm."
         ],
         "correctIndex": 0,
         "hint": "I see an apple. → Mình nhìn thấy quả táo.\n(Chữ cần chọn: apple – quả táo)"
@@ -4601,9 +4601,9 @@
           ""
         ],
         "imageNames": [
-          "hill",
-          "head",
-          "hat"
+          "Touch the hill.",
+          "Touch the head.",
+          "Touch the hat."
         ],
         "correctIndex": 2,
         "hint": "Touch the hat. → Hãy chạm vào cái mũ.\n(Chữ cần chọn: hat – cái mũ)"
@@ -4618,9 +4618,9 @@
           ""
         ],
         "imageNames": [
-          "bull",
-          "bug",
-          "bird"
+          "My bull is here.",
+          "My bug is here.",
+          "My bird is here."
         ],
         "correctIndex": 2,
         "hint": "My bird is here. → Con chim của mình ở đây.\n(Chữ cần chọn: bird – con chim)"
@@ -4635,9 +4635,9 @@
           ""
         ],
         "imageNames": [
-          "bench",
-          "board",
-          "bag"
+          "Point to the bench.",
+          "Point to the board.",
+          "Point to the bag."
         ],
         "correctIndex": 2,
         "hint": "Point to the bag. → Hãy chỉ vào cái túi.\n(Chữ cần chọn: bag – cái túi)"
@@ -4652,9 +4652,9 @@
           ""
         ],
         "imageNames": [
-          "can",
-          "chair",
-          "class"
+          "That's a can.",
+          "That's a chair.",
+          "That's a class."
         ],
         "correctIndex": 0,
         "hint": "That's a can. → Kia là lon đồ uống.\n(Chữ cần chọn: can – lon đồ uống)"
@@ -4669,9 +4669,9 @@
           ""
         ],
         "imageNames": [
-          "mango",
-          "owl",
-          "orange"
+          "It's a mango.",
+          "It's an owl.",
+          "It's an orange."
         ],
         "correctIndex": 2,
         "hint": "It's an orange. → Đó là quả cam.\n(Chữ cần chọn: orange – quả cam)"
@@ -4686,9 +4686,9 @@
           ""
         ],
         "imageNames": [
-          "peach",
-          "lemon",
-          "apple"
+          "I like the peach.",
+          "I like the lemon.",
+          "I like the apple."
         ],
         "correctIndex": 2,
         "hint": "I like the apple. → Mình thích quả táo.\n(Chữ cần chọn: apple – quả táo)"
@@ -4703,9 +4703,9 @@
           ""
         ],
         "imageNames": [
-          "ham",
-          "hen",
-          "hat"
+          "My ham is here.",
+          "My hen is here.",
+          "My hat is here."
         ],
         "correctIndex": 2,
         "hint": "My hat is here. → Cái mũ của mình ở đây.\n(Chữ cần chọn: hat – cái mũ)"
@@ -4720,9 +4720,9 @@
           ""
         ],
         "imageNames": [
-          "bedroom",
-          "bowl",
-          "bed"
+          "Is this your bedroom?",
+          "Is this your bowl?",
+          "Is this your bed?"
         ],
         "correctIndex": 2,
         "hint": "Is this your bed? → Đây có phải cái giường của bạn không?\n(Chữ cần chọn: bed – cái giường)"
@@ -4737,9 +4737,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "belt",
-          "bell"
+          "I have a bag.",
+          "I have a belt.",
+          "I have a bell."
         ],
         "correctIndex": 0,
         "hint": "I have a bag. → Mình có cái túi.\n(Chữ cần chọn: bag – cái túi)"
@@ -4754,9 +4754,9 @@
           ""
         ],
         "imageNames": [
-          "class",
-          "card",
-          "can"
+          "Yes, it's my carrot.",
+          "Yes, it's my card.",
+          "Yes, it's my can."
         ],
         "correctIndex": 2,
         "hint": "Yes, it's my can. → Vâng, đó là lon đồ uống của mình.\n(Chữ cần chọn: can – lon đồ uống)"
@@ -4771,9 +4771,9 @@
           ""
         ],
         "imageNames": [
-          "hen",
-          "hand",
-          "house"
+          "Wow! A hen!",
+          "Wow! A hand!",
+          "Wow! A house!"
         ],
         "correctIndex": 0,
         "hint": "Wow! A hen! → Ồ! Con gà mái!\n(Chữ cần chọn: hen – con gà mái)"
@@ -4788,9 +4788,9 @@
           ""
         ],
         "imageNames": [
-          "clock",
-          "class",
-          "cup"
+          "Look at the clock!",
+          "Look at the class!",
+          "Look at the cup!"
         ],
         "correctIndex": 2,
         "hint": "Look at the cup! → Nhìn cái cốc kìa!\n(Chữ cần chọn: cup – cái cốc)"
@@ -4805,9 +4805,9 @@
           ""
         ],
         "imageNames": [
-          "cat",
-          "camel",
-          "crab"
+          "I want a cat.",
+          "I want a camel.",
+          "I want a crab."
         ],
         "correctIndex": 0,
         "hint": "I want a cat. → Mình muốn con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -4822,9 +4822,9 @@
           ""
         ],
         "imageNames": [
-          "bed",
-          "bath",
-          "bedroom"
+          "I like the bed.",
+          "I like the bath.",
+          "I like the bedroom."
         ],
         "correctIndex": 0,
         "hint": "I like the bed. → Mình thích cái giường.\n(Chữ cần chọn: bed – cái giường)"
@@ -4839,9 +4839,9 @@
           ""
         ],
         "imageNames": [
-          "belt",
-          "bin",
-          "bag"
+          "Look at the belt!",
+          "Look at the bin!",
+          "Look at the bag!"
         ],
         "correctIndex": 2,
         "hint": "Look at the bag! → Nhìn cái túi kìa!\n(Chữ cần chọn: bag – cái túi)"
@@ -4856,9 +4856,9 @@
           ""
         ],
         "imageNames": [
-          "cake",
-          "cherry",
-          "corn"
+          "Where's the cake?",
+          "Where's the cherry?",
+          "Where's the corn?"
         ],
         "correctIndex": 0,
         "hint": "Where's the cake? → Cái bánh ở đâu?\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -4873,9 +4873,9 @@
           ""
         ],
         "imageNames": [
-          "crow",
-          "cake",
-          "coat"
+          "What's this? It's a crow.",
+          "What's this? It's a cake.",
+          "What's this? It's a coat."
         ],
         "correctIndex": 2,
         "hint": "What's this? It's a coat. → Đây là gì? Đó là cái áo khoác.\n(Chữ cần chọn: coat – áo khoác)"
@@ -4890,9 +4890,9 @@
           ""
         ],
         "imageNames": [
-          "chair",
-          "car",
-          "cat"
+          "She has a chair.",
+          "She has a car.",
+          "She has a cat."
         ],
         "correctIndex": 1,
         "hint": "She has a car. → Cô ấy có chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -4907,9 +4907,9 @@
           ""
         ],
         "imageNames": [
-          "ant",
-          "peach",
-          "apple"
+          "Yes, it's my ant.",
+          "Yes, it's my peach.",
+          "Yes, it's my apple."
         ],
         "correctIndex": 2,
         "hint": "Yes, it's my apple. → Vâng, đó là quả táo của mình.\n(Chữ cần chọn: apple – quả táo)"
@@ -4924,9 +4924,9 @@
           ""
         ],
         "imageNames": [
-          "card",
-          "coat",
-          "cap"
+          "Look at my card!",
+          "Look at my coat!",
+          "Look at my cap!"
         ],
         "correctIndex": 2,
         "hint": "Look at my cap! → Nhìn cái mũ lưỡi trai của mình này!\n(Chữ cần chọn: cap – mũ lưỡi trai)"
@@ -4941,9 +4941,9 @@
           ""
         ],
         "imageNames": [
-          "boat",
-          "bus",
-          "ball"
+          "Hello! It's a boat.",
+          "Hello! It's a bus.",
+          "Hello! It's a ball."
         ],
         "correctIndex": 2,
         "hint": "Hello! It's a ball. → Xin chào! Đó là quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -4958,9 +4958,9 @@
           ""
         ],
         "imageNames": [
-          "ear",
-          "apple",
-          "arm"
+          "That's my ear.",
+          "That's my apple.",
+          "That's my arm."
         ],
         "correctIndex": 2,
         "hint": "That's my arm. → Kia là cánh tay của mình.\n(Chữ cần chọn: arm – cánh tay)"
@@ -4975,9 +4975,9 @@
           ""
         ],
         "imageNames": [
-          "cap",
-          "can",
-          "class"
+          "I see a cap.",
+          "I see a can.",
+          "I see a class."
         ],
         "correctIndex": 1,
         "hint": "I see a can. → Mình nhìn thấy lon đồ uống.\n(Chữ cần chọn: can – lon đồ uống)"
@@ -4992,9 +4992,9 @@
           ""
         ],
         "imageNames": [
-          "hand",
-          "hat",
-          "ham"
+          "It's my hand.",
+          "It's my hat.",
+          "It's my ham."
         ],
         "correctIndex": 1,
         "hint": "It's my hat. → Đó là cái mũ của mình.\n(Chữ cần chọn: hat – cái mũ)"
@@ -5009,9 +5009,9 @@
           ""
         ],
         "imageNames": [
-          "robot",
-          "roof",
-          "rubber"
+          "Is it a robot?",
+          "Is it a roof?",
+          "Is it a rubber?"
         ],
         "correctIndex": 0,
         "hint": "Is it a robot? → Đó có phải là con người máy không?\n(Chữ cần chọn: robot – người máy)"
@@ -5026,9 +5026,9 @@
           ""
         ],
         "imageNames": [
-          "bear",
-          "balloon",
-          "bike"
+          "He has a bear.",
+          "He has a balloon.",
+          "He has a bike."
         ],
         "correctIndex": 2,
         "hint": "He has a bike. → Cậu ấy có chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -5043,9 +5043,9 @@
           ""
         ],
         "imageNames": [
-          "crayon",
-          "cup",
-          "card"
+          "Show me the crayon, please.",
+          "Show me the cup, please.",
+          "Show me the card, please."
         ],
         "correctIndex": 1,
         "hint": "Show me the cup, please. → Làm ơn chỉ cho mình cái cốc.\n(Chữ cần chọn: cup – cái cốc)"
@@ -5060,9 +5060,9 @@
           ""
         ],
         "imageNames": [
-          "bean",
-          "bread",
-          "beef"
+          "I see chicken.",
+          "I see bread.",
+          "I see beef."
         ],
         "correctIndex": 1,
         "hint": "I see bread. → Mình nhìn thấy bánh mì.\n(Chữ cần chọn: bread – bánh mì)"
@@ -5077,9 +5077,9 @@
           ""
         ],
         "imageNames": [
-          "crow",
-          "crab",
-          "cat"
+          "I like the crow.",
+          "I like the crab.",
+          "I like the cat."
         ],
         "correctIndex": 2,
         "hint": "I like the cat. → Mình thích con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -5094,9 +5094,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "bench",
-          "belt"
+          "I can see a bag.",
+          "I can see a bench.",
+          "I can see a belt."
         ],
         "correctIndex": 0,
         "hint": "I can see a bag. → Mình có thể nhìn thấy cái túi.\n(Chữ cần chọn: bag – cái túi)"
@@ -5111,9 +5111,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "box",
-          "bed"
+          "Is this your bus?",
+          "Is this your box?",
+          "Is this your bed?"
         ],
         "correctIndex": 1,
         "hint": "Is this your box? → Đây có phải cái hộp của bạn không?\n(Chữ cần chọn: box – cái hộp)"
@@ -5985,9 +5985,9 @@
           ""
         ],
         "imageNames": [
-          "door",
-          "desk",
-          "dish"
+          "What's this? It's a door.",
+          "What's this? It's a desk.",
+          "What's this? It's a dish."
         ],
         "correctIndex": 0,
         "hint": "What's this? It's a door. → Đây là gì? Đó là cánh cửa.\n(Chữ cần chọn: door – cánh cửa)"
@@ -6002,9 +6002,9 @@
           ""
         ],
         "imageNames": [
-          "dove",
-          "dolphin",
-          "dog"
+          "Touch the dove.",
+          "Touch the dolphin.",
+          "Touch the dog."
         ],
         "correctIndex": 2,
         "hint": "Touch the dog. → Hãy chạm vào con chó.\n(Chữ cần chọn: dog – con chó)"
@@ -6019,9 +6019,9 @@
           ""
         ],
         "imageNames": [
-          "jeep",
-          "juice",
-          "jacket"
+          "Ba likes jam.",
+          "Ba likes juice.",
+          "Ba likes jelly."
         ],
         "correctIndex": 1,
         "hint": "Ba likes juice. → Ba thích nước ép.\n(Chữ cần chọn: juice – nước ép)"
@@ -6036,9 +6036,9 @@
           ""
         ],
         "imageNames": [
-          "desk",
-          "dish",
-          "deer"
+          "It's a desk.",
+          "It's a dish.",
+          "It's a deer."
         ],
         "correctIndex": 0,
         "hint": "It's a desk. → Đó là cái bàn học.\n(Chữ cần chọn: desk – cái bàn học)"
@@ -6053,9 +6053,9 @@
           ""
         ],
         "imageNames": [
-          "duckling",
-          "donkey",
-          "duck"
+          "Is this your duckling?",
+          "Is this your donkey?",
+          "Is this your duck?"
         ],
         "correctIndex": 2,
         "hint": "Is this your duck? → Đây có phải con vịt của bạn không?\n(Chữ cần chọn: duck – con vịt)"
@@ -6070,9 +6070,9 @@
           ""
         ],
         "imageNames": [
-          "kite",
-          "knee",
-          "kitchen"
+          "I have a kite.",
+          "I have a knee.",
+          "I have a kitchen."
         ],
         "correctIndex": 0,
         "hint": "I have a kite. → Mình có cái diều.\n(Chữ cần chọn: kite – cái diều)"
@@ -6087,9 +6087,9 @@
           ""
         ],
         "imageNames": [
-          "wall",
-          "wind",
-          "window"
+          "Is it a wall?",
+          "Is it a wind?",
+          "Is it a window?"
         ],
         "correctIndex": 2,
         "hint": "Is it a window? → Đó có phải là cái cửa sổ không?\n(Chữ cần chọn: window – cái cửa sổ)"
@@ -6104,9 +6104,9 @@
           ""
         ],
         "imageNames": [
-          "doctor",
-          "dish",
-          "door"
+          "She has a doctor.",
+          "She has a dish.",
+          "She has a door."
         ],
         "correctIndex": 2,
         "hint": "She has a door. → Cô ấy có cánh cửa.\n(Chữ cần chọn: door – cánh cửa)"
@@ -6121,9 +6121,9 @@
           ""
         ],
         "imageNames": [
-          "horse",
-          "hat",
-          "hen"
+          "Ba has a horse.",
+          "Ba has a hat.",
+          "Ba has a hen."
         ],
         "correctIndex": 2,
         "hint": "Ba has a hen. → Ba có con gà mái.\n(Chữ cần chọn: hen – con gà mái)"
@@ -6138,9 +6138,9 @@
           ""
         ],
         "imageNames": [
-          "donkey",
-          "deer",
-          "dog"
+          "This is my donkey.",
+          "This is my deer.",
+          "This is my dog."
         ],
         "correctIndex": 2,
         "hint": "This is my dog. → Đây là con chó của mình.\n(Chữ cần chọn: dog – con chó)"
@@ -6155,9 +6155,9 @@
           ""
         ],
         "imageNames": [
-          "dove",
-          "dress",
-          "desk"
+          "Hi! I have a dove.",
+          "Hi! I have a dress.",
+          "Hi! I have a desk."
         ],
         "correctIndex": 2,
         "hint": "Hi! I have a desk. → Chào! Mình có cái bàn học.\n(Chữ cần chọn: desk – cái bàn học)"
@@ -6172,9 +6172,9 @@
           ""
         ],
         "imageNames": [
-          "rabbit",
-          "rubber",
-          "rice"
+          "I like the rabbit.",
+          "I like the rubber.",
+          "I like the rice."
         ],
         "correctIndex": 0,
         "hint": "I like the rabbit. → Mình thích con thỏ.\n(Chữ cần chọn: rabbit – con thỏ)"
@@ -6189,9 +6189,9 @@
           ""
         ],
         "imageNames": [
-          "duck",
-          "deer",
-          "donkey"
+          "It's a duck.",
+          "It's a deer.",
+          "It's a donkey."
         ],
         "correctIndex": 0,
         "hint": "It's a duck. → Đó là con vịt.\n(Chữ cần chọn: duck – con vịt)"
@@ -6206,9 +6206,9 @@
           ""
         ],
         "imageNames": [
-          "water",
-          "window",
-          "fridge"
+          "I see a wall.",
+          "I see a window.",
+          "I see a fridge."
         ],
         "correctIndex": 1,
         "hint": "I see a window. → Mình nhìn thấy cái cửa sổ.\n(Chữ cần chọn: window – cái cửa sổ)"
@@ -6223,9 +6223,9 @@
           ""
         ],
         "imageNames": [
-          "car",
-          "cap",
-          "card"
+          "Yes, it's my car.",
+          "Yes, it's my cap.",
+          "Yes, it's my card."
         ],
         "correctIndex": 0,
         "hint": "Yes, it's my car. → Vâng, đó là chiếc ô tô của mình.\n(Chữ cần chọn: car – ô tô)"
@@ -6240,9 +6240,9 @@
           ""
         ],
         "imageNames": [
-          "door",
-          "dish",
-          "drum"
+          "Look at my door!",
+          "Look at my dish!",
+          "Look at my drum!"
         ],
         "correctIndex": 0,
         "hint": "Look at my door! → Nhìn cánh cửa của mình này!\n(Chữ cần chọn: door – cánh cửa)"
@@ -6257,9 +6257,9 @@
           ""
         ],
         "imageNames": [
-          "dog",
-          "dolphin",
-          "donkey"
+          "Hi! I have a dog.",
+          "Hi! I have a dolphin.",
+          "Hi! I have a donkey."
         ],
         "correctIndex": 0,
         "hint": "Hi! I have a dog. → Chào! Mình có con chó.\n(Chữ cần chọn: dog – con chó)"
@@ -6274,9 +6274,9 @@
           ""
         ],
         "imageNames": [
-          "foot",
-          "frog",
-          "floor"
+          "She has a foot.",
+          "She has a frog.",
+          "She has a father."
         ],
         "correctIndex": 1,
         "hint": "She has a frog. → Cô ấy có con ếch.\n(Chữ cần chọn: frog – con ếch)"
@@ -6291,9 +6291,9 @@
           ""
         ],
         "imageNames": [
-          "door",
-          "desk",
-          "deer"
+          "Is it a door?",
+          "Is it a desk?",
+          "Is it a deer?"
         ],
         "correctIndex": 1,
         "hint": "Is it a desk? → Đó có phải là cái bàn học không?\n(Chữ cần chọn: desk – cái bàn học)"
@@ -6308,9 +6308,9 @@
           ""
         ],
         "imageNames": [
-          "donkey",
-          "dolphin",
-          "duck"
+          "That's a donkey.",
+          "That's a dolphin.",
+          "That's a duck."
         ],
         "correctIndex": 2,
         "hint": "That's a duck. → Kia là con vịt.\n(Chữ cần chọn: duck – con vịt)"
@@ -6325,9 +6325,9 @@
           ""
         ],
         "imageNames": [
-          "banana",
-          "butter",
-          "bread"
+          "Where's the banana?",
+          "Where's the butter?",
+          "Where's the bread?"
         ],
         "correctIndex": 2,
         "hint": "Where's the bread? → Bánh mì ở đâu?\n(Chữ cần chọn: bread – bánh mì)"
@@ -6342,9 +6342,9 @@
           ""
         ],
         "imageNames": [
-          "window",
-          "wall",
-          "kitchen"
+          "Mary has a window.",
+          "Mary has an ant.",
+          "Mary has a kitchen."
         ],
         "correctIndex": 0,
         "hint": "Mary has a window. → Mary có cái cửa sổ.\n(Chữ cần chọn: window – cái cửa sổ)"
@@ -6359,9 +6359,9 @@
           ""
         ],
         "imageNames": [
-          "dish",
-          "doll",
-          "door"
+          "Touch the dish.",
+          "Touch the doll.",
+          "Touch the door."
         ],
         "correctIndex": 2,
         "hint": "Touch the door. → Hãy chạm vào cánh cửa.\n(Chữ cần chọn: door – cánh cửa)"
@@ -6376,9 +6376,9 @@
           ""
         ],
         "imageNames": [
-          "pig",
-          "panda",
-          "pot"
+          "I have a pig.",
+          "I have a panda.",
+          "I have a pot."
         ],
         "correctIndex": 0,
         "hint": "I have a pig. → Mình có con lợn.\n(Chữ cần chọn: pig – con lợn)"
@@ -6393,9 +6393,9 @@
           ""
         ],
         "imageNames": [
-          "dog",
-          "deer",
-          "dolphin"
+          "I want a dog.",
+          "I want a deer.",
+          "I want a dolphin."
         ],
         "correctIndex": 0,
         "hint": "I want a dog. → Mình muốn con chó.\n(Chữ cần chọn: dog – con chó)"
@@ -6410,9 +6410,9 @@
           ""
         ],
         "imageNames": [
-          "door",
-          "dress",
-          "desk"
+          "I have a deer.",
+          "I have a dress.",
+          "I have a desk."
         ],
         "correctIndex": 2,
         "hint": "I have a desk. → Mình có cái bàn học.\n(Chữ cần chọn: desk – cái bàn học)"
@@ -6427,9 +6427,9 @@
           ""
         ],
         "imageNames": [
-          "bath",
-          "bed",
-          "bowl"
+          "I like my bath.",
+          "I like my bed.",
+          "I like my bowl."
         ],
         "correctIndex": 1,
         "hint": "I like my bed. → Mình thích cái giường của mình.\n(Chữ cần chọn: bed – cái giường)"
@@ -6444,9 +6444,9 @@
           ""
         ],
         "imageNames": [
-          "dog",
-          "duck",
-          "duckling"
+          "Where's the dog?",
+          "Where's the duck?",
+          "Where's the duckling?"
         ],
         "correctIndex": 1,
         "hint": "Where's the duck? → Con vịt ở đâu?\n(Chữ cần chọn: duck – con vịt)"
@@ -6461,9 +6461,9 @@
           ""
         ],
         "imageNames": [
-          "window",
-          "water",
-          "woman"
+          "Ba has a window.",
+          "Ba has a deer.",
+          "Ba has a doctor."
         ],
         "correctIndex": 0,
         "hint": "Ba has a window. → Ba có cái cửa sổ.\n(Chữ cần chọn: window – cái cửa sổ)"
@@ -6478,9 +6478,9 @@
           ""
         ],
         "imageNames": [
-          "salad",
-          "apple",
-          "ant"
+          "Point to the salad.",
+          "Point to the apple.",
+          "Point to the ant."
         ],
         "correctIndex": 1,
         "hint": "Point to the apple. → Hãy chỉ vào quả táo.\n(Chữ cần chọn: apple – quả táo)"
@@ -6495,9 +6495,9 @@
           ""
         ],
         "imageNames": [
-          "duck",
-          "dolphin",
-          "duckling"
+          "Hello! It's a duck.",
+          "Hello! It's a dolphin.",
+          "Hello! It's a duckling."
         ],
         "correctIndex": 0,
         "hint": "Hello! It's a duck. → Xin chào! Đó là con vịt.\n(Chữ cần chọn: duck – con vịt)"
@@ -6512,9 +6512,9 @@
           ""
         ],
         "imageNames": [
-          "dress",
-          "deer",
-          "desk"
+          "Yes, it's my dress.",
+          "Yes, it's my deer.",
+          "Yes, it's my desk."
         ],
         "correctIndex": 2,
         "hint": "Yes, it's my desk. → Vâng, đó là cái bàn học của mình.\n(Chữ cần chọn: desk – cái bàn học)"
@@ -6529,9 +6529,9 @@
           ""
         ],
         "imageNames": [
-          "eagle",
-          "eraser",
-          "egg"
+          "It's an eagle.",
+          "It's an eraser.",
+          "It's an egg."
         ],
         "correctIndex": 2,
         "hint": "It's an egg. → Đó là quả trứng.\n(Chữ cần chọn: egg – quả trứng)"
@@ -6546,9 +6546,9 @@
           ""
         ],
         "imageNames": [
-          "lemon",
-          "salad",
-          "apple"
+          "Is it a lemon?",
+          "Is it a salad?",
+          "Is it an apple?"
         ],
         "correctIndex": 2,
         "hint": "Is it an apple? → Đó có phải là quả táo không?\n(Chữ cần chọn: apple – quả táo)"
@@ -6563,9 +6563,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "bat",
-          "boat"
+          "Hi! I have a bike.",
+          "Hi! I have a bat.",
+          "Hi! I have a boat."
         ],
         "correctIndex": 0,
         "hint": "Hi! I have a bike. → Chào! Mình có chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -6580,9 +6580,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "ant",
-          "arm"
+          "Yes, it's my hair.",
+          "Yes, it's my ant.",
+          "Yes, it's my arm."
         ],
         "correctIndex": 2,
         "hint": "Yes, it's my arm. → Vâng, đó là cánh tay của mình.\n(Chữ cần chọn: arm – cánh tay)"
@@ -6597,9 +6597,9 @@
           ""
         ],
         "imageNames": [
-          "dove",
-          "doctor",
-          "door"
+          "Hello! It's a dove.",
+          "Hello! It's a doctor.",
+          "Hello! It's a door."
         ],
         "correctIndex": 2,
         "hint": "Hello! It's a door. → Xin chào! Đó là cánh cửa.\n(Chữ cần chọn: door – cánh cửa)"
@@ -6614,9 +6614,9 @@
           ""
         ],
         "imageNames": [
-          "woman",
-          "window",
-          "fridge"
+          "Look at my water!",
+          "Look at my window!",
+          "Look at my card!"
         ],
         "correctIndex": 1,
         "hint": "Look at my window! → Nhìn cái cửa sổ của mình này!\n(Chữ cần chọn: window – cái cửa sổ)"
@@ -6631,9 +6631,9 @@
           ""
         ],
         "imageNames": [
-          "bun",
-          "banana",
-          "bread"
+          "I have some bun.",
+          "I have some banana.",
+          "I have some bread."
         ],
         "correctIndex": 2,
         "hint": "I have some bread. → Mình có một ít bánh mì.\n(Chữ cần chọn: bread – bánh mì)"
@@ -6648,9 +6648,9 @@
           ""
         ],
         "imageNames": [
-          "hand",
-          "hill",
-          "hat"
+          "Look at my hand!",
+          "Look at my head!",
+          "Look at my hat!"
         ],
         "correctIndex": 2,
         "hint": "Look at my hat! → Nhìn cái mũ của mình này!\n(Chữ cần chọn: hat – cái mũ)"
@@ -6665,9 +6665,9 @@
           ""
         ],
         "imageNames": [
-          "cheese",
-          "cake",
-          "cream"
+          "I can see a class.",
+          "I can see a cake.",
+          "I can see a cat."
         ],
         "correctIndex": 1,
         "hint": "I can see a cake. → Mình có thể nhìn thấy cái bánh.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -6682,9 +6682,9 @@
           ""
         ],
         "imageNames": [
-          "elephant",
-          "dolphin",
-          "eye"
+          "It's my elephant.",
+          "It's my dolphin.",
+          "It's my eye."
         ],
         "correctIndex": 0,
         "hint": "It's my elephant. → Đó là con voi của mình.\n(Chữ cần chọn: elephant – con voi)"
@@ -6699,9 +6699,9 @@
           ""
         ],
         "imageNames": [
-          "cup",
-          "chair",
-          "class"
+          "I can see a cup.",
+          "I can see a chair.",
+          "I can see a class."
         ],
         "correctIndex": 0,
         "hint": "I can see a cup. → Mình có thể nhìn thấy cái cốc.\n(Chữ cần chọn: cup – cái cốc)"
@@ -6716,9 +6716,9 @@
           ""
         ],
         "imageNames": [
-          "flower",
-          "father",
-          "finger"
+          "Look at that flower!",
+          "Look at that father!",
+          "Look at that finger!"
         ],
         "correctIndex": 0,
         "hint": "Look at that flower! → Nhìn bông hoa kia kìa!\n(Chữ cần chọn: flower – bông hoa)"
@@ -6733,9 +6733,9 @@
           ""
         ],
         "imageNames": [
-          "cat",
-          "coat",
-          "cow"
+          "Ba has a cat.",
+          "Ba has a coat.",
+          "Ba has a cow."
         ],
         "correctIndex": 0,
         "hint": "Ba has a cat. → Ba có con mèo.\n(Chữ cần chọn: cat – con mèo)"
@@ -6750,9 +6750,9 @@
           ""
         ],
         "imageNames": [
-          "board",
-          "boot",
-          "bag"
+          "Is this your board?",
+          "Is this your boot?",
+          "Is this your bag?"
         ],
         "correctIndex": 2,
         "hint": "Is this your bag? → Đây có phải cái túi của bạn không?\n(Chữ cần chọn: bag – cái túi)"
@@ -6767,9 +6767,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "boat",
-          "bear"
+          "I like the bus.",
+          "I like the boat.",
+          "I like the bear."
         ],
         "correctIndex": 1,
         "hint": "I like the boat. → Mình thích con thuyền.\n(Chữ cần chọn: boat – con thuyền)"
@@ -6784,9 +6784,9 @@
           ""
         ],
         "imageNames": [
-          "boat",
-          "bat",
-          "ball"
+          "Here's a boat.",
+          "Here's a bat.",
+          "Here's a ball."
         ],
         "correctIndex": 2,
         "hint": "Here's a ball. → Đây là quả bóng.\n(Chữ cần chọn: ball – quả bóng)"
@@ -6801,9 +6801,9 @@
           ""
         ],
         "imageNames": [
-          "duckling",
-          "donkey",
-          "dog"
+          "It's a duckling.",
+          "It's a donkey.",
+          "It's a dog."
         ],
         "correctIndex": 2,
         "hint": "It's a dog. → Đó là con chó.\n(Chữ cần chọn: dog – con chó)"
@@ -6818,9 +6818,9 @@
           ""
         ],
         "imageNames": [
-          "baby",
-          "bird",
-          "bee"
+          "Where's the baby?",
+          "Where's the bird?",
+          "Where's the bee?"
         ],
         "correctIndex": 1,
         "hint": "Where's the bird? → Con chim ở đâu?\n(Chữ cần chọn: bird – con chim)"
@@ -7692,9 +7692,9 @@
           ""
         ],
         "imageNames": [
-          "fish",
-          "frog",
-          "foot"
+          "I like fish.",
+          "I like coffee.",
+          "I like chips."
         ],
         "correctIndex": 0,
         "hint": "I like fish. → Mình thích cá.\n(Chữ cần chọn: fish – cá)"
@@ -7709,9 +7709,9 @@
           ""
         ],
         "imageNames": [
-          "milk",
-          "moon",
-          "mat"
+          "We like milk.",
+          "We like meat.",
+          "We like juice."
         ],
         "correctIndex": 0,
         "hint": "We like milk. → Chúng mình thích sữa.\n(Chữ cần chọn: milk – sữa)"
@@ -7726,9 +7726,9 @@
           ""
         ],
         "imageNames": [
-          "teddy",
-          "knife",
-          "kite"
+          "He has a teddy.",
+          "He has a knife.",
+          "He has a kite."
         ],
         "correctIndex": 2,
         "hint": "He has a kite. → Cậu ấy có cái diều.\n(Chữ cần chọn: kite – cái diều)"
@@ -7743,9 +7743,9 @@
           ""
         ],
         "imageNames": [
-          "coffee",
-          "chicken",
-          "carrot"
+          "I want some coffee.",
+          "I want some chicken.",
+          "I want some carrot."
         ],
         "correctIndex": 1,
         "hint": "I want some chicken. → Mình muốn một ít thịt gà.\n(Chữ cần chọn: chicken – thịt gà)"
@@ -7760,9 +7760,9 @@
           ""
         ],
         "imageNames": [
-          "cream",
-          "chips",
-          "cookie"
+          "Are they cream?",
+          "Are they chips?",
+          "Are they chicken?"
         ],
         "correctIndex": 1,
         "hint": "Are they chips? → Đó có phải là khoai tây chiên không?\n(Chữ cần chọn: chips – khoai tây chiên)"
@@ -7777,9 +7777,9 @@
           ""
         ],
         "imageNames": [
-          "face",
-          "ant",
-          "arm"
+          "Shake your face.",
+          "Shake your ant.",
+          "Shake your arm."
         ],
         "correctIndex": 2,
         "hint": "Shake your arm. → Hãy lắc cánh tay của bạn.\n(Chữ cần chọn: arm – cánh tay)"
@@ -7794,9 +7794,9 @@
           ""
         ],
         "imageNames": [
-          "fox",
-          "fish",
-          "face"
+          "Hi! I like beef.",
+          "Hi! I like fish.",
+          "Hi! I like meat."
         ],
         "correctIndex": 1,
         "hint": "Hi! I like fish. → Chào! Mình thích cá.\n(Chữ cần chọn: fish – cá)"
@@ -7811,9 +7811,9 @@
           ""
         ],
         "imageNames": [
-          "meat",
-          "milk",
-          "monkey"
+          "Look! Meat!",
+          "Look! Milk!",
+          "Look! Rice!"
         ],
         "correctIndex": 1,
         "hint": "Look! Milk! → Nhìn kìa! Sữa!\n(Chữ cần chọn: milk – sữa)"
@@ -7828,9 +7828,9 @@
           ""
         ],
         "imageNames": [
-          "crab",
-          "cat",
-          "chick"
+          "Where's the crab?",
+          "Where's the cat?",
+          "Where's the chick?"
         ],
         "correctIndex": 1,
         "hint": "Where's the cat? → Con mèo ở đâu?\n(Chữ cần chọn: cat – con mèo)"
@@ -7845,9 +7845,9 @@
           ""
         ],
         "imageNames": [
-          "chicken",
-          "coffee",
-          "cherry"
+          "Where's the chicken?",
+          "Where's the coffee?",
+          "Where's the cherry?"
         ],
         "correctIndex": 0,
         "hint": "Where's the chicken? → Thịt gà ở đâu?\n(Chữ cần chọn: chicken – thịt gà)"
@@ -7862,9 +7862,9 @@
           ""
         ],
         "imageNames": [
-          "chips",
-          "carrot",
-          "cherry"
+          "Show me the chips.",
+          "Show me the carrot.",
+          "Show me the cherry."
         ],
         "correctIndex": 0,
         "hint": "Show me the chips. → Chỉ cho mình khoai tây chiên.\n(Chữ cần chọn: chips – khoai tây chiên)"
@@ -7879,9 +7879,9 @@
           ""
         ],
         "imageNames": [
-          "pie",
-          "parrot",
-          "pig"
+          "Show me the pie, please.",
+          "Show me the parrot, please.",
+          "Show me the pig, please."
         ],
         "correctIndex": 2,
         "hint": "Show me the pig, please. → Làm ơn chỉ cho mình con lợn.\n(Chữ cần chọn: pig – con lợn)"
@@ -7896,9 +7896,9 @@
           ""
         ],
         "imageNames": [
-          "fox",
-          "fish",
-          "foot"
+          "It's chips.",
+          "It's fish.",
+          "It's chicken."
         ],
         "correctIndex": 1,
         "hint": "It's fish. → Đó là cá.\n(Chữ cần chọn: fish – cá)"
@@ -7913,9 +7913,9 @@
           ""
         ],
         "imageNames": [
-          "mum",
-          "milk",
-          "monkey"
+          "I like meat.",
+          "I like milk.",
+          "I like candy."
         ],
         "correctIndex": 1,
         "hint": "I like milk. → Mình thích sữa.\n(Chữ cần chọn: milk – sữa)"
@@ -7930,9 +7930,9 @@
           ""
         ],
         "imageNames": [
-          "rubber",
-          "rabbit",
-          "river"
+          "I see a rubber.",
+          "I see a rabbit.",
+          "I see a river."
         ],
         "correctIndex": 1,
         "hint": "I see a rabbit. → Mình nhìn thấy con thỏ.\n(Chữ cần chọn: rabbit – con thỏ)"
@@ -7947,9 +7947,9 @@
           ""
         ],
         "imageNames": [
-          "chicken",
-          "candy",
-          "cheese"
+          "Yes, I like chicken.",
+          "Yes, I like candy.",
+          "Yes, I like cheese."
         ],
         "correctIndex": 0,
         "hint": "Yes, I like chicken. → Vâng, mình thích thịt gà.\n(Chữ cần chọn: chicken – thịt gà)"
@@ -7964,9 +7964,9 @@
           ""
         ],
         "imageNames": [
-          "coffee",
-          "corn",
-          "chips"
+          "Yes, they're coffee.",
+          "Yes, they're corn.",
+          "Yes, they're chips."
         ],
         "correctIndex": 2,
         "hint": "Yes, they're chips. → Vâng, đó là khoai tây chiên.\n(Chữ cần chọn: chips – khoai tây chiên)"
@@ -7981,9 +7981,9 @@
           ""
         ],
         "imageNames": [
-          "block",
-          "bike",
-          "bear"
+          "Point to the block.",
+          "Point to the bike.",
+          "Point to the bear."
         ],
         "correctIndex": 1,
         "hint": "Point to the bike. → Hãy chỉ vào chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -7998,9 +7998,9 @@
           ""
         ],
         "imageNames": [
-          "fox",
-          "fork",
-          "fish"
+          "Here's some fox.",
+          "Here's some fork.",
+          "Here's some fish."
         ],
         "correctIndex": 2,
         "hint": "Here's some fish. → Đây là một ít cá.\n(Chữ cần chọn: fish – cá)"
@@ -8015,9 +8015,9 @@
           ""
         ],
         "imageNames": [
-          "mango",
-          "milk",
-          "moon"
+          "I want some mango.",
+          "I want some milk.",
+          "I want some moon."
         ],
         "correctIndex": 1,
         "hint": "I want some milk. → Mình muốn một ít sữa.\n(Chữ cần chọn: milk – sữa)"
@@ -8032,9 +8032,9 @@
           ""
         ],
         "imageNames": [
-          "skirt",
-          "shoe",
-          "shelf"
+          "I like the skirt.",
+          "I like the shoe.",
+          "I like the shelf."
         ],
         "correctIndex": 1,
         "hint": "I like the shoe. → Mình thích chiếc giày.\n(Chữ cần chọn: shoe – chiếc giày)"
@@ -8049,9 +8049,9 @@
           ""
         ],
         "imageNames": [
-          "chicken",
-          "cream",
-          "chips"
+          "It's chicken.",
+          "It's cream.",
+          "It's chips."
         ],
         "correctIndex": 0,
         "hint": "It's chicken. → Đó là thịt gà.\n(Chữ cần chọn: chicken – thịt gà)"
@@ -8066,9 +8066,9 @@
           ""
         ],
         "imageNames": [
-          "carrot",
-          "corn",
-          "chips"
+          "I like chicken.",
+          "I like corn.",
+          "I like chips."
         ],
         "correctIndex": 2,
         "hint": "I like chips. → Mình thích khoai tây chiên.\n(Chữ cần chọn: chips – khoai tây chiên)"
@@ -8083,9 +8083,9 @@
           ""
         ],
         "imageNames": [
-          "dove",
-          "duck",
-          "dog"
+          "Wow! A dove!",
+          "Wow! A duck!",
+          "Wow! A dog!"
         ],
         "correctIndex": 2,
         "hint": "Wow! A dog! → Ồ! Con chó!\n(Chữ cần chọn: dog – con chó)"
@@ -8100,9 +8100,9 @@
           ""
         ],
         "imageNames": [
-          "fridge",
-          "fish",
-          "fox"
+          "Mary likes jam.",
+          "Mary likes fish.",
+          "Mary likes beef."
         ],
         "correctIndex": 1,
         "hint": "Mary likes fish. → Mary thích cá.\n(Chữ cần chọn: fish – cá)"
@@ -8117,9 +8117,9 @@
           ""
         ],
         "imageNames": [
-          "meat",
-          "mango",
-          "milk"
+          "Do you like meat?",
+          "Do you like jam?",
+          "Do you like milk?"
         ],
         "correctIndex": 2,
         "hint": "Do you like milk? → Bạn có thích sữa không?\n(Chữ cần chọn: milk – sữa)"
@@ -8134,9 +8134,9 @@
           ""
         ],
         "imageNames": [
-          "rubber",
-          "room",
-          "robot"
+          "Hello! It's a rubber.",
+          "Hello! It's a room.",
+          "Hello! It's a robot."
         ],
         "correctIndex": 2,
         "hint": "Hello! It's a robot. → Xin chào! Đó là con người máy.\n(Chữ cần chọn: robot – người máy)"
@@ -8151,9 +8151,9 @@
           ""
         ],
         "imageNames": [
-          "chicken",
-          "corn",
-          "cream"
+          "Ba likes chicken.",
+          "Ba likes corn.",
+          "Ba likes cream."
         ],
         "correctIndex": 0,
         "hint": "Ba likes chicken. → Ba thích thịt gà.\n(Chữ cần chọn: chicken – thịt gà)"
@@ -8168,9 +8168,9 @@
           ""
         ],
         "imageNames": [
-          "chips",
-          "cheese",
-          "cherry"
+          "They're chips.",
+          "They're cheese.",
+          "They're candy."
         ],
         "correctIndex": 0,
         "hint": "They're chips. → Đó là khoai tây chiên.\n(Chữ cần chọn: chips – khoai tây chiên)"
@@ -8185,9 +8185,9 @@
           ""
         ],
         "imageNames": [
-          "bean",
-          "bun",
-          "bread"
+          "This is beef.",
+          "This is meat.",
+          "This is bread."
         ],
         "correctIndex": 2,
         "hint": "This is bread. → Đây là bánh mì.\n(Chữ cần chọn: bread – bánh mì)"
@@ -8202,9 +8202,9 @@
           ""
         ],
         "imageNames": [
-          "duck",
-          "duckling",
-          "dove"
+          "I like my duck.",
+          "I like my duckling.",
+          "I like my dove."
         ],
         "correctIndex": 0,
         "hint": "I like my duck. → Mình thích con vịt của mình.\n(Chữ cần chọn: duck – con vịt)"
@@ -8219,9 +8219,9 @@
           ""
         ],
         "imageNames": [
-          "rabbit",
-          "rain",
-          "river"
+          "What's this? It's a rabbit.",
+          "What's this? It's a roof.",
+          "What's this? It's a river."
         ],
         "correctIndex": 0,
         "hint": "What's this? It's a rabbit. → Đây là gì? Đó là con thỏ.\n(Chữ cần chọn: rabbit – con thỏ)"
@@ -8236,9 +8236,9 @@
           ""
         ],
         "imageNames": [
-          "door",
-          "drum",
-          "doctor"
+          "Point to the door.",
+          "Point to the drum.",
+          "Point to the doctor."
         ],
         "correctIndex": 0,
         "hint": "Point to the door. → Hãy chỉ vào cánh cửa.\n(Chữ cần chọn: door – cánh cửa)"
@@ -8253,9 +8253,9 @@
           ""
         ],
         "imageNames": [
-          "woman",
-          "window",
-          "wind"
+          "Point to the woman.",
+          "Point to the window.",
+          "Point to the wind."
         ],
         "correctIndex": 1,
         "hint": "Point to the window. → Hãy chỉ vào cái cửa sổ.\n(Chữ cần chọn: window – cái cửa sổ)"
@@ -8270,9 +8270,9 @@
           ""
         ],
         "imageNames": [
-          "hen",
-          "hat",
-          "head"
+          "Mary has a hen.",
+          "Mary has a hat.",
+          "Mary has a head."
         ],
         "correctIndex": 0,
         "hint": "Mary has a hen. → Mary có con gà mái.\n(Chữ cần chọn: hen – con gà mái)"
@@ -8287,9 +8287,9 @@
           ""
         ],
         "imageNames": [
-          "cup",
-          "chair",
-          "crayon"
+          "I have a cup.",
+          "I have a chair.",
+          "I have a crayon."
         ],
         "correctIndex": 0,
         "hint": "I have a cup. → Mình có cái cốc.\n(Chữ cần chọn: cup – cái cốc)"
@@ -8304,9 +8304,9 @@
           ""
         ],
         "imageNames": [
-          "sheep",
-          "ship",
-          "spider"
+          "This is my sheep.",
+          "This is my ship.",
+          "This is my spider."
         ],
         "correctIndex": 0,
         "hint": "This is my sheep. → Đây là con cừu của mình.\n(Chữ cần chọn: sheep – con cừu)"
@@ -8321,9 +8321,9 @@
           ""
         ],
         "imageNames": [
-          "chair",
-          "crayon",
-          "can"
+          "I have a chair.",
+          "I have a crayon.",
+          "I have a can."
         ],
         "correctIndex": 2,
         "hint": "I have a can. → Mình có lon đồ uống.\n(Chữ cần chọn: can – lon đồ uống)"
@@ -8338,9 +8338,9 @@
           ""
         ],
         "imageNames": [
-          "dress",
-          "desk",
-          "dish"
+          "Here's a dress.",
+          "Here's a desk.",
+          "Here's a dish."
         ],
         "correctIndex": 1,
         "hint": "Here's a desk. → Đây là cái bàn học.\n(Chữ cần chọn: desk – cái bàn học)"
@@ -8355,9 +8355,9 @@
           ""
         ],
         "imageNames": [
-          "ant",
-          "ear",
-          "arm"
+          "Look at my ant!",
+          "Look at my ear!",
+          "Look at my arm!"
         ],
         "correctIndex": 2,
         "hint": "Look at my arm! → Nhìn cánh tay của mình này!\n(Chữ cần chọn: arm – cánh tay)"
@@ -8372,9 +8372,9 @@
           ""
         ],
         "imageNames": [
-          "duckling",
-          "dolphin",
-          "dog"
+          "It's my duckling.",
+          "It's my dolphin.",
+          "It's my dog."
         ],
         "correctIndex": 2,
         "hint": "It's my dog. → Đó là con chó của mình.\n(Chữ cần chọn: dog – con chó)"
@@ -8389,9 +8389,9 @@
           ""
         ],
         "imageNames": [
-          "corn",
-          "chips",
-          "candy"
+          "Wow! Corn!",
+          "Wow! Chips!",
+          "Wow! Candy!"
         ],
         "correctIndex": 1,
         "hint": "Wow! Chips! → Ồ! Khoai tây chiên!\n(Chữ cần chọn: chips – khoai tây chiên)"
@@ -8406,9 +8406,9 @@
           ""
         ],
         "imageNames": [
-          "chair",
-          "crayon",
-          "class"
+          "I see a chair.",
+          "I see a crayon.",
+          "I see a class."
         ],
         "correctIndex": 0,
         "hint": "I see a chair. → Mình nhìn thấy cái ghế.\n(Chữ cần chọn: chair – cái ghế)"
@@ -8423,9 +8423,9 @@
           ""
         ],
         "imageNames": [
-          "fork",
-          "fish",
-          "fridge"
+          "Do you like tea?",
+          "Do you like fish?",
+          "Do you like jelly?"
         ],
         "correctIndex": 1,
         "hint": "Do you like fish? → Bạn có thích cá không?\n(Chữ cần chọn: fish – cá)"
@@ -8440,9 +8440,9 @@
           ""
         ],
         "imageNames": [
-          "carrot",
-          "cookie",
-          "chicken"
+          "I like cheese.",
+          "I like corn.",
+          "I like chicken."
         ],
         "correctIndex": 2,
         "hint": "I like chicken. → Mình thích thịt gà.\n(Chữ cần chọn: chicken – thịt gà)"
@@ -8457,9 +8457,9 @@
           ""
         ],
         "imageNames": [
-          "pig",
-          "pie",
-          "pot"
+          "That's a pig.",
+          "That's a pie.",
+          "That's a pot."
         ],
         "correctIndex": 0,
         "hint": "That's a pig. → Kia là con lợn.\n(Chữ cần chọn: pig – con lợn)"
@@ -8474,9 +8474,9 @@
           ""
         ],
         "imageNames": [
-          "car",
-          "cake",
-          "cap"
+          "Show me the car, please.",
+          "Show me the cake, please.",
+          "Show me the cap, please."
         ],
         "correctIndex": 0,
         "hint": "Show me the car, please. → Làm ơn chỉ cho mình chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -8491,9 +8491,9 @@
           ""
         ],
         "imageNames": [
-          "apple",
-          "salad",
-          "grape"
+          "Look at the apple!",
+          "Look at the salad!",
+          "Look at the grape!"
         ],
         "correctIndex": 0,
         "hint": "Look at the apple! → Nhìn quả táo kìa!\n(Chữ cần chọn: apple – quả táo)"
@@ -8508,9 +8508,9 @@
           ""
         ],
         "imageNames": [
-          "brother",
-          "bedroom",
-          "baby"
+          "It's my brother.",
+          "It's my bedroom.",
+          "It's my bin."
         ],
         "correctIndex": 0,
         "hint": "It's my brother. → Đó là anh/em trai của mình.\n(Chữ cần chọn: brother – anh/em trai)"
@@ -8525,9 +8525,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "bin",
-          "boot"
+          "Look! A bag!",
+          "Look! A bin!",
+          "Look! A boot!"
         ],
         "correctIndex": 0,
         "hint": "Look! A bag! → Nhìn kìa! Cái túi!\n(Chữ cần chọn: bag – cái túi)"
@@ -9399,9 +9399,9 @@
           ""
         ],
         "imageNames": [
-          "pond",
-          "pen",
-          "paper"
+          "My pond is here.",
+          "My pen is here.",
+          "My paper is here."
         ],
         "correctIndex": 1,
         "hint": "My pen is here. → Cái bút mực của mình ở đây.\n(Chữ cần chọn: pen – cái bút mực)"
@@ -9416,9 +9416,9 @@
           ""
         ],
         "imageNames": [
-          "puzzle",
-          "plate",
-          "pencil"
+          "Is this your puzzle?",
+          "Is this your plate?",
+          "Is this your pencil?"
         ],
         "correctIndex": 2,
         "hint": "Is this your pencil? → Đây có phải cái bút chì của bạn không?\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -9433,9 +9433,9 @@
           ""
         ],
         "imageNames": [
-          "desk",
-          "duck",
-          "door"
+          "I like the desk.",
+          "I like the duck.",
+          "I like the door."
         ],
         "correctIndex": 0,
         "hint": "I like the desk. → Mình thích cái bàn học.\n(Chữ cần chọn: desk – cái bàn học)"
@@ -9450,9 +9450,9 @@
           ""
         ],
         "imageNames": [
-          "bell",
-          "bin",
-          "bench"
+          "I can see a bell.",
+          "I can see a bin.",
+          "I can see a bench."
         ],
         "correctIndex": 0,
         "hint": "I can see a bell. → Mình có thể nhìn thấy cái chuông.\n(Chữ cần chọn: bell – cái chuông)"
@@ -9467,9 +9467,9 @@
           ""
         ],
         "imageNames": [
-          "pear",
-          "pie",
-          "pen"
+          "This is my pear.",
+          "This is my pie.",
+          "This is my pen."
         ],
         "correctIndex": 2,
         "hint": "This is my pen. → Đây là cái bút mực của mình.\n(Chữ cần chọn: pen – cái bút mực)"
@@ -9484,9 +9484,9 @@
           ""
         ],
         "imageNames": [
-          "tree",
-          "toe",
-          "truck"
+          "What's this? It's a tree.",
+          "What's this? It's a toe.",
+          "What's this? It's a truck."
         ],
         "correctIndex": 0,
         "hint": "What's this? It's a tree. → Đây là gì? Đó là cái cây.\n(Chữ cần chọn: tree – cái cây)"
@@ -9501,9 +9501,9 @@
           ""
         ],
         "imageNames": [
-          "pencil",
-          "pizza",
-          "paper"
+          "Touch the pencil.",
+          "Touch the pizza.",
+          "Touch the paper."
         ],
         "correctIndex": 0,
         "hint": "Touch the pencil. → Hãy chạm vào cái bút chì.\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -9518,9 +9518,9 @@
           ""
         ],
         "imageNames": [
-          "bell",
-          "board",
-          "bin"
+          "Hi! I have a bell.",
+          "Hi! I have a board.",
+          "Hi! I have a bin."
         ],
         "correctIndex": 0,
         "hint": "Hi! I have a bell. → Chào! Mình có cái chuông.\n(Chữ cần chọn: bell – cái chuông)"
@@ -9535,9 +9535,9 @@
           ""
         ],
         "imageNames": [
-          "face",
-          "fish",
-          "fork"
+          "Ba likes chips.",
+          "Ba likes fish.",
+          "Ba likes bread."
         ],
         "correctIndex": 1,
         "hint": "Ba likes fish. → Ba thích cá.\n(Chữ cần chọn: fish – cá)"
@@ -9552,9 +9552,9 @@
           ""
         ],
         "imageNames": [
-          "pen",
-          "pan",
-          "paper"
+          "Wow! A pen!",
+          "Wow! A pan!",
+          "Wow! A pencil!"
         ],
         "correctIndex": 0,
         "hint": "Wow! A pen! → Ồ! Cái bút mực!\n(Chữ cần chọn: pen – cái bút mực)"
@@ -9569,9 +9569,9 @@
           ""
         ],
         "imageNames": [
-          "peach",
-          "pizza",
-          "pencil"
+          "Here's a peach.",
+          "Here's a pizza.",
+          "Here's a pencil."
         ],
         "correctIndex": 2,
         "hint": "Here's a pencil. → Đây là cái bút chì.\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -9586,9 +9586,9 @@
           ""
         ],
         "imageNames": [
-          "cake",
-          "cap",
-          "coat"
+          "I like my cake.",
+          "I like my cap.",
+          "I like my coat."
         ],
         "correctIndex": 2,
         "hint": "I like my coat. → Mình thích cái áo khoác của mình.\n(Chữ cần chọn: coat – áo khoác)"
@@ -9603,9 +9603,9 @@
           ""
         ],
         "imageNames": [
-          "bell",
-          "board",
-          "bus"
+          "It's my bell.",
+          "It's my board.",
+          "It's my bus."
         ],
         "correctIndex": 0,
         "hint": "It's my bell. → Đó là cái chuông của mình.\n(Chữ cần chọn: bell – cái chuông)"
@@ -9620,9 +9620,9 @@
           ""
         ],
         "imageNames": [
-          "pie",
-          "pen",
-          "pan"
+          "Hi! I have a pie.",
+          "Hi! I have a pen.",
+          "Hi! I have a pan."
         ],
         "correctIndex": 1,
         "hint": "Hi! I have a pen. → Chào! Mình có cái bút mực.\n(Chữ cần chọn: pen – cái bút mực)"
@@ -9637,9 +9637,9 @@
           ""
         ],
         "imageNames": [
-          "cat",
-          "cap",
-          "coat"
+          "Look! A cat!",
+          "Look! A cap!",
+          "Look! A coat!"
         ],
         "correctIndex": 1,
         "hint": "Look! A cap! → Nhìn kìa! Cái mũ lưỡi trai!\n(Chữ cần chọn: cap – mũ lưỡi trai)"
@@ -9654,9 +9654,9 @@
           ""
         ],
         "imageNames": [
-          "puzzle",
-          "paper",
-          "pencil"
+          "I like the puzzle.",
+          "I like the paper.",
+          "I like the pencil."
         ],
         "correctIndex": 2,
         "hint": "I like the pencil. → Mình thích cái bút chì.\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -9671,9 +9671,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "board",
-          "bell"
+          "It's a bag.",
+          "It's a board.",
+          "It's a bell."
         ],
         "correctIndex": 2,
         "hint": "It's a bell. → Đó là cái chuông.\n(Chữ cần chọn: bell – cái chuông)"
@@ -9688,9 +9688,9 @@
           ""
         ],
         "imageNames": [
-          "tree",
-          "table",
-          "taxi"
+          "That's a tree.",
+          "That's a table.",
+          "That's a taxi."
         ],
         "correctIndex": 1,
         "hint": "That's a table. → Kia là cái bàn.\n(Chữ cần chọn: table – cái bàn)"
@@ -9705,9 +9705,9 @@
           ""
         ],
         "imageNames": [
-          "pencil",
-          "pen",
-          "pear"
+          "Is it a pencil?",
+          "Is it a pen?",
+          "Is it a pear?"
         ],
         "correctIndex": 1,
         "hint": "Is it a pen? → Đó có phải là cái bút mực không?\n(Chữ cần chọn: pen – cái bút mực)"
@@ -9722,9 +9722,9 @@
           ""
         ],
         "imageNames": [
-          "plate",
-          "pencil",
-          "pizza"
+          "This is my plate.",
+          "This is my pencil.",
+          "This is my pizza."
         ],
         "correctIndex": 1,
         "hint": "This is my pencil. → Đây là cái bút chì của mình.\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -9739,9 +9739,9 @@
           ""
         ],
         "imageNames": [
-          "pony",
-          "pig",
-          "panda"
+          "Is it a pony?",
+          "Is it a pig?",
+          "Is it a panda?"
         ],
         "correctIndex": 1,
         "hint": "Is it a pig? → Đó có phải là con lợn không?\n(Chữ cần chọn: pig – con lợn)"
@@ -9756,9 +9756,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "bell",
-          "bin"
+          "Is it a bus?",
+          "Is it a bell?",
+          "Is it a bin?"
         ],
         "correctIndex": 1,
         "hint": "Is it a bell? → Đó có phải là cái chuông không?\n(Chữ cần chọn: bell – cái chuông)"
@@ -9773,9 +9773,9 @@
           ""
         ],
         "imageNames": [
-          "pond",
-          "pear",
-          "pen"
+          "Ba has a pond.",
+          "Ba has a pear.",
+          "Ba has a pen."
         ],
         "correctIndex": 2,
         "hint": "Ba has a pen. → Ba có cái bút mực.\n(Chữ cần chọn: pen – cái bút mực)"
@@ -9790,9 +9790,9 @@
           ""
         ],
         "imageNames": [
-          "fox",
-          "floor",
-          "frog"
+          "Mary has a fox.",
+          "Mary has a face.",
+          "Mary has a frog."
         ],
         "correctIndex": 2,
         "hint": "Mary has a frog. → Mary có con ếch.\n(Chữ cần chọn: frog – con ếch)"
@@ -9807,9 +9807,9 @@
           ""
         ],
         "imageNames": [
-          "puzzle",
-          "pen",
-          "pencil"
+          "I like my puzzle.",
+          "I like my pen.",
+          "I like my pencil."
         ],
         "correctIndex": 2,
         "hint": "I like my pencil. → Mình thích cái bút chì của mình.\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -9824,9 +9824,9 @@
           ""
         ],
         "imageNames": [
-          "board",
-          "bench",
-          "bell"
+          "This is my board.",
+          "This is my bench.",
+          "This is my bell."
         ],
         "correctIndex": 2,
         "hint": "This is my bell. → Đây là cái chuông của mình.\n(Chữ cần chọn: bell – cái chuông)"
@@ -9841,9 +9841,9 @@
           ""
         ],
         "imageNames": [
-          "balloon",
-          "bat",
-          "boat"
+          "Hi! I have a balloon.",
+          "Hi! I have a bat.",
+          "Hi! I have a boat."
         ],
         "correctIndex": 2,
         "hint": "Hi! I have a boat. → Chào! Mình có con thuyền.\n(Chữ cần chọn: boat – con thuyền)"
@@ -9858,9 +9858,9 @@
           ""
         ],
         "imageNames": [
-          "pan",
-          "pond",
-          "pen"
+          "Hello! It's a pan.",
+          "Hello! It's a pond.",
+          "Hello! It's a pen."
         ],
         "correctIndex": 2,
         "hint": "Hello! It's a pen. → Xin chào! Đó là cái bút mực.\n(Chữ cần chọn: pen – cái bút mực)"
@@ -9875,9 +9875,9 @@
           ""
         ],
         "imageNames": [
-          "puzzle",
-          "pizza",
-          "pencil"
+          "Hello! It's a puzzle.",
+          "Hello! It's a pizza.",
+          "Hello! It's a pencil."
         ],
         "correctIndex": 2,
         "hint": "Hello! It's a pencil. → Xin chào! Đó là cái bút chì.\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -9892,9 +9892,9 @@
           ""
         ],
         "imageNames": [
-          "bag",
-          "boot",
-          "bus"
+          "She has a bag.",
+          "She has a boot.",
+          "She has a bus."
         ],
         "correctIndex": 0,
         "hint": "She has a bag. → Cô ấy có cái túi.\n(Chữ cần chọn: bag – cái túi)"
@@ -9909,9 +9909,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "bat",
-          "ball"
+          "Wow! A bus!",
+          "Wow! A bat!",
+          "Wow! A ball!"
         ],
         "correctIndex": 2,
         "hint": "Wow! A ball! → Ồ! Quả bóng!\n(Chữ cần chọn: ball – quả bóng)"
@@ -9926,9 +9926,9 @@
           ""
         ],
         "imageNames": [
-          "carrot",
-          "cream",
-          "cake"
+          "Hello! It's a carrot.",
+          "Hello! It's a coat.",
+          "Hello! It's a cake."
         ],
         "correctIndex": 2,
         "hint": "Hello! It's a cake. → Xin chào! Đó là cái bánh.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -9943,9 +9943,9 @@
           ""
         ],
         "imageNames": [
-          "pig",
-          "pot",
-          "parrot"
+          "Mary has a pig.",
+          "Mary has a pot.",
+          "Mary has a parrot."
         ],
         "correctIndex": 0,
         "hint": "Mary has a pig. → Mary có con lợn.\n(Chữ cần chọn: pig – con lợn)"
@@ -9960,9 +9960,9 @@
           ""
         ],
         "imageNames": [
-          "cap",
-          "cup",
-          "clock"
+          "It's my cap.",
+          "It's my cup.",
+          "It's my clock."
         ],
         "correctIndex": 1,
         "hint": "It's my cup. → Đó là cái cốc của mình.\n(Chữ cần chọn: cup – cái cốc)"
@@ -9977,9 +9977,9 @@
           ""
         ],
         "imageNames": [
-          "coat",
-          "cap",
-          "car"
+          "Ba has a coat.",
+          "Ba has a cap.",
+          "Ba has a car."
         ],
         "correctIndex": 1,
         "hint": "Ba has a cap. → Ba có cái mũ lưỡi trai.\n(Chữ cần chọn: cap – mũ lưỡi trai)"
@@ -9994,9 +9994,9 @@
           ""
         ],
         "imageNames": [
-          "window",
-          "water",
-          "wall"
+          "I like the window.",
+          "I like the water.",
+          "I like the wall."
         ],
         "correctIndex": 0,
         "hint": "I like the window. → Mình thích cái cửa sổ.\n(Chữ cần chọn: window – cái cửa sổ)"
@@ -10011,9 +10011,9 @@
           ""
         ],
         "imageNames": [
-          "shelf",
-          "sister",
-          "skirt"
+          "Mary has a shelf.",
+          "Mary has a sister.",
+          "Mary has a skirt."
         ],
         "correctIndex": 1,
         "hint": "Mary has a sister. → Mary có chị/em gái.\n(Chữ cần chọn: sister – chị/em gái)"
@@ -10028,9 +10028,9 @@
           ""
         ],
         "imageNames": [
-          "car",
-          "crab",
-          "cake"
+          "Hello! It's a car.",
+          "Hello! It's a crab.",
+          "Hello! It's a cake."
         ],
         "correctIndex": 0,
         "hint": "Hello! It's a car. → Xin chào! Đó là chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -10045,9 +10045,9 @@
           ""
         ],
         "imageNames": [
-          "mum",
-          "meat",
-          "milk"
+          "This is juice.",
+          "This is meat.",
+          "This is milk."
         ],
         "correctIndex": 2,
         "hint": "This is milk. → Đây là sữa.\n(Chữ cần chọn: milk – sữa)"
@@ -10062,9 +10062,9 @@
           ""
         ],
         "imageNames": [
-          "bowl",
-          "bin",
-          "box"
+          "Look! A bowl!",
+          "Look! A bin!",
+          "Look! A box!"
         ],
         "correctIndex": 2,
         "hint": "Look! A box! → Nhìn kìa! Cái hộp!\n(Chữ cần chọn: box – cái hộp)"
@@ -10079,9 +10079,9 @@
           ""
         ],
         "imageNames": [
-          "pen",
-          "pear",
-          "paper"
+          "Is this your pen?",
+          "Is this your pear?",
+          "Is this your paper?"
         ],
         "correctIndex": 0,
         "hint": "Is this your pen? → Đây có phải cái bút mực của bạn không?\n(Chữ cần chọn: pen – cái bút mực)"
@@ -10096,9 +10096,9 @@
           ""
         ],
         "imageNames": [
-          "peach",
-          "puzzle",
-          "pencil"
+          "I see a peach.",
+          "I see a puzzle.",
+          "I see a pencil."
         ],
         "correctIndex": 2,
         "hint": "I see a pencil. → Mình nhìn thấy cái bút chì.\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -10113,9 +10113,9 @@
           ""
         ],
         "imageNames": [
-          "drum",
-          "dove",
-          "doll"
+          "I like my drum.",
+          "I like my dove.",
+          "I like my doll."
         ],
         "correctIndex": 2,
         "hint": "I like my doll. → Mình thích con búp bê của mình.\n(Chữ cần chọn: doll – búp bê)"
@@ -10130,9 +10130,9 @@
           ""
         ],
         "imageNames": [
-          "bike",
-          "boat",
-          "bus"
+          "Is this your bike?",
+          "Is this your boat?",
+          "Is this your bus?"
         ],
         "correctIndex": 0,
         "hint": "Is this your bike? → Đây có phải chiếc xe đạp của bạn không?\n(Chữ cần chọn: bike – xe đạp)"
@@ -10147,9 +10147,9 @@
           ""
         ],
         "imageNames": [
-          "chick",
-          "cat",
-          "coat"
+          "This is my chick.",
+          "This is my cat.",
+          "This is my coat."
         ],
         "correctIndex": 1,
         "hint": "This is my cat. → Đây là con mèo của mình.\n(Chữ cần chọn: cat – con mèo)"
@@ -10164,9 +10164,9 @@
           ""
         ],
         "imageNames": [
-          "cookie",
-          "candy",
-          "cherry"
+          "Yes, I like cheese.",
+          "Yes, I like candy.",
+          "Yes, I like cream."
         ],
         "correctIndex": 1,
         "hint": "Yes, I like candy. → Vâng, mình thích kẹo.\n(Chữ cần chọn: candy – kẹo)"
@@ -10181,9 +10181,9 @@
           ""
         ],
         "imageNames": [
-          "dove",
-          "dog",
-          "deer"
+          "I have a dove.",
+          "I have a dog.",
+          "I have a deer."
         ],
         "correctIndex": 1,
         "hint": "I have a dog. → Mình có con chó.\n(Chữ cần chọn: dog – con chó)"
@@ -10198,9 +10198,9 @@
           ""
         ],
         "imageNames": [
-          "head",
-          "ham",
-          "hat"
+          "Look at the head!",
+          "Look at the ham!",
+          "Look at the hat!"
         ],
         "correctIndex": 2,
         "hint": "Look at the hat! → Nhìn cái mũ kìa!\n(Chữ cần chọn: hat – cái mũ)"
@@ -10215,9 +10215,9 @@
           ""
         ],
         "imageNames": [
-          "toe",
-          "tea",
-          "tree"
+          "Look at the toe!",
+          "Look at the tea!",
+          "Look at the tree!"
         ],
         "correctIndex": 2,
         "hint": "Look at the tree! → Nhìn cái cây kìa!\n(Chữ cần chọn: tree – cái cây)"
@@ -10232,9 +10232,9 @@
           ""
         ],
         "imageNames": [
-          "dolphin",
-          "duck",
-          "dove"
+          "I can see a dolphin.",
+          "I can see a duck.",
+          "I can see a dove."
         ],
         "correctIndex": 1,
         "hint": "I can see a duck. → Mình có thể nhìn thấy con vịt.\n(Chữ cần chọn: duck – con vịt)"
@@ -11106,9 +11106,9 @@
           ""
         ],
         "imageNames": [
-          "goat",
-          "grass",
-          "girl"
+          "Is it a goat?",
+          "Is it a grass?",
+          "Is it a girl?"
         ],
         "correctIndex": 2,
         "hint": "Is it a girl? → Đó có phải là cô bé không?\n(Chữ cần chọn: girl – cô bé)"
@@ -11123,9 +11123,9 @@
           ""
         ],
         "imageNames": [
-          "garden",
-          "game",
-          "grandpa"
+          "It's a garden.",
+          "It's a game.",
+          "It's a grandpa."
         ],
         "correctIndex": 0,
         "hint": "It's a garden. → Đó là khu vườn.\n(Chữ cần chọn: garden – khu vườn)"
@@ -11140,9 +11140,9 @@
           ""
         ],
         "imageNames": [
-          "camel",
-          "crow",
-          "cat"
+          "I like my camel.",
+          "I like my crow.",
+          "I like my cat."
         ],
         "correctIndex": 2,
         "hint": "I like my cat. → Mình thích con mèo của mình.\n(Chữ cần chọn: cat – con mèo)"
@@ -11157,9 +11157,9 @@
           ""
         ],
         "imageNames": [
-          "giraffe",
-          "goat",
-          "game"
+          "Here's a giraffe.",
+          "Here's a goat.",
+          "Here's a game."
         ],
         "correctIndex": 1,
         "hint": "Here's a goat. → Đây là con dê.\n(Chữ cần chọn: goat – con dê)"
@@ -11174,9 +11174,9 @@
           ""
         ],
         "imageNames": [
-          "game",
-          "glue",
-          "gate"
+          "She has a game.",
+          "She has a grandpa.",
+          "She has a gate."
         ],
         "correctIndex": 2,
         "hint": "She has a gate. → Cô ấy có cái cổng.\n(Chữ cần chọn: gate – cái cổng)"
@@ -11191,9 +11191,9 @@
           ""
         ],
         "imageNames": [
-          "sister",
-          "star",
-          "shorts"
+          "My sister is here.",
+          "My star is here.",
+          "My shorts is here."
         ],
         "correctIndex": 0,
         "hint": "My sister is here. → Chị/em gái của mình ở đây.\n(Chữ cần chọn: sister – chị/em gái)"
@@ -11208,9 +11208,9 @@
           ""
         ],
         "imageNames": [
-          "grape",
-          "girl",
-          "grandma"
+          "Look at my grape!",
+          "Look at my girl!",
+          "Look at my grandma!"
         ],
         "correctIndex": 1,
         "hint": "Look at my girl! → Nhìn cô bé của mình này!\n(Chữ cần chọn: girl – cô bé)"
@@ -11225,9 +11225,9 @@
           ""
         ],
         "imageNames": [
-          "grass",
-          "garden",
-          "grandpa"
+          "Is it a grass?",
+          "Is it a garden?",
+          "Is it a grandpa?"
         ],
         "correctIndex": 1,
         "hint": "Is it a garden? → Đó có phải là khu vườn không?\n(Chữ cần chọn: garden – khu vườn)"
@@ -11242,9 +11242,9 @@
           ""
         ],
         "imageNames": [
-          "shoe",
-          "shirt",
-          "scarf"
+          "Point to the shoe.",
+          "Point to the shirt.",
+          "Point to the scarf."
         ],
         "correctIndex": 0,
         "hint": "Point to the shoe. → Hãy chỉ vào chiếc giày.\n(Chữ cần chọn: shoe – chiếc giày)"
@@ -11259,9 +11259,9 @@
           ""
         ],
         "imageNames": [
-          "grape",
-          "goat",
-          "giraffe"
+          "I can see a grape.",
+          "I can see a goat.",
+          "I can see a giraffe."
         ],
         "correctIndex": 1,
         "hint": "I can see a goat. → Mình có thể nhìn thấy con dê.\n(Chữ cần chọn: goat – con dê)"
@@ -11276,9 +11276,9 @@
           ""
         ],
         "imageNames": [
-          "gate",
-          "glue",
-          "garden"
+          "Look at the gate!",
+          "Look at the glue!",
+          "Look at the garden!"
         ],
         "correctIndex": 0,
         "hint": "Look at the gate! → Nhìn cái cổng kìa!\n(Chữ cần chọn: gate – cái cổng)"
@@ -11293,9 +11293,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "bell",
-          "book"
+          "Hi! I have a bus.",
+          "Hi! I have a bell.",
+          "Hi! I have a book."
         ],
         "correctIndex": 2,
         "hint": "Hi! I have a book. → Chào! Mình có quyển sách.\n(Chữ cần chọn: book – quyển sách)"
@@ -11310,9 +11310,9 @@
           ""
         ],
         "imageNames": [
-          "grandma",
-          "girl",
-          "grandpa"
+          "Show me the grandma, please.",
+          "Show me the girl, please.",
+          "Show me the grandpa, please."
         ],
         "correctIndex": 1,
         "hint": "Show me the girl, please. → Làm ơn chỉ cho mình cô bé.\n(Chữ cần chọn: girl – cô bé)"
@@ -11327,9 +11327,9 @@
           ""
         ],
         "imageNames": [
-          "gate",
-          "grass",
-          "garden"
+          "Look! A gate!",
+          "Look! A grass!",
+          "Look! A garden!"
         ],
         "correctIndex": 2,
         "hint": "Look! A garden! → Nhìn kìa! Khu vườn!\n(Chữ cần chọn: garden – khu vườn)"
@@ -11344,9 +11344,9 @@
           ""
         ],
         "imageNames": [
-          "chips",
-          "cookie",
-          "carrot"
+          "Those are chips.",
+          "Those are chicken.",
+          "Those are corn."
         ],
         "correctIndex": 0,
         "hint": "Those are chips. → Kia là khoai tây chiên.\n(Chữ cần chọn: chips – khoai tây chiên)"
@@ -11361,9 +11361,9 @@
           ""
         ],
         "imageNames": [
-          "gate",
-          "goat",
-          "giraffe"
+          "Wow! A gate!",
+          "Wow! A goat!",
+          "Wow! A giraffe!"
         ],
         "correctIndex": 1,
         "hint": "Wow! A goat! → Ồ! Con dê!\n(Chữ cần chọn: goat – con dê)"
@@ -11378,9 +11378,9 @@
           ""
         ],
         "imageNames": [
-          "gate",
-          "glue",
-          "grass"
+          "My gate is here.",
+          "My glue is here.",
+          "My grass is here."
         ],
         "correctIndex": 0,
         "hint": "My gate is here. → Cái cổng của mình ở đây.\n(Chữ cần chọn: gate – cái cổng)"
@@ -11395,9 +11395,9 @@
           ""
         ],
         "imageNames": [
-          "pony",
-          "pot",
-          "pig"
+          "I like the pony.",
+          "I like the pot.",
+          "I like the pig."
         ],
         "correctIndex": 2,
         "hint": "I like the pig. → Mình thích con lợn.\n(Chữ cần chọn: pig – con lợn)"
@@ -11412,9 +11412,9 @@
           ""
         ],
         "imageNames": [
-          "grape",
-          "girl",
-          "grandpa"
+          "Where's the grape?",
+          "Where's the girl?",
+          "Where's the grandpa?"
         ],
         "correctIndex": 1,
         "hint": "Where's the girl? → Cô bé ở đâu?\n(Chữ cần chọn: girl – cô bé)"
@@ -11429,9 +11429,9 @@
           ""
         ],
         "imageNames": [
-          "grass",
-          "garden",
-          "game"
+          "That's a grass.",
+          "That's a garden.",
+          "That's a game."
         ],
         "correctIndex": 1,
         "hint": "That's a garden. → Kia là khu vườn.\n(Chữ cần chọn: garden – khu vườn)"
@@ -11446,9 +11446,9 @@
           ""
         ],
         "imageNames": [
-          "bat",
-          "bear",
-          "bike"
+          "Touch the bat.",
+          "Touch the bear.",
+          "Touch the bike."
         ],
         "correctIndex": 2,
         "hint": "Touch the bike. → Hãy chạm vào chiếc xe đạp.\n(Chữ cần chọn: bike – xe đạp)"
@@ -11463,9 +11463,9 @@
           ""
         ],
         "imageNames": [
-          "giraffe",
-          "goat",
-          "girl"
+          "Where's the giraffe?",
+          "Where's the goat?",
+          "Where's the girl?"
         ],
         "correctIndex": 1,
         "hint": "Where's the goat? → Con dê ở đâu?\n(Chữ cần chọn: goat – con dê)"
@@ -11480,9 +11480,9 @@
           ""
         ],
         "imageNames": [
-          "goat",
-          "glue",
-          "gate"
+          "That's a goat.",
+          "That's a game.",
+          "That's a gate."
         ],
         "correctIndex": 2,
         "hint": "That's a gate. → Kia là cái cổng.\n(Chữ cần chọn: gate – cái cổng)"
@@ -11497,9 +11497,9 @@
           ""
         ],
         "imageNames": [
-          "roof",
-          "rock",
-          "rice"
+          "Hi! I like milk.",
+          "Hi! I like bread.",
+          "Hi! I like rice."
         ],
         "correctIndex": 2,
         "hint": "Hi! I like rice. → Chào! Mình thích cơm.\n(Chữ cần chọn: rice – cơm)"
@@ -11514,9 +11514,9 @@
           ""
         ],
         "imageNames": [
-          "grandma",
-          "girl",
-          "grass"
+          "It's a grandma.",
+          "It's a girl.",
+          "It's a grass."
         ],
         "correctIndex": 1,
         "hint": "It's a girl. → Đó là cô bé.\n(Chữ cần chọn: girl – cô bé)"
@@ -11531,9 +11531,9 @@
           ""
         ],
         "imageNames": [
-          "grandma",
-          "garden",
-          "grape"
+          "Hi! It's a grandma.",
+          "Hi! It's a garden.",
+          "Hi! It's a grape."
         ],
         "correctIndex": 1,
         "hint": "Hi! It's a garden. → Chào! Đó là khu vườn.\n(Chữ cần chọn: garden – khu vườn)"
@@ -11548,9 +11548,9 @@
           ""
         ],
         "imageNames": [
-          "wind",
-          "window",
-          "kitchen"
+          "Touch the wind.",
+          "Touch the window.",
+          "Touch the kitchen."
         ],
         "correctIndex": 1,
         "hint": "Touch the window. → Hãy chạm vào cái cửa sổ.\n(Chữ cần chọn: window – cái cửa sổ)"
@@ -11565,9 +11565,9 @@
           ""
         ],
         "imageNames": [
-          "goat",
-          "grape",
-          "game"
+          "It's my goat.",
+          "It's my grape.",
+          "It's my game."
         ],
         "correctIndex": 0,
         "hint": "It's my goat. → Đó là con dê của mình.\n(Chữ cần chọn: goat – con dê)"
@@ -11582,9 +11582,9 @@
           ""
         ],
         "imageNames": [
-          "garden",
-          "grape",
-          "gate"
+          "Show me the garden, please.",
+          "Show me the grape, please.",
+          "Show me the gate, please."
         ],
         "correctIndex": 2,
         "hint": "Show me the gate, please. → Làm ơn chỉ cho mình cái cổng.\n(Chữ cần chọn: gate – cái cổng)"
@@ -11599,9 +11599,9 @@
           ""
         ],
         "imageNames": [
-          "crayon",
-          "chair",
-          "clock"
+          "Look at the crayon!",
+          "Look at the chair!",
+          "Look at the clock!"
         ],
         "correctIndex": 1,
         "hint": "Look at the chair! → Nhìn cái ghế kìa!\n(Chữ cần chọn: chair – cái ghế)"
@@ -11616,9 +11616,9 @@
           ""
         ],
         "imageNames": [
-          "book",
-          "bag",
-          "belt"
+          "It's a book.",
+          "It's a bag.",
+          "It's a belt."
         ],
         "correctIndex": 1,
         "hint": "It's a bag. → Đó là cái túi.\n(Chữ cần chọn: bag – cái túi)"
@@ -11633,9 +11633,9 @@
           ""
         ],
         "imageNames": [
-          "hat",
-          "hen",
-          "hair"
+          "Here's a hat.",
+          "Here's a hen.",
+          "Here's a house."
         ],
         "correctIndex": 0,
         "hint": "Here's a hat. → Đây là cái mũ.\n(Chữ cần chọn: hat – cái mũ)"
@@ -11650,9 +11650,9 @@
           ""
         ],
         "imageNames": [
-          "sheep",
-          "snake",
-          "shelf"
+          "Is this your sheep?",
+          "Is this your snake?",
+          "Is this your shelf?"
         ],
         "correctIndex": 0,
         "hint": "Is this your sheep? → Đây có phải con cừu của bạn không?\n(Chữ cần chọn: sheep – con cừu)"
@@ -11667,9 +11667,9 @@
           ""
         ],
         "imageNames": [
-          "candy",
-          "carrot",
-          "cake"
+          "Show me the candy, please.",
+          "Show me the carrot, please.",
+          "Show me the cake, please."
         ],
         "correctIndex": 2,
         "hint": "Show me the cake, please. → Làm ơn chỉ cho mình cái bánh.\n(Chữ cần chọn: cake – bánh ngọt)"
@@ -11684,9 +11684,9 @@
           ""
         ],
         "imageNames": [
-          "deer",
-          "dolphin",
-          "duck"
+          "Touch the deer.",
+          "Touch the dolphin.",
+          "Touch the duck."
         ],
         "correctIndex": 2,
         "hint": "Touch the duck. → Hãy chạm vào con vịt.\n(Chữ cần chọn: duck – con vịt)"
@@ -11701,9 +11701,9 @@
           ""
         ],
         "imageNames": [
-          "boat",
-          "block",
-          "bat"
+          "I have a boat.",
+          "I have a block.",
+          "I have a bat."
         ],
         "correctIndex": 0,
         "hint": "I have a boat. → Mình có con thuyền.\n(Chữ cần chọn: boat – con thuyền)"
@@ -11718,9 +11718,9 @@
           ""
         ],
         "imageNames": [
-          "pen",
-          "paper",
-          "pie"
+          "Show me the pen, please.",
+          "Show me the paper, please.",
+          "Show me the pie, please."
         ],
         "correctIndex": 0,
         "hint": "Show me the pen, please. → Làm ơn chỉ cho mình cái bút mực.\n(Chữ cần chọn: pen – cái bút mực)"
@@ -11735,9 +11735,9 @@
           ""
         ],
         "imageNames": [
-          "grass",
-          "giraffe",
-          "goat"
+          "This is my grass.",
+          "This is my giraffe.",
+          "This is my goat."
         ],
         "correctIndex": 2,
         "hint": "This is my goat. → Đây là con dê của mình.\n(Chữ cần chọn: goat – con dê)"
@@ -11752,9 +11752,9 @@
           ""
         ],
         "imageNames": [
-          "eye",
-          "elephant",
-          "eraser"
+          "My eye is here.",
+          "My elephant is here.",
+          "My eraser is here."
         ],
         "correctIndex": 1,
         "hint": "My elephant is here. → Con voi của mình ở đây.\n(Chữ cần chọn: elephant – con voi)"
@@ -11769,9 +11769,9 @@
           ""
         ],
         "imageNames": [
-          "game",
-          "grass",
-          "gate"
+          "I can see a game.",
+          "I can see a grass.",
+          "I can see a gate."
         ],
         "correctIndex": 2,
         "hint": "I can see a gate. → Mình có thể nhìn thấy cái cổng.\n(Chữ cần chọn: gate – cái cổng)"
@@ -11786,9 +11786,9 @@
           ""
         ],
         "imageNames": [
-          "drum",
-          "desk",
-          "door"
+          "Look at the drum!",
+          "Look at the desk!",
+          "Look at the door!"
         ],
         "correctIndex": 2,
         "hint": "Look at the door! → Nhìn cánh cửa kìa!\n(Chữ cần chọn: door – cánh cửa)"
@@ -11803,9 +11803,9 @@
           ""
         ],
         "imageNames": [
-          "tree",
-          "turtle",
-          "truck"
+          "Here's a tree.",
+          "Here's a turtle.",
+          "Here's a truck."
         ],
         "correctIndex": 0,
         "hint": "Here's a tree. → Đây là cái cây.\n(Chữ cần chọn: tree – cái cây)"
@@ -11820,9 +11820,9 @@
           ""
         ],
         "imageNames": [
-          "cherry",
-          "chicken",
-          "corn"
+          "Look! Cheese!",
+          "Look! Chicken!",
+          "Look! Corn!"
         ],
         "correctIndex": 1,
         "hint": "Look! Chicken! → Nhìn kìa! Thịt gà!\n(Chữ cần chọn: chicken – thịt gà)"
@@ -11837,9 +11837,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "face",
-          "arm"
+          "Is this your hair?",
+          "Is this your face?",
+          "Is this your arm?"
         ],
         "correctIndex": 2,
         "hint": "Is this your arm? → Đây có phải cánh tay của bạn không?\n(Chữ cần chọn: arm – cánh tay)"
@@ -11854,9 +11854,9 @@
           ""
         ],
         "imageNames": [
-          "lemon",
-          "ant",
-          "apple"
+          "Ba has a lemon.",
+          "Ba has an ant.",
+          "Ba has an apple."
         ],
         "correctIndex": 2,
         "hint": "Ba has an apple. → Ba có quả táo.\n(Chữ cần chọn: apple – quả táo)"
@@ -11871,9 +11871,9 @@
           ""
         ],
         "imageNames": [
-          "jeep",
-          "kite",
-          "kitchen"
+          "Wow! A jeep!",
+          "Wow! A kite!",
+          "Wow! A kitchen!"
         ],
         "correctIndex": 1,
         "hint": "Wow! A kite! → Ồ! Cái diều!\n(Chữ cần chọn: kite – cái diều)"
@@ -11888,9 +11888,9 @@
           ""
         ],
         "imageNames": [
-          "garden",
-          "grandma",
-          "grass"
+          "Look at that garden!",
+          "Look at that grandma!",
+          "Look at that grass!"
         ],
         "correctIndex": 0,
         "hint": "Look at that garden! → Nhìn khu vườn kia kìa!\n(Chữ cần chọn: garden – khu vườn)"
@@ -11905,9 +11905,9 @@
           ""
         ],
         "imageNames": [
-          "cap",
-          "chair",
-          "car"
+          "Where's the cap?",
+          "Where's the chair?",
+          "Where's the car?"
         ],
         "correctIndex": 2,
         "hint": "Where's the car? → Chiếc ô tô ở đâu?\n(Chữ cần chọn: car – ô tô)"
@@ -11922,9 +11922,9 @@
           ""
         ],
         "imageNames": [
-          "cap",
-          "cup",
-          "card"
+          "Hello! It's a cap.",
+          "Hello! It's a cup.",
+          "Hello! It's a card."
         ],
         "correctIndex": 0,
         "hint": "Hello! It's a cap. → Xin chào! Đó là cái mũ lưỡi trai.\n(Chữ cần chọn: cap – mũ lưỡi trai)"
@@ -11939,9 +11939,9 @@
           ""
         ],
         "imageNames": [
-          "bus",
-          "bench",
-          "bell"
+          "Mary has a bus.",
+          "Mary has a bench.",
+          "Mary has a bell."
         ],
         "correctIndex": 2,
         "hint": "Mary has a bell. → Mary có cái chuông.\n(Chữ cần chọn: bell – cái chuông)"
@@ -12813,9 +12813,9 @@
           ""
         ],
         "imageNames": [
-          "honey",
-          "horse",
-          "head"
+          "This is my honey.",
+          "This is my horse.",
+          "This is my head."
         ],
         "correctIndex": 1,
         "hint": "This is my horse. → Đây là con ngựa của mình.\n(Chữ cần chọn: horse – con ngựa)"
@@ -12830,9 +12830,9 @@
           ""
         ],
         "imageNames": [
-          "hand",
-          "honey",
-          "ham"
+          "Touch your hand.",
+          "Touch your honey.",
+          "Touch your ham."
         ],
         "correctIndex": 0,
         "hint": "Touch your hand. → Hãy chạm vào bàn tay của bạn.\n(Chữ cần chọn: hand – bàn tay)"
@@ -12847,9 +12847,9 @@
           ""
         ],
         "imageNames": [
-          "dove",
-          "dish",
-          "door"
+          "My dove is here.",
+          "My dish is here.",
+          "My door is here."
         ],
         "correctIndex": 2,
         "hint": "My door is here. → Cánh cửa của mình ở đây.\n(Chữ cần chọn: door – cánh cửa)"
@@ -12864,9 +12864,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "head",
-          "hand"
+          "Show me your hair.",
+          "Show me your head.",
+          "Show me your hand."
         ],
         "correctIndex": 1,
         "hint": "Show me your head. → Cho mình xem cái đầu của bạn.\n(Chữ cần chọn: head – cái đầu)"
@@ -12881,9 +12881,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "hand",
-          "hill"
+          "Wash your hair, please.",
+          "Wash your hand, please.",
+          "Wash your honey, please."
         ],
         "correctIndex": 0,
         "hint": "Wash your hair, please. → Làm ơn rửa mái tóc của bạn.\n(Chữ cần chọn: hair – tóc)"
@@ -12898,9 +12898,9 @@
           ""
         ],
         "imageNames": [
-          "fish",
-          "fork",
-          "foot"
+          "I have some fish.",
+          "I have some fork.",
+          "I have some foot."
         ],
         "correctIndex": 0,
         "hint": "I have some fish. → Mình có một ít cá.\n(Chữ cần chọn: fish – cá)"
@@ -12915,9 +12915,9 @@
           ""
         ],
         "imageNames": [
-          "hill",
-          "horse",
-          "honey"
+          "I want a hill.",
+          "I want a horse.",
+          "I want a hand."
         ],
         "correctIndex": 1,
         "hint": "I want a horse. → Mình muốn con ngựa.\n(Chữ cần chọn: horse – con ngựa)"
@@ -12932,9 +12932,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "hand",
-          "honey"
+          "Here's my hair.",
+          "Here's my hand.",
+          "Here's my honey."
         ],
         "correctIndex": 1,
         "hint": "Here's my hand. → Bàn tay của mình đây.\n(Chữ cần chọn: hand – bàn tay)"
@@ -12949,9 +12949,9 @@
           ""
         ],
         "imageNames": [
-          "eye",
-          "eagle",
-          "elephant"
+          "Show me the eye, please.",
+          "Show me the eagle, please.",
+          "Show me the elephant, please."
         ],
         "correctIndex": 2,
         "hint": "Show me the elephant, please. → Làm ơn chỉ cho mình con voi.\n(Chữ cần chọn: elephant – con voi)"
@@ -12966,9 +12966,9 @@
           ""
         ],
         "imageNames": [
-          "head",
-          "hand",
-          "hat"
+          "Point to your head.",
+          "Point to your hand.",
+          "Point to your hat."
         ],
         "correctIndex": 0,
         "hint": "Point to your head. → Hãy chỉ vào cái đầu của bạn.\n(Chữ cần chọn: head – cái đầu)"
@@ -12983,9 +12983,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "ham",
-          "hand"
+          "Touch your hair.",
+          "Touch your ham.",
+          "Touch your hand."
         ],
         "correctIndex": 0,
         "hint": "Touch your hair. → Hãy chạm vào mái tóc của bạn.\n(Chữ cần chọn: hair – tóc)"
@@ -13000,9 +13000,9 @@
           ""
         ],
         "imageNames": [
-          "butterfly",
-          "bird",
-          "bug"
+          "Mary has a butterfly.",
+          "Mary has a bird.",
+          "Mary has a bug."
         ],
         "correctIndex": 1,
         "hint": "Mary has a bird. → Mary có con chim.\n(Chữ cần chọn: bird – con chim)"
@@ -13017,9 +13017,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "horse",
-          "hen"
+          "It's a ham.",
+          "It's a horse.",
+          "It's a hen."
         ],
         "correctIndex": 1,
         "hint": "It's a horse. → Đó là con ngựa.\n(Chữ cần chọn: horse – con ngựa)"
@@ -13034,9 +13034,9 @@
           ""
         ],
         "imageNames": [
-          "honey",
-          "hat",
-          "hand"
+          "This is my honey.",
+          "This is my hat.",
+          "This is my hand."
         ],
         "correctIndex": 2,
         "hint": "This is my hand. → Đây là bàn tay của mình.\n(Chữ cần chọn: hand – bàn tay)"
@@ -13051,9 +13051,9 @@
           ""
         ],
         "imageNames": [
-          "ruler",
-          "robot",
-          "room"
+          "Hi! I have a ruler.",
+          "Hi! I have a robot.",
+          "Hi! I have a rabbit."
         ],
         "correctIndex": 1,
         "hint": "Hi! I have a robot. → Chào! Mình có con người máy.\n(Chữ cần chọn: robot – người máy)"
@@ -13068,9 +13068,9 @@
           ""
         ],
         "imageNames": [
-          "head",
-          "horse",
-          "ham"
+          "Yes, it's my head.",
+          "Yes, it's my horse.",
+          "Yes, it's my ham."
         ],
         "correctIndex": 0,
         "hint": "Yes, it's my head. → Vâng, đó là cái đầu của mình.\n(Chữ cần chọn: head – cái đầu)"
@@ -13085,9 +13085,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "hat",
-          "horse"
+          "Raise your hair.",
+          "Raise your hat.",
+          "Raise your horse."
         ],
         "correctIndex": 0,
         "hint": "Raise your hair. → Hãy giơ mái tóc của bạn lên.\n(Chữ cần chọn: hair – tóc)"
@@ -13102,9 +13102,9 @@
           ""
         ],
         "imageNames": [
-          "crab",
-          "cow",
-          "camel"
+          "I have a crab.",
+          "I have a cow.",
+          "I have a camel."
         ],
         "correctIndex": 1,
         "hint": "I have a cow. → Mình có con bò.\n(Chữ cần chọn: cow – con bò)"
@@ -13119,9 +13119,9 @@
           ""
         ],
         "imageNames": [
-          "hen",
-          "horse",
-          "house"
+          "Show me the hen, please.",
+          "Show me the horse, please.",
+          "Show me the house, please."
         ],
         "correctIndex": 1,
         "hint": "Show me the horse, please. → Làm ơn chỉ cho mình con ngựa.\n(Chữ cần chọn: horse – con ngựa)"
@@ -13136,9 +13136,9 @@
           ""
         ],
         "imageNames": [
-          "hat",
-          "hair",
-          "hand"
+          "Clean your hat.",
+          "Clean your hair.",
+          "Clean your hand."
         ],
         "correctIndex": 2,
         "hint": "Clean your hand. → Hãy lau sạch bàn tay của bạn.\n(Chữ cần chọn: hand – bàn tay)"
@@ -13153,9 +13153,9 @@
           ""
         ],
         "imageNames": [
-          "arm",
-          "ear",
-          "face"
+          "Touch your arm.",
+          "Touch your ear.",
+          "Touch your face."
         ],
         "correctIndex": 0,
         "hint": "Touch your arm. → Hãy chạm vào cánh tay của bạn.\n(Chữ cần chọn: arm – cánh tay)"
@@ -13170,9 +13170,9 @@
           ""
         ],
         "imageNames": [
-          "horse",
-          "hand",
-          "head"
+          "Touch your horse.",
+          "Touch your hand.",
+          "Touch your head."
         ],
         "correctIndex": 2,
         "hint": "Touch your head. → Hãy chạm vào cái đầu của bạn.\n(Chữ cần chọn: head – cái đầu)"
@@ -13187,9 +13187,9 @@
           ""
         ],
         "imageNames": [
-          "head",
-          "hair",
-          "hat"
+          "Yes, it's my head.",
+          "Yes, it's my hair.",
+          "Yes, it's my hat."
         ],
         "correctIndex": 1,
         "hint": "Yes, it's my hair. → Vâng, đó là mái tóc của mình.\n(Chữ cần chọn: hair – tóc)"
@@ -13204,9 +13204,9 @@
           ""
         ],
         "imageNames": [
-          "star",
-          "sister",
-          "spider"
+          "I have a star.",
+          "I have a sister.",
+          "I have a spider."
         ],
         "correctIndex": 1,
         "hint": "I have a sister. → Mình có chị/em gái.\n(Chữ cần chọn: sister – chị/em gái)"
@@ -13221,9 +13221,9 @@
           ""
         ],
         "imageNames": [
-          "hen",
-          "hill",
-          "horse"
+          "Mary has a hen.",
+          "Mary has a head.",
+          "Mary has a horse."
         ],
         "correctIndex": 2,
         "hint": "Mary has a horse. → Mary có con ngựa.\n(Chữ cần chọn: horse – con ngựa)"
@@ -13238,9 +13238,9 @@
           ""
         ],
         "imageNames": [
-          "honey",
-          "hen",
-          "hand"
+          "Raise your honey.",
+          "Raise your hen.",
+          "Raise your hand."
         ],
         "correctIndex": 2,
         "hint": "Raise your hand. → Hãy giơ bàn tay của bạn lên.\n(Chữ cần chọn: hand – bàn tay)"
@@ -13255,9 +13255,9 @@
           ""
         ],
         "imageNames": [
-          "river",
-          "ruler",
-          "rabbit"
+          "I can see a river.",
+          "I can see a ruler.",
+          "I can see a rabbit."
         ],
         "correctIndex": 2,
         "hint": "I can see a rabbit. → Mình có thể nhìn thấy con thỏ.\n(Chữ cần chọn: rabbit – con thỏ)"
@@ -13272,9 +13272,9 @@
           ""
         ],
         "imageNames": [
-          "hen",
-          "ham",
-          "head"
+          "Is this your hen?",
+          "Is this your ham?",
+          "Is this your head?"
         ],
         "correctIndex": 2,
         "hint": "Is this your head? → Đây có phải cái đầu của bạn không?\n(Chữ cần chọn: head – cái đầu)"
@@ -13289,9 +13289,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "ham",
-          "horse"
+          "Clean your hair.",
+          "Clean your ham.",
+          "Clean your horse."
         ],
         "correctIndex": 0,
         "hint": "Clean your hair. → Hãy lau sạch mái tóc của bạn.\n(Chữ cần chọn: hair – tóc)"
@@ -13306,9 +13306,9 @@
           ""
         ],
         "imageNames": [
-          "snake",
-          "sheep",
-          "spider"
+          "I can see a snake.",
+          "I can see a sheep.",
+          "I can see a spider."
         ],
         "correctIndex": 1,
         "hint": "I can see a sheep. → Mình có thể nhìn thấy con cừu.\n(Chữ cần chọn: sheep – con cừu)"
@@ -13323,9 +13323,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "horse",
-          "honey"
+          "I like the hair.",
+          "I like the horse.",
+          "I like the honey."
         ],
         "correctIndex": 1,
         "hint": "I like the horse. → Mình thích con ngựa.\n(Chữ cần chọn: horse – con ngựa)"
@@ -13340,9 +13340,9 @@
           ""
         ],
         "imageNames": [
-          "jelly",
-          "juice",
-          "jam"
+          "I see jelly.",
+          "I see juice.",
+          "I see jam."
         ],
         "correctIndex": 1,
         "hint": "I see juice. → Mình nhìn thấy nước ép.\n(Chữ cần chọn: juice – nước ép)"
@@ -13357,9 +13357,9 @@
           ""
         ],
         "imageNames": [
-          "duck",
-          "deer",
-          "duckling"
+          "Look at my duck!",
+          "Look at my deer!",
+          "Look at my duckling!"
         ],
         "correctIndex": 0,
         "hint": "Look at my duck! → Nhìn con vịt của mình này!\n(Chữ cần chọn: duck – con vịt)"
@@ -13374,9 +13374,9 @@
           ""
         ],
         "imageNames": [
-          "meat",
-          "moon",
-          "milk"
+          "Ba likes meat.",
+          "Ba likes jelly.",
+          "Ba likes milk."
         ],
         "correctIndex": 2,
         "hint": "Ba likes milk. → Ba thích sữa.\n(Chữ cần chọn: milk – sữa)"
@@ -13391,9 +13391,9 @@
           ""
         ],
         "imageNames": [
-          "bell",
-          "bus",
-          "box"
+          "Look at the bell!",
+          "Look at the bus!",
+          "Look at the box!"
         ],
         "correctIndex": 2,
         "hint": "Look at the box! → Nhìn cái hộp kìa!\n(Chữ cần chọn: box – cái hộp)"
@@ -13408,9 +13408,9 @@
           ""
         ],
         "imageNames": [
-          "cap",
-          "class",
-          "cup"
+          "What's this? It's a cap.",
+          "What's this? It's a class.",
+          "What's this? It's a cup."
         ],
         "correctIndex": 2,
         "hint": "What's this? It's a cup. → Đây là gì? Đó là cái cốc.\n(Chữ cần chọn: cup – cái cốc)"
@@ -13425,9 +13425,9 @@
           ""
         ],
         "imageNames": [
-          "hill",
-          "hen",
-          "hat"
+          "I have a head.",
+          "I have a hen.",
+          "I have a hat."
         ],
         "correctIndex": 2,
         "hint": "I have a hat. → Mình có cái mũ.\n(Chữ cần chọn: hat – cái mũ)"
@@ -13442,9 +13442,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "ear",
-          "arm"
+          "Where's your hair?",
+          "Where's your ear?",
+          "Where's your arm?"
         ],
         "correctIndex": 2,
         "hint": "Where's your arm? → Cánh tay của bạn ở đâu?\n(Chữ cần chọn: arm – cánh tay)"
@@ -13459,9 +13459,9 @@
           ""
         ],
         "imageNames": [
-          "bench",
-          "bell",
-          "bag"
+          "I like the bench.",
+          "I like the bell.",
+          "I like the bag."
         ],
         "correctIndex": 1,
         "hint": "I like the bell. → Mình thích cái chuông.\n(Chữ cần chọn: bell – cái chuông)"
@@ -13476,9 +13476,9 @@
           ""
         ],
         "imageNames": [
-          "bear",
-          "boat",
-          "bat"
+          "Yes, it's my bear.",
+          "Yes, it's my boat.",
+          "Yes, it's my bat."
         ],
         "correctIndex": 1,
         "hint": "Yes, it's my boat. → Vâng, đó là con thuyền của mình.\n(Chữ cần chọn: boat – con thuyền)"
@@ -13493,9 +13493,9 @@
           ""
         ],
         "imageNames": [
-          "hair",
-          "hill",
-          "head"
+          "Look at your hair!",
+          "Look at your honey!",
+          "Look at your head!"
         ],
         "correctIndex": 0,
         "hint": "Look at your hair! → Nhìn mái tóc của bạn này!\n(Chữ cần chọn: hair – tóc)"
@@ -13510,9 +13510,9 @@
           ""
         ],
         "imageNames": [
-          "carrot",
-          "candy",
-          "coffee"
+          "This is chips.",
+          "This is candy.",
+          "This is coffee."
         ],
         "correctIndex": 1,
         "hint": "This is candy. → Đây là kẹo.\n(Chữ cần chọn: candy – kẹo)"
@@ -13527,9 +13527,9 @@
           ""
         ],
         "imageNames": [
-          "card",
-          "cat",
-          "car"
+          "Touch the card.",
+          "Touch the cat.",
+          "Touch the car."
         ],
         "correctIndex": 2,
         "hint": "Touch the car. → Hãy chạm vào chiếc ô tô.\n(Chữ cần chọn: car – ô tô)"
@@ -13544,9 +13544,9 @@
           ""
         ],
         "imageNames": [
-          "glue",
-          "grandma",
-          "girl"
+          "My glue is here.",
+          "My grandma is here.",
+          "My girl is here."
         ],
         "correctIndex": 2,
         "hint": "My girl is here. → Cô bé của mình ở đây.\n(Chữ cần chọn: girl – cô bé)"
@@ -13561,9 +13561,9 @@
           ""
         ],
         "imageNames": [
-          "boy",
-          "bird",
-          "butterfly"
+          "Is this your bread?",
+          "Is this your bird?",
+          "Is this your butterfly?"
         ],
         "correctIndex": 1,
         "hint": "Is this your bird? → Đây có phải con chim của bạn không?\n(Chữ cần chọn: bird – con chim)"
@@ -13578,9 +13578,9 @@
           ""
         ],
         "imageNames": [
-          "ham",
-          "hair",
-          "head"
+          "Where's your ham?",
+          "Where's your hair?",
+          "Where's your head?"
         ],
         "correctIndex": 2,
         "hint": "Where's your head? → Cái đầu của bạn ở đâu?\n(Chữ cần chọn: head – cái đầu)"
@@ -13595,9 +13595,9 @@
           ""
         ],
         "imageNames": [
-          "duckling",
-          "dog",
-          "deer"
+          "She has a duckling.",
+          "She has a dog.",
+          "She has a deer."
         ],
         "correctIndex": 1,
         "hint": "She has a dog. → Cô ấy có con chó.\n(Chữ cần chọn: dog – con chó)"
@@ -13612,9 +13612,9 @@
           ""
         ],
         "imageNames": [
-          "banana",
-          "owl",
-          "orange"
+          "Touch the banana.",
+          "Touch the owl.",
+          "Touch the orange."
         ],
         "correctIndex": 2,
         "hint": "Touch the orange. → Hãy chạm vào quả cam.\n(Chữ cần chọn: orange – quả cam)"
@@ -13629,9 +13629,9 @@
           ""
         ],
         "imageNames": [
-          "pencil",
-          "plate",
-          "paper"
+          "My pencil is here.",
+          "My plate is here.",
+          "My paper is here."
         ],
         "correctIndex": 0,
         "hint": "My pencil is here. → Cái bút chì của mình ở đây.\n(Chữ cần chọn: pencil – cái bút chì)"
@@ -13646,9 +13646,9 @@
           ""
         ],
         "imageNames": [
-          "door",
-          "drum",
-          "dove"
+          "I like my door.",
+          "I like my drum.",
+          "I like my dove."
         ],
         "correctIndex": 0,
         "hint": "I like my door. → Mình thích cánh cửa của mình.\n(Chữ cần chọn: door – cánh cửa)"
