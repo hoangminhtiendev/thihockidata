@@ -1329,10 +1329,10 @@
       },
       {
         "id": 189,
-        "word": "This is my sister.",
-        "meaning": "Đây là chị/em gái của mình.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/thisismysister.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismysister.mp3"
+        "word": "It's a sister.",
+        "meaning": "Đó là chị/em gái.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/itsasister.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsasister.mp3"
       },
       {
         "id": 190,
@@ -1420,10 +1420,10 @@
       },
       {
         "id": 202,
-        "word": "Hello! This is my sister.",
-        "meaning": "Xin chào! Đây là chị/em gái của mình.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/hellothisismysister.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hellothisismysister.mp3"
+        "word": "Hello! It's a sister.",
+        "meaning": "Xin chào! Đó là chị/em gái.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/helloitsasister.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/helloitsasister.mp3"
       },
       {
         "id": 203,
