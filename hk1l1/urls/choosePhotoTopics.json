@@ -2206,7 +2206,7 @@
       },
       {
         "id": 80,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismysister.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/maryhasasister.mp3",
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/girl.png",
@@ -2219,7 +2219,7 @@
           "head"
         ],
         "correctIndex": 1,
-        "hint": "This is my sister. → Đây là chị/em gái của mình.\n(Hình đúng: sister – chị/em gái)"
+        "hint": "Mary has a sister. → Mary có một chị/em gái.\n(Hình đúng: sister – chị/em gái)"
       },
       {
         "id": 81,
@@ -2444,7 +2444,7 @@
       },
       {
         "id": 94,
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hellothisismysister.mp3",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ihaveasister.mp3",
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/head.png",
@@ -2457,7 +2457,7 @@
           "sister"
         ],
         "correctIndex": 2,
-        "hint": "Hello! This is my sister. → Xin chào! Đây là chị/em gái của mình.\n(Hình đúng: sister – chị/em gái)"
+        "hint": "I have a sister. → Mình có một chị/em gái.\n(Hình đúng: sister – chị/em gái)"
       },
       {
         "id": 95,

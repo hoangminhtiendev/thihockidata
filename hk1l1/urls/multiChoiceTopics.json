@@ -288,15 +288,15 @@
         "id": 21,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbaabook.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bag.mp3",
         "choices": [
           "A. bird",
           "B. bread",
           "C. rabbit",
-          "D. book"
+          "D. bag"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 Hi, I'm Ba. A book. → Chào. Mình là Ba. Một quyển sách.\n✅ D. book → quyển sách"
+        "hint": "🎧 Bài nghe: bag\n→ cái túi\n✅ D. bag → cái túi"
       },
       {
         "id": 22,
@@ -307,7 +307,7 @@
           "A. a",
           "B. an",
           "C. some",
-          "D. the"
+          "D. two"
         ],
         "correctAnswerIndex": 0,
         "hint": "📝 It's a book. → Đó là một quyển sách.\n✅ A. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -356,7 +356,7 @@
       },
       {
         "id": 26,
-        "question": "Listen and choose the correct answer.\nWhat is the speaker's name?",
+        "question": "Listen and choose the correct answer.\nWho says hi to Ba?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibaimben.mp3",
         "choices": [
@@ -366,11 +366,11 @@
           "D. Ann"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Bài nghe: Hi, Ba. I'm Ben.\n→ Chào Ba. Mình là Ben.\n❓ What is the speaker's name? → Người nói tên là gì?\n✅ A. Ben"
+        "hint": "🎧 Bài nghe: Hi, Ba. I'm Ben.\n→ Chào Ba. Mình là Ben.\n❓ Who says hi to Ba? → Ai chào Ba?\n✅ A. Ben"
       },
       {
         "id": 27,
-        "question": "Read and choose the correct answer.\nHi, Ba. I'm Mary. Bye, Ba.\n\nWho says bye to?",
+        "question": "Read and choose the correct answer.\nMary: Hi, Ba. I'm Mary.\nBa: Hi, Mary.\nMary: Bye, Ba.\nBa: Bye, Mary.\n\n❓ Who does Mary say goodbye to?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -380,7 +380,7 @@
           "D. Ann"
         ],
         "correctAnswerIndex": 1,
-        "hint": "📖 Bài đọc: Hi, Ba. I'm Mary. Bye, Ba.\n→ Chào Ba. Mình là Mary. Tạm biệt Ba.\n❓ Who says bye to? → Người nói tạm biệt với ai?\n✅ B. Ba"
+        "hint": "📖 Bài đọc: Hi, Ba. I'm Mary. Bye, Ba.\n→ Chào Ba. Mình là Mary. Tạm biệt Ba.\n❓ Who does Mary say goodbye to? → Mary nói tạm biệt với ai?\n✅ B. Ba"
       },
       {
         "id": 28,
@@ -400,15 +400,15 @@
         "id": 29,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookabook.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cake.mp3",
         "choices": [
           "A. egg",
           "B. orange",
-          "C. book",
+          "C. cake",
           "D. cookie"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 Look! A book! → Nhìn kìa! Một quyển sách!\n✅ C. book → quyển sách"
+        "hint": "🎧 Bài nghe: cake\n→ bánh ngọt\n✅ C. cake → bánh ngọt"
       },
       {
         "id": 30,
@@ -419,7 +419,7 @@
           "A. an",
           "B. some",
           "C. a",
-          "D. the"
+          "D. two"
         ],
         "correctAnswerIndex": 2,
         "hint": "📝 It's a bike. → Đó là một chiếc xe đạp.\n✅ C. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -470,7 +470,7 @@
         "id": 34,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsaball.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ball.mp3",
         "choices": [
           "A. kite",
           "B. ball",
@@ -478,7 +478,7 @@
           "D. robot"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 It's a ball. → Đó là một quả bóng.\n✅ B. ball → quả bóng"
+        "hint": "🎧 Bài nghe: ball\n→ quả bóng\n✅ B. ball → quả bóng"
       },
       {
         "id": 35,
@@ -524,7 +524,7 @@
       },
       {
         "id": 38,
-        "question": "Listen and choose the correct answer.\nWhat is the speaker's name?",
+        "question": "Listen and choose the correct answer.\nWho says hi to Mary?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/himaryimbill.mp3",
         "choices": [
@@ -534,11 +534,11 @@
           "D. Bill"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 Bài nghe: Hi, Mary. I'm Bill.\n→ Chào Mary. Mình là Bill.\n❓ What is the speaker's name? → Người nói tên là gì?\n✅ D. Bill"
+        "hint": "🎧 Bài nghe: Hi, Mary. I'm Bill.\n→ Chào Mary. Mình là Bill.\n❓ Who says hi to Mary? → Ai chào Mary?\n✅ D. Bill"
       },
       {
         "id": 39,
-        "question": "Read and choose the correct answer.\nHi, Ben. I'm Bill.\n\nWhat is the speaker's name?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, Ben. I'm Bill.”\n\n❓ Who says hi to Ben?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -548,13 +548,13 @@
           "D. Mary"
         ],
         "correctAnswerIndex": 1,
-        "hint": "📖 Bài đọc: Hi, Ben. I'm Bill.\n→ Chào Ben. Mình là Bill.\n❓ What is the speaker's name? → Người nói tên là gì?\n✅ B. Bill"
+        "hint": "📖 Bài đọc: Hi, Ben. I'm Bill.\n→ Chào Ben. Mình là Bill.\n❓ Who says hi to Ben? → Ai chào Ben?\n✅ B. Bill"
       },
       {
         "id": 40,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimannaball.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ball.mp3",
         "choices": [
           "A. kite",
           "B. robot",
@@ -562,7 +562,7 @@
           "D. ball"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 Hi, I'm Ann. A ball. → Chào. Mình là Ann. Một quả bóng.\n✅ D. ball → quả bóng"
+        "hint": "🎧 Bài nghe: ball\n→ quả bóng\n✅ D. ball → quả bóng"
       },
       {
         "id": 41,
@@ -594,7 +594,7 @@
       },
       {
         "id": 43,
-        "question": "Listen and choose the correct answer.\nWho says bye to?",
+        "question": "Listen and choose the correct answer.\nWho does Mary say goodbye to?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibaimmarybyeba.mp3",
         "choices": [
@@ -604,11 +604,11 @@
           "D. Ann"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Bài nghe: Hi, Ba. I'm Mary. Bye, Ba.\n→ Chào Ba. Mình là Mary. Tạm biệt Ba.\n❓ Who says bye to? → Người nói tạm biệt với ai?\n✅ A. Ba"
+        "hint": "🎧 Bài nghe: Hi, Ba. I'm Mary. Bye, Ba.\n→ Chào Ba. Mình là Mary. Tạm biệt Ba.\n❓ Who does Mary say goodbye to? → Mary nói tạm biệt với ai?\n✅ A. Ba"
       },
       {
         "id": 44,
-        "question": "Read and choose the correct answer.\nHi, Ann. I'm Bill. Bye, Ann.\n\nWho says bye to?",
+        "question": "Read and choose the correct answer.\nBill: Hi, Ann. I'm Bill.\nAnn: Hi, Bill.\nBill: Bye, Ann.\nAnn: Bye, Bill.\n\n❓ Who does Bill say goodbye to?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -618,21 +618,21 @@
           "D. Mary"
         ],
         "correctAnswerIndex": 0,
-        "hint": "📖 Bài đọc: Hi, Ann. I'm Bill. Bye, Ann.\n→ Chào Ann. Mình là Bill. Tạm biệt Ann.\n❓ Who says bye to? → Người nói tạm biệt với ai?\n✅ A. Ann"
+        "hint": "📖 Bài đọc: Hi, Ann. I'm Bill. Bye, Ann.\n→ Chào Ann. Mình là Bill. Tạm biệt Ann.\n❓ Who does Bill say goodbye to? → Bill nói tạm biệt với ai?\n✅ A. Ann"
       },
       {
         "id": 45,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbaabike.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cup.mp3",
         "choices": [
           "A. cow",
-          "B. bike",
+          "B. cup",
           "C. tree",
           "D. pig"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Hi, I'm Ba. A bike. → Chào. Mình là Ba. Một chiếc xe đạp.\n✅ B. bike → xe đạp"
+        "hint": "🎧 Bài nghe: cup\n→ cái cốc\n✅ B. cup → cái cốc"
       },
       {
         "id": 46,
@@ -666,15 +666,15 @@
         "id": 48,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsabike.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hat.mp3",
         "choices": [
-          "A. bike",
+          "A. hat",
           "B. table",
           "C. robot",
           "D. pig"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 It's a bike. → Đó là một chiếc xe đạp.\n✅ A. bike → xe đạp"
+        "hint": "🎧 Bài nghe: hat\n→ cái mũ\n✅ A. hat → cái mũ"
       },
       {
         "id": 49,
@@ -1021,8 +1021,8 @@
       {
         "id": 604,
         "question": "Choose the missing letter: b_ll",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bell.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bell.mp3",
         "choices": [
           "A. a",
           "B. e",
@@ -1035,7 +1035,7 @@
       {
         "id": 605,
         "question": "Choose the unnecessary letter: mbook",
-        "questionImageUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/book.png",
         "questionAudioUrl": "",
         "choices": [
           "A. b",
@@ -1048,7 +1048,7 @@
       },
       {
         "id": 606,
-        "question": "Find the mistake: Billy am in the classroom.",
+        "question": "Find the mistake.\n<u>Billy</u> <u>am</u> <u>in</u> the <u>classroom</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1063,7 +1063,7 @@
       {
         "id": 607,
         "question": "Choose the missing letter: bi_e",
-        "questionImageUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bike.png",
         "questionAudioUrl": "",
         "choices": [
           "A. k",
@@ -1076,7 +1076,7 @@
       },
       {
         "id": 608,
-        "question": "Find the mistake: Hi, I are Tom.",
+        "question": "Find the mistake.\n<u>Hi</u>, <u>I</u> <u>are</u> <u>Tom</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1105,7 +1105,7 @@
       {
         "id": 610,
         "question": "Complete the word.\nb_ke",
-        "questionImageUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bike.png",
         "questionAudioUrl": "",
         "choices": [
           "A. o",
@@ -1132,7 +1132,7 @@
       },
       {
         "id": 612,
-        "question": "Find the mistake.\nHello, I is Mary.",
+        "question": "Find the mistake.\n<u>Hello</u>, <u>I</u> <u>is</u> <u>Mary</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1141,8 +1141,8 @@
           "C. I",
           "D. Mary"
         ],
-        "correctAnswerIndex": 2,
-        "hint": "Câu đúng: Hello, I'm Mary. → Xin chào, mình là Mary.\nSai ở \"I\": I → am ('m).\n✅ C. I"
+        "correctAnswerIndex": 0,
+        "hint": "Câu đúng: Hello, I'm Mary. → Xin chào, mình là Mary.\nSai ở \"is\": I đi với am (I'm), không đi với is.\n✅ A. is"
       },
       {
         "id": 613,
@@ -1161,7 +1161,7 @@
       {
         "id": 614,
         "question": "Complete the word.\nbo_k",
-        "questionImageUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/book.png",
         "questionAudioUrl": "",
         "choices": [
           "A. i",
@@ -1188,7 +1188,7 @@
       },
       {
         "id": 616,
-        "question": "Find the mistake.\nHi, I is Ben.",
+        "question": "Find the mistake.\n<u>Hi</u>, <u>I</u> <u>is</u> <u>Ben</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1197,8 +1197,8 @@
           "C. I",
           "D. is"
         ],
-        "correctAnswerIndex": 2,
-        "hint": "Câu đúng: Hi, I'm Ben. → Chào. Mình là Ben.\nSai ở \"I\": I → am ('m).\n✅ C. I"
+        "correctAnswerIndex": 3,
+        "hint": "Câu đúng: Hi, I'm Ben. → Chào. Mình là Ben.\nSai ở \"is\": I đi với am (I'm), không đi với is.\n✅ D. is"
       },
       {
         "id": 617,
@@ -1231,8 +1231,8 @@
       {
         "id": 619,
         "question": "Choose the missing letter: b_ll",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/ball.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ball.mp3",
         "choices": [
           "A. a",
           "B. e",
@@ -1245,7 +1245,7 @@
       {
         "id": 620,
         "question": "Choose the missing letter: boo_",
-        "questionImageUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/book.png",
         "questionAudioUrl": "",
         "choices": [
           "A. t",
@@ -1259,8 +1259,8 @@
       {
         "id": 621,
         "question": "Choose the missing letter: d_sk",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/desk.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/desk.mp3",
         "choices": [
           "A. e",
           "B. a",
@@ -1273,8 +1273,8 @@
       {
         "id": 622,
         "question": "Choose the missing letter: f_sh",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/fish.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/fish.mp3",
         "choices": [
           "A. i",
           "B. a",
@@ -1286,7 +1286,7 @@
       },
       {
         "id": 623,
-        "question": "Find the mistake: She is in home.",
+        "question": "Find the mistake.\n<u>She</u> <u>is</u> <u>in</u> <u>home</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1300,7 +1300,7 @@
       },
       {
         "id": 624,
-        "question": "Find the mistake: This is a robots.",
+        "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>a</u> <u>robots</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1329,8 +1329,8 @@
       {
         "id": 626,
         "question": "Complete the word.\nb_rd",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bird.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bird.mp3",
         "choices": [
           "A. a",
           "B. i",
@@ -1561,15 +1561,15 @@
         "id": 66,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookabike.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cat.mp3",
         "choices": [
-          "A. bike",
+          "A. cat",
           "B. boat",
           "C. bread",
           "D. pig"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Look! A bike! → Nhìn kìa! Một chiếc xe đạp!\n✅ A. bike → xe đạp"
+        "hint": "🎧 Bài nghe: cat\n→ con mèo\n✅ A. cat → con mèo"
       },
       {
         "id": 67,
@@ -1577,7 +1577,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. the",
+          "A. two",
           "B. a",
           "C. some",
           "D. an"
@@ -1629,7 +1629,7 @@
       },
       {
         "id": 71,
-        "question": "Read and choose the correct answer.\nHi, I'm Mary. I have a car.\n\nWhat does Mary have?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Mary. I have a car.”\n\n❓ What does Mary have?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1645,7 +1645,7 @@
         "id": 72,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ihaveakite.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/kite.mp3",
         "choices": [
           "A. robot",
           "B. kite",
@@ -1653,7 +1653,7 @@
           "D. doll"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 I have a kite. → Mình có một cái diều.\n✅ B. kite → cái diều"
+        "hint": "🎧 Bài nghe: kite\n→ cái diều\n✅ B. kite → cái diều"
       },
       {
         "id": 73,
@@ -1664,7 +1664,7 @@
           "A. an",
           "B. some",
           "C. a",
-          "D. the"
+          "D. two"
         ],
         "correctAnswerIndex": 2,
         "hint": "📝 I have a bike and a car. → Mình có một chiếc xe đạp và một chiếc ô tô.\n✅ C. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -1727,7 +1727,7 @@
       },
       {
         "id": 78,
-        "question": "Read and choose the correct answer.\nHi, I'm Ben. I have a cake.\n\nWhat does Ben have?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Ben. I have a cake.”\n\n❓ What does Ben have?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1743,7 +1743,7 @@
         "id": 79,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbenihaveacat.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cat.mp3",
         "choices": [
           "A. pig",
           "B. cat",
@@ -1751,7 +1751,7 @@
           "D. frog"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Hi, I'm Ben. I have a cat. → Chào. Mình là Ben. Mình có một con mèo.\n✅ B. cat → con mèo"
+        "hint": "🎧 Bài nghe: cat\n→ con mèo\n✅ B. cat → con mèo"
       },
       {
         "id": 80,
@@ -1762,7 +1762,7 @@
           "A. a",
           "B. an",
           "C. some",
-          "D. the"
+          "D. two"
         ],
         "correctAnswerIndex": 0,
         "hint": "📝 I have a book and a cat. → Mình có một quyển sách và một con mèo.\n✅ A. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -1855,15 +1855,15 @@
         "id": 87,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ihaveabike.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/dog.mp3",
         "choices": [
           "A. rice",
           "B. bed",
-          "C. bike",
+          "C. dog",
           "D. sheep"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 I have a bike. → Mình có một chiếc xe đạp.\n✅ C. bike → xe đạp"
+        "hint": "🎧 Bài nghe: dog\n→ con chó\n✅ C. dog → con chó"
       },
       {
         "id": 88,
@@ -1872,7 +1872,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. an",
-          "B. the",
+          "B. two",
           "C. a",
           "D. some"
         ],
@@ -1923,7 +1923,7 @@
       },
       {
         "id": 92,
-        "question": "Listen and choose the correct answer.\nWho says bye to?",
+        "question": "Listen and choose the correct answer.\nWho does Ann say goodbye to?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibaimannbyeba.mp3",
         "choices": [
@@ -1933,11 +1933,11 @@
           "D. Bill"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 Bài nghe: Hi, Ba. I'm Ann. Bye, Ba.\n→ Chào Ba. Mình là Ann. Tạm biệt Ba.\n❓ Who says bye to? → Người nói tạm biệt với ai?\n✅ C. Ba"
+        "hint": "🎧 Bài nghe: Hi, Ba. I'm Ann. Bye, Ba.\n→ Chào Ba. Mình là Ann. Tạm biệt Ba.\n❓ Who does Ann say goodbye to? → Ann nói tạm biệt với ai?\n✅ C. Ba"
       },
       {
         "id": 93,
-        "question": "Read and choose the correct answer.\nHi, Ann. I'm Mary. Bye, Ann.\n\nWho says bye to?",
+        "question": "Read and choose the correct answer.\nMary: Hi, Ann. I'm Mary.\nAnn: Hi, Mary.\nMary: Bye, Ann.\nAnn: Bye, Mary.\n\n❓ Who does Mary say goodbye to?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1947,7 +1947,7 @@
           "D. Ann"
         ],
         "correctAnswerIndex": 3,
-        "hint": "📖 Bài đọc: Hi, Ann. I'm Mary. Bye, Ann.\n→ Chào Ann. Mình là Mary. Tạm biệt Ann.\n❓ Who says bye to? → Người nói tạm biệt với ai?\n✅ D. Ann"
+        "hint": "📖 Bài đọc: Hi, Ann. I'm Mary. Bye, Ann.\n→ Chào Ann. Mình là Mary. Tạm biệt Ann.\n❓ Who does Mary say goodbye to? → Mary nói tạm biệt với ai?\n✅ D. Ann"
       },
       {
         "id": 94,
@@ -1967,7 +1967,7 @@
         "id": 95,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ihaveacake.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cake.mp3",
         "choices": [
           "A. cake",
           "B. orange",
@@ -1975,7 +1975,7 @@
           "D. rice"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 I have a cake. → Mình có một cái bánh.\n✅ A. cake → bánh ngọt"
+        "hint": "🎧 Bài nghe: cake\n→ bánh ngọt\n✅ A. cake → bánh ngọt"
       },
       {
         "id": 96,
@@ -1983,7 +1983,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. the",
+          "A. two",
           "B. some",
           "C. an",
           "D. a"
@@ -2021,7 +2021,7 @@
       },
       {
         "id": 99,
-        "question": "Listen and choose the correct answer.\nWhat is the speaker's name?",
+        "question": "Listen and choose the correct answer.\nWho says hi to Ben?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibenimbill.mp3",
         "choices": [
@@ -2031,11 +2031,11 @@
           "D. Mary"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 Bài nghe: Hi, Ben. I'm Bill.\n→ Chào Ben. Mình là Bill.\n❓ What is the speaker's name? → Người nói tên là gì?\n✅ C. Bill"
+        "hint": "🎧 Bài nghe: Hi, Ben. I'm Bill.\n→ Chào Ben. Mình là Bill.\n❓ Who says hi to Ben? → Ai chào Ben?\n✅ C. Bill"
       },
       {
         "id": 100,
-        "question": "Read and choose the correct answer.\nHi, I'm Ann. I have a cup.\n\nWhat does Ann have?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Ann. I have a cup.”\n\n❓ What does Ann have?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2051,15 +2051,15 @@
         "id": 101,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimmaryabike.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/kite.mp3",
         "choices": [
           "A. bed",
-          "B. bike",
+          "B. kite",
           "C. bread",
           "D. pig"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Hi, I'm Mary. A bike. → Chào. Mình là Mary. Một chiếc xe đạp.\n✅ B. bike → xe đạp"
+        "hint": "🎧 Bài nghe: kite\n→ cái diều\n✅ B. kite → cái diều"
       },
       {
         "id": 429,
@@ -2363,7 +2363,7 @@
       },
       {
         "id": 628,
-        "question": "Find the mistake: I have a cat and a cars.",
+        "question": "Find the mistake.\n<u>I</u> <u>have</u> <u>a cat</u> and a <u>cars</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2377,7 +2377,7 @@
       },
       {
         "id": 629,
-        "question": "Find the mistake: This are my kite.",
+        "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>my</u> <u>kite</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2391,7 +2391,7 @@
       },
       {
         "id": 630,
-        "question": "Find the mistake: There is a cakes in the box.",
+        "question": "Find the mistake.\n<u>There</u> <u>is</u> <u>a</u> <u>cakes</u> in the box.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2406,8 +2406,8 @@
       {
         "id": 631,
         "question": "Choose the unnecessary letter: birzd",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bird.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bird.mp3",
         "choices": [
           "A. b",
           "B. i",
@@ -2420,8 +2420,8 @@
       {
         "id": 632,
         "question": "Choose the missing letter: d_g",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/dog.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/dog.mp3",
         "choices": [
           "A. o",
           "B. a",
@@ -2448,8 +2448,8 @@
       {
         "id": 634,
         "question": "Complete the word.\nc_p",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/cup.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cup.mp3",
         "choices": [
           "A. i",
           "B. u",
@@ -2489,7 +2489,7 @@
       },
       {
         "id": 637,
-        "question": "Find the mistake.\nI have an ball.",
+        "question": "Find the mistake.\n<u>I</u> <u>have</u> <u>an</u> <u>ball</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2518,8 +2518,8 @@
       {
         "id": 639,
         "question": "Complete the word.\nc_t",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/cat.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cat.mp3",
         "choices": [
           "A. u",
           "B. i",
@@ -2559,7 +2559,7 @@
       },
       {
         "id": 642,
-        "question": "Find the mistake.\nI have an book and a car.",
+        "question": "Find the mistake.\n<u>I</u> <u>have</u> <u>an</u> book <u>and</u> a car.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2573,17 +2573,17 @@
       },
       {
         "id": 643,
-        "question": "Find the mistake: I have a cat and a cars.",
+        "question": "Find the mistake.\n<u>I</u> <u>have</u> <u>a bird</u> and <u>a robots</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. I",
           "B. have",
-          "C. a cat",
-          "D. a cars"
+          "C. a bird",
+          "D. a robots"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Tìm lỗi sai: I have a cat and a cars.\n✅ D. sửa cars thành car (sau a dùng số ít)"
+        "hint": "Tìm lỗi sai: I have a bird and a robots.\n✅ D. sửa robots thành robot (sau a dùng số ít)"
       },
       {
         "id": 644,
@@ -2603,9 +2603,9 @@
         "id": 645,
         "question": "Complete the word.\nh_ve",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/have.mp3",
         "choices": [
-          "A. i",
+          "A. e",
           "B. a",
           "C. o",
           "D. u"
@@ -2643,7 +2643,7 @@
       },
       {
         "id": 648,
-        "question": "Find the mistake.\nHello, I is Ann.",
+        "question": "Find the mistake.\n<u>Hello</u>, <u>I</u> <u>is</u> <u>Ann</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2652,8 +2652,8 @@
           "C. Ann",
           "D. is"
         ],
-        "correctAnswerIndex": 0,
-        "hint": "Câu đúng: Hello, I'm Ann. → Xin chào, mình là Ann.\nSai ở \"I\": I → am ('m).\n✅ A. I"
+        "correctAnswerIndex": 3,
+        "hint": "Câu đúng: Hello, I'm Ann. → Xin chào, mình là Ann.\nSai ở \"is\": I đi với am (I'm), không đi với is.\n✅ D. is"
       },
       {
         "id": 649,
@@ -2685,7 +2685,7 @@
       },
       {
         "id": 651,
-        "question": "Find the mistake.\nHi, I is Nam.",
+        "question": "Find the mistake.\n<u>Hi</u>, <u>I</u> <u>is</u> <u>Nam</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2694,8 +2694,8 @@
           "C. I",
           "D. Hi,"
         ],
-        "correctAnswerIndex": 2,
-        "hint": "Câu đúng: Hi, I'm Nam. → Chào. Mình là Nam.\nSai ở \"I\": I → am ('m).\n✅ C. I"
+        "correctAnswerIndex": 0,
+        "hint": "Câu đúng: Hi, I'm Nam. → Chào. Mình là Nam.\nSai ở \"is\": I đi với am (I'm), không đi với is.\n✅ A. is"
       },
       {
         "id": 652,
@@ -2834,19 +2834,19 @@
         "id": 110,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimannabike.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/doll.mp3",
         "choices": [
           "A. cup",
           "B. ball",
           "C. cow",
-          "D. bike"
+          "D. doll"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 Hi, I'm Ann. A bike. → Chào. Mình là Ann. Một chiếc xe đạp.\n✅ D. bike → xe đạp"
+        "hint": "🎧 Bài nghe: doll\n→ búp bê\n✅ D. doll → búp bê"
       },
       {
         "id": 111,
-        "question": "Choose the correct answer.\nHi, Sue. I'm Ben. – ___",
+        "question": "Choose the correct answer.\nBen: Hi, Sue. I'm Ben.\nSue: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2860,7 +2860,7 @@
       },
       {
         "id": 112,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/byelucy.mp3",
         "choices": [
@@ -2879,7 +2879,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. some",
-          "B. the",
+          "B. two",
           "C. a",
           "D. an"
         ],
@@ -2944,7 +2944,7 @@
       },
       {
         "id": 118,
-        "question": "Read and choose the correct answer.\nHi, I'm Ba. This is my book.\n\nWhat is it?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Ba. This is my book.”\n\n❓ What is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2960,7 +2960,7 @@
         "id": 119,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsahat.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hat.mp3",
         "choices": [
           "A. shoe",
           "B. hat",
@@ -2968,11 +2968,11 @@
           "D. coat"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 It's a hat. → Đó là một cái mũ.\n✅ B. hat → cái mũ"
+        "hint": "🎧 Bài nghe: hat\n→ cái mũ\n✅ B. hat → cái mũ"
       },
       {
         "id": 120,
-        "question": "Choose the correct answer.\nHi, Ba. I'm Mary. – ___",
+        "question": "Choose the correct answer.\nMary: Hi, Ba. I'm Mary.\nBa: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2986,7 +2986,7 @@
       },
       {
         "id": 121,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/whatdoyouhave.mp3",
         "choices": [
@@ -3005,7 +3005,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. an",
-          "B. the",
+          "B. two",
           "C. some",
           "D. a"
         ],
@@ -3056,7 +3056,7 @@
       },
       {
         "id": 126,
-        "question": "Read and choose the correct answer.\nHi, I'm Bill. This is my apple.\n\nWhat is it?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Bill. This is my apple.”\n\n❓ What is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3072,7 +3072,7 @@
         "id": 127,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsacan.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/can.mp3",
         "choices": [
           "A. bag",
           "B. cup",
@@ -3080,11 +3080,11 @@
           "D. box"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 It's a can. → Đó là một lon đồ uống.\n✅ C. can → lon đồ uống"
+        "hint": "🎧 Bài nghe: can\n→ lon đồ uống\n✅ C. can → lon đồ uống"
       },
       {
         "id": 128,
-        "question": "Choose the correct answer.\nBye, Ba. – ___",
+        "question": "Choose the correct answer.\nMary: Bye, Ba.\nBa: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3098,7 +3098,7 @@
       },
       {
         "id": 129,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/byesue.mp3",
         "choices": [
@@ -3119,7 +3119,7 @@
           "A. a",
           "B. some",
           "C. an",
-          "D. the"
+          "D. two"
         ],
         "correctAnswerIndex": 0,
         "hint": "📝 I have a ball and a cake. → Mình có một quả bóng và một cái bánh.\n✅ A. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -3156,7 +3156,7 @@
         "id": 133,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsabag.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bag.mp3",
         "choices": [
           "A. can",
           "B. box",
@@ -3164,11 +3164,11 @@
           "D. book"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 It's a bag. → Đó là một cái túi.\n✅ C. bag → cái túi"
+        "hint": "🎧 Bài nghe: bag\n→ cái túi\n✅ C. bag → cái túi"
       },
       {
         "id": 134,
-        "question": "Choose the correct answer.\nBye, Mary. – ___",
+        "question": "Choose the correct answer.\nBa: Bye, Mary.\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3182,7 +3182,7 @@
       },
       {
         "id": 135,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/himaryimben.mp3",
         "choices": [
@@ -3201,7 +3201,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. a",
-          "B. the",
+          "B. two",
           "C. some",
           "D. an"
         ],
@@ -3266,7 +3266,7 @@
       },
       {
         "id": 141,
-        "question": "Read and choose the correct answer.\nHi, I'm Mary. I have a ball.\n\nWhat does Mary have?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Mary. I have a ball.”\n\n❓ What does Mary have?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3296,7 +3296,7 @@
         "id": 143,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismycake.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cake.mp3",
         "choices": [
           "A. rice",
           "B. egg",
@@ -3304,11 +3304,11 @@
           "D. cake"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 This is my cake. → Đây là cái bánh của mình.\n✅ D. cake → bánh ngọt"
+        "hint": "🎧 Bài nghe: cake\n→ bánh ngọt\n✅ D. cake → bánh ngọt"
       },
       {
         "id": 144,
-        "question": "Choose the correct answer.\nBye, Ben. – ___",
+        "question": "Choose the correct answer.\nBa: Bye, Ben.\nBen: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3322,7 +3322,7 @@
       },
       {
         "id": 145,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/himaryimlucy.mp3",
         "choices": [
@@ -3341,7 +3341,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. an",
-          "B. the",
+          "B. two",
           "C. some",
           "D. a"
         ],
@@ -3406,7 +3406,7 @@
       },
       {
         "id": 151,
-        "question": "Read and choose the correct answer.\nHi, I'm Ba. This is my bag.\n\nWhat is it?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Ba. This is my bag.”\n\n❓ What is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3422,7 +3422,7 @@
         "id": 152,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisismycup.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/cup.mp3",
         "choices": [
           "A. box",
           "B. can",
@@ -3430,7 +3430,7 @@
           "D. cup"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 This is my cup. → Đây là cái cốc của mình.\n✅ D. cup → cái cốc"
+        "hint": "🎧 Bài nghe: cup\n→ cái cốc\n✅ D. cup → cái cốc"
       },
       {
         "id": 454,
@@ -3735,8 +3735,8 @@
       {
         "id": 653,
         "question": "Choose the missing letter: h_t",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/hat.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hat.mp3",
         "choices": [
           "A. a",
           "B. e",
@@ -3748,7 +3748,7 @@
       },
       {
         "id": 654,
-        "question": "Find the mistake: There is a apple in the bag.",
+        "question": "Find the mistake.\n<u>There</u> <u>is</u> <u>a</u> <u>apple</u> in the bag.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3763,8 +3763,8 @@
       {
         "id": 655,
         "question": "Choose the missing letter: appl_",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/apple.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/apple.mp3",
         "choices": [
           "A. a",
           "B. e",
@@ -3776,7 +3776,7 @@
       },
       {
         "id": 656,
-        "question": "Find the mistake: This is my robots.",
+        "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>my</u> <u>robots</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3791,8 +3791,8 @@
       {
         "id": 657,
         "question": "Choose the missing letter: b_g",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bag.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bag.mp3",
         "choices": [
           "A. a",
           "B. e",
@@ -3804,7 +3804,7 @@
       },
       {
         "id": 658,
-        "question": "Find the mistake: There is an hat on the table.",
+        "question": "Find the mistake.\n<u>There</u> <u>is</u> <u>an</u> <u>hat</u> on the table.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3819,8 +3819,8 @@
       {
         "id": 659,
         "question": "Choose the missing letter: ca_",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/can.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/can.mp3",
         "choices": [
           "A. n",
           "B. m",
@@ -3833,8 +3833,8 @@
       {
         "id": 660,
         "question": "Choose the unnecessary letter: baeg",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bag.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bag.mp3",
         "choices": [
           "A. b",
           "B. a",
@@ -3861,8 +3861,8 @@
       {
         "id": 662,
         "question": "Complete the word.\nap_le",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/apple.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/apple.mp3",
         "choices": [
           "A. p",
           "B. s",
@@ -3902,7 +3902,7 @@
       },
       {
         "id": 665,
-        "question": "Find the mistake.\nI have an bag.",
+        "question": "Find the mistake.\n<u>I</u> <u>have</u> <u>an</u> <u>bag</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3931,8 +3931,8 @@
       {
         "id": 667,
         "question": "Complete the word.\nh_t",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/hat.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hat.mp3",
         "choices": [
           "A. i",
           "B. o",
@@ -3945,7 +3945,7 @@
       {
         "id": 668,
         "question": "Complete the word.\nch_ir",
-        "questionImageUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/chair.png",
         "questionAudioUrl": "",
         "choices": [
           "A. a",
@@ -3986,7 +3986,7 @@
       },
       {
         "id": 671,
-        "question": "Find the mistake.\nI have an book and a cat.",
+        "question": "Find the mistake.\nI <u>have</u> <u>an</u> book and <u>a</u> <u>cat</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4028,7 +4028,7 @@
       },
       {
         "id": 674,
-        "question": "Find the mistake.\nHi, I is Lucy.",
+        "question": "Find the mistake.\n<u>Hi</u>, <u>I</u> <u>is</u> <u>Lucy</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4037,8 +4037,8 @@
           "C. Hi,",
           "D. is"
         ],
-        "correctAnswerIndex": 0,
-        "hint": "Câu đúng: Hi, I'm Lucy. → Chào. Mình là Lucy.\nSai ở \"I\": I → am ('m).\n✅ A. I"
+        "correctAnswerIndex": 3,
+        "hint": "Câu đúng: Hi, I'm Lucy. → Chào. Mình là Lucy.\nSai ở \"is\": I đi với am (I'm), không đi với is.\n✅ D. is"
       },
       {
         "id": 675,
@@ -4275,7 +4275,7 @@
         "id": 167,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ihaveaball.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ball.mp3",
         "choices": [
           "A. kite",
           "B. doll",
@@ -4283,11 +4283,11 @@
           "D. ball"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 I have a ball. → Mình có một quả bóng.\n✅ D. ball → quả bóng"
+        "hint": "🎧 Bài nghe: ball\n→ quả bóng\n✅ D. ball → quả bóng"
       },
       {
         "id": 168,
-        "question": "Choose the correct answer.\nWhere's the cat? – ___",
+        "question": "Choose the correct answer.\nBa: Where's the cat?\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4301,7 +4301,7 @@
       },
       {
         "id": 169,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/wheresthebook.mp3",
         "choices": [
@@ -4319,7 +4319,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. the",
+          "A. two",
           "B. some",
           "C. an",
           "D. a"
@@ -4385,7 +4385,7 @@
       },
       {
         "id": 175,
-        "question": "Read and choose the correct answer.\nLook! This is a duck. It's on the desk.\n\nWhere is it?",
+        "question": "Read and choose the correct answer.\n📖 Look! This is a duck.\nIt's on the desk.\n\n❓ Where is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4401,7 +4401,7 @@
         "id": 176,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimlucythisismyapple.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/apple.mp3",
         "choices": [
           "A. orange",
           "B. egg",
@@ -4409,11 +4409,11 @@
           "D. juice"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 Hi, I'm Lucy. This is my apple. → Chào. Mình là Lucy. Đây là quả táo của mình.\n✅ C. apple → quả táo"
+        "hint": "🎧 Bài nghe: apple\n→ quả táo\n✅ C. apple → quả táo"
       },
       {
         "id": 177,
-        "question": "Choose the correct answer.\nWhere's the cup? – ___",
+        "question": "Choose the correct answer.\nBa: Where's the cup?\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4427,7 +4427,7 @@
       },
       {
         "id": 178,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/wheresthebike.mp3",
         "choices": [
@@ -4446,7 +4446,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. an",
-          "B. the",
+          "B. two",
           "C. a",
           "D. some"
         ],
@@ -4555,7 +4555,7 @@
         "id": 187,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimannthisismyhat.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hat.mp3",
         "choices": [
           "A. hat",
           "B. coat",
@@ -4563,11 +4563,11 @@
           "D. shoe"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Hi, I'm Ann. This is my hat. → Chào. Mình là Ann. Đây là cái mũ của mình.\n✅ A. hat → cái mũ"
+        "hint": "🎧 Bài nghe: hat\n→ cái mũ\n✅ A. hat → cái mũ"
       },
       {
         "id": 188,
-        "question": "Choose the correct answer.\nHi, Ba. I'm Ben. – ___",
+        "question": "Choose the correct answer.\nBen: Hi, Ba. I'm Ben.\nBa: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4581,7 +4581,7 @@
       },
       {
         "id": 189,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/himaryimsue.mp3",
         "choices": [
@@ -4600,7 +4600,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. a",
-          "B. the",
+          "B. two",
           "C. an",
           "D. some"
         ],
@@ -4637,7 +4637,7 @@
       },
       {
         "id": 193,
-        "question": "Listen and choose the correct answer.\nWho says bye to?",
+        "question": "Listen and choose the correct answer.\nWho does Ba say goodbye to?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibenimbabyeben.mp3",
         "choices": [
@@ -4647,11 +4647,11 @@
           "D. Ben"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 Bài nghe: Hi, Ben. I'm Ba. Bye, Ben.\n→ Chào Ben. Mình là Ba. Tạm biệt Ben.\n❓ Who says bye to? → Người nói tạm biệt với ai?\n✅ D. Ben"
+        "hint": "🎧 Bài nghe: Hi, Ben. I'm Ba. Bye, Ben.\n→ Chào Ben. Mình là Ba. Tạm biệt Ben.\n❓ Who does Ba say goodbye to? → Ba nói tạm biệt với ai?\n✅ D. Ben"
       },
       {
         "id": 194,
-        "question": "Read and choose the correct answer.\nHi, I'm Ben. I have a cat.\n\nWhat does Ben have?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Ben. I have a cat.”\n\n❓ What does Ben have?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4667,7 +4667,7 @@
         "id": 195,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookacan.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/can.mp3",
         "choices": [
           "A. box",
           "B. can",
@@ -4675,11 +4675,11 @@
           "D. book"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Look! A can! → Nhìn kìa! Một lon đồ uống!\n✅ B. can → lon đồ uống"
+        "hint": "🎧 Bài nghe: can\n→ lon đồ uống\n✅ B. can → lon đồ uống"
       },
       {
         "id": 196,
-        "question": "Choose the correct answer.\nHi, Nam. I'm Ben. – ___",
+        "question": "Choose the correct answer.\nBen: Hi, Nam. I'm Ben.\nNam: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4693,7 +4693,7 @@
       },
       {
         "id": 197,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibenimba.mp3",
         "choices": [
@@ -4749,7 +4749,7 @@
       },
       {
         "id": 201,
-        "question": "Listen and choose the correct answer.\nWhat is the speaker's name?",
+        "question": "Listen and choose the correct answer.\nWho says hi to Bill?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibillimba.mp3",
         "choices": [
@@ -4759,11 +4759,11 @@
           "D. Mary"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 Bài nghe: Hi, Bill. I'm Ba.\n→ Chào Bill. Mình là Ba.\n❓ What is the speaker's name? → Người nói tên là gì?\n✅ C. Ba"
+        "hint": "🎧 Bài nghe: Hi, Bill. I'm Ba.\n→ Chào Bill. Mình là Ba.\n❓ Who says hi to Bill? → Ai chào Bill?\n✅ C. Ba"
       },
       {
         "id": 202,
-        "question": "Read and choose the correct answer.\nHi, Bill. I'm Ann.\n\nWhat is the speaker's name?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, Bill. I'm Ann.”\n\n❓ Who says hi to Bill?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4773,7 +4773,7 @@
           "D. Bill"
         ],
         "correctAnswerIndex": 2,
-        "hint": "📖 Bài đọc: Hi, Bill. I'm Ann.\n→ Chào Bill. Mình là Ann.\n❓ What is the speaker's name? → Người nói tên là gì?\n✅ C. Ann"
+        "hint": "📖 Bài đọc: Hi, Bill. I'm Ann.\n→ Chào Bill. Mình là Ann.\n❓ Who says hi to Bill? → Ai chào Bill?\n✅ C. Ann"
       },
       {
         "id": 479,
@@ -4789,7 +4789,7 @@
       },
       {
         "id": 480,
-        "question": "Read and choose True or False.\nLook! This is a book. It's near the window.\n\nIt is near the door.",
+        "question": "Read and choose True or False.\n📖 Look! This is a book.\nIt's near the window.\n\n👉 It is near the door.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4837,7 +4837,7 @@
       },
       {
         "id": 484,
-        "question": "Read and choose True or False.\nLook! This is a dog. It's near the door.\n\nIt is on the desk.",
+        "question": "Read and choose True or False.\n📖 Look! This is a dog.\nIt's near the door.\n\n👉 It is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4885,7 +4885,7 @@
       },
       {
         "id": 488,
-        "question": "Read and choose True or False.\nLook! This is a cat. It's on the desk.\n\nIt is on the bed.",
+        "question": "Read and choose True or False.\n📖 Look! This is a cat.\nIt's on the desk.\n\n👉 It is on the bed.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4933,7 +4933,7 @@
       },
       {
         "id": 492,
-        "question": "Read and choose True or False.\nLook! This is a book. It's on the desk.\n\nIt is on the desk.",
+        "question": "Read and choose True or False.\n📖 Look! This is a book.\nIt's on the desk.\n\n👉 It is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4969,7 +4969,7 @@
       },
       {
         "id": 495,
-        "question": "Read and choose True or False.\nLook! This is a book. It's on the desk.\n\nIt is near the door.",
+        "question": "Read and choose True or False.\n📖 Look! This is a book.\nIt's on the desk.\n\n👉 It is near the door.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5017,7 +5017,7 @@
       },
       {
         "id": 499,
-        "question": "Read and choose True or False.\nLook! This is a cat. It's on the desk.\n\nIt is on the desk.",
+        "question": "Read and choose True or False.\n📖 Look! This is a cat.\nIt's on the desk.\n\n👉 It is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5065,7 +5065,7 @@
       },
       {
         "id": 503,
-        "question": "Read and choose True or False.\nLook! This is a bag. It's near the door.\n\nIt is on the bed.",
+        "question": "Read and choose True or False.\n📖 Look! This is a bag.\nIt's near the door.\n\n👉 It is on the bed.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5078,8 +5078,8 @@
       {
         "id": 677,
         "question": "Choose the missing letter: d_ck",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/duck.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/duck.mp3",
         "choices": [
           "A. u",
           "B. a",
@@ -5091,7 +5091,7 @@
       },
       {
         "id": 678,
-        "question": "Find the mistake: This is a dogs.",
+        "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>a</u> <u>dogs</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5105,7 +5105,7 @@
       },
       {
         "id": 679,
-        "question": "Find the mistake: This are my dog.",
+        "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>my</u> <u>dog</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5119,7 +5119,7 @@
       },
       {
         "id": 680,
-        "question": "Find the mistake: The duck are on the desk.",
+        "question": "Find the mistake.\n<u>The</u> <u>duck</u> <u>are</u> on the <u>desk</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5133,7 +5133,7 @@
       },
       {
         "id": 681,
-        "question": "Find the mistake: The chair am near the window.",
+        "question": "Find the mistake.\n<u>The chair</u> <u>am</u> <u>near</u> the <u>window</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5163,7 +5163,7 @@
         "id": 683,
         "question": "Complete the word.\nn_ar",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/near.mp3",
         "choices": [
           "A. a",
           "B. i",
@@ -5203,7 +5203,7 @@
       },
       {
         "id": 686,
-        "question": "Find the mistake.\nThe dog are near the door.",
+        "question": "Find the mistake.\nThe dog <u>are</u> <u>near</u> <u>the</u> <u>door</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5232,8 +5232,8 @@
       {
         "id": 688,
         "question": "Complete the word.\nd_or",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/door.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/door.mp3",
         "choices": [
           "A. u",
           "B. a",
@@ -5273,7 +5273,7 @@
       },
       {
         "id": 691,
-        "question": "Find the mistake.\nI have an ball and a car.",
+        "question": "Find the mistake.\nI <u>have</u> <u>an</u> <u>ball</u> <u>and</u> a car.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5287,7 +5287,7 @@
       },
       {
         "id": 692,
-        "question": "Find the mistake: The dog are near the door.",
+        "question": "Find the mistake.\n<u>The dog</u> <u>are</u> <u>near</u> <u>the door</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5316,8 +5316,8 @@
       {
         "id": 694,
         "question": "Complete the word.\ne_g",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/egg.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/egg.mp3",
         "choices": [
           "A. b",
           "B. g",
@@ -5357,7 +5357,7 @@
       },
       {
         "id": 697,
-        "question": "Find the mistake.\nThis are a duck.",
+        "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>a</u> <u>duck</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5399,7 +5399,7 @@
       },
       {
         "id": 700,
-        "question": "Find the mistake.\nI have an kite.",
+        "question": "Find the mistake.\n<u>I</u> <u>have</u> <u>an</u> <u>kite</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5646,7 +5646,7 @@
         "id": 218,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimlucyilikemilk.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/milk.mp3",
         "choices": [
           "A. milk",
           "B. bread",
@@ -5654,11 +5654,11 @@
           "D. cake"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Hi, I'm Lucy. I like milk. → Chào. Mình là Lucy. Mình thích sữa.\n✅ A. milk → sữa"
+        "hint": "🎧 Bài nghe: milk\n→ sữa\n✅ A. milk → sữa"
       },
       {
         "id": 219,
-        "question": "Choose the correct answer.\nWhere's the book? – ___",
+        "question": "Choose the correct answer.\nBa: Where's the book?\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5672,7 +5672,7 @@
       },
       {
         "id": 220,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/doyoulikerice.mp3",
         "choices": [
@@ -5690,7 +5690,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. the",
+          "A. two",
           "B. some",
           "C. an",
           "D. a"
@@ -5756,7 +5756,7 @@
       },
       {
         "id": 226,
-        "question": "Read and choose the correct answer.\nHi, I'm Mary. I like chips.\n\nWhat does Mary like?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, I'm Mary. I like chips.”\n\n❓ What does Mary like?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5772,7 +5772,7 @@
         "id": 227,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsanapple.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/apple.mp3",
         "choices": [
           "A. apple",
           "B. cake",
@@ -5780,11 +5780,11 @@
           "D. cookie"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 It's an apple. → Đó là một quả táo.\n✅ A. apple → quả táo"
+        "hint": "🎧 Bài nghe: apple\n→ quả táo\n✅ A. apple → quả táo"
       },
       {
         "id": 228,
-        "question": "Choose the correct answer.\nDo you like cakes? – ___",
+        "question": "Choose the correct answer.\nBa: Do you like cakes?\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5798,7 +5798,7 @@
       },
       {
         "id": 229,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/doyoulikeoranges.mp3",
         "choices": [
@@ -5912,7 +5912,7 @@
         "id": 237,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbaihaveacar.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/car.mp3",
         "choices": [
           "A. car",
           "B. kite",
@@ -5920,11 +5920,11 @@
           "D. hen"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Hi, I'm Ba. I have a car. → Chào. Mình là Ba. Mình có một chiếc ô tô.\n✅ A. car → ô tô"
+        "hint": "🎧 Bài nghe: car\n→ ô tô\n✅ A. car → ô tô"
       },
       {
         "id": 238,
-        "question": "Choose the correct answer.\nHi, Bill. I'm Mary. – ___",
+        "question": "Choose the correct answer.\nMary: Hi, Bill. I'm Mary.\nBill: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5938,7 +5938,7 @@
       },
       {
         "id": 239,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hinamimbill.mp3",
         "choices": [
@@ -5959,7 +5959,7 @@
           "A. some",
           "B. an",
           "C. a",
-          "D. the"
+          "D. two"
         ],
         "correctAnswerIndex": 2,
         "hint": "📝 I have a book. → Mình có một quyển sách.\n✅ C. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -6008,7 +6008,7 @@
       },
       {
         "id": 244,
-        "question": "Read and choose the correct answer.\nLook! This is a duck. It's near the window.\n\nWhere is it?",
+        "question": "Read and choose the correct answer.\n📖 Look! This is a duck.\nIt's near the window.\n\n❓ Where is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6024,7 +6024,7 @@
         "id": 245,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimannilikechips.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/chips.mp3",
         "choices": [
           "A. milk",
           "B. chips",
@@ -6032,11 +6032,11 @@
           "D. egg"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Hi, I'm Ann. I like chips. → Chào. Mình là Ann. Mình thích khoai tây chiên.\n✅ B. chips → khoai tây chiên"
+        "hint": "🎧 Bài nghe: chips\n→ khoai tây chiên\n✅ B. chips → khoai tây chiên"
       },
       {
         "id": 246,
-        "question": "Choose the correct answer.\nHi, Mary. I'm Nam. – ___",
+        "question": "Choose the correct answer.\nNam: Hi, Mary. I'm Nam.\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6050,7 +6050,7 @@
       },
       {
         "id": 247,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibillimlucy.mp3",
         "choices": [
@@ -6069,7 +6069,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. some",
-          "B. the",
+          "B. two",
           "C. an",
           "D. a"
         ],
@@ -6146,7 +6146,7 @@
       },
       {
         "id": 505,
-        "question": "Read and choose True or False.\nHi, I'm Ba. I like milk.\n\nBa likes fish.",
+        "question": "Read and choose True or False.\n📖 Hi, I'm Ba.\nI like milk.\n\n👉 Ba likes fish.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6194,7 +6194,7 @@
       },
       {
         "id": 509,
-        "question": "Read and choose True or False.\nHi, I'm Mary. I like chicken.\n\nMary likes chicken.",
+        "question": "Read and choose True or False.\n📖 Hi, I'm Mary.\nI like chicken.\n\n👉 Mary likes chicken.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6242,7 +6242,7 @@
       },
       {
         "id": 513,
-        "question": "Read and choose True or False.\nHi, I'm Mary. I like chips.\n\nMary likes fish.",
+        "question": "Read and choose True or False.\n📖 Hi, I'm Mary.\nI like chips.\n\n👉 Mary likes fish.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6326,7 +6326,7 @@
       },
       {
         "id": 520,
-        "question": "Read and choose True or False.\nLook! This is a book. It's near the door.\n\nIt is near the door.",
+        "question": "Read and choose True or False.\n📖 Look! This is a book.\nIt's near the door.\n\n👉 It is near the door.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6374,7 +6374,7 @@
       },
       {
         "id": 524,
-        "question": "Read and choose True or False.\nLook! This is a bag. It's near the window.\n\nIt is on the desk.",
+        "question": "Read and choose True or False.\n📖 Look! This is a bag.\nIt's near the window.\n\n👉 It is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6422,7 +6422,7 @@
       },
       {
         "id": 528,
-        "question": "Read and choose True or False.\nHi, I'm Mary. I like milk.\n\nMary likes milk.",
+        "question": "Read and choose True or False.\n📖 Hi, I'm Mary.\nI like milk.\n\n👉 Mary likes milk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6434,7 +6434,7 @@
       },
       {
         "id": 702,
-        "question": "Find the mistake: I like a chips.",
+        "question": "Find the mistake.\n<u>I</u> <u>like</u> <u>a</u> <u>chips</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6448,7 +6448,7 @@
       },
       {
         "id": 703,
-        "question": "Find the mistake: I likes chicken very much.",
+        "question": "Find the mistake.\n<u>I</u> <u>likes</u> <u>chicken</u> <u>very much</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6462,7 +6462,7 @@
       },
       {
         "id": 704,
-        "question": "Find the mistake: I like a milk.",
+        "question": "Find the mistake.\n<u>I</u> <u>like</u> <u>a</u> <u>milk</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6476,7 +6476,7 @@
       },
       {
         "id": 705,
-        "question": "Find the mistake: I likes juice so much.",
+        "question": "Find the mistake.\n<u>I</u> <u>likes</u> <u>juice</u> <u>so much</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6505,8 +6505,8 @@
       {
         "id": 707,
         "question": "Complete the word.\nm_lk",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/milk.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/milk.mp3",
         "choices": [
           "A. e",
           "B. i",
@@ -6546,7 +6546,7 @@
       },
       {
         "id": 710,
-        "question": "Find the mistake.\nThis is an dog.",
+        "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>an</u> <u>dog</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6575,8 +6575,8 @@
       {
         "id": 712,
         "question": "Complete the word.\nf_sh",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/fish.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/fish.mp3",
         "choices": [
           "A. e",
           "B. i",
@@ -6616,7 +6616,7 @@
       },
       {
         "id": 715,
-        "question": "Find the mistake.\nThe dog are near the window.",
+        "question": "Find the mistake.\nThe <u>dog</u> <u>are</u> <u>near</u> the <u>window</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6645,8 +6645,8 @@
       {
         "id": 717,
         "question": "Complete the word.\nch_cken",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/chicken.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/chicken.mp3",
         "choices": [
           "A. u",
           "B. e",
@@ -6686,7 +6686,7 @@
       },
       {
         "id": 720,
-        "question": "Find the mistake.\nThe duck are on the desk.",
+        "question": "Find the mistake.\n<u>The</u> duck <u>are</u> <u>on</u> <u>the</u> desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6728,7 +6728,7 @@
       },
       {
         "id": 723,
-        "question": "Find the mistake.\nHi! I is Phil.",
+        "question": "Find the mistake.\n<u>Hi</u>! <u>I</u> <u>is</u> <u>Phil</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6737,8 +6737,8 @@
           "C. is",
           "D. Phil"
         ],
-        "correctAnswerIndex": 1,
-        "hint": "Câu đúng: Hi! I'm Phil. → Chào! Mình là Phil.\nSai ở \"I\": I → am ('m).\n✅ B. I"
+        "correctAnswerIndex": 2,
+        "hint": "Câu đúng: Hi! I'm Phil. → Chào! Mình là Phil.\nSai ở \"is\": I đi với am (I'm), không đi với is.\n✅ C. is"
       },
       {
         "id": 724,
@@ -6770,7 +6770,7 @@
       },
       {
         "id": 726,
-        "question": "Find the mistake.\nA ball and an bike.",
+        "question": "Find the mistake.\n<u>A</u> <u>ball</u> <u>and</u> <u>an</u> bike.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6795,13 +6795,13 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. hat",
+          "A. doll",
           "B. kite",
           "C. ball",
           "D. Ben"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Tìm từ “khác nhóm”\nA. hat – cái mũ\nB. kite – con diều\nC. ball – quả bóng\n✅ D. Ben – tên người\n👉 Ben là tên người, 3 từ kia là đồ vật"
+        "hint": "Tìm từ “khác nhóm”\nA. doll – búp bê\nB. kite – con diều\nC. ball – quả bóng\n✅ D. Ben – tên người\n👉 Ben là tên người, 3 từ kia là đồ vật"
       },
       {
         "id": 254,
@@ -6961,7 +6961,7 @@
         "id": 265,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/thisisabell.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bell.mp3",
         "choices": [
           "A. pencil",
           "B. bell",
@@ -6969,11 +6969,11 @@
           "D. can"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 This is a bell. → Đây là một cái chuông.\n✅ B. bell → cái chuông"
+        "hint": "🎧 Bài nghe: bell\n→ cái chuông\n✅ B. bell → cái chuông"
       },
       {
         "id": 266,
-        "question": "Choose the correct answer.\nDo you like fish? – ___",
+        "question": "Choose the correct answer.\nBa: Do you like fish?\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6987,7 +6987,7 @@
       },
       {
         "id": 267,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/doyoulikeeggs.mp3",
         "choices": [
@@ -7001,7 +7001,7 @@
       },
       {
         "id": 268,
-        "question": "Choose the missing word.\n___ you like cakes? – No, I don't.",
+        "question": "Choose the missing word.\nA: ___ you like cakes?\nB: No, I don't.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7071,7 +7071,7 @@
       },
       {
         "id": 273,
-        "question": "Read and choose the correct answer.\nLook! It's a red bell.\n\nWhat is it?",
+        "question": "Read and choose the correct answer.\n📖 Look! It's a red bell.\n\n❓ What is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7087,7 +7087,7 @@
         "id": 274,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsadog.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/dog.mp3",
         "choices": [
           "A. dog",
           "B. sheep",
@@ -7095,11 +7095,11 @@
           "D. frog"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 It's a dog. → Đó là một con chó.\n✅ A. dog → con chó"
+        "hint": "🎧 Bài nghe: dog\n→ con chó\n✅ A. dog → con chó"
       },
       {
         "id": 275,
-        "question": "Choose the correct answer.\nWhat colour is it? – ___",
+        "question": "Choose the correct answer.\nBa: What colour is it?\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7113,7 +7113,7 @@
       },
       {
         "id": 276,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/doyoulikecakes.mp3",
         "choices": [
@@ -7133,7 +7133,7 @@
         "choices": [
           "A. an",
           "B. some",
-          "C. the",
+          "C. two",
           "D. a"
         ],
         "correctAnswerIndex": 3,
@@ -7197,7 +7197,7 @@
       },
       {
         "id": 282,
-        "question": "Read and choose the correct answer.\nIt's a pencil. It's red.\n\nWhat colour is it?",
+        "question": "Read and choose the correct answer.\n📖 It's a pencil.\nIt's red.\n\n❓ What colour is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7255,7 +7255,7 @@
         "id": 286,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikeapples.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/apple.mp3",
         "choices": [
           "A. cake",
           "B. candy",
@@ -7263,11 +7263,11 @@
           "D. chicken"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 I like apples. → Mình thích táo.\n✅ C. apple → quả táo"
+        "hint": "🎧 Bài nghe: apple\n→ quả táo\n✅ C. apple → quả táo"
       },
       {
         "id": 287,
-        "question": "Choose the correct answer.\nHi, Lucy. I'm Nam. – ___",
+        "question": "Choose the correct answer.\nNam: Hi, Lucy. I'm Nam.\nLucy: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7281,7 +7281,7 @@
       },
       {
         "id": 288,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiannimmary.mp3",
         "choices": [
@@ -7302,7 +7302,7 @@
           "A. an",
           "B. some",
           "C. a",
-          "D. the"
+          "D. two"
         ],
         "correctAnswerIndex": 2,
         "hint": "📝 I have a pencil. → Mình có một cái bút chì.\n✅ C. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -7365,7 +7365,7 @@
       },
       {
         "id": 294,
-        "question": "Read and choose the correct answer.\nLook! This is a book. It's on the desk.\n\nWhere is it?",
+        "question": "Read and choose the correct answer.\n📖 Look! This is a book.\nIt's on the desk.\n\n❓ Where is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7381,7 +7381,7 @@
         "id": 295,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimmarythisismyapple.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/apple.mp3",
         "choices": [
           "A. apple",
           "B. chicken",
@@ -7389,11 +7389,11 @@
           "D. bread"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Hi, I'm Mary. This is my apple. → Chào. Mình là Mary. Đây là quả táo của mình.\n✅ A. apple → quả táo"
+        "hint": "🎧 Bài nghe: apple\n→ quả táo\n✅ A. apple → quả táo"
       },
       {
         "id": 296,
-        "question": "Choose the correct answer.\nHi, Bill. I'm Sue. – ___",
+        "question": "Choose the correct answer.\nSue: Hi, Bill. I'm Sue.\nBill: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7407,7 +7407,7 @@
       },
       {
         "id": 297,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hisueimnam.mp3",
         "choices": [
@@ -7427,7 +7427,7 @@
         "choices": [
           "A. some",
           "B. a",
-          "C. the",
+          "C. two",
           "D. an"
         ],
         "correctAnswerIndex": 1,
@@ -7477,7 +7477,7 @@
       },
       {
         "id": 302,
-        "question": "Listen and choose the correct answer.\nWhat is the speaker's name?",
+        "question": "Listen and choose the correct answer.\nWho says hi to Mary?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/himaryimben.mp3",
         "choices": [
@@ -7487,7 +7487,7 @@
           "D. Ba"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Bài nghe: Hi, Mary. I'm Ben.\n→ Chào Mary. Mình là Ben.\n❓ What is the speaker's name? → Người nói tên là gì?\n✅ A. Ben"
+        "hint": "🎧 Bài nghe: Hi, Mary. I'm Ben.\n→ Chào Mary. Mình là Ben.\n❓ Who says hi to Mary? → Ai chào Mary?\n✅ A. Ben"
       },
       {
         "id": 303,
@@ -7697,7 +7697,7 @@
       },
       {
         "id": 545,
-        "question": "Read and choose True or False.\nHi, I'm Ann. I like milk.\n\nAnn likes chips.",
+        "question": "Read and choose True or False.\n📖 Hi, I'm Ann.\nI like milk.\n\n👉 Ann likes chips.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7745,7 +7745,7 @@
       },
       {
         "id": 549,
-        "question": "Read and choose True or False.\nLook! This is a duck. It's on the desk.\n\nIt is on the desk.",
+        "question": "Read and choose True or False.\n📖 Look! This is a duck.\nIt's on the desk.\n\n👉 It is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7793,7 +7793,7 @@
       },
       {
         "id": 553,
-        "question": "Read and choose True or False.\nLook! This is a book. It's near the door.\n\nIt is on the bed.",
+        "question": "Read and choose True or False.\n📖 Look! This is a book.\nIt's near the door.\n\n👉 It is on the bed.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7819,7 +7819,7 @@
       },
       {
         "id": 728,
-        "question": "Find the mistake: I has a bell.",
+        "question": "Find the mistake.\n<u>I</u> <u>has</u> <u>a</u> <u>bell</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7834,8 +7834,8 @@
       {
         "id": 729,
         "question": "Choose the missing letter: p_n",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/pen.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/pen.mp3",
         "choices": [
           "A. e",
           "B. u",
@@ -7847,7 +7847,7 @@
       },
       {
         "id": 730,
-        "question": "Find the mistake: Ben have a pen.",
+        "question": "Find the mistake.\n<u>Ben</u> <u>have</u> <u>a</u> <u>pen</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7861,7 +7861,7 @@
       },
       {
         "id": 731,
-        "question": "Find the mistake: This is Linh. She has a red bags.",
+        "question": "Find the mistake.\nThis is <u>Linh</u>. <u>She</u> <u>has</u> a red <u>bags</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7875,7 +7875,7 @@
       },
       {
         "id": 732,
-        "question": "Find the mistake: It's a red pens.",
+        "question": "Find the mistake.\n<u>It's</u> <u>a</u> <u>red</u> <u>pens</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7905,7 +7905,7 @@
         "id": 734,
         "question": "Complete the word.\ncol_ur",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/colour.mp3",
         "choices": [
           "A. i",
           "B. o",
@@ -7945,7 +7945,7 @@
       },
       {
         "id": 737,
-        "question": "Find the mistake.\nIt's an red bag.",
+        "question": "Find the mistake.\n<u>It's</u> <u>an</u> <u>red</u> <u>bag</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7974,8 +7974,8 @@
       {
         "id": 739,
         "question": "Complete the word.\np_n",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/pen.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/pen.mp3",
         "choices": [
           "A. i",
           "B. a",
@@ -8015,7 +8015,7 @@
       },
       {
         "id": 742,
-        "question": "Find the mistake: This is Ben. She has a red pen.",
+        "question": "Find the mistake.\n<u>This is Ben</u>. <u>She</u> <u>has</u> <u>a red pen</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8031,7 +8031,7 @@
         "id": 743,
         "question": "Complete the word.\nl_ke",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/like.mp3",
         "choices": [
           "A. i",
           "B. e",
@@ -8071,7 +8071,7 @@
       },
       {
         "id": 746,
-        "question": "Find the mistake.\nThe ball are near the door.",
+        "question": "Find the mistake.\n<u>The</u> <u>ball</u> <u>are</u> near <u>the</u> door.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8113,7 +8113,7 @@
       },
       {
         "id": 749,
-        "question": "Find the mistake.\nHello, I is Bill.",
+        "question": "Find the mistake.\n<u>Hello</u>, <u>I</u> <u>is</u> <u>Bill</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8122,8 +8122,8 @@
           "C. is",
           "D. I"
         ],
-        "correctAnswerIndex": 3,
-        "hint": "Câu đúng: Hello, I'm Bill. → Xin chào, mình là Bill.\nSai ở \"I\": I → am ('m).\n✅ D. I"
+        "correctAnswerIndex": 2,
+        "hint": "Câu đúng: Hello, I'm Bill. → Xin chào, mình là Bill.\nSai ở \"is\": I đi với am (I'm), không đi với is.\n✅ C. is"
       },
       {
         "id": 750,
@@ -8374,7 +8374,7 @@
         "id": 320,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/theresaduckinthegarden.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/duck.mp3",
         "choices": [
           "A. hen",
           "B. cat",
@@ -8382,11 +8382,11 @@
           "D. duck"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 There's a duck in the garden. → Có một con vịt ở trong khu vườn.\n✅ D. duck → con vịt"
+        "hint": "🎧 Bài nghe: duck\n→ con vịt\n✅ D. duck → con vịt"
       },
       {
         "id": 321,
-        "question": "Choose the correct answer.\nWhat's in the garden? – ___",
+        "question": "Choose the correct answer.\nBa: What's in the garden?\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8400,7 +8400,7 @@
       },
       {
         "id": 322,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/whatsinthegarden.mp3",
         "choices": [
@@ -8419,7 +8419,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. an",
-          "B. the",
+          "B. two",
           "C. some",
           "D. a"
         ],
@@ -8484,7 +8484,7 @@
       },
       {
         "id": 328,
-        "question": "Read and choose the correct answer.\nLook! There's a goat.\n\nWhat is there?",
+        "question": "Read and choose the correct answer.\n📖 Look! There's a goat.\n\n❓ What is there?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8500,7 +8500,7 @@
         "id": 329,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/looktheresaflower.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/flower.mp3",
         "choices": [
           "A. cup",
           "B. flower",
@@ -8508,7 +8508,7 @@
           "D. ball"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Look! There's a flower. → Nhìn kìa! Có một bông hoa.\n✅ B. flower → bông hoa"
+        "hint": "🎧 Bài nghe: flower\n→ bông hoa\n✅ B. flower → bông hoa"
       },
       {
         "id": 330,
@@ -8516,7 +8516,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. the",
+          "A. two",
           "B. some",
           "C. an",
           "D. a"
@@ -8584,19 +8584,19 @@
         "id": 335,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ilikebread.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/pen.mp3",
         "choices": [
           "A. chicken",
           "B. cake",
-          "C. bread",
+          "C. pen",
           "D. apple"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 I like bread. → Mình thích bánh mì.\n✅ C. bread → bánh mì"
+        "hint": "🎧 Bài nghe: pen\n→ cái bút mực\n✅ C. pen → cái bút mực"
       },
       {
         "id": 336,
-        "question": "Choose the correct answer.\nHi, Mary. I'm Ba. – ___",
+        "question": "Choose the correct answer.\nBa: Hi, Mary. I'm Ba.\nMary: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8610,7 +8610,7 @@
       },
       {
         "id": 337,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibenimlucy.mp3",
         "choices": [
@@ -8628,7 +8628,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. the",
+          "A. two",
           "B. a",
           "C. some",
           "D. an"
@@ -8694,7 +8694,7 @@
       },
       {
         "id": 343,
-        "question": "Read and choose the correct answer.\nLook! It's a red pen.\n\nWhat is it?",
+        "question": "Read and choose the correct answer.\n📖 Look! It's a red pen.\n\n❓ What is it?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8710,7 +8710,7 @@
         "id": 344,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimmarythisismybag.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bag.mp3",
         "choices": [
           "A. bell",
           "B. box",
@@ -8718,11 +8718,11 @@
           "D. pencil"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 Hi, I'm Mary. This is my bag. → Chào. Mình là Mary. Đây là cái túi của mình.\n✅ C. bag → cái túi"
+        "hint": "🎧 Bài nghe: bag\n→ cái túi\n✅ C. bag → cái túi"
       },
       {
         "id": 345,
-        "question": "Choose the correct answer.\nHi, Lucy. I'm Ann. – ___",
+        "question": "Choose the correct answer.\nAnn: Hi, Lucy. I'm Ann.\nLucy: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8736,7 +8736,7 @@
       },
       {
         "id": 346,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiannimnam.mp3",
         "choices": [
@@ -8757,7 +8757,7 @@
           "A. an",
           "B. a",
           "C. some",
-          "D. the"
+          "D. two"
         ],
         "correctAnswerIndex": 1,
         "hint": "📝 Look! There's a cat. → Nhìn kìa! Có một con mèo.\n✅ B. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
@@ -8806,7 +8806,7 @@
       },
       {
         "id": 351,
-        "question": "Read and choose the correct answer.\nHi, Ba. I'm Bill.\n\nWhat is the speaker's name?",
+        "question": "Read and choose the correct answer.\n💬 “Hi, Ba. I'm Bill.”\n\n❓ Who says hi to Ba?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8816,13 +8816,13 @@
           "D. Bill"
         ],
         "correctAnswerIndex": 3,
-        "hint": "📖 Bài đọc: Hi, Ba. I'm Bill.\n→ Chào Ba. Mình là Bill.\n❓ What is the speaker's name? → Người nói tên là gì?\n✅ D. Bill"
+        "hint": "📖 Bài đọc: Hi, Ba. I'm Bill.\n→ Chào Ba. Mình là Bill.\n❓ Who says hi to Ba? → Ai chào Ba?\n✅ D. Bill"
       },
       {
         "id": 352,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimmaryilikechips.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/chips.mp3",
         "choices": [
           "A. fish",
           "B. orange",
@@ -8830,7 +8830,7 @@
           "D. chips"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 Hi, I'm Mary. I like chips. → Chào. Mình là Mary. Mình thích khoai tây chiên.\n✅ D. chips → khoai tây chiên"
+        "hint": "🎧 Bài nghe: chips\n→ khoai tây chiên\n✅ D. chips → khoai tây chiên"
       },
       {
         "id": 353,
@@ -9040,7 +9040,7 @@
       },
       {
         "id": 570,
-        "question": "Read and choose True or False.\nLook! This is a duck. It's near the door.\n\nIt is near the door.",
+        "question": "Read and choose True or False.\n📖 Look! This is a duck.\nIt's near the door.\n\n👉 It is near the door.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9088,7 +9088,7 @@
       },
       {
         "id": 574,
-        "question": "Read and choose True or False.\nHi, I'm Lucy. I like milk.\n\nLucy likes chicken.",
+        "question": "Read and choose True or False.\n📖 Hi, I'm Lucy.\nI like milk.\n\n👉 Lucy likes chicken.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9136,7 +9136,7 @@
       },
       {
         "id": 578,
-        "question": "Read and choose True or False.\nLook! This is a bag. It's on the desk.\n\nIt is on the desk.",
+        "question": "Read and choose True or False.\n📖 Look! This is a bag.\nIt's on the desk.\n\n👉 It is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9148,7 +9148,7 @@
       },
       {
         "id": 751,
-        "question": "Find the mistake: This is Ben. He have a goat.",
+        "question": "Find the mistake.\n<u>This</u> is Ben. <u>He</u> <u>have</u> <u>a goat</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9162,7 +9162,7 @@
       },
       {
         "id": 752,
-        "question": "Find the mistake: The boy are in the playground.",
+        "question": "Find the mistake.\n<u>The boy</u> <u>are</u> <u>in</u> <u>the playground</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9176,7 +9176,7 @@
       },
       {
         "id": 753,
-        "question": "Find the mistake: This is Mai. He is in the garden.",
+        "question": "Find the mistake.\n<u>This is Mai</u>. <u>He</u> <u>is</u> <u>in the garden</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9190,7 +9190,7 @@
       },
       {
         "id": 754,
-        "question": "Find the mistake: It is a goats.",
+        "question": "Find the mistake.\n<u>It</u> <u>is</u> <u>a</u> <u>goats</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9219,8 +9219,8 @@
       {
         "id": 756,
         "question": "Complete the word.\ng_rl",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/girl.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/girl.mp3",
         "choices": [
           "A. i",
           "B. a",
@@ -9260,7 +9260,7 @@
       },
       {
         "id": 759,
-        "question": "Find the mistake.\nThe apple are yummy.",
+        "question": "Find the mistake.\n<u>The</u> <u>apple</u> <u>are</u> <u>yummy</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9289,8 +9289,8 @@
       {
         "id": 761,
         "question": "Complete the word.\ngo_t",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/goat.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/goat.mp3",
         "choices": [
           "A. e",
           "B. i",
@@ -9330,7 +9330,7 @@
       },
       {
         "id": 764,
-        "question": "Find the mistake.\nLook! There's an goat.",
+        "question": "Find the mistake.\n<u>Look</u>! <u>There's</u> <u>an</u> <u>goat</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9374,7 +9374,7 @@
         "id": 767,
         "question": "Complete the word.\nl_ok",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/look.mp3",
         "choices": [
           "A. i",
           "B. e",
@@ -9414,7 +9414,7 @@
       },
       {
         "id": 770,
-        "question": "Find the mistake.\nThis are my bell.",
+        "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>my</u> <u>bell</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9430,7 +9430,7 @@
         "id": 771,
         "question": "Complete the word.\ncolo_r",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/colour.mp3",
         "choices": [
           "A. i",
           "B. a",
@@ -9470,7 +9470,7 @@
       },
       {
         "id": 774,
-        "question": "Find the mistake.\nIt's an red desk.",
+        "question": "Find the mistake.\n<u>It's</u> <u>an</u> <u>red</u> <u>desk</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9486,7 +9486,7 @@
         "id": 775,
         "question": "Complete the word.\nne_r",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/near.mp3",
         "choices": [
           "A. i",
           "B. u",
@@ -9581,11 +9581,11 @@
         "choices": [
           "A. bed",
           "B. chair",
-          "C. house",
+          "C. desk",
           "D. head"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Tìm từ “khác nhóm”\nA. bed – cái giường\nB. chair – cái ghế\nC. house – ngôi nhà\n✅ D. head – đầu\n👉 head là bộ phận cơ thể, 3 từ kia là đồ vật/nơi chốn"
+        "hint": "Tìm từ “khác nhóm”\nA. bed – cái giường\nB. chair – cái ghế\nC. desk – cái bàn học\n✅ D. head – đầu\n👉 head là bộ phận cơ thể, 3 từ kia là đồ vật trong nhà"
       },
       {
         "id": 360,
@@ -9689,7 +9689,7 @@
         "id": 367,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsapencil.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/pencil.mp3",
         "choices": [
           "A. pencil",
           "B. bell",
@@ -9697,7 +9697,7 @@
           "D. book"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 It's a pencil. → Đó là một cái bút chì.\n✅ A. pencil → cái bút chì"
+        "hint": "🎧 Bài nghe: pencil\n→ cái bút chì\n✅ A. pencil → cái bút chì"
       },
       {
         "id": 368,
@@ -9706,7 +9706,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. an",
-          "B. the",
+          "B. two",
           "C. a",
           "D. some"
         ],
@@ -9771,7 +9771,7 @@
       },
       {
         "id": 373,
-        "question": "Read and choose the correct answer.\nTouch your head.\n\nWhat do you touch?",
+        "question": "Read and choose the correct answer.\n📖 Touch your head.\n\n❓ What do you touch?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9801,7 +9801,7 @@
         "id": 375,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/touchthehorse.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/horse.mp3",
         "choices": [
           "A. horse",
           "B. bird",
@@ -9809,7 +9809,7 @@
           "D. goat"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Touch the horse. → Hãy chạm vào con ngựa.\n✅ A. horse → con ngựa"
+        "hint": "🎧 Bài nghe: horse\n→ con ngựa\n✅ A. horse → con ngựa"
       },
       {
         "id": 376,
@@ -9817,7 +9817,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. the",
+          "A. two",
           "B. some",
           "C. a",
           "D. an"
@@ -9883,7 +9883,7 @@
       },
       {
         "id": 381,
-        "question": "Read and choose the correct answer.\nTouch your hand.\n\nWhat do you touch?",
+        "question": "Read and choose the correct answer.\n📖 Touch your hand.\n\n❓ What do you touch?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9899,7 +9899,7 @@
         "id": 382,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/ihaveabell.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/bell.mp3",
         "choices": [
           "A. pencil",
           "B. box",
@@ -9907,13 +9907,13 @@
           "D. pen"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 I have a bell. → Mình có một cái chuông.\n✅ C. bell → cái chuông"
+        "hint": "🎧 Bài nghe: bell\n→ cái chuông\n✅ C. bell → cái chuông"
       },
       {
         "id": 383,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/itsahead.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/head.mp3",
         "choices": [
           "A. arm",
           "B. hair",
@@ -9921,7 +9921,7 @@
           "D. head"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 It's a head. → Đó là một cái đầu.\n✅ D. head → cái đầu"
+        "hint": "🎧 Bài nghe: head\n→ cái đầu\n✅ D. head → cái đầu"
       },
       {
         "id": 384,
@@ -10025,7 +10025,7 @@
         "id": 391,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/theresaflower.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/flower.mp3",
         "choices": [
           "A. bed",
           "B. ball",
@@ -10033,11 +10033,11 @@
           "D. cup"
         ],
         "correctAnswerIndex": 2,
-        "hint": "🎧 There's a flower. → Có một bông hoa.\n✅ C. flower → bông hoa"
+        "hint": "🎧 Bài nghe: flower\n→ bông hoa\n✅ C. flower → bông hoa"
       },
       {
         "id": 392,
-        "question": "Choose the correct answer.\nHi, Bill. I'm Ann. – ___",
+        "question": "Choose the correct answer.\nAnn: Hi, Bill. I'm Ann.\nBill: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10051,7 +10051,7 @@
       },
       {
         "id": 393,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibaimlucy.mp3",
         "choices": [
@@ -10135,7 +10135,7 @@
       },
       {
         "id": 399,
-        "question": "Read and choose the correct answer.\nThere's a dog in the garden.\n\nWhat is in the garden?",
+        "question": "Read and choose the correct answer.\n📖 There's a dog in the garden.\n\n❓ What is in the garden?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10151,7 +10151,7 @@
         "id": 400,
         "question": "Listen and choose the correct answer.",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hiimbailikemilk.mp3",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/milk.mp3",
         "choices": [
           "A. chips",
           "B. milk",
@@ -10159,11 +10159,11 @@
           "D. cake"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Hi, I'm Ba. I like milk. → Chào. Mình là Ba. Mình thích sữa.\n✅ B. milk → sữa"
+        "hint": "🎧 Bài nghe: milk\n→ sữa\n✅ B. milk → sữa"
       },
       {
         "id": 401,
-        "question": "Choose the correct answer.\nHi, Sue. I'm Nam. – ___",
+        "question": "Choose the correct answer.\nNam: Hi, Sue. I'm Nam.\nSue: ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10177,7 +10177,7 @@
       },
       {
         "id": 402,
-        "question": "Listen and choose the correct answer.",
+        "question": "Listen and choose the correct reply.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hibaimben.mp3",
         "choices": [
@@ -10195,7 +10195,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. the",
+          "A. two",
           "B. a",
           "C. some",
           "D. an"
@@ -10397,7 +10397,7 @@
       },
       {
         "id": 595,
-        "question": "Read and choose True or False.\nLook! This is a dog. It's on the desk.\n\nIt is near the door.",
+        "question": "Read and choose True or False.\n📖 Look! This is a dog.\nIt's on the desk.\n\n👉 It is near the door.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10445,7 +10445,7 @@
       },
       {
         "id": 599,
-        "question": "Read and choose True or False.\nLook! This is a book. It's near the window.\n\nIt is near the window.",
+        "question": "Read and choose True or False.\n📖 Look! This is a book.\nIt's near the window.\n\n👉 It is near the window.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10493,7 +10493,7 @@
       },
       {
         "id": 603,
-        "question": "Read and choose True or False.\nLook! This is a dog. It's near the window.\n\nIt is on the bed.",
+        "question": "Read and choose True or False.\n📖 Look! This is a dog.\nIt's near the window.\n\n👉 It is on the bed.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10505,7 +10505,7 @@
       },
       {
         "id": 776,
-        "question": "Find the mistake: This is Nam. He have a horse.",
+        "question": "Find the mistake.\n<u>This</u> is Nam. <u>He</u> <u>have</u> <u>a horse</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10520,8 +10520,8 @@
       {
         "id": 777,
         "question": "Choose the unnecessary letter: heatd",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/head.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/head.mp3",
         "choices": [
           "A. h",
           "B. e",
@@ -10533,7 +10533,7 @@
       },
       {
         "id": 778,
-        "question": "Find the mistake: The horse are in the garden.",
+        "question": "Find the mistake.\n<u>The horse</u> <u>are</u> <u>in</u> <u>the garden</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10548,8 +10548,8 @@
       {
         "id": 779,
         "question": "Choose the unnecessary letter: thouse",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/house.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/house.mp3",
         "choices": [
           "A. h",
           "B. o",
@@ -10561,7 +10561,7 @@
       },
       {
         "id": 780,
-        "question": "Find the mistake: It's a red hats.",
+        "question": "Find the mistake.\n<u>It's</u> <u>a</u> <u>red</u> <u>hats</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10576,7 +10576,7 @@
       {
         "id": 781,
         "question": "Choose the missing letter: b_d",
-        "questionImageUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/bed.png",
         "questionAudioUrl": "",
         "choices": [
           "A. e",
@@ -10589,7 +10589,7 @@
       },
       {
         "id": 782,
-        "question": "Find the mistake: It is a houses.",
+        "question": "Find the mistake.\n<u>It</u> <u>is</u> <u>a</u> <u>houses</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10618,8 +10618,8 @@
       {
         "id": 784,
         "question": "Complete the word.\nh_rse",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/horse.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/horse.mp3",
         "choices": [
           "A. a",
           "B. o",
@@ -10659,7 +10659,7 @@
       },
       {
         "id": 787,
-        "question": "Find the mistake.\nLook! There's an tree.",
+        "question": "Find the mistake.\n<u>Look</u>! <u>There's</u> <u>an</u> <u>tree</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10688,8 +10688,8 @@
       {
         "id": 789,
         "question": "Complete the word.\nh_nd",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/hand.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/hand.mp3",
         "choices": [
           "A. o",
           "B. i",
@@ -10731,7 +10731,7 @@
         "id": 792,
         "question": "Complete the word.\nt_uch",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/touch.mp3",
         "choices": [
           "A. a",
           "B. u",
@@ -10771,7 +10771,7 @@
       },
       {
         "id": 795,
-        "question": "Find the mistake.\nI have an dog.",
+        "question": "Find the mistake.\n<u>I</u> <u>have</u> <u>an</u> <u>dog</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10786,8 +10786,8 @@
       {
         "id": 796,
         "question": "Complete the word.\nhe_d",
-        "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/head.png",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/head.mp3",
         "choices": [
           "A. a",
           "B. u",
@@ -10827,7 +10827,7 @@
       },
       {
         "id": 799,
-        "question": "Find the mistake.\nThis is an horse.",
+        "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>an</u> <u>horse</u>.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10843,7 +10843,7 @@
         "id": 800,
         "question": "Complete the word.\ny_ur",
         "questionImageUrl": "",
-        "questionAudioUrl": "",
+        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/your.mp3",
         "choices": [
           "A. o",
           "B. i",
