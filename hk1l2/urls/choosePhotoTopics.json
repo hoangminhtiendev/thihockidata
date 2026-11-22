@@ -1785,12 +1785,12 @@
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/duck.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/cat.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/dog.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kitten.png"
         ],
         "imageNames": [
           "duck",
-          "cat",
+          "dog",
           "kitten"
         ],
         "correctIndex": 2,
