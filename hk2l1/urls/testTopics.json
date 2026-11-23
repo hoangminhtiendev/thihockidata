@@ -36,7 +36,7 @@
             "A. heead",
             "B. haed",
             "C. head",
-            "D. had"
+            "D. hed"
           ],
           "correctAnswerIndex": 2,
           "hint": "head → cái đầu\n✅ C. head",
@@ -134,12 +134,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cup.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/can.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lock.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bag.png"
           ],
           "imageNames": [
             "cup",
-            "can",
+            "lock",
             "bag"
           ],
           "correctIndex": 0,
@@ -208,7 +208,7 @@
         "type": "multiChoice",
         "value": {
           "id": 493,
-          "question": "Listen and choose True or False.\nIt is on the bed.",
+          "question": "Listen and choose True or False.\nA dog is on the bed.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookthisisadogitsnearthedoor.mp3",
           "choices": [
@@ -216,7 +216,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Look! This is a dog. It's near the door.\n→ Nhìn kìa! Đây là con chó. Nó ở gần cánh cửa.\n✅ B. False\nIt is on the bed. → Nó ở on the bed.\n(Câu đúng: It is near the door.)",
+          "hint": "🎧 Bài nghe: Look! This is a dog. It's near the door.\n→ Nhìn kìa! Đây là con chó. Nó ở gần cánh cửa.\n✅ B. False\nA dog is on the bed. → Con chó ở trên cái giường.\n(Câu đúng: A dog is near the door.)",
           "topicId": 12
         }
       },
@@ -448,7 +448,7 @@
         "type": "multiChoice",
         "value": {
           "id": 795,
-          "question": "Find the mistake.\nThis are a bell.",
+          "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>a</u> <u>bell</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -503,12 +503,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lock.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/clock.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cup.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bell.png"
           ],
           "imageNames": [
             "lock",
-            "clock",
+            "cup",
             "bell"
           ],
           "correctIndex": 2,
@@ -575,7 +575,7 @@
         "type": "multiChoice",
         "value": {
           "id": 775,
-          "question": "Find the mistake.\nThe chicken are yummy.",
+          "question": "Find the mistake.\n<u>The</u> <u>chicken</u> <u>are</u> <u>yummy</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -741,13 +741,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/foot.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hair.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/face.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/boy.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hair.png"
           ],
           "imageNames": [
             "foot",
-            "hair",
-            "face"
+            "boy",
+            "hair"
           ],
           "correctIndex": 0,
           "hint": "Here's my foot. → Bàn chân của mình đây.\n(Hình đúng: foot – bàn chân)",
@@ -860,13 +860,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/welikenoodles.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lemon.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/nuts.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/fish.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/noodles.png"
           ],
           "imageNames": [
+            "lemon",
             "nuts",
-            "fish",
             "noodles"
           ],
           "correctIndex": 2,
@@ -1229,13 +1229,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/icanseeaflower.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/turtle.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/mouse.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/house.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/leaf.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/flower.png"
           ],
           "imageNames": [
-            "turtle",
-            "mouse",
+            "house",
+            "leaf",
             "flower"
           ],
           "correctIndex": 2,
@@ -1350,12 +1350,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/boat.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/truck.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/top.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/car.png"
           ],
           "imageNames": [
             "boat",
-            "truck",
+            "top",
             "car"
           ],
           "correctIndex": 0,
@@ -1599,13 +1599,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/truck.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/teddybear.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bus.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/robot.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/boat.png"
           ],
           "imageNames": [
             "truck",
-            "teddy bear",
-            "bus"
+            "robot",
+            "boat"
           ],
           "correctIndex": 0,
           "hint": "Show me the truck, please. → Làm ơn chỉ cho mình chiếc xe tải.\n(Hình đúng: truck – xe tải)",
@@ -1622,7 +1622,7 @@
           "choices": [
             "A. a",
             "B. an",
-            "C. the",
+            "C. two",
             "D. some"
           ],
           "correctAnswerIndex": 0,
@@ -1672,7 +1672,7 @@
         "type": "multiChoice",
         "value": {
           "id": 557,
-          "question": "Listen and choose True or False.\nThe child wants a football.",
+          "question": "Listen and choose True or False.\nThe father has a football.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/thatsmyfatherhehasafootball.mp3",
           "choices": [
@@ -1680,7 +1680,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: That's my father. He has a football.\n→ Kia là bố của mình. Ông ấy có một quả bóng đá.\n✅ A. True\nThe child wants a football. → Bạn nhỏ muốn a football.",
+          "hint": "🎧 Bài nghe: That's my father. He has a football.\n→ Kia là bố của mình. Ông ấy có một quả bóng đá.\n✅ A. True\nThe father has a football. → Bố có một quả bóng đá.",
           "topicId": 15
         }
       },
@@ -1835,14 +1835,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/maryhasalemon.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/chips.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/juice.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lemon.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/chicken.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/chips.png"
           ],
           "imageNames": [
-            "chips",
+            "juice",
             "lemon",
-            "chicken"
+            "chips"
           ],
           "correctIndex": 1,
           "hint": "Mary has a lemon. → Mary có quả chanh.\n(Hình đúng: lemon – quả chanh)",
@@ -1854,7 +1854,7 @@
         "value": {
           "id": 777,
           "question": "Complete the word.\ne_ght",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/eight.png",
           "questionAudioUrl": "",
           "choices": [
             "A. u",
@@ -1909,7 +1909,7 @@
         "type": "multiChoice",
         "value": {
           "id": 655,
-          "question": "Find the mistake.\nBen are running in the sun.",
+          "question": "Find the mistake.\n<u>Ben</u> <u>are</u> <u>running</u> <u>in</u> the sun.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1963,13 +1963,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/touchthebanana.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lemon.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/orange.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/milk.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cake.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/banana.png"
           ],
           "imageNames": [
-            "lemon",
-            "orange",
+            "milk",
+            "cake",
             "banana"
           ],
           "correctIndex": 2,
@@ -2233,7 +2233,7 @@
             "D. girl"
           ],
           "correctAnswerIndex": 3,
-          "hint": "girl → cô bé\n✅ D. girl",
+          "hint": "girl → bé gái\n✅ D. girl",
           "topicId": 11
         }
       },
@@ -2402,7 +2402,7 @@
         "type": "multiChoice",
         "value": {
           "id": 497,
-          "question": "Listen and choose True or False.\nIt is near the window.",
+          "question": "Listen and choose True or False.\nA duck is near the window.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookthisisaduckitsnearthewindow.mp3",
           "choices": [
@@ -2410,7 +2410,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Look! This is a duck. It's near the window.\n→ Nhìn kìa! Đây là con vịt. Nó ở gần cái cửa sổ.\n✅ A. True\nIt is near the window. → Nó ở near the window.",
+          "hint": "🎧 Bài nghe: Look! This is a duck. It's near the window.\n→ Nhìn kìa! Đây là con vịt. Nó ở gần cái cửa sổ.\n✅ A. True\nA duck is near the window. → Con vịt ở gần cái cửa sổ.",
           "topicId": 12
         }
       },
@@ -2455,16 +2455,16 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/girl.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/sister.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/head.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/foot.png"
           ],
           "imageNames": [
             "girl",
-            "sister",
+            "head",
             "foot"
           ],
           "correctIndex": 0,
-          "hint": "It's a girl. → Đó là cô bé.\n(Hình đúng: girl – cô bé)",
+          "hint": "It's a girl. → Đó là bé gái.\n(Hình đúng: girl – bé gái)",
           "topicId": 15
         }
       },
@@ -2550,7 +2550,7 @@
             },
             {
               "en": "Look at the boy!",
-              "vi": "Hãy nhìn cậu bé!"
+              "vi": "Hãy nhìn bé trai!"
             },
             {
               "en": "That's my mother.",
@@ -2561,7 +2561,7 @@
               "vi": "Hãy nhìn Ann."
             }
           ],
-          "hint": "The leaf is falling to the ground. - Chiếc lá đang rơi xuống đất.\nLook at the boy! - Hãy nhìn cậu bé!\nThat's my mother. - Kia là mẹ của mình.\nLook at Ann. - Hãy nhìn Ann.",
+          "hint": "The leaf is falling to the ground. - Chiếc lá đang rơi xuống đất.\nLook at the boy! - Hãy nhìn bé trai!\nThat's my mother. - Kia là mẹ của mình.\nLook at Ann. - Hãy nhìn Ann.",
           "topicId": 12
         }
       },
@@ -2572,14 +2572,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/iseenoodles.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/nuts.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/rice.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/noodles.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/chicken.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/mango.png"
           ],
           "imageNames": [
-            "nuts",
+            "rice",
             "noodles",
-            "chicken"
+            "mango"
           ],
           "correctIndex": 1,
           "hint": "I see noodles. → Mình nhìn thấy mì.\n(Hình đúng: noodles – mì)",
@@ -2692,12 +2692,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/isitabook.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/box.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cup.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pencil.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/book.png"
           ],
           "imageNames": [
-            "box",
+            "cup",
             "pencil",
             "book"
           ],
@@ -2840,7 +2840,7 @@
             "D. girl"
           ],
           "correctAnswerIndex": 3,
-          "hint": "Từ bắt đầu bằng chữ G: girl (cô bé).\n✅ D. girl",
+          "hint": "Từ bắt đầu bằng chữ G: girl (bé gái).\n✅ D. girl",
           "topicId": 10
         }
       },
@@ -3141,7 +3141,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "📖 Bài đọc: Look! This is a duck. It's near the door.\n→ Nhìn kìa! Đây là con vịt. Nó ở gần cánh cửa.\n✅ B. False\nIt is on the desk. → Nó ở on the desk.\n(Câu đúng: It is near the door.)",
+          "hint": "📖 Bài đọc: Look! This is a duck. It's near the door.\n→ Nhìn kìa! Đây là con vịt. Nó ở gần cánh cửa.\n✅ B. False\nIt is on the desk. → Nó ở trên cái bàn học.\n(Câu đúng: It is near the door.)",
           "topicId": 10
         }
       },
@@ -3624,7 +3624,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "📖 Bài đọc: Look! This is a book. It's on the desk.\n→ Nhìn kìa! Đây là quyển sách. Nó ở trên cái bàn học.\n✅ B. False\nIt is on the bed. → Nó ở on the bed.\n(Câu đúng: It is on the desk.)",
+          "hint": "📖 Bài đọc: Look! This is a book. It's on the desk.\n→ Nhìn kìa! Đây là quyển sách. Nó ở trên cái bàn học.\n✅ B. False\nIt is on the bed. → Nó ở trên cái giường.\n(Câu đúng: It is on the desk.)",
           "topicId": 11
         }
       },
@@ -3662,13 +3662,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/banana.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/apple.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/fish.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/egg.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/apple.png"
           ],
           "imageNames": [
             "banana",
-            "apple",
-            "fish"
+            "egg",
+            "apple"
           ],
           "correctIndex": 0,
           "hint": "I see a banana. → Mình nhìn thấy quả chuối.\n(Hình đúng: banana – quả chuối)",
@@ -3783,12 +3783,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/flower.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/tree.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/monkey.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lake.png"
           ],
           "imageNames": [
             "flower",
             "tree",
-            "monkey"
+            "lake"
           ],
           "correctIndex": 1,
           "hint": "That's a tree. → Kia là cái cây.\n(Hình đúng: tree – cái cây)",
@@ -3931,7 +3931,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. an",
-            "B. the",
+            "B. two",
             "C. some",
             "D. a"
           ],
@@ -4049,7 +4049,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. an",
-            "B. the",
+            "B. two",
             "C. a",
             "D. some"
           ],
@@ -4110,7 +4110,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "📖 Bài đọc: Look! This is a dog. It's on the desk.\n→ Nhìn kìa! Đây là con chó. Nó ở trên cái bàn học.\n✅ A. True\nIt is on the desk. → Nó ở on the desk.",
+          "hint": "📖 Bài đọc: Look! This is a dog. It's on the desk.\n→ Nhìn kìa! Đây là con chó. Nó ở trên cái bàn học.\n✅ A. True\nIt is on the desk. → Nó ở trên cái bàn học.",
           "topicId": 12
         }
       },
@@ -4133,10 +4133,10 @@
             },
             {
               "en": "The boy is running.",
-              "vi": "Cậu bé đang chạy."
+              "vi": "Bé trai đang chạy."
             }
           ],
-          "hint": "He's having bananas today. - Hôm nay cậu ấy ăn chuối.\nShe's running round the lake. - Cô ấy đang chạy quanh cái hồ.\nThat's a banana. - Kia là một quả chuối.\nThe boy is running. - Cậu bé đang chạy.",
+          "hint": "He's having bananas today. - Hôm nay cậu ấy ăn chuối.\nShe's running round the lake. - Cô ấy đang chạy quanh cái hồ.\nThat's a banana. - Kia là một quả chuối.\nThe boy is running. - Bé trai đang chạy.",
           "topicId": 13
         }
       },
@@ -4396,13 +4396,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookasun.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cow.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/tree.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/garden.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/sun.png"
           ],
           "imageNames": [
-            "cow",
             "tree",
+            "garden",
             "sun"
           ],
           "correctIndex": 2,
@@ -4415,10 +4415,10 @@
         "value": {
           "id": 697,
           "question": "Complete the word.\nf_lling",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/falling.png",
           "questionAudioUrl": "",
           "choices": [
-            "A. i",
+            "A. y",
             "B. u",
             "C. a",
             "D. o"
@@ -4519,13 +4519,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cake.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/candy.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/chips.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/chips.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/milk.png"
           ],
           "imageNames": [
             "cake",
-            "candy",
-            "chips"
+            "chips",
+            "milk"
           ],
           "correctIndex": 0,
           "hint": "Show me the cake, please. → Làm ơn chỉ cho mình cái bánh.\n(Hình đúng: cake – bánh ngọt)",
@@ -4785,7 +4785,7 @@
             "A. a",
             "B. an",
             "C. some",
-            "D. the"
+            "D. two"
           ],
           "correctAnswerIndex": 0,
           "hint": "📝 I can see a goat. → Mình nhìn thấy một con dê.\n✅ A. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)",
@@ -5266,7 +5266,7 @@
         "value": {
           "id": 767,
           "question": "Complete the word.\nrunn_ng",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/running.png",
           "questionAudioUrl": "",
           "choices": [
             "A. e",
@@ -5320,7 +5320,7 @@
         "type": "multiChoice",
         "value": {
           "id": 630,
-          "question": "Find the mistake.\nLook! That's an car.",
+          "question": "Find the mistake.\n<u>Look</u>! <u>That's</u> <u>an</u> <u>car</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5447,7 +5447,7 @@
         "type": "multiChoice",
         "value": {
           "id": 610,
-          "question": "Find the mistake.\nThere is four doors.",
+          "question": "Find the mistake.\n<u>There</u> <u>is</u> <u>four</u> <u>doors</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5732,14 +5732,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookatyourface.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/head.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/arm.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/face.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hair.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/brother.png"
           ],
           "imageNames": [
-            "head",
+            "arm",
             "face",
-            "hair"
+            "brother"
           ],
           "correctIndex": 1,
           "hint": "Look at your face! → Nhìn khuôn mặt của bạn này!\n(Hình đúng: face – khuôn mặt)",
@@ -5834,14 +5834,14 @@
             },
             {
               "en": "The boy is running.",
-              "vi": "Cậu bé đang chạy."
+              "vi": "Bé trai đang chạy."
             },
             {
               "en": "That's a rabbit. I like rabbits.",
               "vi": "Kia là một con thỏ. Mình thích con thỏ."
             }
           ],
-          "hint": "This is a mouse. - Đây là một con chuột.\nThat's a cow. - Kia là một con bò.\nThe boy is running. - Cậu bé đang chạy.\nThat's a rabbit. I like rabbits. - Kia là một con thỏ. Mình thích con thỏ.",
+          "hint": "This is a mouse. - Đây là một con chuột.\nThat's a cow. - Kia là một con bò.\nThe boy is running. - Bé trai đang chạy.\nThat's a rabbit. I like rabbits. - Kia là một con thỏ. Mình thích con thỏ.",
           "topicId": 12
         }
       }
@@ -5982,13 +5982,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lemon.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/fish.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/nuts.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/nuts.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/milk.png"
           ],
           "imageNames": [
             "lemon",
-            "fish",
-            "nuts"
+            "nuts",
+            "milk"
           ],
           "correctIndex": 0,
           "hint": "He has a lemon. → Cậu ấy có quả chanh.\n(Hình đúng: lemon – quả chanh)",
@@ -6000,7 +6000,7 @@
         "value": {
           "id": 717,
           "question": "Complete the word.\ns_nny",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/sunny.png",
           "questionAudioUrl": "",
           "choices": [
             "A. o",
@@ -6592,13 +6592,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/wowasun.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/rabbit.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/tiger.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/leaf.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/flower.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/sun.png"
           ],
           "imageNames": [
-            "rabbit",
-            "tiger",
+            "leaf",
+            "flower",
             "sun"
           ],
           "correctIndex": 2,
@@ -6666,7 +6666,7 @@
         "type": "multiChoice",
         "value": {
           "id": 765,
-          "question": "Find the mistake.\nI can see an monkey.",
+          "question": "Find the mistake.\n<u>I</u> <u>can</u> see <u>an</u> <u>monkey</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6840,12 +6840,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bell.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pencil.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/mop.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pen.png"
           ],
           "imageNames": [
             "bell",
-            "pencil",
+            "mop",
             "pen"
           ],
           "correctIndex": 0,
@@ -6960,12 +6960,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/iliketheboy.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/face.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/sister.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/boy.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/head.png"
           ],
           "imageNames": [
-            "face",
+            "sister",
             "boy",
             "head"
           ],
@@ -7081,14 +7081,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/hiitsalake.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pig.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/leaf.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lake.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/leaf.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/house.png"
           ],
           "imageNames": [
-            "pig",
+            "leaf",
             "lake",
-            "leaf"
+            "house"
           ],
           "correctIndex": 1,
           "hint": "Hi! It's a lake. → Chào! Đó là cái hồ.\n(Hình đúng: lake – cái hồ)",
@@ -7173,7 +7173,7 @@
           "title": [
             {
               "en": "There's a girl and a goat in the garden.",
-              "vi": "Có một cô bé và một con dê ở trong khu vườn."
+              "vi": "Có một bé gái và một con dê ở trong khu vườn."
             },
             {
               "en": "This is a goat.",
@@ -7188,7 +7188,7 @@
               "vi": "Nhìn kìa! Có một cái cổng."
             }
           ],
-          "hint": "There's a girl and a goat in the garden. - Có một cô bé và một con dê ở trong khu vườn.\nThis is a goat. - Đây là một con dê.\nThere are four bikes. - Có bốn chiếc xe đạp.\nLook! There's a gate. - Nhìn kìa! Có một cái cổng.",
+          "hint": "There's a girl and a goat in the garden. - Có một bé gái và một con dê ở trong khu vườn.\nThis is a goat. - Đây là một con dê.\nThere are four bikes. - Có bốn chiếc xe đạp.\nLook! There's a gate. - Nhìn kìa! Có một cái cổng.",
           "topicId": 9
         }
       },
@@ -7199,14 +7199,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/itsamango.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/candy.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/apple.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/mango.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cake.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/candy.png"
           ],
           "imageNames": [
-            "candy",
+            "apple",
             "mango",
-            "cake"
+            "candy"
           ],
           "correctIndex": 1,
           "hint": "It's a mango. → Đó là quả xoài.\n(Hình đúng: mango – quả xoài)",
@@ -7224,7 +7224,7 @@
             "A. a",
             "B. an",
             "C. some",
-            "D. the"
+            "D. two"
           ],
           "correctAnswerIndex": 0,
           "hint": "📝 There's a truck. → Có một chiếc xe tải.\n✅ A. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)",
@@ -7282,7 +7282,7 @@
             "D. having cakes"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 The boy is running. → Cậu bé đang chạy.\n✅ C. running → chạy",
+          "hint": "🎧 The boy is running. → Bé trai đang chạy.\n✅ C. running → chạy",
           "topicId": 14
         }
       },
@@ -7651,7 +7651,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "📖 Bài đọc: Look! This is a book. It's near the window.\n→ Nhìn kìa! Đây là quyển sách. Nó ở gần cái cửa sổ.\n✅ A. True\nIt is near the window. → Nó ở near the window.",
+          "hint": "📖 Bài đọc: Look! This is a book. It's near the window.\n→ Nhìn kìa! Đây là quyển sách. Nó ở gần cái cửa sổ.\n✅ A. True\nIt is near the window. → Nó ở gần cái cửa sổ.",
           "topicId": 9
         }
       },
@@ -7710,7 +7710,7 @@
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
-            "A. the",
+            "A. two",
             "B. some",
             "C. an",
             "D. a"
@@ -7762,7 +7762,7 @@
         "type": "multiChoice",
         "value": {
           "id": 760,
-          "question": "Find the mistake.\nBa has an football.",
+          "question": "Find the mistake.\n<u>Ba</u> <u>has</u> <u>an</u> <u>football</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7817,12 +7817,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/mango.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/fish.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/rice.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/candy.png"
           ],
           "imageNames": [
             "mango",
-            "fish",
+            "rice",
             "candy"
           ],
           "correctIndex": 0,
@@ -7887,7 +7887,7 @@
         "type": "multiChoice",
         "value": {
           "id": 740,
-          "question": "Find the mistake.\nHe are having bananas.",
+          "question": "Find the mistake.\n<u>He</u> <u>are</u> <u>having</u> <u>bananas</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7896,8 +7896,8 @@
             "C. bananas",
             "D. He"
           ],
-          "correctAnswerIndex": 3,
-          "hint": "Câu đúng: He's having bananas. → Cậu ấy đang ăn chuối.\nSai ở \"He\": He → is ('s).\n✅ D. He",
+          "correctAnswerIndex": 1,
+          "hint": "Câu đúng: He's having bananas. → Cậu ấy đang ăn chuối.\nSai ở \"are\": chủ ngữ số ít (He/She) → dùng is.\n✅ B. are",
           "topicId": 14
         }
       },
@@ -8175,13 +8175,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cap.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hat.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/coat.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/coat.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/shoe.png"
           ],
           "imageNames": [
             "cap",
-            "hat",
-            "coat"
+            "coat",
+            "shoe"
           ],
           "correctIndex": 0,
           "hint": "It's my cap. → Đó là cái mũ lưỡi trai của mình.\n(Hình đúng: cap – mũ lưỡi trai)",
@@ -8382,7 +8382,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "📖 Bài đọc: Look! This is a duck. It's near the window.\n→ Nhìn kìa! Đây là con vịt. Nó ở gần cái cửa sổ.\n✅ B. False\nIt is near the door. → Nó ở near the door.\n(Câu đúng: It is near the window.)",
+          "hint": "📖 Bài đọc: Look! This is a duck. It's near the window.\n→ Nhìn kìa! Đây là con vịt. Nó ở gần cái cửa sổ.\n✅ B. False\nIt is near the door. → Nó ở gần cánh cửa.\n(Câu đúng: It is near the window.)",
           "topicId": 15
         }
       },
@@ -8420,13 +8420,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/book.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bell.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bag.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pot.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/clock.png"
           ],
           "imageNames": [
             "book",
-            "bell",
-            "bag"
+            "pot",
+            "clock"
           ],
           "correctIndex": 0,
           "hint": "Mary has a book. → Mary có quyển sách.\n(Hình đúng: book – quyển sách)",
@@ -8540,12 +8540,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/arm.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/head.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/foot.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hair.png"
           ],
           "imageNames": [
             "arm",
-            "head",
+            "foot",
             "hair"
           ],
           "correctIndex": 0,
@@ -8789,13 +8789,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/itsalake.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/tree.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/frog.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/dog.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lake.png"
           ],
           "imageNames": [
+            "tree",
             "frog",
-            "dog",
             "lake"
           ],
           "correctIndex": 2,
@@ -8895,10 +8895,10 @@
             },
             {
               "en": "There's a girl and a goat in the garden.",
-              "vi": "Có một cô bé và một con dê ở trong khu vườn."
+              "vi": "Có một bé gái và một con dê ở trong khu vườn."
             }
           ],
-          "hint": "I have four caps. - Mình có bốn cái mũ lưỡi trai.\nThere are two books. - Có hai quyển sách.\nIt's a gate. - Đó là một cái cổng.\nThere's a girl and a goat in the garden. - Có một cô bé và một con dê ở trong khu vườn.",
+          "hint": "I have four caps. - Mình có bốn cái mũ lưỡi trai.\nThere are two books. - Có hai quyển sách.\nIt's a gate. - Đó là một cái cổng.\nThere's a girl and a goat in the garden. - Có một bé gái và một con dê ở trong khu vườn.",
           "topicId": 9
         }
       },
@@ -8928,7 +8928,7 @@
         "value": {
           "id": 672,
           "question": "Complete the word.\nth_t",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/that.png",
           "questionAudioUrl": "",
           "choices": [
             "A. i",
@@ -8984,7 +8984,7 @@
         "type": "multiChoice",
         "value": {
           "id": 745,
-          "question": "Find the mistake.\nThis are my dog.",
+          "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>my</u> <u>dog</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9050,13 +9050,13 @@
         "value": {
           "id": 612,
           "question": "Complete the word.\ncl_ck",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/clock.png",
           "questionAudioUrl": "",
           "choices": [
             "A. o",
             "B. a",
             "C. e",
-            "D. i"
+            "D. y"
           ],
           "correctAnswerIndex": 0,
           "hint": "clock → cái đồng hồ\n✅ A. o",
@@ -9106,7 +9106,7 @@
         "type": "multiChoice",
         "value": {
           "id": 685,
-          "question": "Find the mistake.\nThis are a lemon.",
+          "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>a</u> <u>lemon</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9153,12 +9153,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/yesilikebread.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/fish.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/apple.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/banana.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bread.png"
           ],
           "imageNames": [
-            "fish",
+            "apple",
             "banana",
             "bread"
           ],
@@ -9305,7 +9305,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. an",
-            "B. the",
+            "B. two",
             "C. a",
             "D. some"
           ],
@@ -9355,7 +9355,7 @@
         "type": "multiChoice",
         "value": {
           "id": 620,
-          "question": "Find the mistake.\nIt's an red pen.",
+          "question": "Find the mistake.\n<u>It's</u> <u>an</u> <u>red</u> <u>pen</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9404,12 +9404,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/sun.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/leaf.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/frog.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/house.png"
           ],
           "imageNames": [
             "sun",
             "leaf",
-            "frog"
+            "house"
           ],
           "correctIndex": 0,
           "hint": "Look at that sun! → Nhìn mặt trời kia kìa!\n(Hình đúng: sun – mặt trời)",
@@ -9474,7 +9474,7 @@
         "type": "multiChoice",
         "value": {
           "id": 770,
-          "question": "Find the mistake.\nThis are a bike.",
+          "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>a</u> <u>bike</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9643,12 +9643,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bag.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lock.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/clock.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pot.png"
           ],
           "imageNames": [
             "bag",
             "lock",
-            "clock"
+            "pot"
           ],
           "correctIndex": 1,
           "hint": "Hi! I have a lock. → Chào! Mình có cái ổ khoá.\n(Hình đúng: lock – cái ổ khoá)",
@@ -9767,12 +9767,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/shoe.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cap.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/coat.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hat.png"
           ],
           "imageNames": [
             "shoe",
-            "cap",
+            "coat",
             "hat"
           ],
           "correctIndex": 2,
@@ -9841,7 +9841,7 @@
         "type": "multiChoice",
         "value": {
           "id": 645,
-          "question": "Find the mistake.\nHello, I is Jen.",
+          "question": "Find the mistake.\n<u>Hello</u>, <u>I</u> <u>is</u> <u>Jen</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9850,8 +9850,8 @@
             "C. Jen",
             "D. I"
           ],
-          "correctAnswerIndex": 3,
-          "hint": "Câu đúng: Hello, I'm Jen. → Xin chào, mình là Jen.\nSai ở \"I\": I → am ('m).\n✅ D. I",
+          "correctAnswerIndex": 0,
+          "hint": "Câu đúng: Hello, I'm Jen. → Xin chào, mình là Jen.\nSai ở \"is\": I đi với am (I'm).\n✅ A. is",
           "topicId": 10
         }
       },
@@ -9888,13 +9888,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/iliketheboat.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/truck.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/doll.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bus.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/boat.png"
           ],
           "imageNames": [
+            "truck",
             "doll",
-            "bus",
             "boat"
           ],
           "correctIndex": 2,
@@ -9910,7 +9910,7 @@
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
-            "A. the",
+            "A. two",
             "B. some",
             "C. an",
             "D. a"
@@ -9961,7 +9961,7 @@
         "type": "multiChoice",
         "value": {
           "id": 790,
-          "question": "Find the mistake.\nThere is seven pots.",
+          "question": "Find the mistake.\n<u>There</u> <u>is</u> <u>seven</u> <u>pots</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10027,7 +10027,7 @@
         "value": {
           "id": 662,
           "question": "Complete the word.\nr_nning",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/running.png",
           "questionAudioUrl": "",
           "choices": [
             "A. i",
@@ -10048,7 +10048,7 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookattheboy.mp3",
           "answer": "boy",
-          "hint": "Look at the boy: Hãy nhìn cậu bé!",
+          "hint": "Look at the boy: Hãy nhìn bé trai!",
           "topicId": 12
         }
       },
@@ -10231,14 +10231,14 @@
             },
             {
               "en": "The boy is running.",
-              "vi": "Cậu bé đang chạy."
+              "vi": "Bé trai đang chạy."
             },
             {
               "en": "He's having cakes today.",
               "vi": "Hôm nay cậu ấy ăn bánh."
             }
           ],
-          "hint": "She's running in the sun. - Cô ấy đang chạy dưới ánh nắng.\nShe's running. - Cô ấy đang chạy.\nThe boy is running. - Cậu bé đang chạy.\nHe's having cakes today. - Hôm nay cậu ấy ăn bánh.",
+          "hint": "She's running in the sun. - Cô ấy đang chạy dưới ánh nắng.\nShe's running. - Cô ấy đang chạy.\nThe boy is running. - Bé trai đang chạy.\nHe's having cakes today. - Hôm nay cậu ấy ăn bánh.",
           "topicId": 13
         }
       }
@@ -10256,14 +10256,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/cleanyourface.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/head.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hand.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/face.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hand.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/girl.png"
           ],
           "imageNames": [
-            "head",
+            "hand",
             "face",
-            "hand"
+            "girl"
           ],
           "correctIndex": 1,
           "hint": "Clean your face. → Hãy lau sạch khuôn mặt của bạn.\n(Hình đúng: face – khuôn mặt)",
@@ -10498,12 +10498,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/robot.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/truck.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/top.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bus.png"
           ],
           "imageNames": [
             "robot",
-            "truck",
+            "top",
             "bus"
           ],
           "correctIndex": 2,
@@ -10617,12 +10617,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/ilikethelock.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/clock.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pencil.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lock.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/can.png"
           ],
           "imageNames": [
-            "clock",
+            "pencil",
             "lock",
             "can"
           ],
@@ -10690,7 +10690,7 @@
         "type": "multiChoice",
         "value": {
           "id": 720,
-          "question": "Find the mistake.\nIt's an red book.",
+          "question": "Find the mistake.\n<u>It's</u> <u>an</u> <u>red</u> <u>book</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10888,7 +10888,7 @@
           "choices": [
             "A. some",
             "B. an",
-            "C. the",
+            "C. two",
             "D. a"
           ],
           "correctAnswerIndex": 3,
@@ -11127,7 +11127,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "✅ B. False\n👉 Hình vẽ: boy (bạn nam).\nIt's a girl. → Đó là cô bé.\n(Câu này sai vì hình không phải girl. Câu đúng cho hình: It's a boy.)",
+          "hint": "✅ B. False\n👉 Hình vẽ: boy (bạn nam).\nIt's a girl. → Đó là bé gái.\n(Câu này sai vì hình không phải girl. Câu đúng cho hình: It's a boy.)",
           "topicId": 11
         }
       },
@@ -11206,10 +11206,10 @@
             },
             {
               "en": "The boy is running in the sun.",
-              "vi": "Cậu bé đang chạy dưới ánh nắng."
+              "vi": "Bé trai đang chạy dưới ánh nắng."
             }
           ],
-          "hint": "Hi, I'm Lucy. I like fish. - Chào. Mình là Lucy. Mình thích cá.\nThere are three desks. - Có ba cái bàn học.\nThere's Nick. - Nick kia rồi.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.",
+          "hint": "Hi, I'm Lucy. I like fish. - Chào. Mình là Lucy. Mình thích cá.\nThere are three desks. - Có ba cái bàn học.\nThere's Nick. - Nick kia rồi.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.",
           "topicId": 15
         }
       }
@@ -11246,7 +11246,7 @@
         "value": {
           "id": 632,
           "question": "Complete the word.\nmonk_y",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/monkey.png",
           "questionAudioUrl": "",
           "choices": [
             "A. e",
@@ -11723,13 +11723,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/table.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/desk.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/house.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/house.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/chair.png"
           ],
           "imageNames": [
             "table",
-            "desk",
-            "house"
+            "house",
+            "chair"
           ],
           "correctIndex": 0,
           "hint": "What's this? It's a table. → Đây là gì? Đó là cái bàn.\n(Hình đúng: table – cái bàn)",
@@ -11916,7 +11916,7 @@
         "type": "multiChoice",
         "value": {
           "id": 690,
-          "question": "Find the mistake.\nLook! That's a elephant.",
+          "question": "Find the mistake.\n<u>Look</u>! <u>That's</u> <u>a</u> <u>elephant</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12038,7 +12038,7 @@
         "type": "multiChoice",
         "value": {
           "id": 447,
-          "question": "Listen and choose True or False.\nIt is on the bed.",
+          "question": "Listen and choose True or False.\nA bag is on the bed.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookthisisabagitsnearthewindow.mp3",
           "choices": [
@@ -12046,7 +12046,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Look! This is a bag. It's near the window.\n→ Nhìn kìa! Đây là cái túi. Nó ở gần cái cửa sổ.\n✅ B. False\nIt is on the bed. → Nó ở on the bed.\n(Câu đúng: It is near the window.)",
+          "hint": "🎧 Bài nghe: Look! This is a bag. It's near the window.\n→ Nhìn kìa! Đây là cái túi. Nó ở gần cái cửa sổ.\n✅ B. False\nA bag is on the bed. → Cái túi ở trên cái giường.\n(Câu đúng: A bag is near the window.)",
           "topicId": 10
         }
       },
@@ -12083,12 +12083,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/heresabus.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/boat.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/doll.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bus.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/kite.png"
           ],
           "imageNames": [
-            "boat",
+            "doll",
             "bus",
             "kite"
           ],
@@ -12211,14 +12211,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/pointtothebus.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/teddybear.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/robot.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bus.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/robot.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/kite.png"
           ],
           "imageNames": [
-            "teddy bear",
+            "robot",
             "bus",
-            "robot"
+            "kite"
           ],
           "correctIndex": 1,
           "hint": "Point to the bus. → Hãy chỉ vào chiếc xe buýt.\n(Hình đúng: bus – xe buýt)",
@@ -12284,7 +12284,7 @@
         "type": "multiChoice",
         "value": {
           "id": 553,
-          "question": "Listen and choose True or False.\nThe child wants a bike.",
+          "question": "Listen and choose True or False.\nThe mother has a bike.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/thatsmymothershehasafootball.mp3",
           "choices": [
@@ -12292,7 +12292,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: That's my mother. She has a football.\n→ Kia là mẹ của mình. Bà ấy có một quả bóng đá.\n✅ B. False\nThe child wants a bike. → Bạn nhỏ muốn a bike.\n(Câu đúng: The child wants a football.)",
+          "hint": "🎧 Bài nghe: That's my mother. She has a football.\n→ Kia là mẹ của mình. Bà ấy có một quả bóng đá.\n✅ B. False\nThe mother has a bike. → Mẹ có một chiếc xe đạp.\n(Câu đúng: The mother has a football.)",
           "topicId": 15
         }
       },
@@ -12330,12 +12330,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/clock.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lock.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pen.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/box.png"
           ],
           "imageNames": [
             "clock",
-            "lock",
+            "pen",
             "box"
           ],
           "correctIndex": 0,
@@ -12451,12 +12451,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/showmeyourfoot.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hair.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/brother.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/head.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/foot.png"
           ],
           "imageNames": [
-            "hair",
+            "brother",
             "head",
             "foot"
           ],
@@ -12470,13 +12470,13 @@
         "value": {
           "id": 782,
           "question": "Complete the word.\nw_sh",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/wash.png",
           "questionAudioUrl": "",
           "choices": [
             "A. u",
             "B. a",
             "C. o",
-            "D. i"
+            "D. y"
           ],
           "correctAnswerIndex": 1,
           "hint": "wash → rửa\n✅ B. a",
@@ -12525,17 +12525,17 @@
         "type": "multiChoice",
         "value": {
           "id": 665,
-          "question": "Find the mistake.\nHe are running in the sun.",
+          "question": "Find the mistake.\nHe <u>are</u> running <u>in</u> <u>the</u> <u>sun</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
             "A. the",
             "B. in",
             "C. sun",
-            "D. He"
+            "D. are"
           ],
           "correctAnswerIndex": 3,
-          "hint": "Câu đúng: He's running in the sun. → Cậu ấy đang chạy dưới ánh nắng.\nSai ở \"He\": He → is ('s).\n✅ D. He",
+          "hint": "Câu đúng: He's running in the sun. → Cậu ấy đang chạy dưới ánh nắng.\nSai ở \"are\": chủ ngữ số ít (He/She) → dùng is.\n✅ D. are",
           "topicId": 11
         }
       },
@@ -12644,7 +12644,7 @@
         "type": "multiChoice",
         "value": {
           "id": 625,
-          "question": "Find the mistake.\nThis is an bag.",
+          "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>an</u> <u>bag</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13019,7 +13019,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "📖 Bài đọc: Look! This is a duck. It's on the desk.\n→ Nhìn kìa! Đây là con vịt. Nó ở trên cái bàn học.\n✅ B. False\nIt is near the window. → Nó ở near the window.\n(Câu đúng: It is on the desk.)",
+          "hint": "📖 Bài đọc: Look! This is a duck. It's on the desk.\n→ Nhìn kìa! Đây là con vịt. Nó ở trên cái bàn học.\n✅ B. False\nIt is near the window. → Nó ở gần cái cửa sổ.\n(Câu đúng: It is on the desk.)",
           "topicId": 12
         }
       },
@@ -13056,12 +13056,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/thisiscandy.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/fish.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/milk.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/banana.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/candy.png"
           ],
           "imageNames": [
-            "fish",
+            "milk",
             "banana",
             "candy"
           ],
@@ -13446,7 +13446,7 @@
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
-            "A. the",
+            "A. two",
             "B. a",
             "C. some",
             "D. an"
@@ -13624,7 +13624,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "📖 Bài đọc: Look! This is a duck. It's on the desk.\n→ Nhìn kìa! Đây là con vịt. Nó ở trên cái bàn học.\n✅ B. False\nIt is near the door. → Nó ở near the door.\n(Câu đúng: It is on the desk.)",
+          "hint": "📖 Bài đọc: Look! This is a duck. It's on the desk.\n→ Nhìn kìa! Đây là con vịt. Nó ở trên cái bàn học.\n✅ B. False\nIt is near the door. → Nó ở gần cánh cửa.\n(Câu đúng: It is on the desk.)",
           "topicId": 11
         }
       },
@@ -13813,7 +13813,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. a",
-            "B. the",
+            "B. two",
             "C. some",
             "D. an"
           ],
@@ -13928,13 +13928,13 @@
         "value": {
           "id": 657,
           "question": "Complete the word.\ntr_ck",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/truck.png",
           "questionAudioUrl": "",
           "choices": [
             "A. o",
-            "B. a",
+            "B. e",
             "C. u",
-            "D. i"
+            "D. y"
           ],
           "correctAnswerIndex": 2,
           "hint": "truck → xe tải\n✅ C. u",
@@ -14050,11 +14050,11 @@
         "value": {
           "id": 607,
           "question": "Complete the word.\nm_p",
-          "questionImageUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/mop.png",
           "questionAudioUrl": "",
           "choices": [
             "A. u",
-            "B. a",
+            "B. i",
             "C. e",
             "D. o"
           ],
@@ -14131,7 +14131,7 @@
             },
             {
               "en": "The boy is running in the sun.",
-              "vi": "Cậu bé đang chạy dưới ánh nắng."
+              "vi": "Bé trai đang chạy dưới ánh nắng."
             },
             {
               "en": "Bill is running in the sun.",
@@ -14142,7 +14142,7 @@
               "vi": "Có một bạn nam."
             }
           ],
-          "hint": "Look at the truck. - Hãy nhìn chiếc xe tải.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.\nBill is running in the sun. - Bill đang chạy dưới ánh nắng.\nThere's a boy. - Có một bạn nam.",
+          "hint": "Look at the truck. - Hãy nhìn chiếc xe tải.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.\nBill is running in the sun. - Bill đang chạy dưới ánh nắng.\nThere's a boy. - Có một bạn nam.",
           "topicId": 13
         }
       }
@@ -14160,13 +14160,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/raiseyourface.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/foot.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hand.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/sister.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/face.png"
           ],
           "imageNames": [
-            "foot",
             "hand",
+            "sister",
             "face"
           ],
           "correctIndex": 2,
@@ -14298,7 +14298,7 @@
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
-            "A. the",
+            "A. two",
             "B. an",
             "C. a",
             "D. some"
@@ -14359,7 +14359,7 @@
             "D. a goat"
           ],
           "correctAnswerIndex": 0,
-          "hint": "📖 Bài đọc: Look! There's a girl.\n→ Nhìn kìa! Có cô bé.\n❓ What is there? → Có gì ở đó?\n✅ A. a girl",
+          "hint": "📖 Bài đọc: Look! There's a girl.\n→ Nhìn kìa! Có bé gái.\n❓ What is there? → Có gì ở đó?\n✅ A. a girl",
           "topicId": 9
         }
       },
@@ -14396,12 +14396,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/wheresthechicken.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/noodles.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/turtle.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/fish.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/chicken.png"
           ],
           "imageNames": [
-            "noodles",
+            "turtle",
             "fish",
             "chicken"
           ],
@@ -14518,13 +14518,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/cap.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bell.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/pen.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/shoe.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/coat.png"
           ],
           "imageNames": [
             "cap",
-            "bell",
-            "pen"
+            "shoe",
+            "coat"
           ],
           "correctIndex": 0,
           "hint": "Is it a cap? → Đó có phải là cái mũ lưỡi trai không?\n(Hình đúng: cap – mũ lưỡi trai)",

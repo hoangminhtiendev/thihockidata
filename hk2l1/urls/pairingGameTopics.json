@@ -1,7 +1,7 @@
 [
   {
     "id": 9,
-    "text": " In the shop",
+    "text": "In the shop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit9.png",
     "scenes": [
       {
@@ -21,10 +21,10 @@
           },
           {
             "en": "It's a girl.",
-            "vi": "Đó là một cô bé."
+            "vi": "Đó là một bé gái."
           }
         ],
-        "hint": "There's a mop. - Có một cây lau nhà.\nThere's a gate. There's a garden. - Có một cái cổng. Có một khu vườn.\nThere are two apples. - Có hai quả táo.\nIt's a girl. - Đó là một cô bé."
+        "hint": "There's a mop. - Có một cây lau nhà.\nThere's a gate. There's a garden. - Có một cái cổng. Có một khu vườn.\nThere are two apples. - Có hai quả táo.\nIt's a girl. - Đó là một bé gái."
       },
       {
         "id": 2,
@@ -87,10 +87,10 @@
           },
           {
             "en": "This is a girl.",
-            "vi": "Đây là một cô bé."
+            "vi": "Đây là một bé gái."
           }
         ],
-        "hint": "I can see five boxes. - Mình nhìn thấy năm cái hộp.\nI have two pencils. - Mình có hai cái bút chì.\nThere's a dog. - Có một con chó.\nThis is a girl. - Đây là một cô bé."
+        "hint": "I can see five boxes. - Mình nhìn thấy năm cái hộp.\nI have two pencils. - Mình có hai cái bút chì.\nThere's a dog. - Có một con chó.\nThis is a girl. - Đây là một bé gái."
       },
       {
         "id": 5,
@@ -215,14 +215,14 @@
           },
           {
             "en": "There's a girl.",
-            "vi": "Có một cô bé."
+            "vi": "Có một bé gái."
           },
           {
             "en": "How many clocks? Four or five?",
             "vi": "Có bao nhiêu cái đồng hồ? Bốn hay năm?"
           }
         ],
-        "hint": "How many clocks? - Có bao nhiêu cái đồng hồ?\nTwo. - Hai.\nThere's a girl. - Có một cô bé.\nHow many clocks? Four or five? - Có bao nhiêu cái đồng hồ? Bốn hay năm?"
+        "hint": "How many clocks? - Có bao nhiêu cái đồng hồ?\nTwo. - Hai.\nThere's a girl. - Có một bé gái.\nHow many clocks? Four or five? - Có bao nhiêu cái đồng hồ? Bốn hay năm?"
       },
       {
         "id": 11,
@@ -497,7 +497,7 @@
           },
           {
             "en": "There's a girl.",
-            "vi": "Có một cô bé."
+            "vi": "Có một bé gái."
           },
           {
             "en": "What's in the garden?",
@@ -508,7 +508,7 @@
             "vi": "Có bao nhiêu cái ổ khoá? Một hay bốn?"
           }
         ],
-        "hint": "Three. - Ba.\nThere's a girl. - Có một cô bé.\nWhat's in the garden? - Có gì ở trong khu vườn?\nHow many locks? One or four? - Có bao nhiêu cái ổ khoá? Một hay bốn?"
+        "hint": "Three. - Ba.\nThere's a girl. - Có một bé gái.\nWhat's in the garden? - Có gì ở trong khu vườn?\nHow many locks? One or four? - Có bao nhiêu cái ổ khoá? Một hay bốn?"
       },
       {
         "id": 24,
@@ -901,10 +901,10 @@
           },
           {
             "en": "Look! There's a girl.",
-            "vi": "Nhìn kìa! Có một cô bé."
+            "vi": "Nhìn kìa! Có một bé gái."
           }
         ],
-        "hint": "There are four cakes. - Có bốn cái bánh.\nI can see five eggs. - Mình nhìn thấy năm quả trứng.\nI have four cans. - Mình có bốn lon đồ uống.\nLook! There's a girl. - Nhìn kìa! Có một cô bé."
+        "hint": "There are four cakes. - Có bốn cái bánh.\nI can see five eggs. - Mình nhìn thấy năm quả trứng.\nI have four cans. - Mình có bốn lon đồ uống.\nLook! There's a girl. - Nhìn kìa! Có một bé gái."
       },
       {
         "id": 42,
@@ -1011,10 +1011,10 @@
           },
           {
             "en": "There's a girl and a goat in the garden.",
-            "vi": "Có một cô bé và một con dê ở trong khu vườn."
+            "vi": "Có một bé gái và một con dê ở trong khu vườn."
           }
         ],
-        "hint": "I have four caps. - Mình có bốn cái mũ lưỡi trai.\nThere are two books. - Có hai quyển sách.\nIt's a gate. - Đó là một cái cổng.\nThere's a girl and a goat in the garden. - Có một cô bé và một con dê ở trong khu vườn."
+        "hint": "I have four caps. - Mình có bốn cái mũ lưỡi trai.\nThere are two books. - Có hai quyển sách.\nIt's a gate. - Đó là một cái cổng.\nThere's a girl and a goat in the garden. - Có một bé gái và một con dê ở trong khu vườn."
       },
       {
         "id": 47,
@@ -1091,7 +1091,7 @@
           },
           {
             "en": "This is a girl.",
-            "vi": "Đây là một cô bé."
+            "vi": "Đây là một bé gái."
           },
           {
             "en": "Touch your hair.",
@@ -1102,7 +1102,7 @@
             "vi": "Hãy chạm vào cái đầu và chạm vào bàn tay của bạn."
           }
         ],
-        "hint": "I can see three goats. - Mình nhìn thấy ba con dê.\nThis is a girl. - Đây là một cô bé.\nTouch your hair. - Hãy chạm vào mái tóc của bạn.\nTouch your head and touch your hand. - Hãy chạm vào cái đầu và chạm vào bàn tay của bạn."
+        "hint": "I can see three goats. - Mình nhìn thấy ba con dê.\nThis is a girl. - Đây là một bé gái.\nTouch your hair. - Hãy chạm vào mái tóc của bạn.\nTouch your head and touch your hand. - Hãy chạm vào cái đầu và chạm vào bàn tay của bạn."
       },
       {
         "id": 51,
@@ -1241,7 +1241,7 @@
         "title": [
           {
             "en": "There's a girl and a goat in the garden.",
-            "vi": "Có một cô bé và một con dê ở trong khu vườn."
+            "vi": "Có một bé gái và một con dê ở trong khu vườn."
           },
           {
             "en": "This is a goat.",
@@ -1256,7 +1256,7 @@
             "vi": "Nhìn kìa! Có một cái cổng."
           }
         ],
-        "hint": "There's a girl and a goat in the garden. - Có một cô bé và một con dê ở trong khu vườn.\nThis is a goat. - Đây là một con dê.\nThere are four bikes. - Có bốn chiếc xe đạp.\nLook! There's a gate. - Nhìn kìa! Có một cái cổng."
+        "hint": "There's a girl and a goat in the garden. - Có một bé gái và một con dê ở trong khu vườn.\nThis is a goat. - Đây là một con dê.\nThere are four bikes. - Có bốn chiếc xe đạp.\nLook! There's a gate. - Nhìn kìa! Có một cái cổng."
       },
       {
         "id": 58,
@@ -1517,10 +1517,10 @@
           },
           {
             "en": "There's a girl in the garden.",
-            "vi": "Có một cô bé ở trong khu vườn."
+            "vi": "Có một bé gái ở trong khu vườn."
           }
         ],
-        "hint": "I like apples and fish. - Mình thích táo và cá.\nThere are five cakes. - Có năm cái bánh.\nI can see two goats. - Mình nhìn thấy hai con dê.\nThere's a girl in the garden. - Có một cô bé ở trong khu vườn."
+        "hint": "I like apples and fish. - Mình thích táo và cá.\nThere are five cakes. - Có năm cái bánh.\nI can see two goats. - Mình nhìn thấy hai con dê.\nThere's a girl in the garden. - Có một bé gái ở trong khu vườn."
       },
       {
         "id": 70,
@@ -1989,7 +1989,7 @@
         "title": [
           {
             "en": "There's a girl and a goat in the garden.",
-            "vi": "Có một cô bé và một con dê ở trong khu vườn."
+            "vi": "Có một bé gái và một con dê ở trong khu vườn."
           },
           {
             "en": "Hi, I'm Lucy. This is my bag.",
@@ -2004,7 +2004,7 @@
             "vi": "Xin chào, mình là Sue."
           }
         ],
-        "hint": "There's a girl and a goat in the garden. - Có một cô bé và một con dê ở trong khu vườn.\nHi, I'm Lucy. This is my bag. - Chào. Mình là Lucy. Đây là cái túi của mình.\nThis is a clock. - Đây là một cái đồng hồ.\nHello, I'm Sue. - Xin chào, mình là Sue."
+        "hint": "There's a girl and a goat in the garden. - Có một bé gái và một con dê ở trong khu vườn.\nHi, I'm Lucy. This is my bag. - Chào. Mình là Lucy. Đây là cái túi của mình.\nThis is a clock. - Đây là một cái đồng hồ.\nHello, I'm Sue. - Xin chào, mình là Sue."
       },
       {
         "id": 92,
@@ -2208,7 +2208,7 @@
   },
   {
     "id": 10,
-    "text": " At the zoo",
+    "text": "At the zoo",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit10.png",
     "scenes": [
       {
@@ -4415,7 +4415,7 @@
   },
   {
     "id": 11,
-    "text": " At the bus stop",
+    "text": "At the bus stop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit11.png",
     "scenes": [
       {
@@ -4742,11 +4742,11 @@
             "vi": "đang chạy"
           },
           {
-            "en": "run",
-            "vi": "chạy"
+            "en": "kite",
+            "vi": "cái diều"
           }
         ],
-        "hint": "moving - đang di chuyển\nclock - cái đồng hồ\nrunning - đang chạy\nrun - chạy"
+        "hint": "moving - đang di chuyển\nclock - cái đồng hồ\nrunning - đang chạy\nkite - cái diều"
       },
       {
         "id": 216,
@@ -4760,15 +4760,15 @@
             "vi": "đang di chuyển"
           },
           {
-            "en": "run",
-            "vi": "chạy"
+            "en": "boy",
+            "vi": "bạn nam"
           },
           {
             "en": "cup",
             "vi": "cái cốc"
           }
         ],
-        "hint": "running - đang chạy\nmoving - đang di chuyển\nrun - chạy\ncup - cái cốc"
+        "hint": "running - đang chạy\nmoving - đang di chuyển\nboy - bạn nam\ncup - cái cốc"
       },
       {
         "id": 217,
@@ -4910,8 +4910,8 @@
             "vi": "đang chạy"
           },
           {
-            "en": "run",
-            "vi": "chạy"
+            "en": "frog",
+            "vi": "con ếch"
           },
           {
             "en": "hen",
@@ -4922,7 +4922,7 @@
             "vi": "có nắng"
           }
         ],
-        "hint": "running - đang chạy\nrun - chạy\nhen - con gà mái\nsunny - có nắng"
+        "hint": "running - đang chạy\nfrog - con ếch\nhen - con gà mái\nsunny - có nắng"
       },
       {
         "id": 224,
@@ -4962,11 +4962,11 @@
             "vi": "con thỏ"
           },
           {
-            "en": "run",
-            "vi": "chạy"
+            "en": "flower",
+            "vi": "bông hoa"
           }
         ],
-        "hint": "moving - đang di chuyển\nrunning - đang chạy\nrabbit - con thỏ\nrun - chạy"
+        "hint": "moving - đang di chuyển\nrunning - đang chạy\nrabbit - con thỏ\nflower - bông hoa"
       },
       {
         "id": 226,
@@ -5218,8 +5218,8 @@
             "vi": "có nắng"
           },
           {
-            "en": "run",
-            "vi": "chạy"
+            "en": "orange",
+            "vi": "quả cam"
           },
           {
             "en": "bed",
@@ -5230,7 +5230,7 @@
             "vi": "đang chạy"
           }
         ],
-        "hint": "sunny - có nắng\nrun - chạy\nbed - cái giường\nrunning - đang chạy"
+        "hint": "sunny - có nắng\norange - quả cam\nbed - cái giường\nrunning - đang chạy"
       },
       {
         "id": 238,
@@ -5373,7 +5373,7 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           },
           {
             "en": "I can see five horses.",
@@ -5384,7 +5384,7 @@
             "vi": "Kia là một con khỉ."
           }
         ],
-        "hint": "The bus is moving. - Chiếc xe buýt đang di chuyển.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.\nI can see five horses. - Mình nhìn thấy năm con ngựa.\nThat's a monkey. - Kia là một con khỉ."
+        "hint": "The bus is moving. - Chiếc xe buýt đang di chuyển.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.\nI can see five horses. - Mình nhìn thấy năm con ngựa.\nThat's a monkey. - Kia là một con khỉ."
       },
       {
         "id": 245,
@@ -5412,8 +5412,8 @@
         "id": 246,
         "title": [
           {
-            "en": "run",
-            "vi": "chạy"
+            "en": "lake",
+            "vi": "cái hồ"
           },
           {
             "en": "chips",
@@ -5428,7 +5428,7 @@
             "vi": "đang di chuyển"
           }
         ],
-        "hint": "run - chạy\nchips - khoai tây chiên\nrunning - đang chạy\nmoving - đang di chuyển"
+        "hint": "lake - cái hồ\nchips - khoai tây chiên\nrunning - đang chạy\nmoving - đang di chuyển"
       },
       {
         "id": 247,
@@ -5658,8 +5658,8 @@
             "vi": "đang chạy"
           },
           {
-            "en": "run",
-            "vi": "chạy"
+            "en": "egg",
+            "vi": "quả trứng"
           },
           {
             "en": "sunny",
@@ -5670,7 +5670,7 @@
             "vi": "cơm"
           }
         ],
-        "hint": "running - đang chạy\nrun - chạy\nsunny - có nắng\nrice - cơm"
+        "hint": "running - đang chạy\negg - quả trứng\nsunny - có nắng\nrice - cơm"
       },
       {
         "id": 258,
@@ -6415,10 +6415,10 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           }
         ],
-        "hint": "Hello, I'm Bill. - Xin chào, mình là Bill.\nHi, I'm Lucy. I like chips. - Chào. Mình là Lucy. Mình thích khoai tây chiên.\nHi, I'm Mary. This is my hat. - Chào. Mình là Mary. Đây là cái mũ của mình.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng."
+        "hint": "Hello, I'm Bill. - Xin chào, mình là Bill.\nHi, I'm Lucy. I like chips. - Chào. Mình là Lucy. Mình thích khoai tây chiên.\nHi, I'm Mary. This is my hat. - Chào. Mình là Mary. Đây là cái mũ của mình.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng."
       },
       {
         "id": 292,
@@ -6622,7 +6622,7 @@
   },
   {
     "id": 12,
-    "text": " At the lake",
+    "text": "At the lake",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit12.png",
     "scenes": [
       {
@@ -6642,10 +6642,10 @@
           },
           {
             "en": "Look at the boy.",
-            "vi": "Hãy nhìn cậu bé."
+            "vi": "Hãy nhìn bé trai."
           }
         ],
-        "hint": "That's a goat. I like goats. - Kia là một con dê. Mình thích con dê.\nIt's a leaf. - Đó là một chiếc lá.\nThat's a tiger. It's near the gate. - Kia là một con hổ. Nó ở gần cái cổng.\nLook at the boy. - Hãy nhìn cậu bé."
+        "hint": "That's a goat. I like goats. - Kia là một con dê. Mình thích con dê.\nIt's a leaf. - Đó là một chiếc lá.\nThat's a tiger. It's near the gate. - Kia là một con hổ. Nó ở gần cái cổng.\nLook at the boy. - Hãy nhìn bé trai."
       },
       {
         "id": 302,
@@ -6832,7 +6832,7 @@
           },
           {
             "en": "Look at the boy!",
-            "vi": "Hãy nhìn cậu bé!"
+            "vi": "Hãy nhìn bé trai!"
           },
           {
             "en": "Look! That's a pig.",
@@ -6843,7 +6843,7 @@
             "vi": "Hãy nhìn Mary."
           }
         ],
-        "hint": "That's a pig. - Kia là một con lợn.\nLook at the boy! - Hãy nhìn cậu bé!\nLook! That's a pig. - Nhìn kìa! Kia là một con lợn.\nLook at Mary. - Hãy nhìn Mary."
+        "hint": "That's a pig. - Kia là một con lợn.\nLook at the boy! - Hãy nhìn bé trai!\nLook! That's a pig. - Nhìn kìa! Kia là một con lợn.\nLook at Mary. - Hãy nhìn Mary."
       },
       {
         "id": 311,
@@ -6928,10 +6928,10 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           }
         ],
-        "hint": "Ann is running in the sun. - Ann đang chạy dưới ánh nắng.\nThe truck is moving. - Chiếc xe tải đang di chuyển.\nThat's an elephant. It's near the gate. - Kia là một con voi. Nó ở gần cái cổng.\nThe boy is running. - Cậu bé đang chạy."
+        "hint": "Ann is running in the sun. - Ann đang chạy dưới ánh nắng.\nThe truck is moving. - Chiếc xe tải đang di chuyển.\nThat's an elephant. It's near the gate. - Kia là một con voi. Nó ở gần cái cổng.\nThe boy is running. - Bé trai đang chạy."
       },
       {
         "id": 315,
@@ -6972,10 +6972,10 @@
           },
           {
             "en": "Look at the boy!",
-            "vi": "Hãy nhìn cậu bé!"
+            "vi": "Hãy nhìn bé trai!"
           }
         ],
-        "hint": "It's a boy. - Đó là một bạn nam.\nThat's a turtle. It's near the gate. - Kia là một con rùa. Nó ở gần cái cổng.\nAnn likes the lemons. - Ann thích những quả chanh.\nLook at the boy! - Hãy nhìn cậu bé!"
+        "hint": "It's a boy. - Đó là một bạn nam.\nThat's a turtle. It's near the gate. - Kia là một con rùa. Nó ở gần cái cổng.\nAnn likes the lemons. - Ann thích những quả chanh.\nLook at the boy! - Hãy nhìn bé trai!"
       },
       {
         "id": 317,
@@ -7100,14 +7100,14 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           },
           {
             "en": "Lucy likes the lemons.",
             "vi": "Lucy thích những quả chanh."
           }
         ],
-        "hint": "Mary's running round the lake. - Mary đang chạy quanh cái hồ.\nThe bus is moving. - Chiếc xe buýt đang di chuyển.\nThe boy is running. - Cậu bé đang chạy.\nLucy likes the lemons. - Lucy thích những quả chanh."
+        "hint": "Mary's running round the lake. - Mary đang chạy quanh cái hồ.\nThe bus is moving. - Chiếc xe buýt đang di chuyển.\nThe boy is running. - Bé trai đang chạy.\nLucy likes the lemons. - Lucy thích những quả chanh."
       },
       {
         "id": 323,
@@ -7206,7 +7206,7 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           },
           {
             "en": "Ann's running round the lake.",
@@ -7217,7 +7217,7 @@
             "vi": "Nhìn kìa! Kia là một con voi."
           }
         ],
-        "hint": "Look! That's my mother. - Nhìn kìa! Kia là mẹ của mình.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.\nAnn's running round the lake. - Ann đang chạy quanh cái hồ.\nLook! That's an elephant. - Nhìn kìa! Kia là một con voi."
+        "hint": "Look! That's my mother. - Nhìn kìa! Kia là mẹ của mình.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.\nAnn's running round the lake. - Ann đang chạy quanh cái hồ.\nLook! That's an elephant. - Nhìn kìa! Kia là một con voi."
       },
       {
         "id": 328,
@@ -7324,10 +7324,10 @@
           },
           {
             "en": "Look at the girl.",
-            "vi": "Hãy nhìn cô bé."
+            "vi": "Hãy nhìn bé gái."
           }
         ],
-        "hint": "Is she running? - Cô ấy có đang chạy không?\nWhat can you look at? - Bạn có thể nhìn gì?\nWhat's that? - Kia là gì?\nLook at the girl. - Hãy nhìn cô bé."
+        "hint": "Is she running? - Cô ấy có đang chạy không?\nWhat can you look at? - Bạn có thể nhìn gì?\nWhat's that? - Kia là gì?\nLook at the girl. - Hãy nhìn bé gái."
       },
       {
         "id": 333,
@@ -7426,7 +7426,7 @@
           },
           {
             "en": "Look at the boy!",
-            "vi": "Hãy nhìn cậu bé!"
+            "vi": "Hãy nhìn bé trai!"
           },
           {
             "en": "That's my mother.",
@@ -7437,7 +7437,7 @@
             "vi": "Hãy nhìn Ann."
           }
         ],
-        "hint": "The leaf is falling to the ground. - Chiếc lá đang rơi xuống đất.\nLook at the boy! - Hãy nhìn cậu bé!\nThat's my mother. - Kia là mẹ của mình.\nLook at Ann. - Hãy nhìn Ann."
+        "hint": "The leaf is falling to the ground. - Chiếc lá đang rơi xuống đất.\nLook at the boy! - Hãy nhìn bé trai!\nThat's my mother. - Kia là mẹ của mình.\nLook at Ann. - Hãy nhìn Ann."
       },
       {
         "id": 338,
@@ -7448,7 +7448,7 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           },
           {
             "en": "There's a lemon.",
@@ -7459,7 +7459,7 @@
             "vi": "Đó là một con khỉ."
           }
         ],
-        "hint": "She's running. - Cô ấy đang chạy.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.\nThere's a lemon. - Có một quả chanh.\nIt's a monkey. - Đó là một con khỉ."
+        "hint": "She's running. - Cô ấy đang chạy.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.\nThere's a lemon. - Có một quả chanh.\nIt's a monkey. - Đó là một con khỉ."
       },
       {
         "id": 339,
@@ -7522,10 +7522,10 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           }
         ],
-        "hint": "That's a monkey. It's near the gate. - Kia là một con khỉ. Nó ở gần cái cổng.\nBa is running in the sun. - Ba đang chạy dưới ánh nắng.\nThis is a lemon. - Đây là một quả chanh.\nThe boy is running. - Cậu bé đang chạy."
+        "hint": "That's a monkey. It's near the gate. - Kia là một con khỉ. Nó ở gần cái cổng.\nBa is running in the sun. - Ba đang chạy dưới ánh nắng.\nThis is a lemon. - Đây là một quả chanh.\nThe boy is running. - Bé trai đang chạy."
       },
       {
         "id": 342,
@@ -7540,14 +7540,14 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           },
           {
             "en": "That's a rabbit. I like rabbits.",
             "vi": "Kia là một con thỏ. Mình thích con thỏ."
           }
         ],
-        "hint": "This is a mouse. - Đây là một con chuột.\nThat's a cow. - Kia là một con bò.\nThe boy is running. - Cậu bé đang chạy.\nThat's a rabbit. I like rabbits. - Kia là một con thỏ. Mình thích con thỏ."
+        "hint": "This is a mouse. - Đây là một con chuột.\nThat's a cow. - Kia là một con bò.\nThe boy is running. - Bé trai đang chạy.\nThat's a rabbit. I like rabbits. - Kia là một con thỏ. Mình thích con thỏ."
       },
       {
         "id": 343,
@@ -7774,7 +7774,7 @@
         "title": [
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           },
           {
             "en": "Ann likes the lemons.",
@@ -7789,7 +7789,7 @@
             "vi": "Cô ấy đang chạy quanh cái hồ."
           }
         ],
-        "hint": "The boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.\nAnn likes the lemons. - Ann thích những quả chanh.\nThe bus is moving. - Chiếc xe buýt đang di chuyển.\nShe's running round the lake. - Cô ấy đang chạy quanh cái hồ."
+        "hint": "The boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.\nAnn likes the lemons. - Ann thích những quả chanh.\nThe bus is moving. - Chiếc xe buýt đang di chuyển.\nShe's running round the lake. - Cô ấy đang chạy quanh cái hồ."
       },
       {
         "id": 354,
@@ -8050,10 +8050,10 @@
           },
           {
             "en": "Look at the girl.",
-            "vi": "Hãy nhìn cô bé."
+            "vi": "Hãy nhìn bé gái."
           }
         ],
-        "hint": "Hi, Lucy. I'm Ba. - Chào Lucy. Mình là Ba.\nWhere's the dog? - Con chó ở đâu?\nHe's running. - Cậu ấy đang chạy.\nLook at the girl. - Hãy nhìn cô bé."
+        "hint": "Hi, Lucy. I'm Ba. - Chào Lucy. Mình là Ba.\nWhere's the dog? - Con chó ở đâu?\nHe's running. - Cậu ấy đang chạy.\nLook at the girl. - Hãy nhìn bé gái."
       },
       {
         "id": 366,
@@ -8248,10 +8248,10 @@
           },
           {
             "en": "This is a girl.",
-            "vi": "Đây là một cô bé."
+            "vi": "Đây là một bé gái."
           }
         ],
-        "hint": "It's a red pen. - Đó là một cái bút mực màu đỏ.\nBa is running. - Ba đang chạy.\nThis is my cup. - Đây là cái cốc của mình.\nThis is a girl. - Đây là một cô bé."
+        "hint": "It's a red pen. - Đó là một cái bút mực màu đỏ.\nBa is running. - Ba đang chạy.\nThis is my cup. - Đây là cái cốc của mình.\nThis is a girl. - Đây là một bé gái."
       },
       {
         "id": 375,
@@ -8829,7 +8829,7 @@
   },
   {
     "id": 13,
-    "text": " In the school canteen",
+    "text": "In the school canteen",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit13.png",
     "scenes": [
       {
@@ -8885,7 +8885,7 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           },
           {
             "en": "Bill is running in the sun.",
@@ -8896,7 +8896,7 @@
             "vi": "Có một bạn nam."
           }
         ],
-        "hint": "Look at the truck. - Hãy nhìn chiếc xe tải.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.\nBill is running in the sun. - Bill đang chạy dưới ánh nắng.\nThere's a boy. - Có một bạn nam."
+        "hint": "Look at the truck. - Hãy nhìn chiếc xe tải.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.\nBill is running in the sun. - Bill đang chạy dưới ánh nắng.\nThere's a boy. - Có một bạn nam."
       },
       {
         "id": 404,
@@ -9593,14 +9593,14 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           },
           {
             "en": "It's a lemon.",
             "vi": "Đó là một quả chanh."
           }
         ],
-        "hint": "She's having bananas. - Cô ấy đang ăn chuối.\nHe's having cakes. - Cậu ấy đang ăn bánh.\nThe boy is running. - Cậu bé đang chạy.\nIt's a lemon. - Đó là một quả chanh."
+        "hint": "She's having bananas. - Cô ấy đang ăn chuối.\nHe's having cakes. - Cậu ấy đang ăn bánh.\nThe boy is running. - Bé trai đang chạy.\nIt's a lemon. - Đó là một quả chanh."
       },
       {
         "id": 436,
@@ -9795,10 +9795,10 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           }
         ],
-        "hint": "He's having bananas today. - Hôm nay cậu ấy ăn chuối.\nShe's running round the lake. - Cô ấy đang chạy quanh cái hồ.\nThat's a banana. - Kia là một quả chuối.\nThe boy is running. - Cậu bé đang chạy."
+        "hint": "He's having bananas today. - Hôm nay cậu ấy ăn chuối.\nShe's running round the lake. - Cô ấy đang chạy quanh cái hồ.\nThat's a banana. - Kia là một quả chuối.\nThe boy is running. - Bé trai đang chạy."
       },
       {
         "id": 445,
@@ -9857,14 +9857,14 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           },
           {
             "en": "He's having cakes today.",
             "vi": "Hôm nay cậu ấy ăn bánh."
           }
         ],
-        "hint": "She's running in the sun. - Cô ấy đang chạy dưới ánh nắng.\nShe's running. - Cô ấy đang chạy.\nThe boy is running. - Cậu bé đang chạy.\nHe's having cakes today. - Hôm nay cậu ấy ăn bánh."
+        "hint": "She's running in the sun. - Cô ấy đang chạy dưới ánh nắng.\nShe's running. - Cô ấy đang chạy.\nThe boy is running. - Bé trai đang chạy.\nHe's having cakes today. - Hôm nay cậu ấy ăn bánh."
       },
       {
         "id": 448,
@@ -10582,15 +10582,15 @@
             "vi": "cái ghế"
           },
           {
-            "en": "run",
-            "vi": "chạy"
+            "en": "truck",
+            "vi": "xe tải"
           },
           {
             "en": "running",
             "vi": "đang chạy"
           }
         ],
-        "hint": "falling - đang rơi\nchair - cái ghế\nrun - chạy\nrunning - đang chạy"
+        "hint": "falling - đang rơi\nchair - cái ghế\ntruck - xe tải\nrunning - đang chạy"
       },
       {
         "id": 481,
@@ -10843,7 +10843,7 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           },
           {
             "en": "I have a ball and a car.",
@@ -10854,7 +10854,7 @@
             "vi": "Đó là một quả bóng."
           }
         ],
-        "hint": "That's an elephant. It's near the gate. - Kia là một con voi. Nó ở gần cái cổng.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.\nI have a ball and a car. - Mình có một quả bóng và một chiếc ô tô.\nIt's a ball. - Đó là một quả bóng."
+        "hint": "That's an elephant. It's near the gate. - Kia là một con voi. Nó ở gần cái cổng.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.\nI have a ball and a car. - Mình có một quả bóng và một chiếc ô tô.\nIt's a ball. - Đó là một quả bóng."
       },
       {
         "id": 493,
@@ -11036,7 +11036,7 @@
   },
   {
     "id": 14,
-    "text": " In the toy shop",
+    "text": "In the toy shop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit14.png",
     "scenes": [
       {
@@ -11430,10 +11430,10 @@
           },
           {
             "en": "Look at the girl.",
-            "vi": "Hãy nhìn cô bé."
+            "vi": "Hãy nhìn bé gái."
           }
         ],
-        "hint": "He's having bananas today. - Hôm nay cậu ấy ăn chuối.\nTony has a top. - Tony có một con quay.\nThere's a tiger. - Có một con hổ.\nLook at the girl. - Hãy nhìn cô bé."
+        "hint": "He's having bananas today. - Hôm nay cậu ấy ăn chuối.\nTony has a top. - Tony có một con quay.\nThere's a tiger. - Có một con hổ.\nLook at the girl. - Hãy nhìn bé gái."
       },
       {
         "id": 519,
@@ -11448,14 +11448,14 @@
           },
           {
             "en": "Look at the girl!",
-            "vi": "Hãy nhìn cô bé!"
+            "vi": "Hãy nhìn bé gái!"
           },
           {
             "en": "Bill has a top.",
             "vi": "Bill có một con quay."
           }
         ],
-        "hint": "We're in the school canteen. - Chúng mình ở nhà ăn của trường.\nShe's having noodles. - Cô ấy đang ăn mì.\nLook at the girl! - Hãy nhìn cô bé!\nBill has a top. - Bill có một con quay."
+        "hint": "We're in the school canteen. - Chúng mình ở nhà ăn của trường.\nShe's having noodles. - Cô ấy đang ăn mì.\nLook at the girl! - Hãy nhìn bé gái!\nBill has a top. - Bill có một con quay."
       },
       {
         "id": 520,
@@ -11994,7 +11994,7 @@
           },
           {
             "en": "Look at the girl.",
-            "vi": "Hãy nhìn cô bé."
+            "vi": "Hãy nhìn bé gái."
           },
           {
             "en": "Look at the tree!",
@@ -12005,7 +12005,7 @@
             "vi": "Ben đang ăn mì."
           }
         ],
-        "hint": "Lucy's running round the lake. - Lucy đang chạy quanh cái hồ.\nLook at the girl. - Hãy nhìn cô bé.\nLook at the tree! - Hãy nhìn cái cây!\nBen's having noodles. - Ben đang ăn mì."
+        "hint": "Lucy's running round the lake. - Lucy đang chạy quanh cái hồ.\nLook at the girl. - Hãy nhìn bé gái.\nLook at the tree! - Hãy nhìn cái cây!\nBen's having noodles. - Ben đang ăn mì."
       },
       {
         "id": 545,
@@ -12038,7 +12038,7 @@
           },
           {
             "en": "Look at the boy!",
-            "vi": "Hãy nhìn cậu bé!"
+            "vi": "Hãy nhìn bé trai!"
           },
           {
             "en": "It's a pig. It's in the toy shop.",
@@ -12049,7 +12049,7 @@
             "vi": "Mình nhìn thấy một con bò."
           }
         ],
-        "hint": "Tony has a top. - Tony có một con quay.\nLook at the boy! - Hãy nhìn cậu bé!\nIt's a pig. It's in the toy shop. - Đó là một con lợn. Nó ở trong cửa hàng đồ chơi.\nI can see a cow. - Mình nhìn thấy một con bò."
+        "hint": "Tony has a top. - Tony có một con quay.\nLook at the boy! - Hãy nhìn bé trai!\nIt's a pig. It's in the toy shop. - Đó là một con lợn. Nó ở trong cửa hàng đồ chơi.\nI can see a cow. - Mình nhìn thấy một con bò."
       },
       {
         "id": 547,
@@ -12346,7 +12346,7 @@
           },
           {
             "en": "Look at the boy!",
-            "vi": "Hãy nhìn cậu bé!"
+            "vi": "Hãy nhìn bé trai!"
           },
           {
             "en": "It's a robot. It's in the toy shop.",
@@ -12357,7 +12357,7 @@
             "vi": "Cậu ấy đang chạy quanh cái hồ."
           }
         ],
-        "hint": "I like bananas. - Mình thích chuối.\nLook at the boy! - Hãy nhìn cậu bé!\nIt's a robot. It's in the toy shop. - Đó là một con người máy. Nó ở trong cửa hàng đồ chơi.\nHe's running round the lake. - Cậu ấy đang chạy quanh cái hồ."
+        "hint": "I like bananas. - Mình thích chuối.\nLook at the boy! - Hãy nhìn bé trai!\nIt's a robot. It's in the toy shop. - Đó là một con người máy. Nó ở trong cửa hàng đồ chơi.\nHe's running round the lake. - Cậu ấy đang chạy quanh cái hồ."
       },
       {
         "id": 561,
@@ -12870,7 +12870,7 @@
         "title": [
           {
             "en": "Look at the boy.",
-            "vi": "Hãy nhìn cậu bé."
+            "vi": "Hãy nhìn bé trai."
           },
           {
             "en": "It's on the desk.",
@@ -12885,7 +12885,7 @@
             "vi": "Không, mình không thích."
           }
         ],
-        "hint": "Look at the boy. - Hãy nhìn cậu bé.\nIt's on the desk. - Nó ở trên cái bàn học.\nTwo. - Hai.\nNo, I don't. - Không, mình không thích."
+        "hint": "Look at the boy. - Hãy nhìn bé trai.\nIt's on the desk. - Nó ở trên cái bàn học.\nTwo. - Hai.\nNo, I don't. - Không, mình không thích."
       },
       {
         "id": 585,
@@ -12904,10 +12904,10 @@
           },
           {
             "en": "Look at the girl.",
-            "vi": "Hãy nhìn cô bé."
+            "vi": "Hãy nhìn bé gái."
           }
         ],
-        "hint": "I like apples. - Mình thích táo.\nWhat's this? - Đây là gì?\nYes, I do. - Vâng, mình thích.\nLook at the girl. - Hãy nhìn cô bé."
+        "hint": "I like apples. - Mình thích táo.\nWhat's this? - Đây là gì?\nYes, I do. - Vâng, mình thích.\nLook at the girl. - Hãy nhìn bé gái."
       },
       {
         "id": 586,
@@ -13243,7 +13243,7 @@
   },
   {
     "id": 15,
-    "text": " At the football match",
+    "text": "At the football match",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit15.png",
     "scenes": [
       {
@@ -14627,10 +14627,10 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           }
         ],
-        "hint": "Hi, I'm Lucy. I like fish. - Chào. Mình là Lucy. Mình thích cá.\nThere are three desks. - Có ba cái bàn học.\nThere's Nick. - Nick kia rồi.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng."
+        "hint": "Hi, I'm Lucy. I like fish. - Chào. Mình là Lucy. Mình thích cá.\nThere are three desks. - Có ba cái bàn học.\nThere's Nick. - Nick kia rồi.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng."
       },
       {
         "id": 664,
@@ -15450,7 +15450,7 @@
   },
   {
     "id": 16,
-    "text": " At home",
+    "text": "At home",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit16.png",
     "scenes": [
       {

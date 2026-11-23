@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "Unit 9: In the shop",
+    "text": "In the shop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit9.png",
     "scenes": [
       {
@@ -622,10 +622,10 @@
       },
       {
         "id": 89,
-        "word": "There's a hand.",
-        "meaning": "Có một bàn tay.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/theresahand.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/theresahand.mp3"
+        "word": "Look at my hand!",
+        "meaning": "Hãy nhìn bàn tay của mình!",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lookatmyhand.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookatmyhand.mp3"
       },
       {
         "id": 90,
@@ -1527,7 +1527,7 @@
   },
   {
     "id": 2,
-    "text": "Unit 10: At the zoo",
+    "text": "At the zoo",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit10.png",
     "scenes": [
       {
@@ -2078,10 +2078,10 @@
       },
       {
         "id": 296,
-        "word": "It's a sister.",
-        "meaning": "Đó là chị/em gái.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/itsasister.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/itsasister.mp3"
+        "word": "This is my sister.",
+        "meaning": "Đây là chị/em gái của mình.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/thisismysister.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/thisismysister.mp3"
       },
       {
         "id": 297,
@@ -2871,7 +2871,7 @@
   },
   {
     "id": 3,
-    "text": "Unit 11: At the bus stop",
+    "text": "At the bus stop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit11.png",
     "scenes": [
       {
@@ -2940,14 +2940,14 @@
       {
         "id": 418,
         "word": "He's running.",
-        "meaning": "Vâng, đúng vậy.",
+        "meaning": "Cậu ấy đang chạy.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hesrunning.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/hesrunning.mp3"
       },
       {
         "id": 419,
         "word": "She's running.",
-        "meaning": "Vâng, đúng vậy.",
+        "meaning": "Cô ấy đang chạy.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/shesrunning.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/shesrunning.mp3"
       },
@@ -3038,7 +3038,7 @@
       {
         "id": 432,
         "word": "girl",
-        "meaning": "cô bé",
+        "meaning": "bé gái",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/girl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/girl.mp3"
       },
@@ -3968,10 +3968,10 @@
       },
       {
         "id": 565,
-        "word": "Mary has a boy.",
-        "meaning": "Mary có bạn nam.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/maryhasaboy.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/maryhasaboy.mp3"
+        "word": "Mary, look at the boy!",
+        "meaning": "Mary ơi, nhìn bạn nam kia kìa!",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/marylookattheboy.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/marylookattheboy.mp3"
       },
       {
         "id": 566,
@@ -4194,7 +4194,7 @@
   },
   {
     "id": 4,
-    "text": "Unit 12: At the lake",
+    "text": "At the lake",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit12.png",
     "scenes": [
       {
@@ -4410,7 +4410,7 @@
       {
         "id": 627,
         "word": "Look at the girl!",
-        "meaning": "Hãy nhìn cô bé!",
+        "meaning": "Hãy nhìn bé gái!",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lookatthegirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookatthegirl.mp3"
       },
@@ -4508,7 +4508,7 @@
       {
         "id": 641,
         "word": "Look at the girl.",
-        "meaning": "Hãy nhìn cô bé.",
+        "meaning": "Hãy nhìn bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/lookatthegirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/lookatthegirl.mp3"
       },
@@ -5193,10 +5193,10 @@
       },
       {
         "id": 739,
-        "word": "I like my boy.",
-        "meaning": "Mình thích bạn nam của mình.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/ilikemyboy.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/ilikemyboy.mp3"
+        "word": "I like that boy.",
+        "meaning": "Mình thích bạn nam đó.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/ilikethatboy.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/ilikethatboy.mp3"
       },
       {
         "id": 740,
@@ -5433,7 +5433,7 @@
   },
   {
     "id": 5,
-    "text": "Unit 13: In the school canteen",
+    "text": "In the school canteen",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit13.png",
     "scenes": [
       {
@@ -6496,7 +6496,7 @@
       {
         "id": 924,
         "word": "It's my girl.",
-        "meaning": "Đó là cô bé của mình.",
+        "meaning": "Đó là bé gái của mình.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/itsmygirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/itsmygirl.mp3"
       },
@@ -6630,7 +6630,7 @@
   },
   {
     "id": 6,
-    "text": "Unit 14: In the toy shop",
+    "text": "In the toy shop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit14.png",
     "scenes": [
       {
@@ -6930,7 +6930,7 @@
       {
         "id": 985,
         "word": "The boy is running.",
-        "meaning": "Cậu bé đang chạy.",
+        "meaning": "Bé trai đang chạy.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/theboyisrunning.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/theboyisrunning.mp3"
       },
@@ -7707,7 +7707,7 @@
       {
         "id": 1096,
         "word": "My girl is here.",
-        "meaning": "Cô bé của mình ở đây.",
+        "meaning": "Bé gái của mình ở đây.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/mygirlishere.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/mygirlishere.mp3"
       },
@@ -7904,7 +7904,7 @@
   },
   {
     "id": 7,
-    "text": "Unit 15: At the football match",
+    "text": "At the football match",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit15.png",
     "scenes": [
       {
@@ -8582,7 +8582,7 @@
       {
         "id": 1220,
         "word": "It's a girl.",
-        "meaning": "Đó là cô bé.",
+        "meaning": "Đó là bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/itsagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/itsagirl.mp3"
       },
@@ -8771,7 +8771,7 @@
       {
         "id": 1247,
         "word": "This is my girl.",
-        "meaning": "Đây là cô bé của mình.",
+        "meaning": "Đây là bé gái của mình.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/thisismygirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/thisismygirl.mp3"
       },
@@ -8868,10 +8868,10 @@
       },
       {
         "id": 1261,
-        "word": "It's a brother.",
-        "meaning": "Đó là anh/em trai.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/itsabrother.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/itsabrother.mp3"
+        "word": "Here is my brother.",
+        "meaning": "Đây là anh/em trai của mình.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/hereismybrother.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/hereismybrother.mp3"
       },
       {
         "id": 1262,
@@ -9073,7 +9073,7 @@
   },
   {
     "id": 8,
-    "text": "Unit 16: At home",
+    "text": "At home",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/unit16.png",
     "scenes": [
       {
@@ -9708,10 +9708,10 @@
       },
       {
         "id": 1380,
-        "word": "Ba has a boy.",
-        "meaning": "Ba có bạn nam.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/bahasaboy.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/bahasaboy.mp3"
+        "word": "Ba, look at the boy!",
+        "meaning": "Ba ơi, nhìn bạn nam kia kìa!",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/photos/balookattheboy.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l1/audios/balookattheboy.mp3"
       },
       {
         "id": 1381,
