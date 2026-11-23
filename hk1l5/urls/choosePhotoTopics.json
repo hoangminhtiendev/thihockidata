@@ -1116,12 +1116,12 @@
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/car.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/plane.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bus.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/train.png"
         ],
         "imageNames": [
           "car",
           "plane",
-          "bus"
+          "train"
         ],
         "correctIndex": 0,
         "hint": "It's a car. → Đó là ô tô.\n(Hình đúng: car – ô tô)"
@@ -1302,12 +1302,12 @@
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/truck.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/car.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/train.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/ship.png"
         ],
         "imageNames": [
           "truck",
-          "car",
+          "train",
           "ship"
         ],
         "correctIndex": 0,
@@ -3605,12 +3605,12 @@
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/train.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/car.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/truck.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/plane.png"
         ],
         "imageNames": [
           "train",
           "car",
-          "truck"
+          "plane"
         ],
         "correctIndex": 1,
         "hint": "This is a car. → Đây là ô tô.\n(Hình đúng: car – ô tô)"
@@ -6162,12 +6162,12 @@
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bus.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/plane.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/truck.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/train.png"
         ],
         "imageNames": [
           "bus",
           "plane",
-          "truck"
+          "train"
         ],
         "correctIndex": 0,
         "hint": "This is a bus. → Đây là xe buýt.\n(Hình đúng: bus – xe buýt)"
@@ -8600,12 +8600,12 @@
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/truck.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/train.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bus.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/plane.png"
         ],
         "imageNames": [
           "truck",
           "train",
-          "bus"
+          "plane"
         ],
         "correctIndex": 0,
         "hint": "It's a truck. → Đó là xe tải.\n(Hình đúng: truck – xe tải)"
@@ -8667,12 +8667,12 @@
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/truck.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/car.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/ship.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/plane.png"
         ],
         "imageNames": [
           "truck",
-          "car",
+          "ship",
           "plane"
         ],
         "correctIndex": 2,
@@ -11410,12 +11410,12 @@
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/itsacar.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/truck.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/plane.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/car.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/ship.png"
         ],
         "imageNames": [
-          "truck",
+          "plane",
           "car",
           "ship"
         ],
@@ -18045,12 +18045,12 @@
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookcase.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/chair.png"
         ],
         "imageNames": [
           "desk",
-          "table",
+          "bookcase",
           "chair"
         ],
         "correctIndex": 0,
@@ -18435,12 +18435,12 @@
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/marysmapisundermarystable.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookcase.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/window.png"
         ],
         "imageNames": [
-          "desk",
+          "bookcase",
           "table",
           "window"
         ],
@@ -18521,12 +18521,12 @@
         "question": "",
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/chair.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookcase.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png"
         ],
         "imageNames": [
           "chair",
-          "desk",
+          "bookcase",
           "table"
         ],
         "correctIndex": 2,
@@ -18692,12 +18692,12 @@
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookcase.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/chair.png"
         ],
         "imageNames": [
           "table",
           "bookcase",
-          "desk"
+          "chair"
         ],
         "correctIndex": 1,
         "hint": "It's above the bookcase. → Nó ở phía trên tủ sách.\n(Hình đúng: bookcase – tủ sách)"
@@ -18775,12 +18775,12 @@
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l5/audios/thegluesticksarebesidethetable.mp3",
         "question": "",
         "imageUrls": [
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png",
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookcase.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/board.png"
         ],
         "imageNames": [
-          "desk",
+          "bookcase",
           "table",
           "board"
         ],
@@ -19083,12 +19083,12 @@
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/board.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookcase.png"
         ],
         "imageNames": [
           "desk",
           "board",
-          "table"
+          "bookcase"
         ],
         "correctIndex": 0,
         "hint": "They're above the desk. → Chúng ở phía trên cái bàn học.\n(Hình đúng: desk – bàn học)"
@@ -19117,12 +19117,12 @@
         "imageUrls": [
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/bookcase.png",
           "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/desk.png",
-          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/table.png"
+          "https://hoangminhtiendev.github.io/thihockidata/hk1l5/photos/chair.png"
         ],
         "imageNames": [
           "bookcase",
           "desk",
-          "table"
+          "chair"
         ],
         "correctIndex": 1,
         "hint": "Where are the pens? They're on the desk. → Những cây bút mực ở đâu? Chúng ở trên bàn học.\n(Hình đúng: desk – bàn học)"
