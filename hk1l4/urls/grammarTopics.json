@@ -24,7 +24,7 @@
       {
         "id": 2,
         "audioUrl": "",
-        "question": "",
+        "question": "từ, đến từ",
         "correctAnswer": [
           "F",
           "R",
@@ -114,7 +114,7 @@
       {
         "id": 7,
         "audioUrl": "",
-        "question": "",
+        "question": "học sinh",
         "correctAnswer": [
           "PU",
           "PI",
@@ -163,7 +163,7 @@
           "Minh.",
           "I'm",
           "I'm",
-          "has",
+          "Kate.",
           "from",
           "Hello."
         ],
@@ -208,7 +208,7 @@
       {
         "id": 12,
         "audioUrl": "",
-        "question": "",
+        "question": "thân thiện",
         "correctAnswer": [
           "F",
           "R",
@@ -308,7 +308,7 @@
       {
         "id": 17,
         "audioUrl": "",
-        "question": "",
+        "question": "khỏe",
         "correctAnswer": [
           "F",
           "I",
@@ -402,7 +402,7 @@
       {
         "id": 22,
         "audioUrl": "",
-        "question": "",
+        "question": "bạn",
         "correctAnswer": [
           "FR",
           "IE",
@@ -496,7 +496,7 @@
       {
         "id": 27,
         "audioUrl": "",
-        "question": "",
+        "question": "lại, nữa",
         "correctAnswer": [
           "AG",
           "AI",
@@ -594,7 +594,7 @@
       {
         "id": 32,
         "audioUrl": "",
-        "question": "",
+        "question": "học sinh",
         "correctAnswer": [
           "P",
           "U",
@@ -690,7 +690,7 @@
       {
         "id": 37,
         "audioUrl": "",
-        "question": "",
+        "question": "thân thiện",
         "correctAnswer": [
           "FR",
           "IE",
@@ -792,7 +792,7 @@
       {
         "id": 42,
         "audioUrl": "",
-        "question": "",
+        "question": "lại, nữa",
         "correctAnswer": [
           "A",
           "G",
@@ -888,7 +888,7 @@
       {
         "id": 47,
         "audioUrl": "",
-        "question": "",
+        "question": "học sinh",
         "correctAnswer": [
           "PU",
           "P",
@@ -986,7 +986,7 @@
       {
         "id": 52,
         "audioUrl": "",
-        "question": "",
+        "question": "lại, nữa",
         "correctAnswer": [
           "AG",
           "A",
@@ -1074,7 +1074,7 @@
       {
         "id": 57,
         "audioUrl": "",
-        "question": "",
+        "question": "bạn",
         "correctAnswer": [
           "F",
           "R",
@@ -1170,7 +1170,7 @@
       {
         "id": 62,
         "audioUrl": "",
-        "question": "",
+        "question": "thân thiện",
         "correctAnswer": [
           "FR",
           "I",
@@ -1230,7 +1230,7 @@
       {
         "id": 65,
         "audioUrl": "",
-        "question": "",
+        "question": "học sinh",
         "correctAnswer": [
           "P",
           "UP",
@@ -1374,7 +1374,7 @@
         "scramble": [
           "from",
           "Britain.",
-          "has",
+          "Malaysia.",
           "I'm"
         ],
         "hint": "Mình đến từ nước Anh. → I'm from Britain.",
@@ -1401,7 +1401,7 @@
       {
         "id": 74,
         "audioUrl": "",
-        "question": "",
+        "question": "cái mũi",
         "correctAnswer": [
           "N",
           "O",
@@ -1497,7 +1497,7 @@
       {
         "id": 79,
         "audioUrl": "",
-        "question": "",
+        "question": "quyển vở",
         "correctAnswer": [
           "NO",
           "TE",
@@ -1595,7 +1595,7 @@
       {
         "id": 84,
         "audioUrl": "",
-        "question": "",
+        "question": "cá",
         "correctAnswer": [
           "F",
           "I",
@@ -1687,7 +1687,7 @@
       {
         "id": 89,
         "audioUrl": "",
-        "question": "",
+        "question": "cái bàn",
         "correctAnswer": [
           "T",
           "AB",
@@ -1763,7 +1763,7 @@
       {
         "id": 93,
         "audioUrl": "",
-        "question": "",
+        "question": "con thỏ",
         "correctAnswer": [
           "RA",
           "BB",
@@ -1815,7 +1815,7 @@
       {
         "id": 96,
         "audioUrl": "",
-        "question": "",
+        "question": "cái tai",
         "correctAnswer": [
           "E",
           "A",
@@ -2757,7 +2757,7 @@
       {
         "id": 98,
         "audioUrl": "",
-        "question": "",
+        "question": "ba mươi",
         "correctAnswer": [
           "TH",
           "IR",
@@ -2857,7 +2857,7 @@
       {
         "id": 103,
         "audioUrl": "",
-        "question": "",
+        "question": "mười lăm",
         "correctAnswer": [
           "F",
           "I",
@@ -2971,7 +2971,7 @@
       {
         "id": 108,
         "audioUrl": "",
-        "question": "",
+        "question": "giờ",
         "correctAnswer": [
           "T",
           "I",
@@ -3057,7 +3057,7 @@
       {
         "id": 113,
         "audioUrl": "",
-        "question": "",
+        "question": "giờ nghỉ",
         "correctAnswer": [
           "BR",
           "EA",
@@ -3157,7 +3157,7 @@
       {
         "id": 118,
         "audioUrl": "",
-        "question": "",
+        "question": "mười lăm",
         "correctAnswer": [
           "F",
           "I",
@@ -3253,7 +3253,7 @@
       {
         "id": 123,
         "audioUrl": "",
-        "question": "",
+        "question": "giờ nghỉ",
         "correctAnswer": [
           "B",
           "R",
@@ -3341,7 +3341,7 @@
       {
         "id": 128,
         "audioUrl": "",
-        "question": "",
+        "question": "ba mươi",
         "correctAnswer": [
           "T",
           "H",
@@ -3447,7 +3447,7 @@
       {
         "id": 133,
         "audioUrl": "",
-        "question": "",
+        "question": "mười lăm",
         "correctAnswer": [
           "F",
           "IF",
@@ -3549,7 +3549,7 @@
       {
         "id": 138,
         "audioUrl": "",
-        "question": "",
+        "question": "mười lăm",
         "correctAnswer": [
           "FI",
           "FT",
@@ -3649,7 +3649,7 @@
       {
         "id": 143,
         "audioUrl": "",
-        "question": "",
+        "question": "giờ nghỉ",
         "correctAnswer": [
           "BR",
           "E",
@@ -3735,7 +3735,7 @@
       {
         "id": 148,
         "audioUrl": "",
-        "question": "",
+        "question": "mười lăm",
         "correctAnswer": [
           "FI",
           "FT",
@@ -3805,7 +3805,7 @@
       {
         "id": 152,
         "audioUrl": "",
-        "question": "",
+        "question": "ba mươi",
         "correctAnswer": [
           "TH",
           "I",
@@ -3911,7 +3911,7 @@
       {
         "id": 157,
         "audioUrl": "",
-        "question": "",
+        "question": "mười lăm",
         "correctAnswer": [
           "F",
           "I",
@@ -4011,7 +4011,7 @@
       {
         "id": 162,
         "audioUrl": "",
-        "question": "",
+        "question": "ba mươi",
         "correctAnswer": [
           "TH",
           "I",
@@ -4039,7 +4039,7 @@
         "scramble": [
           "It's",
           "o'clock.",
-          "are",
+          "seven",
           "two"
         ],
         "hint": "Bây giờ là 2 giờ. → It's two o'clock.",
@@ -4107,7 +4107,7 @@
       {
         "id": 167,
         "audioUrl": "",
-        "question": "",
+        "question": "mười lăm",
         "correctAnswer": [
           "FI",
           "F",
@@ -4240,7 +4240,7 @@
           "forty-five."
         ],
         "scramble": [
-          "are",
+          "thirty.",
           "go",
           "forty-five.",
           "bed",
@@ -4328,7 +4328,7 @@
           "fifteen."
         ],
         "scramble": [
-          "has",
+          "eight",
           "six",
           "At",
           "fifteen."
@@ -4377,7 +4377,7 @@
       {
         "id": 180,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà bếp",
         "correctAnswer": [
           "KI",
           "T",
@@ -4473,7 +4473,7 @@
       {
         "id": 185,
         "audioUrl": "",
-        "question": "",
+        "question": "cái bàn",
         "correctAnswer": [
           "TA",
           "B",
@@ -4565,7 +4565,7 @@
       {
         "id": 190,
         "audioUrl": "",
-        "question": "",
+        "question": "bố",
         "correctAnswer": [
           "F",
           "A",
@@ -4667,7 +4667,7 @@
       {
         "id": 195,
         "audioUrl": "",
-        "question": "",
+        "question": "giờ nghỉ",
         "correctAnswer": [
           "B",
           "RE",
@@ -4751,7 +4751,7 @@
       {
         "id": 199,
         "audioUrl": "",
-        "question": "",
+        "question": "cái đèn",
         "correctAnswer": [
           "L",
           "A",
@@ -4810,7 +4810,7 @@
       {
         "id": 202,
         "audioUrl": "",
-        "question": "",
+        "question": "cửa sổ",
         "correctAnswer": [
           "WI",
           "ND",
@@ -4827,7 +4827,7 @@
       {
         "id": 203,
         "audioUrl": "",
-        "question": "",
+        "question": "con rùa",
         "correctAnswer": [
           "T",
           "UR",
@@ -5592,7 +5592,7 @@
       {
         "id": 205,
         "audioUrl": "",
-        "question": "",
+        "question": "hôm nay",
         "correctAnswer": [
           "TO",
           "D",
@@ -5698,7 +5698,7 @@
       {
         "id": 210,
         "audioUrl": "",
-        "question": "",
+        "question": "ngày",
         "correctAnswer": [
           "D",
           "A",
@@ -5802,7 +5802,7 @@
       {
         "id": 215,
         "audioUrl": "",
-        "question": "",
+        "question": "cuối tuần",
         "correctAnswer": [
           "WE",
           "EK",
@@ -5908,7 +5908,7 @@
       {
         "id": 220,
         "audioUrl": "",
-        "question": "",
+        "question": "tuần",
         "correctAnswer": [
           "W",
           "E",
@@ -6002,7 +6002,7 @@
       {
         "id": 225,
         "audioUrl": "",
-        "question": "",
+        "question": "cuối tuần",
         "correctAnswer": [
           "WE",
           "E",
@@ -6102,7 +6102,7 @@
       {
         "id": 230,
         "audioUrl": "",
-        "question": "",
+        "question": "hôm nay",
         "correctAnswer": [
           "T",
           "OD",
@@ -6176,7 +6176,7 @@
       {
         "id": 234,
         "audioUrl": "",
-        "question": "",
+        "question": "hôm nay",
         "correctAnswer": [
           "TO",
           "DA",
@@ -6274,7 +6274,7 @@
       {
         "id": 239,
         "audioUrl": "",
-        "question": "",
+        "question": "cuối tuần",
         "correctAnswer": [
           "W",
           "EE",
@@ -6382,7 +6382,7 @@
       {
         "id": 244,
         "audioUrl": "",
-        "question": "",
+        "question": "cuối tuần",
         "correctAnswer": [
           "W",
           "EE",
@@ -6490,7 +6490,7 @@
       {
         "id": 249,
         "audioUrl": "",
-        "question": "",
+        "question": "hôm nay",
         "correctAnswer": [
           "T",
           "O",
@@ -6596,7 +6596,7 @@
       {
         "id": 254,
         "audioUrl": "",
-        "question": "",
+        "question": "cuối tuần",
         "correctAnswer": [
           "W",
           "EE",
@@ -6708,7 +6708,7 @@
       {
         "id": 259,
         "audioUrl": "",
-        "question": "",
+        "question": "cuối tuần",
         "correctAnswer": [
           "WE",
           "EK",
@@ -7315,7 +7315,7 @@
       {
         "id": 288,
         "audioUrl": "",
-        "question": "",
+        "question": "cái thước kẻ",
         "correctAnswer": [
           "RU",
           "L",
@@ -7409,7 +7409,7 @@
       {
         "id": 293,
         "audioUrl": "",
-        "question": "",
+        "question": "màu vàng",
         "correctAnswer": [
           "Y",
           "EL",
@@ -7511,7 +7511,7 @@
       {
         "id": 298,
         "audioUrl": "",
-        "question": "",
+        "question": "màu đỏ",
         "correctAnswer": [
           "R",
           "E",
@@ -7611,7 +7611,7 @@
       {
         "id": 303,
         "audioUrl": "",
-        "question": "",
+        "question": "con vịt",
         "correctAnswer": [
           "D",
           "U",
@@ -7699,7 +7699,7 @@
       {
         "id": 308,
         "audioUrl": "",
-        "question": "",
+        "question": "cầu vồng",
         "correctAnswer": [
           "RA",
           "IN",
@@ -8469,7 +8469,7 @@
       {
         "id": 312,
         "audioUrl": "",
-        "question": "",
+        "question": "sinh nhật",
         "correctAnswer": [
           "B",
           "IR",
@@ -8561,7 +8561,7 @@
       {
         "id": 317,
         "audioUrl": "",
-        "question": "",
+        "question": "nho",
         "correctAnswer": [
           "GR",
           "AP",
@@ -8663,7 +8663,7 @@
       {
         "id": 322,
         "audioUrl": "",
-        "question": "",
+        "question": "muốn",
         "correctAnswer": [
           "W",
           "A",
@@ -8767,7 +8767,7 @@
       {
         "id": 327,
         "audioUrl": "",
-        "question": "",
+        "question": "mứt",
         "correctAnswer": [
           "J",
           "A",
@@ -8861,7 +8861,7 @@
       {
         "id": 332,
         "audioUrl": "",
-        "question": "",
+        "question": "bữa tiệc",
         "correctAnswer": [
           "PA",
           "RT",
@@ -8961,7 +8961,7 @@
       {
         "id": 337,
         "audioUrl": "",
-        "question": "",
+        "question": "ăn",
         "correctAnswer": [
           "E",
           "A",
@@ -9063,7 +9063,7 @@
       {
         "id": 342,
         "audioUrl": "",
-        "question": "",
+        "question": "nước chanh",
         "correctAnswer": [
           "LE",
           "M",
@@ -9175,7 +9175,7 @@
       {
         "id": 347,
         "audioUrl": "",
-        "question": "",
+        "question": "khoai tây chiên",
         "correctAnswer": [
           "CH",
           "IP",
@@ -9275,7 +9275,7 @@
       {
         "id": 352,
         "audioUrl": "",
-        "question": "",
+        "question": "nước ép",
         "correctAnswer": [
           "JU",
           "I",
@@ -9375,7 +9375,7 @@
       {
         "id": 357,
         "audioUrl": "",
-        "question": "",
+        "question": "nước",
         "correctAnswer": [
           "W",
           "A",
@@ -9475,7 +9475,7 @@
       {
         "id": 362,
         "audioUrl": "",
-        "question": "",
+        "question": "mẹ",
         "correctAnswer": [
           "MO",
           "TH",
@@ -9563,7 +9563,7 @@
       {
         "id": 367,
         "audioUrl": "",
-        "question": "",
+        "question": "con rô-bốt",
         "correctAnswer": [
           "RO",
           "BO",
@@ -9653,7 +9653,7 @@
       {
         "id": 372,
         "audioUrl": "",
-        "question": "",
+        "question": "quả táo",
         "correctAnswer": [
           "AP",
           "PL",
@@ -9677,7 +9677,7 @@
           "forty-five."
         ],
         "scramble": [
-          "has",
+          "eleven",
           "At",
           "twelve",
           "forty-five."
@@ -9753,7 +9753,7 @@
       {
         "id": 377,
         "audioUrl": "",
-        "question": "",
+        "question": "chị/em gái",
         "correctAnswer": [
           "SI",
           "ST",
@@ -9802,7 +9802,7 @@
         ],
         "scramble": [
           "in",
-          "are",
+          "February.",
           "May.",
           "It's"
         ],
@@ -9851,7 +9851,7 @@
       {
         "id": 382,
         "audioUrl": "",
-        "question": "",
+        "question": "quyển vở",
         "correctAnswer": [
           "NO",
           "TE",
@@ -9912,7 +9912,7 @@
       {
         "id": 385,
         "audioUrl": "",
-        "question": "",
+        "question": "con cá vàng",
         "correctAnswer": [
           "GO",
           "L",
@@ -9933,7 +9933,7 @@
       {
         "id": 386,
         "audioUrl": "",
-        "question": "",
+        "question": "bố",
         "correctAnswer": [
           "F",
           "AT",
@@ -11152,7 +11152,7 @@
       {
         "id": 390,
         "audioUrl": "",
-        "question": "",
+        "question": "khoai tây chiên",
         "correctAnswer": [
           "CH",
           "I",
@@ -11252,7 +11252,7 @@
       {
         "id": 395,
         "audioUrl": "",
-        "question": "",
+        "question": "vẽ",
         "correctAnswer": [
           "D",
           "R",
@@ -11348,7 +11348,7 @@
       {
         "id": 400,
         "audioUrl": "",
-        "question": "",
+        "question": "bơi",
         "correctAnswer": [
           "S",
           "W",
@@ -11442,7 +11442,7 @@
       {
         "id": 405,
         "audioUrl": "",
-        "question": "",
+        "question": "nước ép",
         "correctAnswer": [
           "JU",
           "IC",
@@ -11540,7 +11540,7 @@
       {
         "id": 410,
         "audioUrl": "",
-        "question": "",
+        "question": "có thể",
         "correctAnswer": [
           "C",
           "A",
@@ -11612,7 +11612,7 @@
       {
         "id": 414,
         "audioUrl": "",
-        "question": "",
+        "question": "cuộc khảo sát",
         "correctAnswer": [
           "S",
           "UR",
@@ -11706,7 +11706,7 @@
       {
         "id": 419,
         "audioUrl": "",
-        "question": "",
+        "question": "hát",
         "correctAnswer": [
           "S",
           "I",
@@ -11800,7 +11800,7 @@
       {
         "id": 424,
         "audioUrl": "",
-        "question": "",
+        "question": "nhảy múa",
         "correctAnswer": [
           "DA",
           "NC",
@@ -11888,7 +11888,7 @@
       {
         "id": 429,
         "audioUrl": "",
-        "question": "",
+        "question": "vâng, có",
         "correctAnswer": [
           "Y",
           "E",
@@ -11994,7 +11994,7 @@
       {
         "id": 434,
         "audioUrl": "",
-        "question": "",
+        "question": "nhưng",
         "correctAnswer": [
           "B",
           "U",
@@ -12062,7 +12062,7 @@
       {
         "id": 438,
         "audioUrl": "",
-        "question": "",
+        "question": "nhảy dây",
         "correctAnswer": [
           "S",
           "K",
@@ -12118,7 +12118,7 @@
       {
         "id": 441,
         "audioUrl": "",
-        "question": "",
+        "question": "nhảy múa",
         "correctAnswer": [
           "D",
           "A",
@@ -12162,7 +12162,7 @@
       {
         "id": 443,
         "audioUrl": "",
-        "question": "",
+        "question": "cuộc khảo sát",
         "correctAnswer": [
           "SU",
           "R",
@@ -12181,7 +12181,7 @@
       {
         "id": 444,
         "audioUrl": "",
-        "question": "",
+        "question": "nấu ăn",
         "correctAnswer": [
           "C",
           "O",
@@ -12198,7 +12198,7 @@
       {
         "id": 445,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh pizza",
         "correctAnswer": [
           "PI",
           "ZZ",
@@ -12304,7 +12304,7 @@
       {
         "id": 450,
         "audioUrl": "",
-        "question": "",
+        "question": "quả bóng",
         "correctAnswer": [
           "B",
           "A",
@@ -12408,7 +12408,7 @@
       {
         "id": 455,
         "audioUrl": "",
-        "question": "",
+        "question": "con chuột",
         "correctAnswer": [
           "MO",
           "US",
@@ -12440,7 +12440,7 @@
           "Hello.",
           "Ben.",
           "from",
-          "are",
+          "Canada.",
           "I'm"
         ],
         "hint": "Xin chào. Mình là Ben. Mình đến từ Nhật Bản. → Hello. I'm Ben. I'm from Japan.",
@@ -12502,7 +12502,7 @@
       {
         "id": 460,
         "audioUrl": "",
-        "question": "",
+        "question": "nước ép",
         "correctAnswer": [
           "J",
           "UI",
@@ -12529,7 +12529,7 @@
           "At",
           "six",
           "forty-five.",
-          "are"
+          "o'clock."
         ],
         "hint": "Lúc 6 giờ 45. → At six forty-five.",
         "eraseFlag": 0
@@ -12606,7 +12606,7 @@
       {
         "id": 465,
         "audioUrl": "",
-        "question": "",
+        "question": "màu xanh da trời",
         "correctAnswer": [
           "B",
           "L",
@@ -13751,7 +13751,7 @@
       {
         "id": 470,
         "audioUrl": "",
-        "question": "",
+        "question": "thị trấn",
         "correctAnswer": [
           "T",
           "O",
@@ -13845,7 +13845,7 @@
       {
         "id": 475,
         "audioUrl": "",
-        "question": "",
+        "question": "tòa nhà",
         "correctAnswer": [
           "BU",
           "IL",
@@ -13959,7 +13959,7 @@
       {
         "id": 480,
         "audioUrl": "",
-        "question": "",
+        "question": "to, lớn",
         "correctAnswer": [
           "B",
           "I",
@@ -14059,7 +14059,7 @@
       {
         "id": 485,
         "audioUrl": "",
-        "question": "",
+        "question": "trường học",
         "correctAnswer": [
           "S",
           "CH",
@@ -14161,7 +14161,7 @@
       {
         "id": 490,
         "audioUrl": "",
-        "question": "",
+        "question": "sinh nhật",
         "correctAnswer": [
           "BI",
           "R",
@@ -14265,7 +14265,7 @@
       {
         "id": 495,
         "audioUrl": "",
-        "question": "",
+        "question": "phòng thể chất",
         "correctAnswer": [
           "G",
           "Y",
@@ -14345,7 +14345,7 @@
       {
         "id": 499,
         "audioUrl": "",
-        "question": "",
+        "question": "gần",
         "correctAnswer": [
           "N",
           "E",
@@ -14445,7 +14445,7 @@
       {
         "id": 504,
         "audioUrl": "",
-        "question": "",
+        "question": "vùng núi",
         "correctAnswer": [
           "MO",
           "UN",
@@ -14551,7 +14551,7 @@
       {
         "id": 509,
         "audioUrl": "",
-        "question": "",
+        "question": "thư viện",
         "correctAnswer": [
           "L",
           "I",
@@ -14653,7 +14653,7 @@
       {
         "id": 514,
         "audioUrl": "",
-        "question": "",
+        "question": "lớp học",
         "correctAnswer": [
           "CL",
           "AS",
@@ -14763,7 +14763,7 @@
       {
         "id": 519,
         "audioUrl": "",
-        "question": "",
+        "question": "sân chơi",
         "correctAnswer": [
           "P",
           "L",
@@ -14847,7 +14847,7 @@
       {
         "id": 523,
         "audioUrl": "",
-        "question": "",
+        "question": "tòa nhà",
         "correctAnswer": [
           "BU",
           "IL",
@@ -14923,7 +14923,7 @@
       {
         "id": 527,
         "audioUrl": "",
-        "question": "",
+        "question": "vùng núi",
         "correctAnswer": [
           "MO",
           "UN",
@@ -14998,7 +14998,7 @@
       {
         "id": 530,
         "audioUrl": "",
-        "question": "",
+        "question": "ngôi làng",
         "correctAnswer": [
           "VI",
           "L",
@@ -15045,7 +15045,7 @@
       {
         "id": 532,
         "audioUrl": "",
-        "question": "",
+        "question": "sân chơi",
         "correctAnswer": [
           "PL",
           "AY",
@@ -15068,7 +15068,7 @@
       {
         "id": 533,
         "audioUrl": "",
-        "question": "",
+        "question": "thư viện",
         "correctAnswer": [
           "LI",
           "B",
@@ -15087,7 +15087,7 @@
       {
         "id": 534,
         "audioUrl": "",
-        "question": "",
+        "question": "thành phố",
         "correctAnswer": [
           "C",
           "I",
@@ -15104,7 +15104,7 @@
       {
         "id": 535,
         "audioUrl": "",
-        "question": "",
+        "question": "khu vườn",
         "correctAnswer": [
           "G",
           "AR",
@@ -15190,7 +15190,7 @@
       {
         "id": 539,
         "audioUrl": "",
-        "question": "",
+        "question": "thân thiện",
         "correctAnswer": [
           "FR",
           "I",
@@ -15284,7 +15284,7 @@
       {
         "id": 544,
         "audioUrl": "",
-        "question": "",
+        "question": "cái diều",
         "correctAnswer": [
           "K",
           "I",
@@ -15386,7 +15386,7 @@
       {
         "id": 549,
         "audioUrl": "",
-        "question": "",
+        "question": "quả chuối",
         "correctAnswer": [
           "BA",
           "N",
@@ -15480,7 +15480,7 @@
       {
         "id": 554,
         "audioUrl": "",
-        "question": "",
+        "question": "mì",
         "correctAnswer": [
           "NO",
           "O",
@@ -15552,7 +15552,7 @@
       {
         "id": 558,
         "audioUrl": "",
-        "question": "",
+        "question": "màu vàng",
         "correctAnswer": [
           "YE",
           "L",
@@ -16632,7 +16632,7 @@
       {
         "id": 563,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Mĩ thuật",
         "correctAnswer": [
           "A",
           "R",
@@ -16744,7 +16744,7 @@
       {
         "id": 568,
         "audioUrl": "",
-        "question": "",
+        "question": "khoai tây chiên",
         "correctAnswer": [
           "C",
           "H",
@@ -16846,7 +16846,7 @@
       {
         "id": 573,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Khoa học",
         "correctAnswer": [
           "SC",
           "IE",
@@ -16944,7 +16944,7 @@
       {
         "id": 578,
         "audioUrl": "",
-        "question": "",
+        "question": "môn học",
         "correctAnswer": [
           "S",
           "UB",
@@ -17052,7 +17052,7 @@
       {
         "id": 583,
         "audioUrl": "",
-        "question": "",
+        "question": "có, học",
         "correctAnswer": [
           "H",
           "A",
@@ -17150,7 +17150,7 @@
       {
         "id": 588,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Toán",
         "correctAnswer": [
           "M",
           "AT",
@@ -17264,7 +17264,7 @@
       {
         "id": 593,
         "audioUrl": "",
-        "question": "",
+        "question": "thời khóa biểu",
         "correctAnswer": [
           "TI",
           "ME",
@@ -17374,7 +17374,7 @@
       {
         "id": 598,
         "audioUrl": "",
-        "question": "",
+        "question": "sân chơi",
         "correctAnswer": [
           "PL",
           "AY",
@@ -17490,7 +17490,7 @@
       {
         "id": 603,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Âm nhạc",
         "correctAnswer": [
           "MU",
           "SI",
@@ -17590,7 +17590,7 @@
       {
         "id": 608,
         "audioUrl": "",
-        "question": "",
+        "question": "khi nào",
         "correctAnswer": [
           "W",
           "H",
@@ -17696,7 +17696,7 @@
       {
         "id": 613,
         "audioUrl": "",
-        "question": "",
+        "question": "môn học",
         "correctAnswer": [
           "SU",
           "B",
@@ -17778,7 +17778,7 @@
       {
         "id": 617,
         "audioUrl": "",
-        "question": "",
+        "question": "sân chơi",
         "correctAnswer": [
           "P",
           "LA",
@@ -17890,7 +17890,7 @@
       {
         "id": 622,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Âm nhạc",
         "correctAnswer": [
           "M",
           "US",
@@ -17990,7 +17990,7 @@
       {
         "id": 627,
         "audioUrl": "",
-        "question": "",
+        "question": "thời khóa biểu",
         "correctAnswer": [
           "TI",
           "ME",
@@ -18104,7 +18104,7 @@
       {
         "id": 632,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Khoa học",
         "correctAnswer": [
           "SC",
           "I",
@@ -18442,7 +18442,7 @@
       {
         "id": 648,
         "audioUrl": "",
-        "question": "",
+        "question": "cái giường",
         "correctAnswer": [
           "B",
           "E",
@@ -18542,7 +18542,7 @@
       {
         "id": 653,
         "audioUrl": "",
-        "question": "",
+        "question": "thân thiện",
         "correctAnswer": [
           "FR",
           "IE",
@@ -18638,7 +18638,7 @@
       {
         "id": 658,
         "audioUrl": "",
-        "question": "",
+        "question": "con mắt",
         "correctAnswer": [
           "E",
           "Y",
@@ -18740,7 +18740,7 @@
       {
         "id": 663,
         "audioUrl": "",
-        "question": "",
+        "question": "con rùa",
         "correctAnswer": [
           "TU",
           "R",
@@ -18799,7 +18799,7 @@
       {
         "id": 666,
         "audioUrl": "",
-        "question": "",
+        "question": "con vẹt",
         "correctAnswer": [
           "P",
           "AR",
@@ -19631,7 +19631,7 @@
       {
         "id": 674,
         "audioUrl": "",
-        "question": "",
+        "question": "ca sĩ",
         "correctAnswer": [
           "S",
           "IN",
@@ -19735,7 +19735,7 @@
       {
         "id": 679,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Toán",
         "correctAnswer": [
           "MA",
           "TH",
@@ -19837,7 +19837,7 @@
       {
         "id": 684,
         "audioUrl": "",
-        "question": "",
+        "question": "tại sao",
         "correctAnswer": [
           "W",
           "H",
@@ -19939,7 +19939,7 @@
       {
         "id": 689,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà khoa học",
         "correctAnswer": [
           "SC",
           "IE",
@@ -20051,7 +20051,7 @@
       {
         "id": 694,
         "audioUrl": "",
-        "question": "",
+        "question": "môn học",
         "correctAnswer": [
           "SU",
           "B",
@@ -20147,7 +20147,7 @@
       {
         "id": 699,
         "audioUrl": "",
-        "question": "",
+        "question": "họa sĩ",
         "correctAnswer": [
           "PA",
           "I",
@@ -20251,7 +20251,7 @@
       {
         "id": 704,
         "audioUrl": "",
-        "question": "",
+        "question": "bởi vì",
         "correctAnswer": [
           "BE",
           "CA",
@@ -20357,7 +20357,7 @@
       {
         "id": 709,
         "audioUrl": "",
-        "question": "",
+        "question": "yêu thích",
         "correctAnswer": [
           "F",
           "AV",
@@ -20471,7 +20471,7 @@
       {
         "id": 714,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Khoa học",
         "correctAnswer": [
           "S",
           "C",
@@ -20573,7 +20573,7 @@
       {
         "id": 719,
         "audioUrl": "",
-        "question": "",
+        "question": "câu chuyện",
         "correctAnswer": [
           "S",
           "TO",
@@ -20655,7 +20655,7 @@
       {
         "id": 723,
         "audioUrl": "",
-        "question": "",
+        "question": "ca sĩ",
         "correctAnswer": [
           "SI",
           "N",
@@ -20755,7 +20755,7 @@
       {
         "id": 728,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Âm nhạc",
         "correctAnswer": [
           "M",
           "U",
@@ -20859,7 +20859,7 @@
       {
         "id": 733,
         "audioUrl": "",
-        "question": "",
+        "question": "môn học",
         "correctAnswer": [
           "SU",
           "BJ",
@@ -20969,7 +20969,7 @@
       {
         "id": 738,
         "audioUrl": "",
-        "question": "",
+        "question": "họa sĩ",
         "correctAnswer": [
           "PA",
           "IN",
@@ -21071,7 +21071,7 @@
       {
         "id": 743,
         "audioUrl": "",
-        "question": "",
+        "question": "yêu thích",
         "correctAnswer": [
           "FA",
           "VO",
@@ -21177,7 +21177,7 @@
       {
         "id": 748,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà văn",
         "correctAnswer": [
           "WR",
           "IT",
@@ -21257,7 +21257,7 @@
       {
         "id": 752,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà khoa học",
         "correctAnswer": [
           "SC",
           "IE",
@@ -21347,7 +21347,7 @@
       {
         "id": 756,
         "audioUrl": "",
-        "question": "",
+        "question": "câu chuyện",
         "correctAnswer": [
           "ST",
           "OR",
@@ -21407,7 +21407,7 @@
       {
         "id": 759,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Khoa học",
         "correctAnswer": [
           "SC",
           "IE",
@@ -21454,7 +21454,7 @@
       {
         "id": 761,
         "audioUrl": "",
-        "question": "",
+        "question": "họa sĩ",
         "correctAnswer": [
           "P",
           "AI",
@@ -21493,7 +21493,7 @@
       {
         "id": 763,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà khoa học",
         "correctAnswer": [
           "S",
           "CI",
@@ -21516,7 +21516,7 @@
       {
         "id": 764,
         "audioUrl": "",
-        "question": "",
+        "question": "ca sĩ",
         "correctAnswer": [
           "SI",
           "NG",
@@ -21533,7 +21533,7 @@
       {
         "id": 765,
         "audioUrl": "",
-        "question": "",
+        "question": "con mèo",
         "correctAnswer": [
           "C",
           "A",
@@ -21623,7 +21623,7 @@
       {
         "id": 770,
         "audioUrl": "",
-        "question": "",
+        "question": "nước chanh",
         "correctAnswer": [
           "LE",
           "MO",
@@ -21727,7 +21727,7 @@
       {
         "id": 775,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà khoa học",
         "correctAnswer": [
           "SC",
           "I",
@@ -21835,7 +21835,7 @@
       {
         "id": 780,
         "audioUrl": "",
-        "question": "",
+        "question": "quả chanh",
         "correctAnswer": [
           "LE",
           "MO",
@@ -21939,7 +21939,7 @@
       {
         "id": 785,
         "audioUrl": "",
-        "question": "",
+        "question": "mười lăm",
         "correctAnswer": [
           "F",
           "IF",
@@ -22532,7 +22532,7 @@
       {
         "id": 790,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Khoa học",
         "correctAnswer": [
           "S",
           "CI",
@@ -22588,7 +22588,7 @@
           "No,",
           "December.",
           "It's",
-          "has",
+          "March.",
           "in"
         ],
         "hint": "Không phải. Vào tháng Mười Hai. → No, it isn't. It's in December.",
@@ -22632,7 +22632,7 @@
       {
         "id": 795,
         "audioUrl": "",
-        "question": "",
+        "question": "bức ảnh, bức tranh",
         "correctAnswer": [
           "PI",
           "CT",
@@ -22732,7 +22732,7 @@
       {
         "id": 800,
         "audioUrl": "",
-        "question": "",
+        "question": "sân chơi",
         "correctAnswer": [
           "PL",
           "AY",
@@ -22844,7 +22844,7 @@
       {
         "id": 805,
         "audioUrl": "",
-        "question": "",
+        "question": "môn học",
         "correctAnswer": [
           "S",
           "U",
@@ -22950,7 +22950,7 @@
       {
         "id": 810,
         "audioUrl": "",
-        "question": "",
+        "question": "đạp xe",
         "correctAnswer": [
           "CY",
           "C",
@@ -23046,7 +23046,7 @@
       {
         "id": 815,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà khoa học",
         "correctAnswer": [
           "SC",
           "I",
@@ -23150,7 +23150,7 @@
       {
         "id": 820,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng chuyền",
         "correctAnswer": [
           "VO",
           "L",
@@ -23254,7 +23254,7 @@
       {
         "id": 825,
         "audioUrl": "",
-        "question": "",
+        "question": "trò chơi",
         "correctAnswer": [
           "G",
           "A",
@@ -23333,7 +23333,7 @@
       {
         "id": 829,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng rổ",
         "correctAnswer": [
           "B",
           "AS",
@@ -23437,7 +23437,7 @@
       {
         "id": 834,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng đá",
         "correctAnswer": [
           "FO",
           "OT",
@@ -23543,7 +23543,7 @@
       {
         "id": 839,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà khoa học",
         "correctAnswer": [
           "SC",
           "IE",
@@ -23649,7 +23649,7 @@
       {
         "id": 844,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng rổ",
         "correctAnswer": [
           "B",
           "AS",
@@ -23751,7 +23751,7 @@
       {
         "id": 849,
         "audioUrl": "",
-        "question": "",
+        "question": "khác nhau",
         "correctAnswer": [
           "D",
           "IF",
@@ -23863,7 +23863,7 @@
       {
         "id": 854,
         "audioUrl": "",
-        "question": "",
+        "question": "chạy bộ",
         "correctAnswer": [
           "RU",
           "N",
@@ -23967,7 +23967,7 @@
       {
         "id": 859,
         "audioUrl": "",
-        "question": "",
+        "question": "cầu lông",
         "correctAnswer": [
           "BA",
           "D",
@@ -24067,7 +24067,7 @@
       {
         "id": 864,
         "audioUrl": "",
-        "question": "",
+        "question": "bơi lội",
         "correctAnswer": [
           "SW",
           "I",
@@ -24148,7 +24148,7 @@
       {
         "id": 868,
         "audioUrl": "",
-        "question": "",
+        "question": "sân chơi",
         "correctAnswer": [
           "PL",
           "AY",
@@ -24237,7 +24237,7 @@
       {
         "id": 872,
         "audioUrl": "",
-        "question": "",
+        "question": "cầu lông",
         "correctAnswer": [
           "B",
           "AD",
@@ -24318,7 +24318,7 @@
       {
         "id": 876,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Âm nhạc",
         "correctAnswer": [
           "M",
           "U",
@@ -24337,7 +24337,7 @@
       {
         "id": 877,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng đá",
         "correctAnswer": [
           "FO",
           "O",
@@ -24358,7 +24358,7 @@
       {
         "id": 878,
         "audioUrl": "",
-        "question": "",
+        "question": "nhà khoa học",
         "correctAnswer": [
           "SC",
           "I",
@@ -24397,7 +24397,7 @@
       {
         "id": 880,
         "audioUrl": "",
-        "question": "",
+        "question": "câu lạc bộ",
         "correctAnswer": [
           "C",
           "L",
@@ -24493,7 +24493,7 @@
       {
         "id": 885,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng rổ",
         "correctAnswer": [
           "BA",
           "S",
@@ -24603,7 +24603,7 @@
       {
         "id": 890,
         "audioUrl": "",
-        "question": "",
+        "question": "họa sĩ",
         "correctAnswer": [
           "PA",
           "IN",
@@ -24701,7 +24701,7 @@
       {
         "id": 895,
         "audioUrl": "",
-        "question": "",
+        "question": "câu chuyện",
         "correctAnswer": [
           "ST",
           "O",
@@ -24791,7 +24791,7 @@
       {
         "id": 900,
         "audioUrl": "",
-        "question": "",
+        "question": "cơm",
         "correctAnswer": [
           "R",
           "I",
@@ -25472,7 +25472,7 @@
       {
         "id": 904,
         "audioUrl": "",
-        "question": "",
+        "question": "môn Khoa học",
         "correctAnswer": [
           "S",
           "CI",
@@ -25574,7 +25574,7 @@
       {
         "id": 909,
         "audioUrl": "",
-        "question": "",
+        "question": "kỳ nghỉ",
         "correctAnswer": [
           "HO",
           "L",
@@ -25676,7 +25676,7 @@
       {
         "id": 914,
         "audioUrl": "",
-        "question": "",
+        "question": "đông đúc",
         "correctAnswer": [
           "B",
           "U",
@@ -25772,7 +25772,7 @@
       {
         "id": 919,
         "audioUrl": "",
-        "question": "",
+        "question": "người dân",
         "correctAnswer": [
           "P",
           "EO",
@@ -25876,7 +25876,7 @@
       {
         "id": 924,
         "audioUrl": "",
-        "question": "",
+        "question": "yêu thích",
         "correctAnswer": [
           "FA",
           "VO",
@@ -25978,7 +25978,7 @@
       {
         "id": 929,
         "audioUrl": "",
-        "question": "",
+        "question": "hôm qua",
         "correctAnswer": [
           "YE",
           "ST",
@@ -26090,7 +26090,7 @@
       {
         "id": 934,
         "audioUrl": "",
-        "question": "",
+        "question": "bãi biển",
         "correctAnswer": [
           "B",
           "EA",
@@ -26198,7 +26198,7 @@
       {
         "id": 939,
         "audioUrl": "",
-        "question": "",
+        "question": "hay giúp đỡ",
         "correctAnswer": [
           "H",
           "EL",
@@ -26302,7 +26302,7 @@
       {
         "id": 944,
         "audioUrl": "",
-        "question": "",
+        "question": "đẹp",
         "correctAnswer": [
           "BE",
           "AU",
@@ -26404,7 +26404,7 @@
       {
         "id": 949,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng chuyền",
         "correctAnswer": [
           "VO",
           "L",
@@ -26512,7 +26512,7 @@
       {
         "id": 954,
         "audioUrl": "",
-        "question": "",
+        "question": "yêu thích",
         "correctAnswer": [
           "F",
           "AV",
@@ -26618,7 +26618,7 @@
       {
         "id": 959,
         "audioUrl": "",
-        "question": "",
+        "question": "đồ ăn",
         "correctAnswer": [
           "F",
           "O",
@@ -26694,7 +26694,7 @@
       {
         "id": 963,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng chuyền",
         "correctAnswer": [
           "V",
           "O",
@@ -26804,7 +26804,7 @@
       {
         "id": 968,
         "audioUrl": "",
-        "question": "",
+        "question": "tuyệt vời",
         "correctAnswer": [
           "GR",
           "EA",
@@ -26904,7 +26904,7 @@
       {
         "id": 973,
         "audioUrl": "",
-        "question": "",
+        "question": "đã (thì, ở)",
         "correctAnswer": [
           "W",
           "E",
@@ -27004,7 +27004,7 @@
       {
         "id": 978,
         "audioUrl": "",
-        "question": "",
+        "question": "bãi biển",
         "correctAnswer": [
           "BE",
           "AC",
@@ -27084,7 +27084,7 @@
       {
         "id": 982,
         "audioUrl": "",
-        "question": "",
+        "question": "đẹp",
         "correctAnswer": [
           "B",
           "EA",
@@ -27172,7 +27172,7 @@
       {
         "id": 986,
         "audioUrl": "",
-        "question": "",
+        "question": "hôm qua",
         "correctAnswer": [
           "YE",
           "S",
@@ -27256,7 +27256,7 @@
       {
         "id": 990,
         "audioUrl": "",
-        "question": "",
+        "question": "vịnh",
         "correctAnswer": [
           "B",
           "A",
@@ -27312,7 +27312,7 @@
       {
         "id": 993,
         "audioUrl": "",
-        "question": "",
+        "question": "ngon",
         "correctAnswer": [
           "G",
           "O",
@@ -27329,7 +27329,7 @@
       {
         "id": 994,
         "audioUrl": "",
-        "question": "",
+        "question": "bóng chuyền",
         "correctAnswer": [
           "V",
           "O",
@@ -27354,7 +27354,7 @@
       {
         "id": 995,
         "audioUrl": "",
-        "question": "",
+        "question": "hôm qua",
         "correctAnswer": [
           "YE",
           "S",
@@ -27375,7 +27375,7 @@
       {
         "id": 996,
         "audioUrl": "",
-        "question": "",
+        "question": "cái bàn",
         "correctAnswer": [
           "TA",
           "BL",
@@ -27477,7 +27477,7 @@
       {
         "id": 1001,
         "audioUrl": "",
-        "question": "",
+        "question": "cục tẩy",
         "correctAnswer": [
           "E",
           "RA",
@@ -27579,7 +27579,7 @@
       {
         "id": 1006,
         "audioUrl": "",
-        "question": "",
+        "question": "bức ảnh, bức tranh",
         "correctAnswer": [
           "P",
           "IC",
@@ -27675,7 +27675,7 @@
       {
         "id": 1011,
         "audioUrl": "",
-        "question": "",
+        "question": "trường học",
         "correctAnswer": [
           "SC",
           "HO",
@@ -27771,7 +27771,7 @@
       {
         "id": 1016,
         "audioUrl": "",
-        "question": "",
+        "question": "cái thước kẻ",
         "correctAnswer": [
           "R",
           "UL",
@@ -27846,7 +27846,7 @@
       {
         "id": 1020,
         "audioUrl": "",
-        "question": "",
+        "question": "yêu thích",
         "correctAnswer": [
           "F",
           "A",

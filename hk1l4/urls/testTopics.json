@@ -131,12 +131,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ear.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/eye.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/mouth.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/face.png"
           ],
           "imageNames": [
             "ear",
-            "eye",
+            "mouth",
             "face"
           ],
           "correctIndex": 0,
@@ -408,7 +408,7 @@
           "id": 261,
           "sentence": "pup_l",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/pupil.mp3",
+          "audioUrl": "",
           "answer": "i",
           "hint": "pupil: học sinh",
           "topicId": 2
@@ -447,7 +447,7 @@
           "id": 269,
           "question": "Complete the word.\n_ _t",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/eat.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. ea",
             "B. cl",
@@ -497,9 +497,9 @@
             ""
           ],
           "imageNames": [
-            "Mary's school is in the city.",
-            "Mary's school is in the town.",
-            "Mary's school is in the countryside."
+            "city",
+            "computers",
+            "countryside"
           ],
           "correctIndex": 2,
           "hint": "Mary's school is in the countryside. → Trường của Mary ở vùng quê.\n(Chữ cần chọn: countryside – vùng quê)",
@@ -561,7 +561,7 @@
         "type": "multiChoice",
         "value": {
           "id": 737,
-          "question": "Choose the correct answer.\nA: When's Ben's birthday?\nB: ___",
+          "question": "When's Ben's birthday? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -633,12 +633,12 @@
         "type": "multiChoice",
         "value": {
           "id": 239,
-          "question": "Choose the correct answer.\nA: What do you want to eat?\nB: I want ___ grapes.",
+          "question": "What do you want to eat? – I want ___ grapes.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
             "A. some",
-            "B. is",
+            "B. two",
             "C. an",
             "D. a"
           ],
@@ -881,7 +881,7 @@
         "type": "multiChoice",
         "value": {
           "id": 398,
-          "question": "Choose the correct answer.\nA: How many libraries are there at your school?\nB: ___",
+          "question": "How many libraries are there at your school? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1018,7 +1018,7 @@
           "id": 307,
           "sentence": "we_k",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/week.mp3",
+          "audioUrl": "",
           "answer": "e",
           "hint": "week: tuần",
           "topicId": 3
@@ -1108,9 +1108,9 @@
             ""
           ],
           "imageNames": [
-            "This is my grandmother.",
-            "This is my grandfather.",
-            "This is my mother."
+            "green",
+            "grandfather",
+            "garden"
           ],
           "correctIndex": 1,
           "hint": "This is my grandfather. → Đây là ông của mình.\n(Chữ cần chọn: grandfather – ông)",
@@ -1123,7 +1123,7 @@
           "id": 567,
           "question": "Complete the word.\nfav_ _rite",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/favourite.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. bl",
             "B. nk",
@@ -1152,7 +1152,7 @@
         "value": {
           "id": 944,
           "audioUrl": "",
-          "question": "",
+          "question": "đẹp",
           "correctAnswer": [
             "BE",
             "AU",
@@ -1246,7 +1246,7 @@
         "type": "multiChoice",
         "value": {
           "id": 911,
-          "question": "Read and choose True or False.\n📖 I have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\n👉 Laura can fly a kite.",
+          "question": "Read and choose True or False.\nI have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\nLaura can fly a kite.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1263,8 +1263,8 @@
         "value": {
           "id": 862,
           "sentence": "o_ange",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/orange.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/orange.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "r",
           "hint": "orange: quả cam",
           "topicId": 6
@@ -1523,7 +1523,7 @@
         "value": {
           "id": 805,
           "audioUrl": "",
-          "question": "",
+          "question": "môn học",
           "correctAnswer": [
             "S",
             "U",
@@ -1547,7 +1547,7 @@
         "type": "multiChoice",
         "value": {
           "id": 699,
-          "question": "Choose the correct answer.\nA: Were you in Ha Long Bay last weekend?\nB: ___",
+          "question": "Were you in Ha Long Bay last weekend? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1612,7 +1612,7 @@
         "type": "multiChoice",
         "value": {
           "id": 217,
-          "question": "Read and choose the correct answer.\n📖 Hello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\n❓ How old is Lucy?",
+          "question": "Read and choose the correct answer.\nHello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\nHow old is Lucy?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1631,9 +1631,9 @@
         "value": {
           "id": 457,
           "sentence": "lem_na_e",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/lemonade.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/lemonade.mp3",
-          "answer": "o,d",
+          "imageUrl": "",
+          "audioUrl": "",
+          "answer": "od",
           "hint": "lemonade: nước chanh",
           "topicId": 4
         }
@@ -1719,9 +1719,9 @@
             ""
           ],
           "imageNames": [
-            "Her favourite subject is Vietnamese.",
-            "Her favourite subject is maths.",
-            "Her favourite subject is art."
+            "Vietnamese",
+            "maths",
+            "art"
           ],
           "correctIndex": 2,
           "hint": "Her favourite subject is art. → Môn học yêu thích của cô ấy là Mĩ thuật.\n(Chữ cần chọn: art – môn Mĩ thuật)",
@@ -1853,7 +1853,7 @@
         "type": "multiChoice",
         "value": {
           "id": 388,
-          "question": "Choose the correct answer.\nA: How many classrooms are there at your school?\nB: There ___ six classrooms.",
+          "question": "How many classrooms are there at your school? – There ___ six classrooms.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1872,8 +1872,8 @@
         "value": {
           "id": 1007,
           "sentence": "a__le",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/apple.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/apple.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "pp",
           "hint": "apple: quả táo",
           "topicId": 7
@@ -1909,7 +1909,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1431,
-          "question": "Find the mistake.\n<u>Our</u> sports day <u>are</u> <u>in</u> <u>June</u>.",
+          "question": "Find the mistake.\nOur sports day are in June.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2040,7 +2040,7 @@
           "choices": [
             "A. skpi",
             "B. zkip",
-            "C. skap",
+            "C. skep",
             "D. skip"
           ],
           "correctAnswerIndex": 3,
@@ -2279,7 +2279,7 @@
             "A. sswim",
             "B. zwim",
             "C. swim",
-            "D. swem"
+            "D. swum"
           ],
           "correctAnswerIndex": 2,
           "hint": "Sắp xếp các chữ cái thành từ đúng.\n✅ C. swim → bơi",
@@ -2324,9 +2324,9 @@
             ""
           ],
           "imageNames": [
-            "I play tennis.",
-            "I play table tennis.",
-            "I play football."
+            "tennis",
+            "ten forty-five",
+            "town"
           ],
           "correctIndex": 0,
           "hint": "I play tennis. → Mình chơi quần vợt.\n(Chữ cần chọn: tennis – quần vợt)",
@@ -2339,7 +2339,7 @@
           "id": 717,
           "question": "Complete the word.\nholid_ _",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/holiday.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. tr",
             "B. ay",
@@ -2387,7 +2387,7 @@
         "type": "multiChoice",
         "value": {
           "id": 209,
-          "question": "Choose the correct answer.\nA: Where's Lucy from?\nB: ___ from Singapore.",
+          "question": "Where's Lucy from? – ___ from Singapore.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2459,7 +2459,7 @@
         "type": "multiChoice",
         "value": {
           "id": 474,
-          "question": "Choose the correct answer.\nA: What subjects do you have today?\nB: ___",
+          "question": "What subjects do you have today? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2479,7 +2479,7 @@
           "id": 1151,
           "sentence": "becau_e",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/because.mp3",
+          "audioUrl": "",
           "answer": "s",
           "hint": "because: bởi vì",
           "topicId": 8
@@ -2754,7 +2754,7 @@
         "type": "multiChoice",
         "value": {
           "id": 135,
-          "question": "Choose the correct answer.\nA: Where are you ___?\nB: I'm from Australia.",
+          "question": "Where are you ___? – I'm from Australia.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2838,8 +2838,8 @@
         "value": {
           "id": 858,
           "sentence": "n_odles",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/noodles.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/noodles.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "o",
           "hint": "noodles: mì",
           "topicId": 6
@@ -2877,8 +2877,8 @@
         "value": {
           "id": 596,
           "question": "Complete the word.\nbuildi_g",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/building.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/building.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. n",
             "B. i",
@@ -2928,9 +2928,9 @@
             ""
           ],
           "imageNames": [
-            "There are three maths rooms.",
-            "There are three Vietnamese rooms.",
-            "There are three music rooms."
+            "mouth",
+            "mango",
+            "music"
           ],
           "correctIndex": 2,
           "hint": "There are three music rooms. → Có ba phòng âm nhạc.\n(Chữ cần chọn: music – môn Âm nhạc)",
@@ -3119,7 +3119,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1138,
-          "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>I</u> friend, Peter. He is <u>from</u> Canada.",
+          "question": "Find the mistake.\nThis is I friend, Peter. He is from Canada.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3186,7 +3186,7 @@
           "id": 267,
           "question": "Complete the word.\nbir_ _day",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/birthday.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. or",
             "B. oo",
@@ -3338,7 +3338,7 @@
         "value": {
           "id": 157,
           "audioUrl": "",
-          "question": "",
+          "question": "mười lăm",
           "correctAnswer": [
             "F",
             "I",
@@ -3446,8 +3446,8 @@
         "value": {
           "id": 1006,
           "sentence": "pa_rot",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/parrot.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/parrot.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "r",
           "hint": "parrot: con vẹt",
           "topicId": 7
@@ -3483,8 +3483,8 @@
         "value": {
           "id": 1422,
           "question": "Choose the missing letter.\n_ennis",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/tennis.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/tennis.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. y",
             "B. t",
@@ -3534,9 +3534,9 @@
             ""
           ],
           "imageNames": [
-            "This is my mother.",
-            "This is my father.",
-            "This is my grandfather."
+            "fly a kite",
+            "father",
+            "five forty-five"
           ],
           "correctIndex": 1,
           "hint": "This is my father. → Đây là bố của mình.\n(Chữ cần chọn: father – bố)",
@@ -3601,7 +3601,7 @@
           "choices": [
             "A. I at breakfast have seven thirty.",
             "B. I have breakfast at seven thirty.",
-            "C. Thirty seven at breakfast I Have.",
+            "C. Have I breakfast at seven thirty.",
             "D. Breakfast have I at seven thirty."
           ],
           "correctAnswerIndex": 1,
@@ -3667,7 +3667,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1059,
-          "question": "Read and choose True or False.\n📖 Our sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\n👉 The teachers play badminton.",
+          "question": "Read and choose True or False.\nOur sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\nThe teachers play badminton.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3847,8 +3847,8 @@
         "value": {
           "id": 1407,
           "question": "Choose the missing letter.\n_uler",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ruler.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/ruler.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. m",
             "B. r",
@@ -4045,7 +4045,7 @@
           "id": 1067,
           "sentence": "bec_use",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/because.mp3",
+          "audioUrl": "",
           "answer": "a",
           "hint": "because: bởi vì",
           "topicId": 8
@@ -4084,8 +4084,8 @@
         "value": {
           "id": 745,
           "question": "Complete the word.\n_ed",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/bed.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/bed.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. i",
             "B. h",
@@ -4135,9 +4135,9 @@
             ""
           ],
           "imageNames": [
-            "At three thirty.",
-            "At twelve forty-five.",
-            "At twelve thirty."
+            "three thirty",
+            "twelve forty-five",
+            "twelve thirty"
           ],
           "correctIndex": 1,
           "hint": "At twelve forty-five. → Lúc 12 giờ 45.\n(Chữ cần chọn: twelve forty-five – 12 giờ 45)",
@@ -4287,8 +4287,8 @@
         "value": {
           "id": 108,
           "sentence": "b_ll",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ball.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/ball.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "a",
           "hint": "ball: quả bóng",
           "topicId": 1
@@ -4518,7 +4518,7 @@
         "type": "multiChoice",
         "value": {
           "id": 797,
-          "question": "Read and choose True or False.\n📖 My name is Kate. I have breakfast at seven fifteen. I get up at six forty-five. I go to bed at eight forty-five.\n\n👉 Kate has breakfast at six forty-five.",
+          "question": "Read and choose True or False.\nMy name is Kate. I have breakfast at seven fifteen. I get up at six forty-five. I go to bed at eight forty-five.\n\nKate has breakfast at six forty-five.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4565,7 +4565,7 @@
         "type": "multiChoice",
         "value": {
           "id": 316,
-          "question": "Choose the correct answer.\nA: ___ you play the guitar?\nB: Yes, I can.",
+          "question": "___ you play the guitar? – Yes, I can.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4739,9 +4739,9 @@
             ""
           ],
           "imageNames": [
-            "This is a plane.",
-            "This is a bus.",
-            "This is a car."
+            "plane",
+            "PE",
+            "playground"
           ],
           "correctIndex": 0,
           "hint": "This is a plane. → Đây là máy bay.\n(Chữ cần chọn: plane – máy bay)",
@@ -4872,7 +4872,7 @@
         "type": "multiChoice",
         "value": {
           "id": 781,
-          "question": "Read and choose True or False.\n📖 Hello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\n👉 Laura is a new friend.",
+          "question": "Read and choose True or False.\nHello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\nLaura is a new friend.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4889,8 +4889,8 @@
         "value": {
           "id": 259,
           "sentence": "p_pcorn",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/popcorn.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/popcorn.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "o",
           "hint": "popcorn: bỏng ngô",
           "topicId": 2
@@ -4994,8 +4994,8 @@
         "value": {
           "id": 1371,
           "question": "Choose the missing letter.\nro_ot",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/robot.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/robot.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. e",
             "B. g",
@@ -5055,7 +5055,7 @@
           "id": 1460,
           "question": "Choose the missing letter.\nfavourit_",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/favourite.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. e",
             "B. s",
@@ -5253,8 +5253,8 @@
           "id": 1457,
           "sentence": "h_lid_y",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/holiday.mp3",
-          "answer": "o,a",
+          "audioUrl": "",
+          "answer": "oa",
           "hint": "holiday: kỳ nghỉ",
           "topicId": 10
         }
@@ -5341,9 +5341,9 @@
             ""
           ],
           "imageNames": [
-            "They're computers.",
-            "They're noodles.",
-            "They're chips."
+            "cycling",
+            "classroom",
+            "chips"
           ],
           "correctIndex": 2,
           "hint": "They're chips. → Đó là khoai tây chiên.\n(Chữ cần chọn: chips – khoai tây chiên)",
@@ -5385,7 +5385,7 @@
         "value": {
           "id": 563,
           "audioUrl": "",
-          "question": "",
+          "question": "môn Mĩ thuật",
           "correctAnswer": [
             "A",
             "R",
@@ -5405,7 +5405,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1040,
-          "question": "Read and choose True or False.\n📖 My name is Mary. My favourite subject is Vietnamese. I like it because I want to be a writer. I like maths, too.\n\n👉 Mary's favourite subject is maths.",
+          "question": "Read and choose True or False.\nMy name is Mary. My favourite subject is Vietnamese. I like it because I want to be a writer. I like maths, too.\n\nMary's favourite subject is maths.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5475,7 +5475,7 @@
         "type": "multiChoice",
         "value": {
           "id": 800,
-          "question": "Read and choose True or False.\n📖 I am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\n👉 Nam has lunch at home.",
+          "question": "Read and choose True or False.\nI am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\nNam has lunch at home.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5493,7 +5493,7 @@
           "id": 304,
           "sentence": "we_kend",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/weekend.mp3",
+          "audioUrl": "",
           "answer": "e",
           "hint": "weekend: cuối tuần",
           "topicId": 3
@@ -5720,7 +5720,7 @@
         "type": "multiChoice",
         "value": {
           "id": 869,
-          "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\n👉 Linh is from Viet Nam.",
+          "question": "Read and choose True or False.\nDear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\nLinh is from Viet Nam.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5766,7 +5766,7 @@
         "type": "multiChoice",
         "value": {
           "id": 463,
-          "question": "Choose the correct answer.\nA: Do you ___ art on Mondays?\nB: No, I don't.",
+          "question": "Do you ___ art on Mondays? – No, I don't.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5831,7 +5831,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1487,
-          "question": "Find the mistake.\nBecause I want <u>to</u> <u>be</u> <u>a</u> IT <u>teacher</u>.",
+          "question": "Find the mistake.\nBecause I want to be a IT teacher.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5941,9 +5941,9 @@
             ""
           ],
           "imageNames": [
-            "Can they draw?",
-            "Can they dance?",
-            "Can they cook?"
+            "draw",
+            "do my homework",
+            "duck"
           ],
           "correctIndex": 0,
           "hint": "Can they draw? → Họ có biết vẽ không?\n(Chữ cần chọn: draw – vẽ)",
@@ -5958,7 +5958,7 @@
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
-            "A. rever",
+            "A. raver",
             "B. rievr",
             "C. riverr",
             "D. river"
@@ -6007,7 +6007,7 @@
         "type": "multiChoice",
         "value": {
           "id": 614,
-          "question": "Choose the correct answer.\nA: Is your sports day in April?\nB: No, it isn't. ___ in September.",
+          "question": "Is your sports day in April? – No, it isn't. ___ in September.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6098,9 +6098,9 @@
         "value": {
           "id": 461,
           "sentence": "j_i_e",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/juice.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/juice.mp3",
-          "answer": "u,c",
+          "imageUrl": "",
+          "audioUrl": "",
+          "answer": "uc",
           "hint": "juice: nước ép",
           "topicId": 4
         }
@@ -6134,7 +6134,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1340,
-          "question": "Find the mistake.\n<u>Ben's</u> school <u>are</u> <u>in</u> the <u>town</u>.",
+          "question": "Find the mistake.\nBen's school are in the town.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6260,7 +6260,7 @@
           "id": 1163,
           "question": "Choose the missing letter.\n_ine",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/fine.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. t",
             "B. c",
@@ -6352,7 +6352,7 @@
         "value": {
           "id": 613,
           "audioUrl": "",
-          "question": "",
+          "question": "môn học",
           "correctAnswer": [
             "SU",
             "B",
@@ -6376,7 +6376,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1041,
-          "question": "Read and choose True or False.\n📖 My name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\n👉 There is a swimming pool at the school.",
+          "question": "Read and choose True or False.\nMy name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\nThere is a swimming pool at the school.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6498,8 +6498,8 @@
         "value": {
           "id": 297,
           "question": "Complete the word.\n_ _aser",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/eraser.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/eraser.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. gr",
             "B. er",
@@ -6549,9 +6549,9 @@
             ""
           ],
           "imageNames": [
-            "Peter can ride a horse, but he can't play the guitar.",
-            "Peter can ride a bike, but he can't play the guitar.",
-            "Peter can roller skate, but he can't play the guitar."
+            "ride a horse",
+            "rice",
+            "river"
           ],
           "correctIndex": 0,
           "hint": "Peter can ride a horse, but he can't play the guitar. → Peter có thể cưỡi ngựa, nhưng cậu ấy không thể chơi đàn ghi-ta.\n(Chữ cần chọn: ride a horse – cưỡi ngựa)",
@@ -6612,7 +6612,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1114,
-          "question": "Read and choose True or False.\n📖 Our sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\n👉 The sports day is in February.",
+          "question": "Read and choose True or False.\nOur sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\nThe sports day is in February.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6931,7 +6931,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. Linh is from Japan.",
-            "B. Japan from Linh Is.",
+            "B. Is Linh from Japan.",
             "C. Japan is from Linh.",
             "D. Linh Japan from is."
           ],
@@ -7043,7 +7043,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1172,
-          "question": "Find the mistake.\nI <u>has</u> <u>lunch</u> <u>at</u> twelve <u>fifteen</u>.",
+          "question": "Find the mistake.\nI has lunch at twelve fifteen.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7151,9 +7151,9 @@
             ""
           ],
           "imageNames": [
-            "Do you have Vietnamese on Thursdays?",
-            "Do you have Science on Thursdays?",
-            "Do you have English on Thursdays?"
+            "eraser",
+            "eight o'clock",
+            "English"
           ],
           "correctIndex": 2,
           "hint": "Do you have English on Thursdays? → Bạn có môn Tiếng Anh vào các ngày thứ Năm không?\n(Chữ cần chọn: English – môn Tiếng Anh)",
@@ -7216,7 +7216,7 @@
         "type": "multiChoice",
         "value": {
           "id": 24,
-          "question": "Choose the correct answer.\nA: Where's he from?\nB: ___",
+          "question": "Where's he from? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7305,8 +7305,8 @@
         "value": {
           "id": 768,
           "sentence": "vil__ge",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/village.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/village.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "la",
           "hint": "village: ngôi làng",
           "topicId": 6
@@ -7410,8 +7410,8 @@
         "value": {
           "id": 1149,
           "question": "Choose the missing letter.\nfac_",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/face.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/face.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. c",
             "B. e",
@@ -7473,12 +7473,12 @@
           "questionAudioUrl": "",
           "choices": [
             "A. paarty",
-            "B. prty",
+            "B. arty",
             "C. party",
             "D. partr"
           ],
           "correctAnswerIndex": 2,
-          "hint": "Cách viết đúng: pprty (bữa tiệc).\n✅ C. pprty",
+          "hint": "Cách viết đúng: party (bữa tiệc).\n✅ C. party",
           "topicId": 4
         }
       },
@@ -7562,7 +7562,7 @@
         "value": {
           "id": 849,
           "audioUrl": "",
-          "question": "",
+          "question": "khác nhau",
           "correctAnswer": [
             "D",
             "IF",
@@ -7670,8 +7670,8 @@
         "value": {
           "id": 557,
           "sentence": "pop_orn",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/popcorn.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/popcorn.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "c",
           "hint": "popcorn: bỏng ngô",
           "topicId": 4
@@ -7759,9 +7759,9 @@
             ""
           ],
           "imageNames": [
-            "Why do you like Maths?",
-            "Why do you like English?",
-            "Why do you like PE?"
+            "eleven o'clock",
+            "English",
+            "eight thirty"
           ],
           "correctIndex": 1,
           "hint": "Why do you like English? → Tại sao bạn thích môn Tiếng Anh?\n(Chữ cần chọn: English – môn Tiếng Anh)",
@@ -7824,7 +7824,7 @@
         "type": "multiChoice",
         "value": {
           "id": 798,
-          "question": "Read and choose True or False.\n📖 My name is Kate. I have breakfast at seven fifteen. I get up at six forty-five. I go to bed at eight forty-five.\n\n👉 Kate has breakfast at seven fifteen.",
+          "question": "Read and choose True or False.\nMy name is Kate. I have breakfast at seven fifteen. I get up at six forty-five. I go to bed at eight forty-five.\n\nKate has breakfast at seven fifteen.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7950,7 +7950,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1434,
-          "question": "Find the mistake.\n<u>I</u> <u>has</u> <u>art</u> <u>on</u> Fridays.",
+          "question": "Find the mistake.\nI has art on Fridays.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7998,12 +7998,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/car.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/truck.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/train.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/plane.png"
           ],
           "imageNames": [
             "car",
-            "truck",
+            "train",
             "plane"
           ],
           "correctIndex": 0,
@@ -8311,8 +8311,8 @@
         "value": {
           "id": 494,
           "question": "Complete the word.\n_ _t",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/art.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/art.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. sh",
             "B. ai",
@@ -8362,9 +8362,9 @@
             ""
           ],
           "imageNames": [
-            "It's two o'clock.",
-            "It's twelve forty-five.",
-            "It's twelve o'clock."
+            "two o'clock",
+            "twelve forty-five",
+            "twelve o'clock"
           ],
           "correctIndex": 0,
           "hint": "It's two o'clock. → Bây giờ là 2 giờ.\n(Chữ cần chọn: two o'clock – 2 giờ)",
@@ -8516,9 +8516,9 @@
         "value": {
           "id": 1156,
           "sentence": "b_t_room",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/bathroom.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/bathroom.mp3",
-          "answer": "a,h",
+          "imageUrl": "",
+          "audioUrl": "",
+          "answer": "ah",
           "hint": "bathroom: phòng tắm",
           "topicId": 8
         }
@@ -8745,7 +8745,7 @@
         "type": "multiChoice",
         "value": {
           "id": 650,
-          "question": "Choose the correct answer.\nA: Is your sports day in August?\nB: ___",
+          "question": "Is your sports day in August? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8879,8 +8879,8 @@
         "value": {
           "id": 856,
           "sentence": "librar_",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/library.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/library.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "y",
           "hint": "library: thư viện",
           "topicId": 6
@@ -8916,8 +8916,8 @@
         "value": {
           "id": 1385,
           "question": "Choose the missing letter.\ncountry_ide",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/countryside.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/countryside.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. k",
             "B. s",
@@ -8967,9 +8967,9 @@
             ""
           ],
           "imageNames": [
-            "I have science on Wednesdays and Thursdays.",
-            "I have maths on Wednesdays and Thursdays.",
-            "I have English on Wednesdays and Thursdays."
+            "science",
+            "sing",
+            "singing"
           ],
           "correctIndex": 0,
           "hint": "I have science on Wednesdays and Thursdays. → Mình học môn Khoa học vào các ngày thứ Tư và thứ Năm.\n(Chữ cần chọn: science – môn Khoa học)",
@@ -8985,7 +8985,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. fine",
-            "B. fone",
+            "B. fane",
             "C. finee",
             "D. ifne"
           ],
@@ -9101,7 +9101,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1018,
-          "question": "Read and choose True or False.\n📖 My name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\n👉 Nam likes maths very much.",
+          "question": "Read and choose True or False.\nMy name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\nNam likes maths very much.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9119,7 +9119,7 @@
           "id": 1201,
           "sentence": "g_me",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/game.mp3",
+          "audioUrl": "",
           "answer": "a",
           "hint": "game: trò chơi",
           "topicId": 9
@@ -9204,12 +9204,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/window.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/table.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/desk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/garden.png"
           ],
           "imageNames": [
             "window",
             "table",
-            "desk"
+            "garden"
           ],
           "correctIndex": 1,
           "hint": "This is a table. → Đây là cái bàn.\n(Hình đúng: table – cái bàn)",
@@ -9221,7 +9221,7 @@
         "value": {
           "id": 1236,
           "question": "Choose the missing letter.\ndo my hom_work",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/domyhomework.png",
+          "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
             "A. g",
@@ -9346,7 +9346,7 @@
         "type": "multiChoice",
         "value": {
           "id": 698,
-          "question": "Choose the correct answer.\nA: Were you in Sydney, too?\nB: ___",
+          "question": "Were you in Sydney, too? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9479,8 +9479,8 @@
         "value": {
           "id": 1013,
           "sentence": "parr__",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/parrot.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/parrot.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "ot",
           "hint": "parrot: con vẹt",
           "topicId": 7
@@ -9519,8 +9519,8 @@
         "value": {
           "id": 1438,
           "question": "Choose the missing letter.\nsw_mming",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/swimming.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/swimming.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. n",
             "B. i",
@@ -9570,9 +9570,9 @@
             ""
           ],
           "imageNames": [
-            "Hello. I'm Nam. I'm from Britain.",
-            "Hello. I'm Nam. I'm from Canada.",
-            "Hello. I'm Nam. I'm from Thailand."
+            "clean my teeth",
+            "Canada",
+            "car"
           ],
           "correctIndex": 1,
           "hint": "Hello. I'm Nam. I'm from Canada. → Xin chào. Mình là Nam. Mình đến từ Ca-na-đa.\n(Chữ cần chọn: Canada – Ca-na-đa)",
@@ -9725,8 +9725,8 @@
           "id": 1451,
           "sentence": "pe_pl_",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/people.mp3",
-          "answer": "o,e",
+          "audioUrl": "",
+          "answer": "oe",
           "hint": "people: người dân",
           "topicId": 10
         }
@@ -9952,7 +9952,7 @@
         "type": "multiChoice",
         "value": {
           "id": 18,
-          "question": "Choose the correct answer.\nA: Where are you from?\nB: I'm ___ Japan.",
+          "question": "Where are you from? – I'm ___ Japan.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10004,7 +10004,7 @@
         "type": "multiChoice",
         "value": {
           "id": 284,
-          "question": "Choose the correct answer.\nA: When's Kate's birthday?\nB: ___ in February.",
+          "question": "When's Kate's birthday? – ___ in February.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10179,9 +10179,9 @@
             ""
           ],
           "imageNames": [
-            "I have dinner at seven fifteen.",
-            "I have dinner at seven o'clock.",
-            "I have dinner at six o'clock."
+            "seven fifteen",
+            "seven o'clock",
+            "six o'clock"
           ],
           "correctIndex": 2,
           "hint": "I have dinner at six o'clock. → Mình ăn tối lúc 6 giờ.\n(Chữ cần chọn: six o'clock – 6 giờ)",
@@ -10560,7 +10560,7 @@
         "type": "multiChoice",
         "value": {
           "id": 805,
-          "question": "Listen and choose True or False.\nIt's six thirty.",
+          "question": "Listen and choose True or False.\nThe time is six thirty.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/lucywhattimeisitmai\nmaiitselevenforty-five\nlucyletshaveabreak\nmaiokletsgointotheclassroomafterthebreak.mp3",
           "choices": [
@@ -10589,7 +10589,7 @@
         "value": {
           "id": 352,
           "audioUrl": "",
-          "question": "",
+          "question": "nước ép",
           "correctAnswer": [
             "JU",
             "I",
@@ -10691,9 +10691,9 @@
         "value": {
           "id": 1302,
           "sentence": "no_ebo_k",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/notebook.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/notebook.mp3",
-          "answer": "t,o",
+          "imageUrl": "",
+          "audioUrl": "",
+          "answer": "to",
           "hint": "notebook: quyển vở",
           "topicId": 9
         }
@@ -10779,9 +10779,9 @@
             ""
           ],
           "imageNames": [
-            "Peter's from Canada.",
-            "Peter's from Britain.",
-            "Peter's from Viet Nam."
+            "village",
+            "Vietnamese",
+            "Viet Nam"
           ],
           "correctIndex": 2,
           "hint": "Peter's from Viet Nam. → Peter đến từ Việt Nam.\n(Chữ cần chọn: Viet Nam – Việt Nam)",
@@ -10794,7 +10794,7 @@
           "id": 268,
           "question": "Complete the word.\np_ _ty",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/party.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. ar",
             "B. or",
@@ -10823,7 +10823,7 @@
         "value": {
           "id": 504,
           "audioUrl": "",
-          "question": "",
+          "question": "vùng núi",
           "correctAnswer": [
             "MO",
             "UN",
@@ -10919,7 +10919,7 @@
         "type": "multiChoice",
         "value": {
           "id": 64,
-          "question": "Choose the correct answer.\nA: Where are you from?\nB: ___",
+          "question": "Where are you from? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11199,7 +11199,7 @@
         "value": {
           "id": 410,
           "audioUrl": "",
-          "question": "",
+          "question": "có thể",
           "correctAnswer": [
             "C",
             "A",
@@ -11282,7 +11282,7 @@
         "type": "multiChoice",
         "value": {
           "id": 664,
-          "question": "Read and choose the correct answer.\n📖 My name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n❓ Which subject does Nam like very much?",
+          "question": "Read and choose the correct answer.\nMy name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nWhich subject does Nam like very much?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11390,9 +11390,9 @@
             ""
           ],
           "imageNames": [
-            "Minh and I watch TV on Saturdays.",
-            "Minh and I stay at home on Saturdays.",
-            "Minh and I have dinner on Saturdays."
+            "sister",
+            "stay at home",
+            "Singapore"
           ],
           "correctIndex": 1,
           "hint": "Minh and I stay at home on Saturdays. → Minh và mình ở nhà vào các ngày thứ Bảy.\n(Chữ cần chọn: stay at home – ở nhà)",
@@ -11528,7 +11528,7 @@
         "type": "multiChoice",
         "value": {
           "id": 93,
-          "question": "Choose the correct answer.\nA: What time is it?\nB: ___ nine fifteen.",
+          "question": "What time is it? – ___ nine fifteen.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11805,7 +11805,7 @@
         "value": {
           "id": 499,
           "audioUrl": "",
-          "question": "",
+          "question": "gần",
           "correctAnswer": [
             "N",
             "E",
@@ -11910,7 +11910,7 @@
           "id": 21,
           "sentence": "frie_d",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/friend.mp3",
+          "audioUrl": "",
           "answer": "n",
           "hint": "friend: bạn",
           "topicId": 1
@@ -12000,9 +12000,9 @@
             ""
           ],
           "imageNames": [
-            "Can Linh swim?",
-            "Can Linh skip?",
-            "Can Linh sing?"
+            "swim",
+            "singing",
+            "ship"
           ],
           "correctIndex": 0,
           "hint": "Can Linh swim? → Linh có thể bơi không?\n(Chữ cần chọn: swim – bơi)",
@@ -12062,7 +12062,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1076,
-          "question": "Read and choose True or False.\n📖 My name is Kate. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n👉 Kate has English on Mondays.",
+          "question": "Read and choose True or False.\nMy name is Kate. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nKate has English on Mondays.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12115,13 +12115,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/mouth.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ear.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/nose.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/face.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ear.png"
           ],
           "imageNames": [
             "mouth",
-            "ear",
-            "nose"
+            "face",
+            "ear"
           ],
           "correctIndex": 0,
           "hint": "This is my mouth. → Đây là cái miệng của mình.\n(Hình đúng: mouth – cái miệng)",
@@ -12132,7 +12132,7 @@
         "type": "multiChoice",
         "value": {
           "id": 841,
-          "question": "Listen and choose True or False.\nIt's Tuesday today.",
+          "question": "Listen and choose True or False.\nToday is Tuesday.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/billwhatdayisittoday\nlucyitstuesday\nbillwhatdoyoudoonsundays\nlucyistayathome.mp3",
           "choices": [
@@ -12377,7 +12377,7 @@
         "type": "multiChoice",
         "value": {
           "id": 364,
-          "question": "Choose the correct answer.\nA: What time do you get up?\nB: ___",
+          "question": "What time do you get up? – ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12513,8 +12513,8 @@
         "value": {
           "id": 252,
           "sentence": "rul_r",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ruler.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/ruler.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "e",
           "hint": "ruler: cái thước kẻ",
           "topicId": 2
@@ -12604,9 +12604,9 @@
             ""
           ],
           "imageNames": [
-            "This is a gym.",
-            "This is a garden.",
-            "This is a classroom."
+            "gym",
+            "garden",
+            "grapes"
           ],
           "correctIndex": 0,
           "hint": "This is a gym. → Đây là phòng thể chất.\n(Chữ cần chọn: gym – phòng thể chất)",
@@ -12665,7 +12665,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1092,
-          "question": "Read and choose True or False.\n📖 I am Tony. Last summer, I was on holiday in Ha Long Bay with my family. Last weekend, I was on the beach. Yesterday, I was in the mountains. I love holidays!\n\n👉 Tony was in the mountains yesterday.",
+          "question": "Read and choose True or False.\nI am Tony. Last summer, I was on holiday in Ha Long Bay with my family. Last weekend, I was on the beach. Yesterday, I was in the mountains. I love holidays!\n\nTony was in the mountains yesterday.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12719,12 +12719,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ear.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/nose.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/mouth.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/hand.png"
           ],
           "imageNames": [
             "ear",
             "nose",
-            "mouth"
+            "hand"
           ],
           "correctIndex": 0,
           "hint": "This is my ear. → Đây là cái tai của mình.\n(Hình đúng: ear – cái tai)",
@@ -12755,7 +12755,7 @@
           "id": 616,
           "sentence": "s__vey",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/survey.mp3",
+          "audioUrl": "",
           "answer": "ur",
           "hint": "survey: cuộc khảo sát",
           "topicId": 5
@@ -12790,7 +12790,7 @@
         "type": "multiChoice",
         "value": {
           "id": 480,
-          "question": "Read and choose the correct answer.\n📖 My name is Laura. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\n❓ What day is it today?",
+          "question": "Read and choose the correct answer.\nMy name is Laura. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\nWhat day is it today?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13113,8 +13113,8 @@
           "id": 319,
           "sentence": "week_n_",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/weekend.mp3",
-          "answer": "e,d",
+          "audioUrl": "",
+          "answer": "ed",
           "hint": "weekend: cuối tuần",
           "topicId": 3
         }
@@ -13200,9 +13200,9 @@
             ""
           ],
           "imageNames": [
-            "I have Maths today. It is Thursday.",
-            "I have Vietnamese today. It is Thursday.",
-            "I have Music today. It is Thursday."
+            "maths",
+            "Vietnamese",
+            "village"
           ],
           "correctIndex": 1,
           "hint": "I have Vietnamese today. It is Thursday. → Hôm nay mình có môn Tiếng Việt. Hôm nay là thứ Năm.\n(Chữ cần chọn: Vietnamese – môn Tiếng Việt)",
@@ -13244,7 +13244,7 @@
         "value": {
           "id": 1006,
           "audioUrl": "",
-          "question": "",
+          "question": "bức ảnh, bức tranh",
           "correctAnswer": [
             "P",
             "IC",
@@ -13355,8 +13355,8 @@
         "value": {
           "id": 774,
           "sentence": "classroo_",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/classroom.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/classroom.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "m",
           "hint": "classroom: lớp học",
           "topicId": 6
@@ -13394,7 +13394,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1394,
-          "question": "Find the mistake.\nI <u>like</u> computers. <u>My</u> <u>favourite</u> subject <u>are</u> IT.",
+          "question": "Find the mistake.\nI like computers. My favourite subject are IT.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13717,8 +13717,8 @@
         "value": {
           "id": 460,
           "sentence": "j_ice",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/juice.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/juice.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "u",
           "hint": "juice: nước ép",
           "topicId": 4
@@ -13806,9 +13806,9 @@
             ""
           ],
           "imageNames": [
-            "Is it a big city?",
-            "Is it a big countryside?",
-            "Is it a big village?"
+            "city",
+            "chips",
+            "chair"
           ],
           "correctIndex": 0,
           "hint": "Is it a big city? → Đó có phải là một thành phố lớn không?\n(Chữ cần chọn: city – thành phố)",
@@ -13820,8 +13820,8 @@
         "value": {
           "id": 1421,
           "question": "Choose the missing letter.\nplaygro_nd",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/playground.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/playground.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. u",
             "B. c",
@@ -13963,7 +13963,7 @@
           "id": 922,
           "sentence": "time_able",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/timetable.mp3",
+          "audioUrl": "",
           "answer": "t",
           "hint": "timetable: thời khóa biểu",
           "topicId": 7
@@ -14409,9 +14409,9 @@
             ""
           ],
           "imageNames": [
-            "I play badminton.",
-            "I play tennis.",
-            "I play basketball."
+            "bathroom",
+            "Britain",
+            "basketball"
           ],
           "correctIndex": 2,
           "hint": "I play basketball. → Mình chơi bóng rổ.\n(Chữ cần chọn: basketball – bóng rổ)",
@@ -14453,7 +14453,7 @@
         "value": {
           "id": 123,
           "audioUrl": "",
-          "question": "",
+          "question": "giờ nghỉ",
           "correctAnswer": [
             "B",
             "R",
@@ -14475,7 +14475,7 @@
         "type": "multiChoice",
         "value": {
           "id": 166,
-          "question": "Choose the correct answer.\nA: What do you do ___ Tuesdays?\nB: I study at school.",
+          "question": "What do you do ___ Tuesdays? – I study at school.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -14564,8 +14564,8 @@
         "value": {
           "id": 1153,
           "sentence": "w_ndow",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/window.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/window.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "i",
           "hint": "window: cửa sổ",
           "topicId": 8
@@ -14670,7 +14670,7 @@
           "id": 1199,
           "question": "Choose the missing letter.\nwe_k",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/week.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. j",
             "B. f",
@@ -14732,7 +14732,7 @@
           "id": 417,
           "question": "Complete the word.\ns_ _ool",
           "questionImageUrl": "",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/school.mp3",
+          "questionAudioUrl": "",
           "choices": [
             "A. sh",
             "B. er",
@@ -14795,7 +14795,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1060,
-          "question": "Listen and choose True or False.\nThey play volleyball.",
+          "question": "Listen and choose True or False.\nMai's class plays volleyball.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/minhwhatsthat\nmaiitsapictureofoursportsday\nminhwhensyoursportsday\nmaiitsinoctoberweplayfootball.mp3",
           "choices": [
@@ -14930,9 +14930,9 @@
         "value": {
           "id": 764,
           "sentence": "v_ll_ge",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/village.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/village.mp3",
-          "answer": "i,a",
+          "imageUrl": "",
+          "audioUrl": "",
+          "answer": "ia",
           "hint": "village: ngôi làng",
           "topicId": 6
         }
@@ -15021,9 +15021,9 @@
             ""
           ],
           "imageNames": [
-            "I like music because I want to be a maths teacher.",
-            "I like English because I want to be a maths teacher.",
-            "I like maths because I want to be a maths teacher."
+            "Malaysia",
+            "mountains",
+            "maths"
           ],
           "correctIndex": 2,
           "hint": "I like maths because I want to be a maths teacher. → Mình thích Toán vì mình muốn trở thành giáo viên Toán.\n(Chữ cần chọn: maths – môn Toán)",
@@ -15173,9 +15173,9 @@
         "value": {
           "id": 1204,
           "sentence": "v_lley_all",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/volleyball.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/volleyball.mp3",
-          "answer": "o,b",
+          "imageUrl": "",
+          "audioUrl": "",
+          "answer": "ob",
           "hint": "volleyball: bóng chuyền",
           "topicId": 9
         }
@@ -15335,8 +15335,8 @@
         "value": {
           "id": 1349,
           "question": "Choose the missing letter.\nmusi_",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/music.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/music.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. c",
             "B. i",
@@ -15399,7 +15399,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1093,
-          "question": "Read and choose True or False.\n📖 I am Nam. Last summer, I was on holiday in London with my family. Last weekend, I was in the mountains. Yesterday, I was at the campsite. I love holidays!\n\n👉 Nam was at the campsite last weekend.",
+          "question": "Read and choose True or False.\nI am Nam. Last summer, I was on holiday in London with my family. Last weekend, I was in the mountains. Yesterday, I was at the campsite. I love holidays!\n\nNam was at the campsite last weekend.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -15534,7 +15534,7 @@
           "id": 917,
           "sentence": "hav_",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/have.mp3",
+          "audioUrl": "",
           "answer": "e",
           "hint": "have: có, học",
           "topicId": 7
@@ -15622,9 +15622,9 @@
             ""
           ],
           "imageNames": [
-            "Hello. I'm Linh. I'm from America.",
-            "Hello. I'm Linh. I'm from Australia.",
-            "Hello. I'm Linh. I'm from Japan."
+            "at the campsite",
+            "Australia",
+            "apple"
           ],
           "correctIndex": 1,
           "hint": "Hello. I'm Linh. I'm from Australia. → Xin chào. Mình là Linh. Mình đến từ nước Úc.\n(Chữ cần chọn: Australia – nước Úc)",
@@ -15636,8 +15636,8 @@
         "value": {
           "id": 149,
           "question": "Complete the word.\nt_uck",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/truck.png",
-          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/truck.mp3",
+          "questionImageUrl": "",
+          "questionAudioUrl": "",
           "choices": [
             "A. r",
             "B. b",
@@ -15666,7 +15666,7 @@
         "value": {
           "id": 357,
           "audioUrl": "",
-          "question": "",
+          "question": "nước",
           "correctAnswer": [
             "W",
             "A",
@@ -15688,7 +15688,7 @@
         "type": "multiChoice",
         "value": {
           "id": 319,
-          "question": "Choose the correct answer.\nA: When's Minh's birthday?\nB: ___ in November.",
+          "question": "When's Minh's birthday? – ___ in November.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -15777,8 +15777,8 @@
         "value": {
           "id": 1372,
           "sentence": "cy_ling",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/cycling.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/cycling.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "c",
           "hint": "cycling: đạp xe",
           "topicId": 10
@@ -16054,7 +16054,7 @@
         "type": "multiChoice",
         "value": {
           "id": 871,
-          "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Peter. I'm from Thailand. I'm nine years old. My birthday's in April. It's coming soon. I want some chips and some water at my party. What about you? When's your birthday?\n\n👉 Peter is nine years old.",
+          "question": "Read and choose True or False.\nDear pen friend, My name's Peter. I'm from Thailand. I'm nine years old. My birthday's in April. It's coming soon. I want some chips and some water at my party. What about you? When's your birthday?\n\nPeter is nine years old.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16137,8 +16137,8 @@
           "id": 1059,
           "sentence": "be_au_e",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/because.mp3",
-          "answer": "c,s",
+          "audioUrl": "",
+          "answer": "cs",
           "hint": "because: bởi vì",
           "topicId": 8
         }
@@ -16225,9 +16225,9 @@
             ""
           ],
           "imageNames": [
-            "I get up at four fifteen.",
-            "I get up at five thirty.",
-            "I get up at five o'clock."
+            "four fifteen",
+            "five thirty",
+            "five o'clock"
           ],
           "correctIndex": 2,
           "hint": "I get up at five o'clock. → Mình thức dậy lúc 5 giờ.\n(Chữ cần chọn: five o'clock – 5 giờ)",
@@ -16375,8 +16375,8 @@
         "value": {
           "id": 107,
           "sentence": "fis_",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/fish.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/fish.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "h",
           "hint": "fish: cá",
           "topicId": 1
@@ -16484,11 +16484,11 @@
           "choices": [
             "A. oranje",
             "B. oorange",
-            "C. orenge",
+            "C. orang",
             "D. orange"
           ],
           "correctAnswerIndex": 3,
-          "hint": "Cách viết đúng: orengee (quả cam).\n✅ D. orengee",
+          "hint": "Cách viết đúng: orange (quả cam).\n✅ D. orange",
           "topicId": 6
         }
       },
@@ -16603,7 +16603,7 @@
         "type": "multiChoice",
         "value": {
           "id": 795,
-          "question": "Read and choose True or False.\n📖 I am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\n👉 Linh has lunch at home.",
+          "question": "Read and choose True or False.\nI am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\nLinh has lunch at home.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16655,7 +16655,7 @@
         "type": "multiChoice",
         "value": {
           "id": 928,
-          "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\n👉 Linh is nine years old.",
+          "question": "Read and choose True or False.\nDear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\nLinh is nine years old.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16737,9 +16737,9 @@
         "value": {
           "id": 1207,
           "sentence": "t_n_is",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/tennis.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/tennis.mp3",
-          "answer": "e,n",
+          "imageUrl": "",
+          "audioUrl": "",
+          "answer": "en",
           "hint": "tennis: quần vợt",
           "topicId": 9
         }
@@ -16827,9 +16827,9 @@
             ""
           ],
           "imageNames": [
-            "At seven fifteen.",
-            "At six thirty.",
-            "At seven thirty."
+            "seven fifteen",
+            "six thirty",
+            "seven thirty"
           ],
           "correctIndex": 1,
           "hint": "At six thirty. → Lúc 6 giờ 30.\n(Chữ cần chọn: six thirty – 6 giờ 30)",
@@ -16962,7 +16962,7 @@
         "type": "multiChoice",
         "value": {
           "id": 761,
-          "question": "Read and choose True or False.\n📖 Hello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\n👉 Kate is from Australia.",
+          "question": "Read and choose True or False.\nHello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\nKate is from Australia.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16980,8 +16980,8 @@
           "id": 174,
           "sentence": "th_r_y",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/thirty.mp3",
-          "answer": "i,t",
+          "audioUrl": "",
+          "answer": "it",
           "hint": "thirty: ba mươi",
           "topicId": 2
         }
@@ -17016,7 +17016,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1249,
-          "question": "Find the mistake.\n<u>I</u> <u>want</u> <u>a</u> <u>juice</u>.",
+          "question": "Find the mistake.\nI want a juice.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17259,7 +17259,7 @@
         "type": "multiChoice",
         "value": {
           "id": 947,
-          "question": "Read and choose True or False.\n📖 My name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\n👉 There is a big playground.",
+          "question": "Read and choose True or False.\nMy name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\nThere is a big playground.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17322,7 +17322,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1432,
-          "question": "Find the mistake.\nIs <u>you</u> <u>sports</u> day <u>in</u> <u>April</u>?",
+          "question": "Find the mistake.\nIs you sports day in April?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17341,9 +17341,9 @@
         "value": {
           "id": 1461,
           "sentence": "t_uc_",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/truck.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/truck.mp3",
-          "answer": "r,k",
+          "imageUrl": "",
+          "audioUrl": "",
+          "answer": "rk",
           "hint": "truck: xe tải",
           "topicId": 10
         }
@@ -17430,9 +17430,9 @@
             ""
           ],
           "imageNames": [
-            "This is the flag of Australia.",
-            "This is the flag of Malaysia.",
-            "This is the flag of Thailand."
+            "two thirty",
+            "train",
+            "Thailand"
           ],
           "correctIndex": 2,
           "hint": "This is the flag of Thailand. → Đây là quốc kỳ của Thái Lan.\n(Chữ cần chọn: Thailand – Thái Lan)",
@@ -17495,7 +17495,7 @@
         "type": "multiChoice",
         "value": {
           "id": 574,
-          "question": "Choose the correct answer.\nA: Why do you ___ maths?\nB: Because I want to be a maths teacher.",
+          "question": "Why do you ___ maths? – Because I want to be a maths teacher.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17567,7 +17567,7 @@
         "type": "multiChoice",
         "value": {
           "id": 125,
-          "question": "Choose the correct answer.\nA: What time ___ it?\nB: It's nine o'clock.",
+          "question": "What time ___ it? – It's nine o'clock.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17587,7 +17587,7 @@
           "id": 320,
           "sentence": "w_ekend",
           "imageUrl": "",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/weekend.mp3",
+          "audioUrl": "",
           "answer": "e",
           "hint": "weekend: cuối tuần",
           "topicId": 3
@@ -17624,7 +17624,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1292,
-          "question": "Find the mistake.\n<u>No</u>, he can't, <u>but</u> he <u>can</u> ride <u>an</u> bike.",
+          "question": "Find the mistake.\nNo, he can't, but he can ride an bike.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17946,8 +17946,8 @@
         "value": {
           "id": 111,
           "sentence": "la_p",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/lamp.png",
-          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/lamp.mp3",
+          "imageUrl": "",
+          "audioUrl": "",
           "answer": "m",
           "hint": "lamp: cái đèn",
           "topicId": 1
@@ -18035,9 +18035,9 @@
             ""
           ],
           "imageNames": [
-            "Can Mary draw?",
-            "Can Mary play the guitar?",
-            "Can Mary dance?"
+            "draw",
+            "dining room",
+            "dance"
           ],
           "correctIndex": 0,
           "hint": "Can Mary draw? → Mary có thể vẽ không?\n(Chữ cần chọn: draw – vẽ)",
@@ -18100,7 +18100,7 @@
         "type": "multiChoice",
         "value": {
           "id": 656,
-          "question": "Choose the correct answer.\nA: What time ___ it?\nB: It's eleven fifteen.",
+          "question": "What time ___ it? – It's eleven fifteen.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [

@@ -202,7 +202,7 @@
       },
       {
         "id": 15,
-        "question": "Choose the correct answer.\nA: Where are you ___?\nB: I'm from America.",
+        "question": "Where are you ___? – I'm from America.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -216,7 +216,7 @@
       },
       {
         "id": 16,
-        "question": "Choose the correct answer.\nA: Where are you from?\nB: I'm ___ Thailand.",
+        "question": "Where are you from? – I'm ___ Thailand.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -230,7 +230,7 @@
       },
       {
         "id": 17,
-        "question": "Choose the correct answer.\nA: ___ Tony from?\nB: He's from Thailand.",
+        "question": "___ Tony from? – He's from Thailand.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -244,7 +244,7 @@
       },
       {
         "id": 18,
-        "question": "Choose the correct answer.\nA: Where are you from?\nB: I'm ___ Japan.",
+        "question": "Where are you from? – I'm ___ Japan.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -258,7 +258,7 @@
       },
       {
         "id": 19,
-        "question": "Choose the correct answer.\nA: ___ Mary from?\nB: She's from Australia.",
+        "question": "___ Mary from? – She's from Australia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -328,7 +328,7 @@
       },
       {
         "id": 24,
-        "question": "Choose the correct answer.\nA: Where's he from?\nB: ___",
+        "question": "Where's he from? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -342,7 +342,7 @@
       },
       {
         "id": 25,
-        "question": "Choose the correct answer.\nA: Where's she from?\nB: ___",
+        "question": "Where's she from? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -356,7 +356,7 @@
       },
       {
         "id": 26,
-        "question": "Choose the correct answer.\nA: Where's Mary from?\nB: ___",
+        "question": "Where's Mary from? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -370,7 +370,7 @@
       },
       {
         "id": 27,
-        "question": "Choose the correct answer.\nA: Where's he from?\nB: ___",
+        "question": "Where's he from? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -440,7 +440,7 @@
       },
       {
         "id": 32,
-        "question": "Read and choose the correct answer.\n📖 Hello. I'm Bill. I'm from Australia. This is my new friend, Kate. She is from Singapore. We are friendly.\n\n❓ Who is the new friend?",
+        "question": "Read and choose the correct answer.\nHello. I'm Bill. I'm from Australia. This is my new friend, Kate. She is from Singapore. We are friendly.\n\nWho is the new friend?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -454,7 +454,7 @@
       },
       {
         "id": 33,
-        "question": "Read and choose the correct answer.\n📖 Hello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\n❓ Where is Nam from?",
+        "question": "Read and choose the correct answer.\nHello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\nWhere is Nam from?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -610,7 +610,7 @@
         "id": 44,
         "question": "Complete the word.\nag_ _n",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/again.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. st",
           "B. ai",
@@ -818,7 +818,7 @@
       },
       {
         "id": 59,
-        "question": "Choose the correct answer.\nA: What's this?\nB: ___ a bedroom.",
+        "question": "What's this? – ___ a bedroom.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -832,7 +832,7 @@
       },
       {
         "id": 60,
-        "question": "Choose the correct answer.\nA: ___ Minh from?\nB: He's from Singapore.",
+        "question": "___ Minh from? – He's from Singapore.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -846,7 +846,7 @@
       },
       {
         "id": 61,
-        "question": "Choose the correct answer.\nA: ___ he from?\nB: He's from Singapore.",
+        "question": "___ he from? – He's from Singapore.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -888,7 +888,7 @@
       },
       {
         "id": 64,
-        "question": "Choose the correct answer.\nA: Where are you from?\nB: ___",
+        "question": "Where are you from? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -902,7 +902,7 @@
       },
       {
         "id": 65,
-        "question": "Choose the correct answer.\nA: Where's he from?\nB: ___",
+        "question": "Where's he from? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -944,7 +944,7 @@
       },
       {
         "id": 68,
-        "question": "Read and choose the correct answer.\n📖 Hello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\n❓ Who is the new friend?",
+        "question": "Read and choose the correct answer.\nHello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\nWho is the new friend?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1015,8 +1015,8 @@
       {
         "id": 73,
         "question": "Complete the word.\n_ _ack",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/black.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/black.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. bl",
           "B. oo",
@@ -1030,7 +1030,7 @@
         "id": 74,
         "question": "Complete the word.\nf_iend",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/friend.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. r",
           "B. i",
@@ -1140,7 +1140,7 @@
       },
       {
         "id": 758,
-        "question": "Read and choose True or False.\n📖 Hello. I am Mai. I am ten years old. I am from Thailand. I have two new friends, Mary and Bill. Mary is from Canada. Bill is from Britain. They are friendly.\n\n👉 Mai is from Canada.",
+        "question": "Read and choose True or False.\nHello. I am Mai. I am ten years old. I am from Thailand. I have two new friends, Mary and Bill. Mary is from Canada. Bill is from Britain. They are friendly.\n\nMai is from Canada.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1152,7 +1152,7 @@
       },
       {
         "id": 759,
-        "question": "Read and choose True or False.\n📖 Hello. I'm Bill. I'm from Australia. This is my new friend, Kate. She is from Singapore. We are friendly.\n\n👉 Bill is from Australia.",
+        "question": "Read and choose True or False.\nHello. I'm Bill. I'm from Australia. This is my new friend, Kate. She is from Singapore. We are friendly.\n\nBill is from Australia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1164,7 +1164,7 @@
       },
       {
         "id": 760,
-        "question": "Read and choose True or False.\n📖 Hello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\n👉 Lucy has two new friends.",
+        "question": "Read and choose True or False.\nHello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\nLucy has two new friends.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1176,7 +1176,7 @@
       },
       {
         "id": 761,
-        "question": "Read and choose True or False.\n📖 Hello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\n👉 Kate is from Australia.",
+        "question": "Read and choose True or False.\nHello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\nKate is from Australia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1188,7 +1188,7 @@
       },
       {
         "id": 762,
-        "question": "Read and choose True or False.\n📖 Hello. I'm Bill. I'm from Australia. This is my new friend, Kate. She is from Singapore. We are friendly.\n\n👉 Kate is from Australia.",
+        "question": "Read and choose True or False.\nHello. I'm Bill. I'm from Australia. This is my new friend, Kate. She is from Singapore. We are friendly.\n\nKate is from Australia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1200,7 +1200,7 @@
       },
       {
         "id": 763,
-        "question": "Read and choose True or False.\n📖 Hello. I am Mai. I am ten years old. I am from Thailand. I have two new friends, Mary and Bill. Mary is from Canada. Bill is from Britain. They are friendly.\n\n👉 Mary is from Canada.",
+        "question": "Read and choose True or False.\nHello. I am Mai. I am ten years old. I am from Thailand. I have two new friends, Mary and Bill. Mary is from Canada. Bill is from Britain. They are friendly.\n\nMary is from Canada.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1404,7 +1404,7 @@
       },
       {
         "id": 780,
-        "question": "Read and choose True or False.\n📖 Hello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\n👉 Minh is from Singapore.",
+        "question": "Read and choose True or False.\nHello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\nMinh is from Singapore.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1416,7 +1416,7 @@
       },
       {
         "id": 781,
-        "question": "Read and choose True or False.\n📖 Hello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\n👉 Laura is a new friend.",
+        "question": "Read and choose True or False.\nHello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\nLaura is a new friend.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1428,7 +1428,7 @@
       },
       {
         "id": 782,
-        "question": "Read and choose True or False.\n📖 Hello. I'm Bill. I'm from Australia. This is my new friend, Kate. She is from Singapore. We are friendly.\n\n👉 Kate is a new friend.",
+        "question": "Read and choose True or False.\nHello. I'm Bill. I'm from Australia. This is my new friend, Kate. She is from Singapore. We are friendly.\n\nKate is a new friend.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1558,7 +1558,7 @@
         "id": 1125,
         "question": "Choose the missing letter.\nf_iend",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/friend.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. s",
           "B. y",
@@ -1572,7 +1572,7 @@
         "id": 1126,
         "question": "Choose the missing letter.\na_ain",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/again.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. n",
           "B. w",
@@ -1586,7 +1586,7 @@
         "id": 1127,
         "question": "Choose the missing letter.\nf_ne",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/fine.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. w",
           "B. e",
@@ -1674,7 +1674,7 @@
         "choices": [
           "A. Linh is from Malaysia.",
           "B. From is Linh Malaysia.",
-          "C. Malaysia from Linh Is.",
+          "C. Is Linh from Malaysia.",
           "D. Linh is Malaysia from."
         ],
         "correctAnswerIndex": 0,
@@ -1688,7 +1688,7 @@
         "choices": [
           "A. Mary from is Malaysia.",
           "B. Mary is from Malaysia.",
-          "C. Malaysia from Mary Is.",
+          "C. Is Mary from Malaysia.",
           "D. Mary is Malaysia from."
         ],
         "correctAnswerIndex": 1,
@@ -1696,7 +1696,7 @@
       },
       {
         "id": 1135,
-        "question": "Find the mistake.\n<u>Nam</u> <u>are</u> <u>from</u> <u>Japan</u>.",
+        "question": "Find the mistake.\nNam are from Japan.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1710,7 +1710,7 @@
       },
       {
         "id": 1136,
-        "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>I</u> <u>friend</u>, Linh. She is from Japan.",
+        "question": "Find the mistake.\nThis is I friend, Linh. She is from Japan.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1724,7 +1724,7 @@
       },
       {
         "id": 1137,
-        "question": "Find the mistake.\n<u>Bill</u> <u>are</u> <u>from</u> <u>Canada</u>.",
+        "question": "Find the mistake.\nBill are from Canada.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1738,7 +1738,7 @@
       },
       {
         "id": 1138,
-        "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>I</u> friend, Peter. He is <u>from</u> Canada.",
+        "question": "Find the mistake.\nThis is I friend, Peter. He is from Canada.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1794,7 +1794,7 @@
       },
       {
         "id": 1142,
-        "question": "Find the mistake.\n<u>This</u> <u>are</u> my friend, Laura. <u>She</u> <u>is</u> from America.",
+        "question": "Find the mistake.\nThis are my friend, Laura. She is from America.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1893,8 +1893,8 @@
       {
         "id": 1149,
         "question": "Choose the missing letter.\nfac_",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/face.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/face.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. c",
           "B. e",
@@ -1911,7 +1911,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. fine",
-          "B. fone",
+          "B. fane",
           "C. finee",
           "D. ifne"
         ],
@@ -1938,7 +1938,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. Japan from Nam Is.",
+          "A. Is Nam from Japan.",
           "B. Nam Japan from is.",
           "C. Nam is from Japan.",
           "D. Nam is Japan from."
@@ -1953,7 +1953,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. Ben from is Japan.",
-          "B. Japan from Ben Is.",
+          "B. Is Ben from Japan.",
           "C. Ben is Japan from.",
           "D. Ben is from Japan."
         ],
@@ -1962,7 +1962,7 @@
       },
       {
         "id": 1154,
-        "question": "Find the mistake.\n<u>Mai</u> <u>are</u> <u>from</u> <u>Thailand</u>.",
+        "question": "Find the mistake.\nMai are from Thailand.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -1976,7 +1976,7 @@
       },
       {
         "id": 1155,
-        "question": "Find the mistake.\n<u>Tony</u> <u>are</u> <u>from</u> Viet <u>Nam</u>.",
+        "question": "Find the mistake.\nTony are from Viet Nam.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2235,21 +2235,21 @@
       },
       {
         "id": 90,
-        "question": "Choose the correct answer.\nA: What ___ do you get up?\nB: I get up at six o'clock.",
+        "question": "What ___ do you get up? – I get up at six o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. where",
           "B. when",
           "C. time",
-          "D. name"
+          "D. day"
         ],
         "correctAnswerIndex": 2,
         "hint": "What time …?: Mấy giờ …?\n📝 What time do you get up? / I get up at six o'clock.\n→ Bạn thức dậy lúc mấy giờ? / Mình thức dậy lúc 6 giờ.\n✅ C. time"
       },
       {
         "id": 91,
-        "question": "Choose the correct answer.\nA: What time do you have breakfast?\nB: I ___ breakfast at six thirty.",
+        "question": "What time do you have breakfast? – I ___ breakfast at six thirty.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2263,7 +2263,7 @@
       },
       {
         "id": 92,
-        "question": "Choose the correct answer.\nA: Who's that?\nB: ___ my new friend, Lucy.",
+        "question": "Who's that? – ___ my new friend, Lucy.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2277,7 +2277,7 @@
       },
       {
         "id": 93,
-        "question": "Choose the correct answer.\nA: What time is it?\nB: ___ nine fifteen.",
+        "question": "What time is it? – ___ nine fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2347,7 +2347,7 @@
       },
       {
         "id": 98,
-        "question": "Choose the correct answer.\nA: What time do you have dinner?\nB: ___",
+        "question": "What time do you have dinner? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2361,7 +2361,7 @@
       },
       {
         "id": 99,
-        "question": "Choose the correct answer.\nA: What time do you get up?\nB: ___",
+        "question": "What time do you get up? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2375,7 +2375,7 @@
       },
       {
         "id": 100,
-        "question": "Choose the correct answer.\nA: What time is it?\nB: ___",
+        "question": "What time is it? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2431,7 +2431,7 @@
       },
       {
         "id": 104,
-        "question": "Read and choose the correct answer.\n📖 I am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\n❓ What time does the speaker go to school?",
+        "question": "Read and choose the correct answer.\nI am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\nWhat time does the speaker go to school?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2445,7 +2445,7 @@
       },
       {
         "id": 105,
-        "question": "Read and choose the correct answer.\n📖 My name is Lucy. I have dinner at seven forty-five. I have lunch at eleven thirty. I have breakfast at seven fifteen.\n\n❓ What time does Lucy have lunch?",
+        "question": "Read and choose the correct answer.\nMy name is Lucy. I have dinner at seven forty-five. I have lunch at eleven thirty. I have breakfast at seven fifteen.\n\nWhat time does Lucy have lunch?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2587,7 +2587,7 @@
         "id": 115,
         "question": "Complete the word.\nbr_ _k",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/break.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. ng",
           "B. ll",
@@ -2601,7 +2601,7 @@
         "id": 116,
         "question": "Complete the word.\n_ _irty",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/thirty.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. th",
           "B. ee",
@@ -2655,7 +2655,7 @@
       },
       {
         "id": 120,
-        "question": "Listen and choose the correct answer.\nWhat time do you wash your face?",
+        "question": "Listen and choose the correct answer.\nWhat time do you wash my face?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/atsixthirty.mp3",
         "choices": [
@@ -2669,7 +2669,7 @@
       },
       {
         "id": 121,
-        "question": "Listen and choose the correct answer.\nWhat time do you clean your teeth?",
+        "question": "Listen and choose the correct answer.\nWhat time do you clean my teeth?",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/icleanmyteethatsixoclock.mp3",
         "choices": [
@@ -2725,7 +2725,7 @@
       },
       {
         "id": 125,
-        "question": "Choose the correct answer.\nA: What time ___ it?\nB: It's nine o'clock.",
+        "question": "What time ___ it? – It's nine o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2851,7 +2851,7 @@
       },
       {
         "id": 134,
-        "question": "Choose the correct answer.\nA: What time is it?\nB: ___ six fifteen.",
+        "question": "What time is it? – ___ six fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2865,7 +2865,7 @@
       },
       {
         "id": 135,
-        "question": "Choose the correct answer.\nA: Where are you ___?\nB: I'm from Australia.",
+        "question": "Where are you ___? – I'm from Australia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2879,7 +2879,7 @@
       },
       {
         "id": 136,
-        "question": "Choose the correct answer.\nA: Where ___ you from?\nB: I'm from Australia.",
+        "question": "Where ___ you from? – I'm from Australia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2907,7 +2907,7 @@
       },
       {
         "id": 138,
-        "question": "Read and complete.\nMinh: What time do you do your homework?\nBill: I do my homework ___ seven fifteen.",
+        "question": "Read and complete.\nMinh: What time do you do my homework?\nBill: I do my homework ___ seven fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2917,11 +2917,11 @@
           "D. at"
         ],
         "correctAnswerIndex": 3,
-        "hint": "at + giờ: lúc 7 giờ 15.\n📝 What time do you do your homework? / I do my homework at seven fifteen.\n→ Bạn làm bài tập về nhà lúc mấy giờ? / Mình làm bài tập về nhà lúc 7 giờ 15.\n✅ D. at"
+        "hint": "at + giờ: lúc 7 giờ 15.\n📝 What time do you do my homework? / I do my homework at seven fifteen.\n→ Bạn làm bài tập về nhà lúc mấy giờ? / Mình làm bài tập về nhà lúc 7 giờ 15.\n✅ D. at"
       },
       {
         "id": 139,
-        "question": "Choose the correct answer.\nA: What time do you have breakfast?\nB: ___",
+        "question": "What time do you have breakfast? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2935,7 +2935,7 @@
       },
       {
         "id": 140,
-        "question": "Choose the correct answer.\nA: What time is it?\nB: ___",
+        "question": "What time is it? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -2977,7 +2977,7 @@
       },
       {
         "id": 143,
-        "question": "Read and choose the correct answer.\n📖 Hello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\n❓ Where is Laura from?",
+        "question": "Read and choose the correct answer.\nHello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\nWhere is Laura from?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3048,8 +3048,8 @@
       {
         "id": 148,
         "question": "Complete the word.\nfi_ _",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/fish.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/fish.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. sh",
           "B. oo",
@@ -3062,8 +3062,8 @@
       {
         "id": 149,
         "question": "Complete the word.\nt_uck",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/truck.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/truck.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. r",
           "B. b",
@@ -3173,7 +3173,7 @@
       },
       {
         "id": 795,
-        "question": "Read and choose True or False.\n📖 I am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\n👉 Linh has lunch at home.",
+        "question": "Read and choose True or False.\nI am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\nLinh has lunch at home.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3185,7 +3185,7 @@
       },
       {
         "id": 796,
-        "question": "Read and choose True or False.\n📖 My name is Lucy. I have dinner at seven forty-five. I have lunch at eleven thirty. I have breakfast at seven fifteen.\n\n👉 Lucy has dinner at eleven thirty.",
+        "question": "Read and choose True or False.\nMy name is Lucy. I have dinner at seven forty-five. I have lunch at eleven thirty. I have breakfast at seven fifteen.\n\nLucy has dinner at eleven thirty.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3197,7 +3197,7 @@
       },
       {
         "id": 797,
-        "question": "Read and choose True or False.\n📖 My name is Kate. I have breakfast at seven fifteen. I get up at six forty-five. I go to bed at eight forty-five.\n\n👉 Kate has breakfast at six forty-five.",
+        "question": "Read and choose True or False.\nMy name is Kate. I have breakfast at seven fifteen. I get up at six forty-five. I go to bed at eight forty-five.\n\nKate has breakfast at six forty-five.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3209,7 +3209,7 @@
       },
       {
         "id": 798,
-        "question": "Read and choose True or False.\n📖 My name is Kate. I have breakfast at seven fifteen. I get up at six forty-five. I go to bed at eight forty-five.\n\n👉 Kate has breakfast at seven fifteen.",
+        "question": "Read and choose True or False.\nMy name is Kate. I have breakfast at seven fifteen. I get up at six forty-five. I go to bed at eight forty-five.\n\nKate has breakfast at seven fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3221,7 +3221,7 @@
       },
       {
         "id": 799,
-        "question": "Read and choose True or False.\n📖 I am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\n👉 Linh goes to bed at nine fifteen.",
+        "question": "Read and choose True or False.\nI am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\nLinh goes to bed at nine fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3233,7 +3233,7 @@
       },
       {
         "id": 800,
-        "question": "Read and choose True or False.\n📖 I am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\n👉 Nam has lunch at home.",
+        "question": "Read and choose True or False.\nI am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\nNam has lunch at home.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3257,7 +3257,7 @@
       },
       {
         "id": 802,
-        "question": "Listen and choose True or False.\nIt's twelve forty-five.",
+        "question": "Listen and choose True or False.\nThe time is twelve forty-five.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/peterwhattimeisitben\nbenitstwoforty-five\npeterletshaveabreak\nbenokletsgointotheclassroomafterthebreak.mp3",
         "choices": [
@@ -3281,7 +3281,7 @@
       },
       {
         "id": 804,
-        "question": "Listen and choose True or False.\nIt's six forty-five.",
+        "question": "Listen and choose True or False.\nThe time is six forty-five.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/billwhattimeisitmai\nmaiitssixforty-five\nbillletshaveabreak\nmaiokletsgointotheclassroomafterthebreak.mp3",
         "choices": [
@@ -3293,7 +3293,7 @@
       },
       {
         "id": 805,
-        "question": "Listen and choose True or False.\nIt's six thirty.",
+        "question": "Listen and choose True or False.\nThe time is six thirty.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/lucywhattimeisitmai\nmaiitselevenforty-five\nlucyletshaveabreak\nmaiokletsgointotheclassroomafterthebreak.mp3",
         "choices": [
@@ -3305,7 +3305,7 @@
       },
       {
         "id": 806,
-        "question": "Listen and choose True or False.\nIt's two forty-five.",
+        "question": "Listen and choose True or False.\nThe time is two forty-five.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/peterwhattimeisitben\nbenitstwoforty-five\npeterletshaveabreak\nbenokletsgointotheclassroomafterthebreak.mp3",
         "choices": [
@@ -3437,7 +3437,7 @@
       },
       {
         "id": 817,
-        "question": "Read and choose True or False.\n📖 I am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\n👉 Nam gets up at six thirty.",
+        "question": "Read and choose True or False.\nI am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\nNam gets up at six thirty.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3449,7 +3449,7 @@
       },
       {
         "id": 818,
-        "question": "Read and choose True or False.\n📖 I am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\n👉 Linh gets up at seven o'clock.",
+        "question": "Read and choose True or False.\nI am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\nLinh gets up at seven o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3461,7 +3461,7 @@
       },
       {
         "id": 819,
-        "question": "Read and choose True or False.\n📖 Hello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\n👉 Laura is from Australia.",
+        "question": "Read and choose True or False.\nHello. I'm Kate. I'm from Australia. This is my new friend, Laura. She is from America. We are friendly.\n\nLaura is from Australia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3590,7 +3590,7 @@
       {
         "id": 1162,
         "question": "Choose the missing letter.\ngo to s_hool",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/gotoschool.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. u",
@@ -3605,7 +3605,7 @@
         "id": 1163,
         "question": "Choose the missing letter.\n_ine",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/fine.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. t",
           "B. c",
@@ -3618,7 +3618,7 @@
       {
         "id": 1164,
         "question": "Choose the missing letter.\nclean my _eeth",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/cleanmyteeth.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. l",
@@ -3680,7 +3680,7 @@
           "A. What time do you have breakfast?",
           "B. What breakfast do you have time?",
           "C. What do time you have breakfast?",
-          "D. Breakfast have you what time Do?"
+          "D. Do time what you have breakfast?"
         ],
         "correctAnswerIndex": 0,
         "hint": "Sắp xếp từ thành câu đúng.\n✅ A. What time do you have breakfast?\n👉 Bạn ăn sáng lúc mấy giờ?"
@@ -3729,7 +3729,7 @@
       },
       {
         "id": 1172,
-        "question": "Find the mistake.\nI <u>has</u> <u>lunch</u> <u>at</u> twelve <u>fifteen</u>.",
+        "question": "Find the mistake.\nI has lunch at twelve fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3743,7 +3743,7 @@
       },
       {
         "id": 1173,
-        "question": "Find the mistake.\n<u>Lucy</u> <u>are</u> <u>from</u> <u>Malaysia</u>.",
+        "question": "Find the mistake.\nLucy are from Malaysia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3757,7 +3757,7 @@
       },
       {
         "id": 1174,
-        "question": "Find the mistake.\n<u>I</u> <u>wash</u> I <u>face</u> <u>at</u> six o'clock.",
+        "question": "Find the mistake.\nI wash I face at six o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3771,7 +3771,7 @@
       },
       {
         "id": 1175,
-        "question": "Find the mistake.\n<u>I</u> <u>clean</u> I <u>teeth</u> <u>at</u> nine fifteen.",
+        "question": "Find the mistake.\nI clean I teeth at nine fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -3912,8 +3912,8 @@
       {
         "id": 1185,
         "question": "Choose the missing letter.\nm_use",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/mouse.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/mouse.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. k",
           "B. n",
@@ -3926,8 +3926,8 @@
       {
         "id": 1186,
         "question": "Choose the missing letter.\nbanan_",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/banana.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/banana.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. b",
           "B. d",
@@ -3995,7 +3995,7 @@
       },
       {
         "id": 1191,
-        "question": "Find the mistake.\nThis <u>are</u> <u>my</u> friend, Bill. He <u>is</u> <u>from</u> Singapore.",
+        "question": "Find the mistake.\nThis are my friend, Bill. He is from Singapore.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4009,7 +4009,7 @@
       },
       {
         "id": 1192,
-        "question": "Find the mistake.\n<u>This</u> <u>is</u> <u>I</u> <u>grandmother</u>.",
+        "question": "Find the mistake.\nThis is I grandmother.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4240,7 +4240,7 @@
       },
       {
         "id": 163,
-        "question": "Choose the correct answer.\nA: What do you do ___ Thursdays?\nB: I study at school.",
+        "question": "What do you do ___ Thursdays? – I study at school.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4254,13 +4254,13 @@
       },
       {
         "id": 164,
-        "question": "Choose the correct answer.\nA: What do you do on Sundays?\nB: I ___.",
+        "question": "What do you do on Sundays? – I ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. Monday",
-          "B. May",
-          "C. quiet",
+          "A. stay at home",
+          "B. do housework",
+          "C. watch TV",
           "D. listen to music"
         ],
         "correctAnswerIndex": 3,
@@ -4282,7 +4282,7 @@
       },
       {
         "id": 166,
-        "question": "Choose the correct answer.\nA: What do you do ___ Tuesdays?\nB: I study at school.",
+        "question": "What do you do ___ Tuesdays? – I study at school.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4296,7 +4296,7 @@
       },
       {
         "id": 167,
-        "question": "Choose the correct answer.\nA: What day is it today?\nB: ___ Monday.",
+        "question": "What day is it today? – ___ Monday.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4366,7 +4366,7 @@
       },
       {
         "id": 172,
-        "question": "Choose the correct answer.\nA: What do you do on Saturdays?\nB: ___",
+        "question": "What do you do on Saturdays? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4380,7 +4380,7 @@
       },
       {
         "id": 173,
-        "question": "Choose the correct answer.\nA: What do you do on Saturdays?\nB: ___",
+        "question": "What do you do on Saturdays? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4394,7 +4394,7 @@
       },
       {
         "id": 174,
-        "question": "Choose the correct answer.\nA: How are you?\nB: ___",
+        "question": "How are you? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4408,7 +4408,7 @@
       },
       {
         "id": 175,
-        "question": "Choose the correct answer.\nA: What do you do on Saturdays?\nB: ___",
+        "question": "What do you do on Saturdays? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4478,7 +4478,7 @@
       },
       {
         "id": 180,
-        "question": "Read and choose the correct answer.\n📖 Peter: What day is it today?\nMary: It's Monday.\nPeter: What do you do on Saturdays?\nMary: I do housework.\n\n❓ What day is it today?",
+        "question": "Read and choose the correct answer.\nPeter: What day is it today?\nMary: It's Monday.\nPeter: What do you do on Saturdays?\nMary: I do housework.\n\nWhat day is it today?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4492,7 +4492,7 @@
       },
       {
         "id": 181,
-        "question": "Read and choose the correct answer.\n📖 I am Minh. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I watch TV. On Sundays, I listen to music.\n\n❓ When does Minh go to school?",
+        "question": "Read and choose the correct answer.\nI am Minh. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I watch TV. On Sundays, I listen to music.\n\nWhen does Minh go to school?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4648,7 +4648,7 @@
         "id": 192,
         "question": "Complete the word.\ntod_ _",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/today.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. th",
           "B. ee",
@@ -4662,7 +4662,7 @@
         "id": 193,
         "question": "Complete the word.\nd_ _",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/day.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. ll",
           "B. sp",
@@ -4758,7 +4758,7 @@
       },
       {
         "id": 200,
-        "question": "Choose the correct answer.\nA: What day is it today?\nB: ___",
+        "question": "What day is it today? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4870,7 +4870,7 @@
       },
       {
         "id": 208,
-        "question": "Choose the correct answer.\nA: What time do you have lunch?\nB: I ___ lunch at twelve o'clock.",
+        "question": "What time do you have lunch? – I ___ lunch at twelve o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4884,7 +4884,7 @@
       },
       {
         "id": 209,
-        "question": "Choose the correct answer.\nA: Where's Lucy from?\nB: ___ from Singapore.",
+        "question": "Where's Lucy from? – ___ from Singapore.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4898,7 +4898,7 @@
       },
       {
         "id": 210,
-        "question": "Choose the correct answer.\nA: Where are you ___?\nB: I'm from Malaysia.",
+        "question": "Where are you ___? – I'm from Malaysia.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4940,7 +4940,7 @@
       },
       {
         "id": 213,
-        "question": "Choose the correct answer.\nA: What time do you get up?\nB: ___",
+        "question": "What time do you get up? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4954,7 +4954,7 @@
       },
       {
         "id": 214,
-        "question": "Choose the correct answer.\nA: Who's that?\nB: ___",
+        "question": "Who's that? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -4996,7 +4996,7 @@
       },
       {
         "id": 217,
-        "question": "Read and choose the correct answer.\n📖 Hello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\n❓ How old is Lucy?",
+        "question": "Read and choose the correct answer.\nHello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\nHow old is Lucy?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5067,8 +5067,8 @@
       {
         "id": 222,
         "question": "Complete the word.\nha_d",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/hand.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/hand.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. v",
           "B. f",
@@ -5081,8 +5081,8 @@
       {
         "id": 223,
         "question": "Complete the word.\nbedr_ _m",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/bedroom.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/bedroom.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. oo",
           "B. oi",
@@ -5206,7 +5206,7 @@
       },
       {
         "id": 832,
-        "question": "Read and choose True or False.\n📖 I am Mai. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I stay at home. On Sundays, I do housework.\n\n👉 Mai goes to school on Saturdays.",
+        "question": "Read and choose True or False.\nI am Mai. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I stay at home. On Sundays, I do housework.\n\nMai goes to school on Saturdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5218,7 +5218,7 @@
       },
       {
         "id": 833,
-        "question": "Read and choose True or False.\n📖 I am Mai. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I stay at home. On Sundays, I do housework.\n\n👉 Mai does housework on Sundays.",
+        "question": "Read and choose True or False.\nI am Mai. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I stay at home. On Sundays, I do housework.\n\nMai does housework on Sundays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5230,7 +5230,7 @@
       },
       {
         "id": 834,
-        "question": "Read and choose True or False.\n📖 I am Minh. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I watch TV. On Sundays, I listen to music.\n\n👉 Minh goes to school on Saturdays.",
+        "question": "Read and choose True or False.\nI am Minh. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I watch TV. On Sundays, I listen to music.\n\nMinh goes to school on Saturdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5242,7 +5242,7 @@
       },
       {
         "id": 835,
-        "question": "Read and choose True or False.\n📖 Laura: What day is it today?\nNam: It's Wednesday.\nLaura: What do you do on Saturdays?\nNam: I listen to music.\n\n👉 It's Wednesday today.",
+        "question": "Read and choose True or False.\nLaura: What day is it today?\nNam: It's Wednesday.\nLaura: What do you do on Saturdays?\nNam: I listen to music.\n\nIt's Wednesday today.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5254,7 +5254,7 @@
       },
       {
         "id": 836,
-        "question": "Read and choose True or False.\n📖 I am Minh. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I watch TV. On Sundays, I listen to music.\n\n👉 Minh listens to music on Sundays.",
+        "question": "Read and choose True or False.\nI am Minh. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I watch TV. On Sundays, I listen to music.\n\nMinh listens to music on Sundays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5266,7 +5266,7 @@
       },
       {
         "id": 837,
-        "question": "Read and choose True or False.\n📖 I am Mai. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I stay at home. On Sundays, I do housework.\n\n👉 Mai goes to school on Wednesdays.",
+        "question": "Read and choose True or False.\nI am Mai. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I stay at home. On Sundays, I do housework.\n\nMai goes to school on Wednesdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5314,7 +5314,7 @@
       },
       {
         "id": 841,
-        "question": "Listen and choose True or False.\nIt's Tuesday today.",
+        "question": "Listen and choose True or False.\nToday is Tuesday.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/billwhatdayisittoday\nlucyitstuesday\nbillwhatdoyoudoonsundays\nlucyistayathome.mp3",
         "choices": [
@@ -5470,7 +5470,7 @@
       },
       {
         "id": 854,
-        "question": "Read and choose True or False.\n📖 I am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\n👉 Nam goes to bed at nine o'clock.",
+        "question": "Read and choose True or False.\nI am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\nNam goes to bed at nine o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5482,7 +5482,7 @@
       },
       {
         "id": 855,
-        "question": "Read and choose True or False.\n📖 My name is Lucy. I have dinner at seven forty-five. I have lunch at eleven thirty. I have breakfast at seven fifteen.\n\n👉 Lucy has dinner at seven forty-five.",
+        "question": "Read and choose True or False.\nMy name is Lucy. I have dinner at seven forty-five. I have lunch at eleven thirty. I have breakfast at seven fifteen.\n\nLucy has dinner at seven forty-five.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5494,7 +5494,7 @@
       },
       {
         "id": 856,
-        "question": "Read and choose True or False.\n📖 Peter: What day is it today?\nMary: It's Monday.\nPeter: What do you do on Saturdays?\nMary: I do housework.\n\n👉 Mary does housework on Saturdays.",
+        "question": "Read and choose True or False.\nPeter: What day is it today?\nMary: It's Monday.\nPeter: What do you do on Saturdays?\nMary: I do housework.\n\nMary does housework on Saturdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5573,10 +5573,10 @@
           "A. week",
           "B. weke",
           "C. wek",
-          "D. wiek"
+          "D. eek"
         ],
         "correctAnswerIndex": 0,
-        "hint": "Cách viết đúng: wwiek (tuần).\n✅ A. wwiek"
+        "hint": "Cách viết đúng: week (tuần).\n✅ A. week"
       },
       {
         "id": 1196,
@@ -5609,7 +5609,7 @@
       {
         "id": 1198,
         "question": "Choose the missing letter.\ntwo _ifteen",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/twofifteen.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. f",
@@ -5624,7 +5624,7 @@
         "id": 1199,
         "question": "Choose the missing letter.\nwe_k",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/week.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. j",
           "B. f",
@@ -5670,7 +5670,7 @@
         "choices": [
           "A. week",
           "B. weec",
-          "C. weeck",
+          "C. reek",
           "D. wek"
         ],
         "correctAnswerIndex": 0,
@@ -5748,7 +5748,7 @@
       },
       {
         "id": 1208,
-        "question": "Find the mistake.\n<u>I</u> <u>am</u> <u>Nam</u>. It <u>are</u> Monday today.",
+        "question": "Find the mistake.\nI am Nam. It are Monday today.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5762,7 +5762,7 @@
       },
       {
         "id": 1209,
-        "question": "Find the mistake.\nSaturday and <u>Sunday</u> <u>is</u> <u>the</u> <u>weekend</u>.",
+        "question": "Find the mistake.\nSaturday and Sunday is the weekend.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5776,7 +5776,7 @@
       },
       {
         "id": 1210,
-        "question": "Find the mistake.\n<u>I</u> <u>has</u> <u>breakfast</u> at <u>six</u> forty-five.",
+        "question": "Find the mistake.\nI has breakfast at six forty-five.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5790,7 +5790,7 @@
       },
       {
         "id": 1211,
-        "question": "Find the mistake.\n<u>I</u> <u>do</u> I homework at <u>nine</u> <u>fifteen</u>.",
+        "question": "Find the mistake.\nI do I homework at nine fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -5890,7 +5890,7 @@
         "id": 1218,
         "question": "Choose the missing letter.\nweek_nd",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/weekend.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. w",
           "B. u",
@@ -5945,8 +5945,8 @@
       {
         "id": 1222,
         "question": "Choose the missing letter.\ngo_t",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/goat.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/goat.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. k",
           "B. l",
@@ -5959,8 +5959,8 @@
       {
         "id": 1223,
         "question": "Choose the missing letter.\nnoo_les",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/noodles.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/noodles.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. d",
           "B. p",
@@ -6028,7 +6028,7 @@
       },
       {
         "id": 1228,
-        "question": "Find the mistake.\n<u>Hello</u>, Peter. <u>How</u> <u>is</u> <u>you</u>?",
+        "question": "Find the mistake.\nHello, Peter. How is you?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6042,7 +6042,7 @@
       },
       {
         "id": 1229,
-        "question": "Find the mistake.\nThis <u>is</u> <u>I</u> friend, Minh. He is <u>from</u> <u>Canada</u>.",
+        "question": "Find the mistake.\nThis is I friend, Minh. He is from Canada.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6273,7 +6273,7 @@
       },
       {
         "id": 238,
-        "question": "Choose the correct answer.\nA: When's Kate's birthday?\nB: ___ in April.",
+        "question": "When's Kate's birthday? – ___ in April.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6287,12 +6287,12 @@
       },
       {
         "id": 239,
-        "question": "Choose the correct answer.\nA: What do you want to eat?\nB: I want ___ grapes.",
+        "question": "What do you want to eat? – I want ___ grapes.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. some",
-          "B. is",
+          "B. two",
           "C. an",
           "D. a"
         ],
@@ -6301,7 +6301,7 @@
       },
       {
         "id": 240,
-        "question": "Choose the correct answer.\nA: When's Laura's birthday?\nB: ___ in June.",
+        "question": "When's Laura's birthday? – ___ in June.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6315,7 +6315,7 @@
       },
       {
         "id": 241,
-        "question": "Choose the correct answer.\nA: ___ your birthday?\nB: It's in May.",
+        "question": "___ your birthday? – It's in May.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6329,7 +6329,7 @@
       },
       {
         "id": 242,
-        "question": "Choose the correct answer.\nA: When's your birthday?\nB: ___ in December.",
+        "question": "When's your birthday? – ___ in December.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6399,7 +6399,7 @@
       },
       {
         "id": 247,
-        "question": "Choose the correct answer.\nA: When's Bill's birthday?\nB: ___",
+        "question": "When's Bill's birthday? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6413,7 +6413,7 @@
       },
       {
         "id": 248,
-        "question": "Choose the correct answer.\nA: When's your birthday?\nB: ___",
+        "question": "When's your birthday? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6427,7 +6427,7 @@
       },
       {
         "id": 249,
-        "question": "Choose the correct answer.\nA: When's Bill's birthday?\nB: ___",
+        "question": "When's Bill's birthday? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6441,7 +6441,7 @@
       },
       {
         "id": 250,
-        "question": "Choose the correct answer.\nA: What do you want to eat?\nB: ___",
+        "question": "What do you want to eat? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6511,7 +6511,7 @@
       },
       {
         "id": 255,
-        "question": "Read and choose the correct answer.\n📖 Hi. I'm Nam. My birthday is in January. I want some chips and some water at my party.\n\n❓ What does Nam want to eat?",
+        "question": "Read and choose the correct answer.\nHi. I'm Nam. My birthday is in January. I want some chips and some water at my party.\n\nWhat does Nam want to eat?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6525,7 +6525,7 @@
       },
       {
         "id": 256,
-        "question": "Read and choose the correct answer.\n📖 Dear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\n❓ What does Linh want to drink at the party?",
+        "question": "Read and choose the correct answer.\nDear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\nWhat does Linh want to drink at the party?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6681,7 +6681,7 @@
         "id": 267,
         "question": "Complete the word.\nbir_ _day",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/birthday.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. or",
           "B. oo",
@@ -6695,7 +6695,7 @@
         "id": 268,
         "question": "Complete the word.\np_ _ty",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/party.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. ar",
           "B. or",
@@ -6709,7 +6709,7 @@
         "id": 269,
         "question": "Complete the word.\n_ _t",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/eat.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. ea",
           "B. cl",
@@ -6797,7 +6797,7 @@
         "choices": [
           "A. I want some lemonade.",
           "B. I want some milk.",
-          "C. I want some juice.",
+          "C. I want some lemonade.",
           "D. I want some water."
         ],
         "correctAnswerIndex": 1,
@@ -6903,7 +6903,7 @@
       },
       {
         "id": 283,
-        "question": "Choose the correct answer.\nA: What time do you have lunch?\nB: I ___ lunch at twelve forty-five.",
+        "question": "What time do you have lunch? – I ___ lunch at twelve forty-five.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6917,7 +6917,7 @@
       },
       {
         "id": 284,
-        "question": "Choose the correct answer.\nA: When's Kate's birthday?\nB: ___ in February.",
+        "question": "When's Kate's birthday? – ___ in February.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6931,7 +6931,7 @@
       },
       {
         "id": 285,
-        "question": "Choose the correct answer.\nA: What time is it?\nB: It's ___.",
+        "question": "What time is it? – It's ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6973,7 +6973,7 @@
       },
       {
         "id": 288,
-        "question": "Choose the correct answer.\nA: What's this?\nB: ___",
+        "question": "What's this? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -6987,14 +6987,14 @@
       },
       {
         "id": 289,
-        "question": "Choose the correct answer.\nA: When's your birthday?\nB: ___",
+        "question": "When's your birthday? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. It says 'go'.",
           "B. My birthday's in January.",
           "C. He's from Japan.",
-          "D. It's in the countryside."
+          "D. It's in September."
         ],
         "correctAnswerIndex": 1,
         "hint": "When's your birthday? → Sinh nhật của bạn khi nào?\n✅ B. My birthday's in January. → Sinh nhật mình vào tháng Một."
@@ -7029,7 +7029,7 @@
       },
       {
         "id": 292,
-        "question": "Read and choose the correct answer.\n📖 I am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\n❓ Where does the speaker have lunch?",
+        "question": "Read and choose the correct answer.\nI am Nam. I get up at six thirty. I wash my face and clean my teeth. I go to school at seven thirty. I have lunch at school. I do my homework and go to bed at nine o'clock.\n\nWhere does the speaker have lunch?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7100,8 +7100,8 @@
       {
         "id": 297,
         "question": "Complete the word.\n_ _aser",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/eraser.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/eraser.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. gr",
           "B. er",
@@ -7115,7 +7115,7 @@
         "id": 298,
         "question": "Complete the word.\nf_om",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/from.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. m",
           "B. r",
@@ -7239,7 +7239,7 @@
       },
       {
         "id": 869,
-        "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\n👉 Linh is from Viet Nam.",
+        "question": "Read and choose True or False.\nDear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\nLinh is from Viet Nam.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7251,7 +7251,7 @@
       },
       {
         "id": 870,
-        "question": "Read and choose True or False.\n📖 Hi. I'm Nam. My birthday is in January. I want some chips and some water at my party.\n\n👉 Nam wants some grapes.",
+        "question": "Read and choose True or False.\nHi. I'm Nam. My birthday is in January. I want some chips and some water at my party.\n\nNam wants some grapes.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7263,7 +7263,7 @@
       },
       {
         "id": 871,
-        "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Peter. I'm from Thailand. I'm nine years old. My birthday's in April. It's coming soon. I want some chips and some water at my party. What about you? When's your birthday?\n\n👉 Peter is nine years old.",
+        "question": "Read and choose True or False.\nDear pen friend, My name's Peter. I'm from Thailand. I'm nine years old. My birthday's in April. It's coming soon. I want some chips and some water at my party. What about you? When's your birthday?\n\nPeter is nine years old.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7275,7 +7275,7 @@
       },
       {
         "id": 872,
-        "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Peter. I'm from Thailand. I'm nine years old. My birthday's in April. It's coming soon. I want some chips and some water at my party. What about you? When's your birthday?\n\n👉 Peter's birthday is coming soon.",
+        "question": "Read and choose True or False.\nDear pen friend, My name's Peter. I'm from Thailand. I'm nine years old. My birthday's in April. It's coming soon. I want some chips and some water at my party. What about you? When's your birthday?\n\nPeter's birthday is coming soon.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7287,7 +7287,7 @@
       },
       {
         "id": 873,
-        "question": "Read and choose True or False.\n📖 Hi. I'm Bill. My birthday is in November. I want some jam and some juice at my party.\n\n👉 Bill wants some chips.",
+        "question": "Read and choose True or False.\nHi. I'm Bill. My birthday is in November. I want some jam and some juice at my party.\n\nBill wants some chips.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7299,7 +7299,7 @@
       },
       {
         "id": 874,
-        "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Peter. I'm from Thailand. I'm nine years old. My birthday's in April. It's coming soon. I want some chips and some water at my party. What about you? When's your birthday?\n\n👉 Peter is from Britain.",
+        "question": "Read and choose True or False.\nDear pen friend, My name's Peter. I'm from Thailand. I'm nine years old. My birthday's in April. It's coming soon. I want some chips and some water at my party. What about you? When's your birthday?\n\nPeter is from Britain.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7503,7 +7503,7 @@
       },
       {
         "id": 891,
-        "question": "Read and choose True or False.\n📖 Hello. I am Mai. I am ten years old. I am from Thailand. I have two new friends, Mary and Bill. Mary is from Canada. Bill is from Britain. They are friendly.\n\n👉 Mai has two new friends.",
+        "question": "Read and choose True or False.\nHello. I am Mai. I am ten years old. I am from Thailand. I have two new friends, Mary and Bill. Mary is from Canada. Bill is from Britain. They are friendly.\n\nMai has two new friends.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7515,7 +7515,7 @@
       },
       {
         "id": 892,
-        "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\n👉 Linh's birthday is coming soon.",
+        "question": "Read and choose True or False.\nDear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\nLinh's birthday is coming soon.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7527,7 +7527,7 @@
       },
       {
         "id": 893,
-        "question": "Read and choose True or False.\n📖 Hi. I'm Nam. My birthday is in January. I want some chips and some water at my party.\n\n👉 Nam wants some water.",
+        "question": "Read and choose True or False.\nHi. I'm Nam. My birthday is in January. I want some chips and some water at my party.\n\nNam wants some water.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7563,7 +7563,7 @@
       },
       {
         "id": 896,
-        "question": "Listen and choose True or False.\nIt's Saturday today.",
+        "question": "Listen and choose True or False.\nToday is Saturday.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/billwhatdayisittoday\nlucyitsthursday\nbillwhatdoyoudoonsaturdays\nlucyistayathome.mp3",
         "choices": [
@@ -7618,7 +7618,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. waterr",
-          "B. wator",
+          "B. rater",
           "C. water",
           "D. watre"
         ],
@@ -7632,12 +7632,12 @@
         "questionAudioUrl": "",
         "choices": [
           "A. paarty",
-          "B. prty",
+          "B. arty",
           "C. party",
           "D. partr"
         ],
         "correctAnswerIndex": 2,
-        "hint": "Cách viết đúng: pprty (bữa tiệc).\n✅ C. pprty"
+        "hint": "Cách viết đúng: party (bữa tiệc).\n✅ C. party"
       },
       {
         "id": 1235,
@@ -7656,7 +7656,7 @@
       {
         "id": 1236,
         "question": "Choose the missing letter.\ndo my hom_work",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/domyhomework.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. g",
@@ -7671,7 +7671,7 @@
         "id": 1237,
         "question": "Choose the missing letter.\nt_day",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/today.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. l",
           "B. y",
@@ -7685,7 +7685,7 @@
         "id": 1238,
         "question": "Choose the missing letter.\np_rty",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/party.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. a",
           "B. f",
@@ -7772,7 +7772,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. Ben's November is in birthday.",
-          "B. November in Ben's birthday Is.",
+          "B. Is birthday Ben's in November.",
           "C. November birthday is in Ben's.",
           "D. Ben's birthday is in November."
         ],
@@ -7786,7 +7786,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. What do you to want eat?",
-          "B. Eat to want you what Do?",
+          "B. Do what you want to eat?",
           "C. You do what want to eat?",
           "D. What do you want to eat?"
         ],
@@ -7795,7 +7795,7 @@
       },
       {
         "id": 1246,
-        "question": "Find the mistake.\n<u>I</u> <u>want</u> <u>a</u> <u>grapes</u>.",
+        "question": "Find the mistake.\nI want a grapes.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7809,7 +7809,7 @@
       },
       {
         "id": 1247,
-        "question": "Find the mistake.\nMy <u>birthday</u> <u>are</u> <u>in</u> <u>February</u>.",
+        "question": "Find the mistake.\nMy birthday are in February.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7823,7 +7823,7 @@
       },
       {
         "id": 1248,
-        "question": "Find the mistake.\nKate's <u>birthday</u> <u>are</u> <u>in</u> <u>November</u>.",
+        "question": "Find the mistake.\nKate's birthday are in November.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7837,7 +7837,7 @@
       },
       {
         "id": 1249,
-        "question": "Find the mistake.\n<u>I</u> <u>want</u> <u>a</u> <u>juice</u>.",
+        "question": "Find the mistake.\nI want a juice.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7907,7 +7907,7 @@
       },
       {
         "id": 1254,
-        "question": "Find the mistake.\nI <u>has</u> <u>dinner</u> <u>at</u> seven <u>fifteen</u>.",
+        "question": "Find the mistake.\nI has dinner at seven fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -7993,7 +7993,7 @@
         "id": 1260,
         "question": "Choose the missing letter.\ngrandfa_her",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/grandfather.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. s",
           "B. t",
@@ -8061,7 +8061,7 @@
       },
       {
         "id": 1265,
-        "question": "Find the mistake.\nBill's <u>birthday</u> <u>are</u> <u>in</u> <u>February</u>.",
+        "question": "Find the mistake.\nBill's birthday are in February.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8075,7 +8075,7 @@
       },
       {
         "id": 1266,
-        "question": "Find the mistake.\n<u>It</u> <u>are</u> a <u>school</u> <u>day</u>.",
+        "question": "Find the mistake.\nIt are a school day.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8334,7 +8334,7 @@
       },
       {
         "id": 315,
-        "question": "Choose the correct answer.\nA: Can he sing?\nB: Yes, he ___.",
+        "question": "Can he sing? – Yes, he ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8348,7 +8348,7 @@
       },
       {
         "id": 316,
-        "question": "Choose the correct answer.\nA: ___ you play the guitar?\nB: Yes, I can.",
+        "question": "___ you play the guitar? – Yes, I can.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8362,7 +8362,7 @@
       },
       {
         "id": 317,
-        "question": "Choose the correct answer.\nA: Can you play the piano?\nB: Yes, I ___.",
+        "question": "Can you play the piano? – Yes, I ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8376,7 +8376,7 @@
       },
       {
         "id": 318,
-        "question": "Choose the correct answer.\nA: Can she draw?\nB: Yes, she ___.",
+        "question": "Can she draw? – Yes, she ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8390,7 +8390,7 @@
       },
       {
         "id": 319,
-        "question": "Choose the correct answer.\nA: When's Minh's birthday?\nB: ___ in November.",
+        "question": "When's Minh's birthday? – ___ in November.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8460,7 +8460,7 @@
       },
       {
         "id": 324,
-        "question": "Choose the correct answer.\nA: Can you ride a horse?\nB: ___",
+        "question": "Can you ride a horse? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8474,7 +8474,7 @@
       },
       {
         "id": 325,
-        "question": "Choose the correct answer.\nA: Can Linh dance?\nB: ___",
+        "question": "Can Linh dance? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8488,7 +8488,7 @@
       },
       {
         "id": 326,
-        "question": "Choose the correct answer.\nA: Can Kate play the piano?\nB: ___",
+        "question": "Can Kate play the piano? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8502,7 +8502,7 @@
       },
       {
         "id": 327,
-        "question": "Choose the correct answer.\nA: Can she cook?\nB: ___",
+        "question": "Can she cook? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8572,7 +8572,7 @@
       },
       {
         "id": 332,
-        "question": "Read and choose the correct answer.\n📖 I have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\n❓ Who can roller skate?",
+        "question": "Read and choose the correct answer.\nI have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\nWho can roller skate?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8586,7 +8586,7 @@
       },
       {
         "id": 333,
-        "question": "Read and choose the correct answer.\n📖 I have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\n❓ Can Ben roller skate?",
+        "question": "Read and choose the correct answer.\nI have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\nCan Ben roller skate?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8727,8 +8727,8 @@
       {
         "id": 343,
         "question": "Complete the word.\n_ _ips",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/chips.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/chips.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. oy",
           "B. ch",
@@ -8741,8 +8741,8 @@
       {
         "id": 344,
         "question": "Complete the word.\nc_ _k",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/cook.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/cook.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. en",
           "B. sp",
@@ -8950,7 +8950,7 @@
       },
       {
         "id": 359,
-        "question": "Choose the correct answer.\nA: ___ she from?\nB: She's from Viet Nam.",
+        "question": "___ she from? – She's from Viet Nam.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8964,7 +8964,7 @@
       },
       {
         "id": 360,
-        "question": "Choose the correct answer.\nA: Can you sing?\nB: Yes, I ___.",
+        "question": "Can you sing? – Yes, I ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8978,7 +8978,7 @@
       },
       {
         "id": 361,
-        "question": "Choose the correct answer.\nA: What time do you have lunch?\nB: I have lunch ___ twelve thirty.",
+        "question": "What time do you have lunch? – I have lunch ___ twelve thirty.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -8992,7 +8992,7 @@
       },
       {
         "id": 362,
-        "question": "Read and complete.\nPeter: What time do you clean your teeth?\nLaura: I clean my teeth ___ nine o'clock.",
+        "question": "Read and complete.\nPeter: What time do you clean my teeth?\nLaura: I clean my teeth ___ nine o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9002,7 +9002,7 @@
           "D. on"
         ],
         "correctAnswerIndex": 1,
-        "hint": "at + giờ: lúc 9 giờ.\n📝 What time do you clean your teeth? / I clean my teeth at nine o'clock.\n→ Bạn đánh răng lúc mấy giờ? / Mình đánh răng lúc 9 giờ.\n✅ B. at"
+        "hint": "at + giờ: lúc 9 giờ.\n📝 What time do you clean my teeth? / I clean my teeth at nine o'clock.\n→ Bạn đánh răng lúc mấy giờ? / Mình đánh răng lúc 9 giờ.\n✅ B. at"
       },
       {
         "id": 363,
@@ -9020,7 +9020,7 @@
       },
       {
         "id": 364,
-        "question": "Choose the correct answer.\nA: What time do you get up?\nB: ___",
+        "question": "What time do you get up? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9034,7 +9034,7 @@
       },
       {
         "id": 365,
-        "question": "Choose the correct answer.\nA: Can you dance?\nB: ___",
+        "question": "Can you dance? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9076,7 +9076,7 @@
       },
       {
         "id": 368,
-        "question": "Read and choose the correct answer.\n📖 Hello. I am Mai. I am ten years old. I am from Thailand. I have two new friends, Mary and Bill. Mary is from Canada. Bill is from Britain. They are friendly.\n\n❓ How old is Mai?",
+        "question": "Read and choose the correct answer.\nHello. I am Mai. I am ten years old. I am from Thailand. I have two new friends, Mary and Bill. Mary is from Canada. Bill is from Britain. They are friendly.\n\nHow old is Mai?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9147,8 +9147,8 @@
       {
         "id": 373,
         "question": "Complete the word.\nsi_g",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/sing.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/sing.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. f",
           "B. k",
@@ -9161,8 +9161,8 @@
       {
         "id": 374,
         "question": "Complete the word.\ntr_ _n",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/train.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/train.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. ai",
           "B. nk",
@@ -9272,7 +9272,7 @@
       },
       {
         "id": 906,
-        "question": "Read and choose True or False.\n📖 I have a friend, Linh. She can draw, but she can't ride a horse. She can roller skate, too.\n\n👉 Linh can roller skate.",
+        "question": "Read and choose True or False.\nI have a friend, Linh. She can draw, but she can't ride a horse. She can roller skate, too.\n\nLinh can roller skate.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9284,7 +9284,7 @@
       },
       {
         "id": 907,
-        "question": "Read and choose True or False.\n📖 I have a friend, Minh. He can cook, but he can't play the piano. He can swim, too.\n\n👉 Minh can swim.",
+        "question": "Read and choose True or False.\nI have a friend, Minh. He can cook, but he can't play the piano. He can swim, too.\n\nMinh can swim.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9296,7 +9296,7 @@
       },
       {
         "id": 908,
-        "question": "Read and choose True or False.\n📖 I have a friend, Linh. She can draw, but she can't ride a horse. She can roller skate, too.\n\n👉 Linh can draw.",
+        "question": "Read and choose True or False.\nI have a friend, Linh. She can draw, but she can't ride a horse. She can roller skate, too.\n\nLinh can draw.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9308,7 +9308,7 @@
       },
       {
         "id": 909,
-        "question": "Read and choose True or False.\n📖 I have three friends, Bill, Ben and Nam. Bill can fly a kite, but he can't cook. Ben can play badminton, but he can't ride a bike. Nam can cook. I can ride a bike, but I can't play badminton.\n\n👉 Tony can ride a bike.",
+        "question": "Read and choose True or False.\nI have three friends, Bill, Ben and Nam. Bill can fly a kite, but he can't cook. Ben can play badminton, but he can't ride a bike. Nam can cook. I can ride a bike, but I can't play badminton.\n\nTony can ride a bike.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9320,7 +9320,7 @@
       },
       {
         "id": 910,
-        "question": "Read and choose True or False.\n📖 I have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\n👉 Ben can ride a bike.",
+        "question": "Read and choose True or False.\nI have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\nBen can ride a bike.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9332,7 +9332,7 @@
       },
       {
         "id": 911,
-        "question": "Read and choose True or False.\n📖 I have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\n👉 Laura can fly a kite.",
+        "question": "Read and choose True or False.\nI have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\nLaura can fly a kite.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9536,7 +9536,7 @@
       },
       {
         "id": 928,
-        "question": "Read and choose True or False.\n📖 Dear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\n👉 Linh is nine years old.",
+        "question": "Read and choose True or False.\nDear pen friend, My name's Linh. I'm from America. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday?\n\nLinh is nine years old.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9548,7 +9548,7 @@
       },
       {
         "id": 929,
-        "question": "Read and choose True or False.\n📖 Hi. I'm Bill. My birthday is in November. I want some jam and some juice at my party.\n\n👉 Bill wants some juice.",
+        "question": "Read and choose True or False.\nHi. I'm Bill. My birthday is in November. I want some jam and some juice at my party.\n\nBill wants some juice.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9560,7 +9560,7 @@
       },
       {
         "id": 930,
-        "question": "Read and choose True or False.\n📖 Hello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\n👉 Lucy is from Singapore.",
+        "question": "Read and choose True or False.\nHello. I am Lucy. I am ten years old. I am from Australia. I have two new friends, Minh and Nam. Minh is from Singapore. Nam is from Thailand. They are friendly.\n\nLucy is from Singapore.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9638,7 +9638,7 @@
         "choices": [
           "A. skpi",
           "B. zkip",
-          "C. skap",
+          "C. skep",
           "D. skip"
         ],
         "correctAnswerIndex": 3,
@@ -9689,7 +9689,7 @@
       {
         "id": 1273,
         "question": "Choose the missing letter.\nroller sk_te",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/rollerskate.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. p",
@@ -9704,7 +9704,7 @@
         "id": 1274,
         "question": "Choose the missing letter.\ntoda_",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/today.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. c",
           "B. h",
@@ -9717,8 +9717,8 @@
       {
         "id": 1275,
         "question": "Choose the missing letter.\nc_ok",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/cook.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/cook.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. o",
           "B. g",
@@ -9779,7 +9779,7 @@
           "A. Can she roller skate?",
           "B. Can skate roller she?",
           "C. Can she skate roller?",
-          "D. Skate roller can She?"
+          "D. She can roller skate?"
         ],
         "correctAnswerIndex": 0,
         "hint": "Sắp xếp từ thành câu đúng.\n✅ A. Can she roller skate?\n👉 Cô ấy có biết trượt patin không?"
@@ -9792,7 +9792,7 @@
         "choices": [
           "A. Linh can fly a kite.",
           "B. Linh fly can a kite.",
-          "C. Kite a fly Linh Can.",
+          "C. Can Linh fly a kite.",
           "D. Fly can Linh a kite."
         ],
         "correctAnswerIndex": 0,
@@ -9805,7 +9805,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. I can football play.",
-          "B. Football play I Can.",
+          "B. Can I play football.",
           "C. I football play can.",
           "D. I can play football."
         ],
@@ -9828,7 +9828,7 @@
       },
       {
         "id": 1283,
-        "question": "Find the mistake.\n<u>I</u> <u>can</u> fly <u>an</u> <u>kite</u>.",
+        "question": "Find the mistake.\nI can fly an kite.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9842,7 +9842,7 @@
       },
       {
         "id": 1284,
-        "question": "Find the mistake.\nI <u>cans</u> ride <u>a</u> horse, but I can't <u>play</u> <u>football</u>.",
+        "question": "Find the mistake.\nI cans ride a horse, but I can't play football.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9856,7 +9856,7 @@
       },
       {
         "id": 1285,
-        "question": "Find the mistake.\nKate <u>cans</u> <u>fly</u> <u>a</u> <u>kite</u>.",
+        "question": "Find the mistake.\nKate cans fly a kite.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9870,7 +9870,7 @@
       },
       {
         "id": 1286,
-        "question": "Find the mistake.\n<u>Lucy</u> <u>cans</u> fly a kite, but she <u>can't</u> <u>dance</u>.",
+        "question": "Find the mistake.\nLucy cans fly a kite, but she can't dance.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9927,8 +9927,8 @@
       {
         "id": 1290,
         "question": "Choose the missing letter.\nsi_g",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/sing.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/sing.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. n",
           "B. m",
@@ -9940,7 +9940,7 @@
       },
       {
         "id": 1291,
-        "question": "Find the mistake.\n<u>Tony</u> <u>can</u> ride <u>an</u> <u>bike</u>.",
+        "question": "Find the mistake.\nTony can ride an bike.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -9954,7 +9954,7 @@
       },
       {
         "id": 1292,
-        "question": "Find the mistake.\n<u>No</u>, he can't, <u>but</u> he <u>can</u> ride <u>an</u> bike.",
+        "question": "Find the mistake.\nNo, he can't, but he can ride an bike.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10011,7 +10011,7 @@
       {
         "id": 1296,
         "question": "Choose the missing letter.\n_ave lunch",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/havelunch.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. o",
@@ -10025,7 +10025,7 @@
       {
         "id": 1297,
         "question": "Choose the missing letter.\nstay at ho_e",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/stayathome.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. u",
@@ -10086,7 +10086,7 @@
         "choices": [
           "A. I at breakfast have seven thirty.",
           "B. I have breakfast at seven thirty.",
-          "C. Thirty seven at breakfast I Have.",
+          "C. Have I breakfast at seven thirty.",
           "D. Breakfast have I at seven thirty."
         ],
         "correctAnswerIndex": 1,
@@ -10094,7 +10094,7 @@
       },
       {
         "id": 1302,
-        "question": "Find the mistake.\n<u>Linh's</u> <u>birthday</u> <u>are</u> in <u>October</u>.",
+        "question": "Find the mistake.\nLinh's birthday are in October.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10108,7 +10108,7 @@
       },
       {
         "id": 1303,
-        "question": "Find the mistake.\n<u>I</u> <u>want</u> <u>a</u> <u>chips</u>.",
+        "question": "Find the mistake.\nI want a chips.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10339,7 +10339,7 @@
       },
       {
         "id": 388,
-        "question": "Choose the correct answer.\nA: How many classrooms are there at your school?\nB: There ___ six classrooms.",
+        "question": "How many classrooms are there at your school? – There ___ six classrooms.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10353,7 +10353,7 @@
       },
       {
         "id": 389,
-        "question": "Choose the correct answer.\nA: How many libraries are there at your school?\nB: There ___ four.",
+        "question": "How many libraries are there at your school? – There ___ four.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10367,7 +10367,7 @@
       },
       {
         "id": 390,
-        "question": "Choose the correct answer.\nA: How many classrooms ___ there at your school?\nB: There is one classroom.",
+        "question": "How many classrooms ___ there at your school? – There is one classroom.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10381,7 +10381,7 @@
       },
       {
         "id": 391,
-        "question": "Choose the correct answer.\nA: How many buildings are there at your school?\nB: There ___ six buildings.",
+        "question": "How many buildings are there at your school? – There ___ six buildings.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10395,7 +10395,7 @@
       },
       {
         "id": 392,
-        "question": "Choose the correct answer.\nA: ___ many gardens are there at your school?\nB: There are two.",
+        "question": "___ many gardens are there at your school? – There are two.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10465,7 +10465,7 @@
       },
       {
         "id": 397,
-        "question": "Choose the correct answer.\nA: Where's your school?\nB: ___",
+        "question": "Where's your school? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10479,7 +10479,7 @@
       },
       {
         "id": 398,
-        "question": "Choose the correct answer.\nA: How many libraries are there at your school?\nB: ___",
+        "question": "How many libraries are there at your school? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10493,7 +10493,7 @@
       },
       {
         "id": 399,
-        "question": "Choose the correct answer.\nA: How many music rooms are there at your school?\nB: ___",
+        "question": "How many music rooms are there at your school? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10507,7 +10507,7 @@
       },
       {
         "id": 400,
-        "question": "Choose the correct answer.\nA: How many classrooms are there at your school?\nB: ___",
+        "question": "How many classrooms are there at your school? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10577,7 +10577,7 @@
       },
       {
         "id": 405,
-        "question": "Read and choose the correct answer.\n📖 Peter: Where's your school, Nam?\nNam: It's in the village.\nPeter: How many gardens are there at your school?\nNam: There are four.\n\n❓ How many gardens are there at Nam's school?",
+        "question": "Read and choose the correct answer.\nPeter: Where's your school, Nam?\nNam: It's in the village.\nPeter: How many gardens are there at your school?\nNam: There are four.\n\nHow many gardens are there at Nam's school?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10591,7 +10591,7 @@
       },
       {
         "id": 406,
-        "question": "Read and choose the correct answer.\n📖 Ben: Where's your school, Bill?\nBill: It's in the village.\nBen: How many computer rooms are there at your school?\nBill: There are three.\n\n❓ Where's Bill's school?",
+        "question": "Read and choose the correct answer.\nBen: Where's your school, Bill?\nBill: It's in the village.\nBen: How many computer rooms are there at your school?\nBill: There are three.\n\nWhere's Bill's school?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10747,7 +10747,7 @@
         "id": 417,
         "question": "Complete the word.\ns_ _ool",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/school.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. sh",
           "B. er",
@@ -10760,8 +10760,8 @@
       {
         "id": 418,
         "question": "Complete the word.\nc_ _ntryside",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/countryside.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/countryside.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. ou",
           "B. or",
@@ -10774,8 +10774,8 @@
       {
         "id": 419,
         "question": "Complete the word.\ng_ _den",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/garden.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/garden.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. dr",
           "B. ar",
@@ -10983,7 +10983,7 @@
       },
       {
         "id": 434,
-        "question": "Choose the correct answer.\nA: What time is it?\nB: ___ four forty-five.",
+        "question": "What time is it? – ___ four forty-five.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -10997,7 +10997,7 @@
       },
       {
         "id": 435,
-        "question": "Choose the correct answer.\nA: What time ___ it?\nB: It's twelve fifteen.",
+        "question": "What time ___ it? – It's twelve fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11011,7 +11011,7 @@
       },
       {
         "id": 436,
-        "question": "Choose the correct answer.\nA: ___ he from?\nB: He's from Japan.",
+        "question": "___ he from? – He's from Japan.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11025,7 +11025,7 @@
       },
       {
         "id": 437,
-        "question": "Read and complete.\nBill: What ___ do you clean your teeth?\nMai: I clean my teeth at six o'clock.",
+        "question": "Read and complete.\nBill: What ___ do you clean my teeth?\nMai: I clean my teeth at six o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11035,7 +11035,7 @@
           "D. where"
         ],
         "correctAnswerIndex": 0,
-        "hint": "What time …?: Mấy giờ …?\n📝 What time do you clean your teeth? / I clean my teeth at six o'clock.\n→ Bạn đánh răng lúc mấy giờ? / Mình đánh răng lúc 6 giờ.\n✅ A. time"
+        "hint": "What time …?: Mấy giờ …?\n📝 What time do you clean my teeth? / I clean my teeth at six o'clock.\n→ Bạn đánh răng lúc mấy giờ? / Mình đánh răng lúc 6 giờ.\n✅ A. time"
       },
       {
         "id": 438,
@@ -11053,7 +11053,7 @@
       },
       {
         "id": 439,
-        "question": "Choose the correct answer.\nA: How many computer rooms are there at your school?\nB: ___",
+        "question": "How many computer rooms are there at your school? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11067,7 +11067,7 @@
       },
       {
         "id": 440,
-        "question": "Choose the correct answer.\nA: How many libraries are there at your school?\nB: ___",
+        "question": "How many libraries are there at your school? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11109,7 +11109,7 @@
       },
       {
         "id": 443,
-        "question": "Read and choose the correct answer.\n📖 I have a friend, Minh. He can cook, but he can't play the piano. He can swim, too.\n\n❓ What can Minh do?",
+        "question": "Read and choose the correct answer.\nI have a friend, Minh. He can cook, but he can't play the piano. He can swim, too.\n\nWhat can Minh do?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11180,8 +11180,8 @@
       {
         "id": 448,
         "question": "Complete the word.\n_abbit",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/rabbit.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/rabbit.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. r",
           "B. k",
@@ -11194,8 +11194,8 @@
       {
         "id": 449,
         "question": "Complete the word.\nrainb_ _",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/rainbow.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/rainbow.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. gr",
           "B. ow",
@@ -11305,7 +11305,7 @@
       },
       {
         "id": 943,
-        "question": "Read and choose True or False.\n📖 Peter: Where's your school, Nam?\nNam: It's in the village.\nPeter: How many gardens are there at your school?\nNam: There are four.\n\n👉 Nam's school is in the village.",
+        "question": "Read and choose True or False.\nPeter: Where's your school, Nam?\nNam: It's in the village.\nPeter: How many gardens are there at your school?\nNam: There are four.\n\nNam's school is in the village.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11317,7 +11317,7 @@
       },
       {
         "id": 944,
-        "question": "Read and choose True or False.\n📖 Ben: Where's your school, Bill?\nBill: It's in the village.\nBen: How many computer rooms are there at your school?\nBill: There are three.\n\n👉 Bill's school is in the village.",
+        "question": "Read and choose True or False.\nBen: Where's your school, Bill?\nBill: It's in the village.\nBen: How many computer rooms are there at your school?\nBill: There are three.\n\nBill's school is in the village.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11329,7 +11329,7 @@
       },
       {
         "id": 945,
-        "question": "Read and choose True or False.\n📖 Peter: Where's your school, Nam?\nNam: It's in the village.\nPeter: How many gardens are there at your school?\nNam: There are four.\n\n👉 Nam's school is in the mountains.",
+        "question": "Read and choose True or False.\nPeter: Where's your school, Nam?\nNam: It's in the village.\nPeter: How many gardens are there at your school?\nNam: There are four.\n\nNam's school is in the mountains.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11341,7 +11341,7 @@
       },
       {
         "id": 946,
-        "question": "Read and choose True or False.\n📖 Peter: Where's your school, Nam?\nNam: It's in the village.\nPeter: How many gardens are there at your school?\nNam: There are four.\n\n👉 There are four gardens at Nam's school.",
+        "question": "Read and choose True or False.\nPeter: Where's your school, Nam?\nNam: It's in the village.\nPeter: How many gardens are there at your school?\nNam: There are four.\n\nThere are four gardens at Nam's school.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11353,7 +11353,7 @@
       },
       {
         "id": 947,
-        "question": "Read and choose True or False.\n📖 My name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\n👉 There is a big playground.",
+        "question": "Read and choose True or False.\nMy name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\nThere is a big playground.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11365,7 +11365,7 @@
       },
       {
         "id": 948,
-        "question": "Read and choose True or False.\n📖 My name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\n👉 Nam's school is in the village.",
+        "question": "Read and choose True or False.\nMy name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\nNam's school is in the village.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11569,7 +11569,7 @@
       },
       {
         "id": 965,
-        "question": "Read and choose True or False.\n📖 My name is Minh. My school is in the mountains. There are four buildings and three gardens at my school. There is a big playground. We can play football there.\n\n👉 Minh's school is in the mountains.",
+        "question": "Read and choose True or False.\nMy name is Minh. My school is in the mountains. There are four buildings and three gardens at my school. There is a big playground. We can play football there.\n\nMinh's school is in the mountains.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11581,7 +11581,7 @@
       },
       {
         "id": 966,
-        "question": "Read and choose True or False.\n📖 I have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\n👉 Bill can fly a kite.",
+        "question": "Read and choose True or False.\nI have three friends, Ben, Bill and Peter. Ben can ride a bike, but he can't roller skate. Bill can cook, but he can't fly a kite. Peter can roller skate. I can fly a kite, but I can't cook.\n\nBill can fly a kite.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11593,7 +11593,7 @@
       },
       {
         "id": 967,
-        "question": "Read and choose True or False.\n📖 I am Minh. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I watch TV. On Sundays, I listen to music.\n\n👉 Minh goes to school on Wednesdays.",
+        "question": "Read and choose True or False.\nI am Minh. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. On Saturdays, I watch TV. On Sundays, I listen to music.\n\nMinh goes to school on Wednesdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11723,7 +11723,7 @@
         "id": 1310,
         "question": "Choose the missing letter.\nschoo_",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/school.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. l",
           "B. v",
@@ -11737,7 +11737,7 @@
         "id": 1311,
         "question": "Choose the missing letter.\nbirt_day",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/birthday.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. o",
           "B. s",
@@ -11750,8 +11750,8 @@
       {
         "id": 1312,
         "question": "Choose the missing letter.\nga_den",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/garden.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/garden.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. j",
           "B. w",
@@ -11852,7 +11852,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. The school is in Bill's mountains.",
-          "B. Mountains the in Bill's school Is.",
+          "B. Is school Bill's in the mountains.",
           "C. Bill's school is in the mountains.",
           "D. Bill's school is mountains the in."
         ],
@@ -11861,7 +11861,7 @@
       },
       {
         "id": 1320,
-        "question": "Find the mistake.\nHow many gyms <u>are</u> <u>there</u> at <u>you</u> <u>school</u>?",
+        "question": "Find the mistake.\nHow many gyms are there at you school?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11875,7 +11875,7 @@
       },
       {
         "id": 1321,
-        "question": "Find the mistake.\n<u>There</u> <u>is</u> <u>two</u> <u>computer</u> rooms.",
+        "question": "Find the mistake.\nThere is two computer rooms.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11889,7 +11889,7 @@
       },
       {
         "id": 1322,
-        "question": "Find the mistake.\n<u>There</u> <u>is</u> <u>two</u> <u>classrooms</u>.",
+        "question": "Find the mistake.\nThere is two classrooms.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -11903,7 +11903,7 @@
       },
       {
         "id": 1323,
-        "question": "Find the mistake.\n<u>My</u> <u>school</u> is <u>beautiful</u>. <u>I</u> love I school!",
+        "question": "Find the mistake.\nMy school is beautiful. I love I school!",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12021,11 +12021,11 @@
         "choices": [
           "A. oranje",
           "B. oorange",
-          "C. orenge",
+          "C. orang",
           "D. orange"
         ],
         "correctAnswerIndex": 3,
-        "hint": "Cách viết đúng: orengee (quả cam).\n✅ D. orengee"
+        "hint": "Cách viết đúng: orange (quả cam).\n✅ D. orange"
       },
       {
         "id": 1332,
@@ -12033,7 +12033,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. rever",
+          "A. raver",
           "B. rievr",
           "C. riverr",
           "D. river"
@@ -12044,7 +12044,7 @@
       {
         "id": 1333,
         "question": "Choose the missing letter.\nliv_ng room",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/livingroom.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. i",
@@ -12058,7 +12058,7 @@
       {
         "id": 1334,
         "question": "Choose the missing letter.\nride a h_rse",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/rideahorse.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. t",
@@ -12104,7 +12104,7 @@
         "questionAudioUrl": "",
         "choices": [
           "A. Linh is from Japan.",
-          "B. Japan from Linh Is.",
+          "B. Is Linh from Japan.",
           "C. Japan is from Linh.",
           "D. Linh Japan from is."
         ],
@@ -12127,7 +12127,7 @@
       },
       {
         "id": 1339,
-        "question": "Find the mistake.\n<u>Come</u> <u>to</u> <u>I</u> <u>birthday</u> party!",
+        "question": "Find the mistake.\nCome to I birthday party!",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12141,7 +12141,7 @@
       },
       {
         "id": 1340,
-        "question": "Find the mistake.\n<u>Ben's</u> school <u>are</u> <u>in</u> the <u>town</u>.",
+        "question": "Find the mistake.\nBen's school are in the town.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12372,7 +12372,7 @@
       },
       {
         "id": 463,
-        "question": "Choose the correct answer.\nA: Do you ___ art on Mondays?\nB: No, I don't.",
+        "question": "Do you ___ art on Mondays? – No, I don't.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12386,7 +12386,7 @@
       },
       {
         "id": 464,
-        "question": "Choose the correct answer.\nA: When do you have Vietnamese?\nB: I ___ it on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays.",
+        "question": "When do you have Vietnamese? – I ___ it on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12400,7 +12400,7 @@
       },
       {
         "id": 465,
-        "question": "Choose the correct answer.\nA: ___ do you have maths?\nB: I have it on Mondays and Tuesdays.",
+        "question": "___ do you have maths? – I have it on Mondays and Tuesdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12414,7 +12414,7 @@
       },
       {
         "id": 466,
-        "question": "Choose the correct answer.\nA: ___ do you have Vietnamese?\nB: I have it on Mondays and Tuesdays.",
+        "question": "___ do you have Vietnamese? – I have it on Mondays and Tuesdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12428,7 +12428,7 @@
       },
       {
         "id": 467,
-        "question": "Choose the correct answer.\nA: What subjects do you ___ on Tuesdays?\nB: I have Vietnamese, maths and music.",
+        "question": "What subjects do you ___ on Tuesdays? – I have Vietnamese, maths and music.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12498,7 +12498,7 @@
       },
       {
         "id": 472,
-        "question": "Choose the correct answer.\nA: Do you have PE today?\nB: ___",
+        "question": "Do you have PE today? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12512,7 +12512,7 @@
       },
       {
         "id": 473,
-        "question": "Choose the correct answer.\nA: Can Laura cook?\nB: ___",
+        "question": "Can Laura cook? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12526,7 +12526,7 @@
       },
       {
         "id": 474,
-        "question": "Choose the correct answer.\nA: What subjects do you have today?\nB: ___",
+        "question": "What subjects do you have today? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12540,7 +12540,7 @@
       },
       {
         "id": 475,
-        "question": "Choose the correct answer.\nA: Do you have IT on Thursdays?\nB: ___",
+        "question": "Do you have IT on Thursdays? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12610,7 +12610,7 @@
       },
       {
         "id": 480,
-        "question": "Read and choose the correct answer.\n📖 My name is Laura. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\n❓ What day is it today?",
+        "question": "Read and choose the correct answer.\nMy name is Laura. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\nWhat day is it today?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12624,7 +12624,7 @@
       },
       {
         "id": 481,
-        "question": "Read and choose the correct answer.\n📖 My name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n❓ What does Nam have every school day?",
+        "question": "Read and choose the correct answer.\nMy name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nWhat does Nam have every school day?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12779,8 +12779,8 @@
       {
         "id": 492,
         "question": "Complete the word.\nma_ _s",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/maths.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/maths.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. th",
           "B. br",
@@ -12793,8 +12793,8 @@
       {
         "id": 493,
         "question": "Complete the word.\npl_ _ground",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/playground.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/playground.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. th",
           "B. st",
@@ -12807,8 +12807,8 @@
       {
         "id": 494,
         "question": "Complete the word.\n_ _t",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/art.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/art.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. sh",
           "B. ai",
@@ -12890,7 +12890,7 @@
       },
       {
         "id": 500,
-        "question": "Read and choose the correct answer.\n📖 My name is Linh. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\n❓ Which subject does Linh like very much?",
+        "question": "Read and choose the correct answer.\nMy name is Linh. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\nWhich subject does Linh like very much?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12974,7 +12974,7 @@
       },
       {
         "id": 506,
-        "question": "Choose the correct answer.\nA: Where's Bill's school?\nB: ___ in the town.",
+        "question": "Where's Bill's school? – ___ in the town.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -12988,7 +12988,7 @@
       },
       {
         "id": 507,
-        "question": "Choose the correct answer.\nA: When's Mary's birthday?\nB: ___ in November.",
+        "question": "When's Mary's birthday? – ___ in November.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13002,7 +13002,7 @@
       },
       {
         "id": 508,
-        "question": "Choose the correct answer.\nA: ___ Nam from?\nB: He's from Japan.",
+        "question": "___ Nam from? – He's from Japan.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13044,7 +13044,7 @@
       },
       {
         "id": 511,
-        "question": "Choose the correct answer.\nA: Can he swim?\nB: ___",
+        "question": "Can he swim? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13086,7 +13086,7 @@
       },
       {
         "id": 514,
-        "question": "Read and choose the correct answer.\n📖 Laura: What day is it today?\nNam: It's Wednesday.\nLaura: What do you do on Saturdays?\nNam: I listen to music.\n\n❓ What day is it today?",
+        "question": "Read and choose the correct answer.\nLaura: What day is it today?\nNam: It's Wednesday.\nLaura: What do you do on Saturdays?\nNam: I listen to music.\n\nWhat day is it today?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13157,8 +13157,8 @@
       {
         "id": 519,
         "question": "Complete the word.\n_ _ue",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/blue.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/blue.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. ay",
           "B. bl",
@@ -13171,8 +13171,8 @@
       {
         "id": 520,
         "question": "Complete the word.\nja_",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/jam.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/jam.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. m",
           "B. f",
@@ -13338,7 +13338,7 @@
       },
       {
         "id": 980,
-        "question": "Read and choose True or False.\n📖 My name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n👉 Nam likes music.",
+        "question": "Read and choose True or False.\nMy name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nNam likes music.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13350,7 +13350,7 @@
       },
       {
         "id": 981,
-        "question": "Read and choose True or False.\n📖 My name is Linh. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\n👉 Linh goes to school from Mondays to Fridays.",
+        "question": "Read and choose True or False.\nMy name is Linh. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\nLinh goes to school from Mondays to Fridays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13362,7 +13362,7 @@
       },
       {
         "id": 982,
-        "question": "Read and choose True or False.\n📖 My name is Laura. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\n👉 Laura likes maths very much.",
+        "question": "Read and choose True or False.\nMy name is Laura. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\nLaura likes maths very much.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13374,7 +13374,7 @@
       },
       {
         "id": 983,
-        "question": "Read and choose True or False.\n📖 My name is Linh. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\n👉 Linh has Vietnamese today.",
+        "question": "Read and choose True or False.\nMy name is Linh. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\nLinh has Vietnamese today.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13386,7 +13386,7 @@
       },
       {
         "id": 984,
-        "question": "Read and choose True or False.\n📖 My name is Linh. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\n👉 Linh likes IT very much.",
+        "question": "Read and choose True or False.\nMy name is Linh. I go to school from Mondays to Fridays. Today is Tuesday. I have Vietnamese, maths and music. I like Vietnamese very much.\n\nLinh likes IT very much.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13398,7 +13398,7 @@
       },
       {
         "id": 985,
-        "question": "Read and choose True or False.\n📖 My name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n👉 Nam has science on Fridays.",
+        "question": "Read and choose True or False.\nMy name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nNam has science on Fridays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13602,7 +13602,7 @@
       },
       {
         "id": 1002,
-        "question": "Read and choose True or False.\n📖 My name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n👉 Nam has English on Mondays.",
+        "question": "Read and choose True or False.\nMy name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nNam has English on Mondays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13614,7 +13614,7 @@
       },
       {
         "id": 1003,
-        "question": "Read and choose True or False.\n📖 My name is Kate. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n👉 Kate likes music.",
+        "question": "Read and choose True or False.\nMy name is Kate. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nKate likes music.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13626,7 +13626,7 @@
       },
       {
         "id": 1004,
-        "question": "Read and choose True or False.\n📖 Peter: What day is it today?\nMary: It's Monday.\nPeter: What do you do on Saturdays?\nMary: I do housework.\n\n👉 It's Friday today.",
+        "question": "Read and choose True or False.\nPeter: What day is it today?\nMary: It's Monday.\nPeter: What do you do on Saturdays?\nMary: I do housework.\n\nIt's Friday today.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13638,7 +13638,7 @@
       },
       {
         "id": 1005,
-        "question": "Listen and choose True or False.\nThey want to have a break.",
+        "question": "Listen and choose True or False.\nLucy and Mai want to have a break.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/lucywhattimeisitmai\nmaiitselevenforty-five\nlucyletshaveabreak\nmaiokletsgointotheclassroomafterthebreak.mp3",
         "choices": [
@@ -13756,7 +13756,7 @@
         "id": 1347,
         "question": "Choose the missing letter.\nwhe_",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/when.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. b",
           "B. h",
@@ -13783,8 +13783,8 @@
       {
         "id": 1349,
         "question": "Choose the missing letter.\nmusi_",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/music.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/music.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. c",
           "B. i",
@@ -13858,7 +13858,7 @@
         "choices": [
           "A. We today Vietnamese have.",
           "B. Today have Vietnamese we.",
-          "C. Today Vietnamese we Have.",
+          "C. Have we Vietnamese today.",
           "D. We have Vietnamese today."
         ],
         "correctAnswerIndex": 3,
@@ -13894,7 +13894,7 @@
       },
       {
         "id": 1357,
-        "question": "Find the mistake.\nI <u>has</u> <u>it</u> on Mondays <u>and</u> <u>Fridays</u>.",
+        "question": "Find the mistake.\nI has it on Mondays and Fridays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13908,7 +13908,7 @@
       },
       {
         "id": 1358,
-        "question": "Find the mistake.\nI <u>has</u> <u>English</u> <u>and</u> <u>maths</u>.",
+        "question": "Find the mistake.\nI has English and maths.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13922,7 +13922,7 @@
       },
       {
         "id": 1359,
-        "question": "Find the mistake.\n<u>I</u> <u>has</u> <u>art</u> <u>and</u> music.",
+        "question": "Find the mistake.\nI has art and music.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -13936,7 +13936,7 @@
       },
       {
         "id": 1360,
-        "question": "Find the mistake.\nI have English <u>today</u>. <u>It</u> <u>are</u> <u>Thursday</u>.",
+        "question": "Find the mistake.\nI have English today. It are Thursday.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14054,7 +14054,7 @@
         "choices": [
           "A. bell",
           "B. berl",
-          "C. beel",
+          "C. boll",
           "D. bbell"
         ],
         "correctAnswerIndex": 0,
@@ -14066,8 +14066,8 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. mouze",
-          "B. mowse",
+          "A. moues",
+          "B. nouse",
           "C. mosue",
           "D. mouse"
         ],
@@ -14077,8 +14077,8 @@
       {
         "id": 1370,
         "question": "Choose the missing letter.\nl_ke",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/lake.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/lake.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. f",
           "B. s",
@@ -14091,8 +14091,8 @@
       {
         "id": 1371,
         "question": "Choose the missing letter.\nro_ot",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/robot.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/robot.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. e",
           "B. g",
@@ -14111,7 +14111,7 @@
           "A. sswim",
           "B. zwim",
           "C. swim",
-          "D. swem"
+          "D. swum"
         ],
         "correctAnswerIndex": 2,
         "hint": "Sắp xếp các chữ cái thành từ đúng.\n✅ C. swim → bơi"
@@ -14136,7 +14136,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. Vietnamese have you when Do?",
+          "A. Do when you have Vietnamese?",
           "B. When have you do Vietnamese?",
           "C. When do you have Vietnamese?",
           "D. You do when have Vietnamese?"
@@ -14160,7 +14160,7 @@
       },
       {
         "id": 1376,
-        "question": "Find the mistake.\n<u>Kate</u> <u>cans</u> <u>play</u> badminton, <u>but</u> she can't skip.",
+        "question": "Find the mistake.\nKate cans play badminton, but she can't skip.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14174,7 +14174,7 @@
       },
       {
         "id": 1377,
-        "question": "Find the mistake.\n<u>There</u> <u>are</u> <u>three</u> <u>garden</u>.",
+        "question": "Find the mistake.\nThere are three garden.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14391,7 +14391,7 @@
       },
       {
         "id": 537,
-        "question": "Choose the correct answer.\nA: What's your favourite subject?\nB: ___ science.",
+        "question": "What's your favourite subject? – ___ science.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14405,7 +14405,7 @@
       },
       {
         "id": 538,
-        "question": "Choose the correct answer.\nA: What's your favourite subject?\nB: ___ music.",
+        "question": "What's your favourite subject? – ___ music.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14419,7 +14419,7 @@
       },
       {
         "id": 539,
-        "question": "Choose the correct answer.\nA: Why do you ___ English?\nB: Because I want to be an English teacher.",
+        "question": "Why do you ___ English? – Because I want to be an English teacher.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14433,7 +14433,7 @@
       },
       {
         "id": 540,
-        "question": "Choose the correct answer.\nA: ___ Tony's favourite subject?\nB: His favourite subject is science.",
+        "question": "___ Tony's favourite subject? – His favourite subject is science.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14447,7 +14447,7 @@
       },
       {
         "id": 541,
-        "question": "Choose the correct answer.\nA: What's Minh's favourite subject?\nB: His favourite subject ___ Vietnamese.",
+        "question": "What's Minh's favourite subject? – His favourite subject ___ Vietnamese.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14517,7 +14517,7 @@
       },
       {
         "id": 546,
-        "question": "Choose the correct answer.\nA: What's your favourite subject?\nB: ___",
+        "question": "What's your favourite subject? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14531,7 +14531,7 @@
       },
       {
         "id": 547,
-        "question": "Choose the correct answer.\nA: What's Minh's favourite subject?\nB: ___",
+        "question": "What's Minh's favourite subject? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14545,7 +14545,7 @@
       },
       {
         "id": 548,
-        "question": "Choose the correct answer.\nA: What's Linh's favourite subject?\nB: ___",
+        "question": "What's Linh's favourite subject? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14559,7 +14559,7 @@
       },
       {
         "id": 549,
-        "question": "Choose the correct answer.\nA: What's Lucy's favourite subject?\nB: ___",
+        "question": "What's Lucy's favourite subject? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14629,7 +14629,7 @@
       },
       {
         "id": 554,
-        "question": "Read and choose the correct answer.\n📖 My name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\n❓ How many subjects does Nam have today?",
+        "question": "Read and choose the correct answer.\nMy name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\nHow many subjects does Nam have today?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14643,7 +14643,7 @@
       },
       {
         "id": 555,
-        "question": "Read and choose the correct answer.\n📖 My name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\n❓ What's Nam's favourite subject?",
+        "question": "Read and choose the correct answer.\nMy name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\nWhat's Nam's favourite subject?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14785,7 +14785,7 @@
         "id": 565,
         "question": "Complete the word.\np_ _nter",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/painter.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. nk",
           "B. dr",
@@ -14799,7 +14799,7 @@
         "id": 566,
         "question": "Complete the word.\nsing_ _",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/singer.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. nk",
           "B. dr",
@@ -14813,7 +14813,7 @@
         "id": 567,
         "question": "Complete the word.\nfav_ _rite",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/favourite.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. bl",
           "B. nk",
@@ -14909,7 +14909,7 @@
       },
       {
         "id": 574,
-        "question": "Choose the correct answer.\nA: Why do you ___ maths?\nB: Because I want to be a maths teacher.",
+        "question": "Why do you ___ maths? – Because I want to be a maths teacher.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -14923,7 +14923,7 @@
       },
       {
         "id": 575,
-        "question": "Choose the correct answer.\nA: Why do you like IT?\nB: ___ I want to be an IT teacher.",
+        "question": "Why do you like IT? – ___ I want to be an IT teacher.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15035,7 +15035,7 @@
       },
       {
         "id": 583,
-        "question": "Choose the correct answer.\nA: When do you have science?\nB: I have it ___ Wednesdays and Thursdays.",
+        "question": "When do you have science? – I have it ___ Wednesdays and Thursdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15049,7 +15049,7 @@
       },
       {
         "id": 584,
-        "question": "Choose the correct answer.\nA: What time do you ___ dinner?\nB: I have dinner at eight o'clock.",
+        "question": "What time do you ___ dinner? – I have dinner at eight o'clock.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15063,7 +15063,7 @@
       },
       {
         "id": 585,
-        "question": "Choose the correct answer.\nA: ___ she from?\nB: She's from Thailand.",
+        "question": "___ she from? – She's from Thailand.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15105,7 +15105,7 @@
       },
       {
         "id": 588,
-        "question": "Choose the correct answer.\nA: Where's Minh from?\nB: ___",
+        "question": "Where's Minh from? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15119,7 +15119,7 @@
       },
       {
         "id": 589,
-        "question": "Choose the correct answer.\nA: What time is it?\nB: ___",
+        "question": "What time is it? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15147,7 +15147,7 @@
       },
       {
         "id": 591,
-        "question": "Read and choose the correct answer.\n📖 I am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\n❓ Where does the speaker have lunch?",
+        "question": "Read and choose the correct answer.\nI am Linh. I get up at seven o'clock. I wash my face and clean my teeth. I go to school at six forty-five. I have lunch at school. I do my homework and go to bed at nine fifteen.\n\nWhere does the speaker have lunch?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15218,8 +15218,8 @@
       {
         "id": 596,
         "question": "Complete the word.\nbuildi_g",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/building.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/building.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. n",
           "B. i",
@@ -15233,7 +15233,7 @@
         "id": 597,
         "question": "Complete the word.\n_ecause",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/because.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. r",
           "B. i",
@@ -15371,7 +15371,7 @@
       },
       {
         "id": 1017,
-        "question": "Read and choose True or False.\n📖 My name is Kate. It is Monday today. I have Vietnamese, maths, science and PE at school. My favourite subject is Vietnamese. I like it because I want to be a writer. I do not like maths because I am not good at it.\n\n👉 It is Monday today.",
+        "question": "Read and choose True or False.\nMy name is Kate. It is Monday today. I have Vietnamese, maths, science and PE at school. My favourite subject is Vietnamese. I like it because I want to be a writer. I do not like maths because I am not good at it.\n\nIt is Monday today.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15383,7 +15383,7 @@
       },
       {
         "id": 1018,
-        "question": "Read and choose True or False.\n📖 My name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\n👉 Nam likes maths very much.",
+        "question": "Read and choose True or False.\nMy name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\nNam likes maths very much.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15395,7 +15395,7 @@
       },
       {
         "id": 1019,
-        "question": "Read and choose True or False.\n📖 My name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\n👉 It is Monday today.",
+        "question": "Read and choose True or False.\nMy name is Nam. It is Monday today. I have music, PE, English and maths at school. My favourite subject is music. I like it because I want to be a singer. I do not like maths because I am not good at it.\n\nIt is Monday today.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15407,7 +15407,7 @@
       },
       {
         "id": 1020,
-        "question": "Read and choose True or False.\n📖 My name is Kate. It is Monday today. I have Vietnamese, maths, science and PE at school. My favourite subject is Vietnamese. I like it because I want to be a writer. I do not like maths because I am not good at it.\n\n👉 Kate's favourite subject is Vietnamese.",
+        "question": "Read and choose True or False.\nMy name is Kate. It is Monday today. I have Vietnamese, maths, science and PE at school. My favourite subject is Vietnamese. I like it because I want to be a writer. I do not like maths because I am not good at it.\n\nKate's favourite subject is Vietnamese.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15419,7 +15419,7 @@
       },
       {
         "id": 1021,
-        "question": "Read and choose True or False.\n📖 My name is Minh. My favourite subject is music. I like it because I want to be a singer. I like IT, too.\n\n👉 Minh's favourite subject is IT.",
+        "question": "Read and choose True or False.\nMy name is Minh. My favourite subject is music. I like it because I want to be a singer. I like IT, too.\n\nMinh's favourite subject is IT.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15431,7 +15431,7 @@
       },
       {
         "id": 1022,
-        "question": "Read and choose True or False.\n📖 My name is Mary. My favourite subject is Vietnamese. I like it because I want to be a writer. I like maths, too.\n\n👉 Mary also likes maths.",
+        "question": "Read and choose True or False.\nMy name is Mary. My favourite subject is Vietnamese. I like it because I want to be a writer. I like maths, too.\n\nMary also likes maths.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15635,7 +15635,7 @@
       },
       {
         "id": 1039,
-        "question": "Read and choose True or False.\n📖 My name is Kate. It is Monday today. I have Vietnamese, maths, science and PE at school. My favourite subject is Vietnamese. I like it because I want to be a writer. I do not like maths because I am not good at it.\n\n👉 Kate likes maths very much.",
+        "question": "Read and choose True or False.\nMy name is Kate. It is Monday today. I have Vietnamese, maths, science and PE at school. My favourite subject is Vietnamese. I like it because I want to be a writer. I do not like maths because I am not good at it.\n\nKate likes maths very much.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15647,7 +15647,7 @@
       },
       {
         "id": 1040,
-        "question": "Read and choose True or False.\n📖 My name is Mary. My favourite subject is Vietnamese. I like it because I want to be a writer. I like maths, too.\n\n👉 Mary's favourite subject is maths.",
+        "question": "Read and choose True or False.\nMy name is Mary. My favourite subject is Vietnamese. I like it because I want to be a writer. I like maths, too.\n\nMary's favourite subject is maths.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15659,7 +15659,7 @@
       },
       {
         "id": 1041,
-        "question": "Read and choose True or False.\n📖 My name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\n👉 There is a swimming pool at the school.",
+        "question": "Read and choose True or False.\nMy name is Nam. My school is in the village. There are three buildings and one garden at my school. There is a big playground. We can play football there.\n\nThere is a swimming pool at the school.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15789,7 +15789,7 @@
         "id": 1384,
         "question": "Choose the missing letter.\nb_cause",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/because.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. t",
           "B. e",
@@ -15802,8 +15802,8 @@
       {
         "id": 1385,
         "question": "Choose the missing letter.\ncountry_ide",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/countryside.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/countryside.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. k",
           "B. s",
@@ -15816,8 +15816,8 @@
       {
         "id": 1386,
         "question": "Choose the missing letter.\nmu_ic",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/music.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/music.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. s",
           "B. e",
@@ -15927,7 +15927,7 @@
       },
       {
         "id": 1394,
-        "question": "Find the mistake.\nI <u>like</u> computers. <u>My</u> <u>favourite</u> subject <u>are</u> IT.",
+        "question": "Find the mistake.\nI like computers. My favourite subject are IT.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15941,7 +15941,7 @@
       },
       {
         "id": 1395,
-        "question": "Find the mistake.\n<u>When</u> do you <u>has</u> <u>history</u> <u>and</u> geography?",
+        "question": "Find the mistake.\nWhen do you has history and geography?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15955,7 +15955,7 @@
       },
       {
         "id": 1396,
-        "question": "Find the mistake.\n<u>I</u> want <u>to</u> be <u>a</u> <u>English</u> teacher.",
+        "question": "Find the mistake.\nI want to be a English teacher.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -15969,7 +15969,7 @@
       },
       {
         "id": 1397,
-        "question": "Find the mistake.\nI like <u>maths</u> <u>because</u> I <u>want</u> to be <u>an</u> maths teacher.",
+        "question": "Find the mistake.\nI like maths because I want to be an maths teacher.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16026,8 +16026,8 @@
       {
         "id": 1401,
         "question": "Choose the missing letter.\nsc_ence",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/science.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/science.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. o",
           "B. u",
@@ -16053,7 +16053,7 @@
       },
       {
         "id": 1403,
-        "question": "Find the mistake.\nBecause <u>I</u> want to <u>be</u> <u>an</u> <u>singer</u>.",
+        "question": "Find the mistake.\nBecause I want to be an singer.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16067,7 +16067,7 @@
       },
       {
         "id": 1404,
-        "question": "Find the mistake.\n<u>My</u> <u>name</u> <u>are</u> Peter. <u>It</u> is Thursday today.",
+        "question": "Find the mistake.\nMy name are Peter. It is Thursday today.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16110,8 +16110,8 @@
       {
         "id": 1407,
         "question": "Choose the missing letter.\n_uler",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ruler.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/ruler.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. m",
           "B. r",
@@ -16124,7 +16124,7 @@
       {
         "id": 1408,
         "question": "Choose the missing letter.\n_our thirty",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/fourthirty.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. n",
@@ -16193,7 +16193,7 @@
       },
       {
         "id": 1413,
-        "question": "Find the mistake.\n<u>I</u> <u>has</u> Vietnamese, maths, English, science and <u>art</u> <u>on</u> Thursdays.",
+        "question": "Find the mistake.\nI has Vietnamese, maths, English, science and art on Thursdays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16207,7 +16207,7 @@
       },
       {
         "id": 1414,
-        "question": "Find the mistake.\nMai <u>can</u> ride <u>an</u> horse, <u>but</u> she <u>can't</u> swim.",
+        "question": "Find the mistake.\nMai can ride an horse, but she can't swim.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16424,7 +16424,7 @@
       },
       {
         "id": 612,
-        "question": "Choose the correct answer.\nA: When's your sports day?\nB: ___ in March.",
+        "question": "When's your sports day? – ___ in March.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16438,7 +16438,7 @@
       },
       {
         "id": 613,
-        "question": "Choose the correct answer.\nA: Why do you ___ art?\nB: Because I want to be a painter.",
+        "question": "Why do you ___ art? – Because I want to be a painter.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16452,7 +16452,7 @@
       },
       {
         "id": 614,
-        "question": "Choose the correct answer.\nA: Is your sports day in April?\nB: No, it isn't. ___ in September.",
+        "question": "Is your sports day in April? – No, it isn't. ___ in September.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16466,7 +16466,7 @@
       },
       {
         "id": 615,
-        "question": "Choose the correct answer.\nA: When's your sports day?\nB: It's ___ April.",
+        "question": "When's your sports day? – It's ___ April.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16480,7 +16480,7 @@
       },
       {
         "id": 616,
-        "question": "Choose the correct answer.\nA: When's your sports day?\nB: It's ___ March.",
+        "question": "When's your sports day? – It's ___ March.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16550,7 +16550,7 @@
       },
       {
         "id": 621,
-        "question": "Choose the correct answer.\nA: Is your sports day in December?\nB: ___",
+        "question": "Is your sports day in December? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16564,7 +16564,7 @@
       },
       {
         "id": 622,
-        "question": "Choose the correct answer.\nA: What's that?\nB: ___",
+        "question": "What's that? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16578,7 +16578,7 @@
       },
       {
         "id": 623,
-        "question": "Choose the correct answer.\nA: Is your sports day in February?\nB: ___",
+        "question": "Is your sports day in February? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16592,7 +16592,7 @@
       },
       {
         "id": 624,
-        "question": "Choose the correct answer.\nA: Is your sports day in January?\nB: ___",
+        "question": "Is your sports day in January? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16662,7 +16662,7 @@
       },
       {
         "id": 629,
-        "question": "Read and choose the correct answer.\n📖 Hi. I'm Lucy. Our sports day is in July. We play many sports and games. I like volleyball. My friend likes table tennis. We all love our sports day.\n\n❓ What does Lucy like?",
+        "question": "Read and choose the correct answer.\nHi. I'm Lucy. Our sports day is in July. We play many sports and games. I like volleyball. My friend likes table tennis. We all love our sports day.\n\nWhat does Lucy like?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16676,7 +16676,7 @@
       },
       {
         "id": 630,
-        "question": "Read and choose the correct answer.\n📖 Our sports day is in February. It is in the school playground. The boys play badminton. The girls play tennis. The teachers play table tennis. It is a lot of fun!\n\n❓ Where is the sports day?",
+        "question": "Read and choose the correct answer.\nOur sports day is in February. It is in the school playground. The boys play badminton. The girls play tennis. The teachers play table tennis. It is a lot of fun!\n\nWhere is the sports day?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -16818,7 +16818,7 @@
         "id": 640,
         "question": "Complete the word.\ndiff_ _ent",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/different.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. er",
           "B. oi",
@@ -16831,8 +16831,8 @@
       {
         "id": 641,
         "question": "Complete the word.\nf_ _tball",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/football.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/football.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. ar",
           "B. ay",
@@ -16956,7 +16956,7 @@
       },
       {
         "id": 650,
-        "question": "Choose the correct answer.\nA: Is your sports day in August?\nB: ___",
+        "question": "Is your sports day in August? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17026,7 +17026,7 @@
       },
       {
         "id": 655,
-        "question": "Choose the correct answer.\nA: Why do you like music?\nB: Because I want ___ be a singer.",
+        "question": "Why do you like music? – Because I want ___ be a singer.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17040,7 +17040,7 @@
       },
       {
         "id": 656,
-        "question": "Choose the correct answer.\nA: What time ___ it?\nB: It's eleven fifteen.",
+        "question": "What time ___ it? – It's eleven fifteen.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17054,7 +17054,7 @@
       },
       {
         "id": 657,
-        "question": "Choose the correct answer.\nA: Is your sports day in June?\nB: No, it isn't. ___ in April.",
+        "question": "Is your sports day in June? – No, it isn't. ___ in April.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17096,7 +17096,7 @@
       },
       {
         "id": 660,
-        "question": "Choose the correct answer.\nA: What do you want to eat?\nB: ___",
+        "question": "What do you want to eat? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17110,7 +17110,7 @@
       },
       {
         "id": 661,
-        "question": "Choose the correct answer.\nA: Do you have science today?\nB: ___",
+        "question": "Do you have science today? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17152,7 +17152,7 @@
       },
       {
         "id": 664,
-        "question": "Read and choose the correct answer.\n📖 My name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n❓ Which subject does Nam like very much?",
+        "question": "Read and choose the correct answer.\nMy name is Nam. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nWhich subject does Nam like very much?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17224,7 +17224,7 @@
         "id": 669,
         "question": "Complete the word.\nfi_e",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/fine.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. m",
           "B. b",
@@ -17237,8 +17237,8 @@
       {
         "id": 670,
         "question": "Complete the word.\nrul_ _",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/ruler.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/ruler.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. oy",
           "B. sk",
@@ -17404,7 +17404,7 @@
       },
       {
         "id": 1054,
-        "question": "Read and choose True or False.\n📖 Hi. I'm Lucy. Our sports day is in July. We play many sports and games. I like volleyball. My friend likes table tennis. We all love our sports day.\n\n👉 Lucy's friend likes table tennis.",
+        "question": "Read and choose True or False.\nHi. I'm Lucy. Our sports day is in July. We play many sports and games. I like volleyball. My friend likes table tennis. We all love our sports day.\n\nLucy's friend likes table tennis.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17416,7 +17416,7 @@
       },
       {
         "id": 1055,
-        "question": "Read and choose True or False.\n📖 Our sports day is in February. It is in the school playground. The boys play badminton. The girls play tennis. The teachers play table tennis. It is a lot of fun!\n\n👉 The teachers play table tennis.",
+        "question": "Read and choose True or False.\nOur sports day is in February. It is in the school playground. The boys play badminton. The girls play tennis. The teachers play table tennis. It is a lot of fun!\n\nThe teachers play table tennis.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17428,7 +17428,7 @@
       },
       {
         "id": 1056,
-        "question": "Read and choose True or False.\n📖 Hi. I'm Lucy. Our sports day is in July. We play many sports and games. I like volleyball. My friend likes table tennis. We all love our sports day.\n\n👉 Lucy likes volleyball.",
+        "question": "Read and choose True or False.\nHi. I'm Lucy. Our sports day is in July. We play many sports and games. I like volleyball. My friend likes table tennis. We all love our sports day.\n\nLucy likes volleyball.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17440,7 +17440,7 @@
       },
       {
         "id": 1057,
-        "question": "Read and choose True or False.\n📖 Our sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\n👉 The boys play basketball.",
+        "question": "Read and choose True or False.\nOur sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\nThe boys play basketball.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17452,7 +17452,7 @@
       },
       {
         "id": 1058,
-        "question": "Read and choose True or False.\n📖 Hi. I'm Mai. Our sports day is in June. We play many sports and games. I like badminton. My friend likes tennis. We all love our sports day.\n\n👉 Mai likes badminton.",
+        "question": "Read and choose True or False.\nHi. I'm Mai. Our sports day is in June. We play many sports and games. I like badminton. My friend likes tennis. We all love our sports day.\n\nMai likes badminton.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17464,7 +17464,7 @@
       },
       {
         "id": 1059,
-        "question": "Read and choose True or False.\n📖 Our sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\n👉 The teachers play badminton.",
+        "question": "Read and choose True or False.\nOur sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\nThe teachers play badminton.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17476,7 +17476,7 @@
       },
       {
         "id": 1060,
-        "question": "Listen and choose True or False.\nThey play volleyball.",
+        "question": "Listen and choose True or False.\nMai's class plays volleyball.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/minhwhatsthat\nmaiitsapictureofoursportsday\nminhwhensyoursportsday\nmaiitsinoctoberweplayfootball.mp3",
         "choices": [
@@ -17536,7 +17536,7 @@
       },
       {
         "id": 1065,
-        "question": "Listen and choose True or False.\nIt's a picture of Mai's sports day.",
+        "question": "Listen and choose True or False.\nThe picture is of Mai's sports day.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/minhwhatsthat\nmaiitsapictureofoursportsday\nminhwhensyoursportsday\nmaiitsinoctoberweplayfootball.mp3",
         "choices": [
@@ -17668,7 +17668,7 @@
       },
       {
         "id": 1076,
-        "question": "Read and choose True or False.\n📖 My name is Kate. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\n👉 Kate has English on Mondays.",
+        "question": "Read and choose True or False.\nMy name is Kate. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.\n\nKate has English on Mondays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17680,7 +17680,7 @@
       },
       {
         "id": 1077,
-        "question": "Read and choose True or False.\n📖 Hi. I'm Lucy. Our sports day is in July. We play many sports and games. I like volleyball. My friend likes table tennis. We all love our sports day.\n\n👉 Their sports day is in April.",
+        "question": "Read and choose True or False.\nHi. I'm Lucy. Our sports day is in July. We play many sports and games. I like volleyball. My friend likes table tennis. We all love our sports day.\n\nTheir sports day is in April.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17692,7 +17692,7 @@
       },
       {
         "id": 1078,
-        "question": "Read and choose True or False.\n📖 My name is Minh. My favourite subject is music. I like it because I want to be a singer. I like IT, too.\n\n👉 Minh's favourite subject is music.",
+        "question": "Read and choose True or False.\nMy name is Minh. My favourite subject is music. I like it because I want to be a singer. I like IT, too.\n\nMinh's favourite subject is music.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17704,7 +17704,7 @@
       },
       {
         "id": 1079,
-        "question": "Listen and choose True or False.\nIt's one thirty.",
+        "question": "Listen and choose True or False.\nThe time is one thirty.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/billwhattimeisitmai\nmaiitssixforty-five\nbillletshaveabreak\nmaiokletsgointotheclassroomafterthebreak.mp3",
         "choices": [
@@ -17821,8 +17821,8 @@
       {
         "id": 1421,
         "question": "Choose the missing letter.\nplaygro_nd",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/playground.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/playground.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. u",
           "B. c",
@@ -17835,8 +17835,8 @@
       {
         "id": 1422,
         "question": "Choose the missing letter.\n_ennis",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/tennis.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/tennis.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. y",
           "B. t",
@@ -17908,7 +17908,7 @@
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
-          "A. April in our day sports Is.",
+          "A. Is sports day our in April.",
           "B. April sports day is in our.",
           "C. Sports our day is in April.",
           "D. Our sports day is in April."
@@ -17960,7 +17960,7 @@
       },
       {
         "id": 1431,
-        "question": "Find the mistake.\n<u>Our</u> sports day <u>are</u> <u>in</u> <u>June</u>.",
+        "question": "Find the mistake.\nOur sports day are in June.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17974,7 +17974,7 @@
       },
       {
         "id": 1432,
-        "question": "Find the mistake.\nIs <u>you</u> <u>sports</u> day <u>in</u> <u>April</u>?",
+        "question": "Find the mistake.\nIs you sports day in April?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -17988,7 +17988,7 @@
       },
       {
         "id": 1433,
-        "question": "Find the mistake.\n<u>Our</u> sports <u>day</u> <u>are</u> <u>in</u> March.",
+        "question": "Find the mistake.\nOur sports day are in March.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18002,7 +18002,7 @@
       },
       {
         "id": 1434,
-        "question": "Find the mistake.\n<u>I</u> <u>has</u> <u>art</u> <u>on</u> Fridays.",
+        "question": "Find the mistake.\nI has art on Fridays.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18059,8 +18059,8 @@
       {
         "id": 1438,
         "question": "Choose the missing letter.\nsw_mming",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/swimming.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/swimming.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. n",
           "B. i",
@@ -18087,8 +18087,8 @@
       {
         "id": 1440,
         "question": "Choose the missing letter.\nrun_ing",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/running.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/running.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. u",
           "B. i",
@@ -18101,8 +18101,8 @@
       {
         "id": 1441,
         "question": "Choose the missing letter.\n_wimming",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/swimming.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/swimming.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. n",
           "B. s",
@@ -18143,8 +18143,8 @@
       {
         "id": 1444,
         "question": "Choose the missing letter.\nf_ce",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/face.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/face.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. l",
           "B. a",
@@ -18157,8 +18157,8 @@
       {
         "id": 1445,
         "question": "Choose the missing letter.\nli_rary",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/library.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/library.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. e",
           "B. s",
@@ -18226,7 +18226,7 @@
       },
       {
         "id": 1450,
-        "question": "Find the mistake.\n<u>I</u> <u>want</u> <u>a</u> <u>milk</u>.",
+        "question": "Find the mistake.\nI want a milk.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18240,7 +18240,7 @@
       },
       {
         "id": 1451,
-        "question": "Find the mistake.\n<u>There</u> <u>are</u> <u>five</u> libraries at <u>I</u> school.",
+        "question": "Find the mistake.\nThere are five libraries at I school.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18471,7 +18471,7 @@
       },
       {
         "id": 688,
-        "question": "Choose the correct answer.\nA: Were you in the mountains yesterday?\nB: Yes, I ___.",
+        "question": "Were you in the mountains yesterday? – Yes, I ___.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18485,7 +18485,7 @@
       },
       {
         "id": 689,
-        "question": "Choose the correct answer.\nA: Why do you ___ science?\nB: Because I want to be a scientist.",
+        "question": "Why do you ___ science? – Because I want to be a scientist.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18499,7 +18499,7 @@
       },
       {
         "id": 690,
-        "question": "Choose the correct answer.\nA: Where ___ you last summer?\nB: I was in London.",
+        "question": "Where ___ you last summer? – I was in London.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18513,7 +18513,7 @@
       },
       {
         "id": 691,
-        "question": "Choose the correct answer.\nA: Where were you last summer?\nB: I ___ in the countryside.",
+        "question": "Where were you last summer? – I ___ in the countryside.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18597,7 +18597,7 @@
       },
       {
         "id": 697,
-        "question": "Choose the correct answer.\nA: Where was Kate last summer?\nB: ___",
+        "question": "Where was Kate last summer? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18611,7 +18611,7 @@
       },
       {
         "id": 698,
-        "question": "Choose the correct answer.\nA: Were you in Sydney, too?\nB: ___",
+        "question": "Were you in Sydney, too? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18625,7 +18625,7 @@
       },
       {
         "id": 699,
-        "question": "Choose the correct answer.\nA: Were you in Ha Long Bay last weekend?\nB: ___",
+        "question": "Were you in Ha Long Bay last weekend? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18639,7 +18639,7 @@
       },
       {
         "id": 700,
-        "question": "Choose the correct answer.\nA: Were you in the countryside yesterday?\nB: ___",
+        "question": "Were you in the countryside yesterday? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18709,7 +18709,7 @@
       },
       {
         "id": 705,
-        "question": "Read and choose the correct answer.\n📖 My name is Peter. Last summer, I was on holiday in Ha Long Bay. The place was busy. The food was good. The people were helpful. My holiday was great!\n\n❓ Where was Peter last summer?",
+        "question": "Read and choose the correct answer.\nMy name is Peter. Last summer, I was on holiday in Ha Long Bay. The place was busy. The food was good. The people were helpful. My holiday was great!\n\nWhere was Peter last summer?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18723,7 +18723,7 @@
       },
       {
         "id": 706,
-        "question": "Read and choose the correct answer.\n📖 I am Tony. Last summer, I was on holiday in Ha Long Bay with my family. Last weekend, I was on the beach. Yesterday, I was in the mountains. I love holidays!\n\n❓ Where was the speaker yesterday?",
+        "question": "Read and choose the correct answer.\nI am Tony. Last summer, I was on holiday in Ha Long Bay with my family. Last weekend, I was on the beach. Yesterday, I was in the mountains. I love holidays!\n\nWhere was the speaker yesterday?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -18865,7 +18865,7 @@
         "id": 716,
         "question": "Complete the word.\ngr_ _t",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/great.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. ea",
           "B. sp",
@@ -18879,7 +18879,7 @@
         "id": 717,
         "question": "Complete the word.\nholid_ _",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/holiday.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. tr",
           "B. ay",
@@ -18893,7 +18893,7 @@
         "id": 718,
         "question": "Complete the word.\ng_ _d",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/good.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. or",
           "B. rr",
@@ -18975,7 +18975,7 @@
       },
       {
         "id": 724,
-        "question": "Choose the correct answer.\nA: What's Linh's favourite subject?\nB: ___",
+        "question": "What's Linh's favourite subject? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19087,7 +19087,7 @@
       },
       {
         "id": 732,
-        "question": "Choose the correct answer.\nA: Why do you like maths?\nB: Because I want ___ be a maths teacher.",
+        "question": "Why do you like maths? – Because I want ___ be a maths teacher.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19101,7 +19101,7 @@
       },
       {
         "id": 733,
-        "question": "Choose the correct answer.\nA: ___ many computer rooms are there at your school?\nB: There is one.",
+        "question": "___ many computer rooms are there at your school? – There is one.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19143,7 +19143,7 @@
       },
       {
         "id": 736,
-        "question": "Choose the correct answer.\nA: When's your sports day?\nB: ___",
+        "question": "When's your sports day? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19157,7 +19157,7 @@
       },
       {
         "id": 737,
-        "question": "Choose the correct answer.\nA: When's Ben's birthday?\nB: ___",
+        "question": "When's Ben's birthday? – ___",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19199,7 +19199,7 @@
       },
       {
         "id": 740,
-        "question": "Read and choose the correct answer.\n📖 Our sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\n❓ Where is the sports day?",
+        "question": "Read and choose the correct answer.\nOur sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\nWhere is the sports day?",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19270,8 +19270,8 @@
       {
         "id": 745,
         "question": "Complete the word.\n_ed",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/bed.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/bed.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. i",
           "B. h",
@@ -19285,7 +19285,7 @@
         "id": 746,
         "question": "Complete the word.\nsu_ject",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/subject.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. e",
           "B. b",
@@ -19437,7 +19437,7 @@
       },
       {
         "id": 1091,
-        "question": "Read and choose True or False.\n📖 My name is Linh. Last summer, I was on holiday in London. The place was beautiful. The food was excellent. The people were friendly. My holiday was great!\n\n👉 The holiday was great.",
+        "question": "Read and choose True or False.\nMy name is Linh. Last summer, I was on holiday in London. The place was beautiful. The food was excellent. The people were friendly. My holiday was great!\n\nThe holiday was great.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19449,7 +19449,7 @@
       },
       {
         "id": 1092,
-        "question": "Read and choose True or False.\n📖 I am Tony. Last summer, I was on holiday in Ha Long Bay with my family. Last weekend, I was on the beach. Yesterday, I was in the mountains. I love holidays!\n\n👉 Tony was in the mountains yesterday.",
+        "question": "Read and choose True or False.\nI am Tony. Last summer, I was on holiday in Ha Long Bay with my family. Last weekend, I was on the beach. Yesterday, I was in the mountains. I love holidays!\n\nTony was in the mountains yesterday.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19461,7 +19461,7 @@
       },
       {
         "id": 1093,
-        "question": "Read and choose True or False.\n📖 I am Nam. Last summer, I was on holiday in London with my family. Last weekend, I was in the mountains. Yesterday, I was at the campsite. I love holidays!\n\n👉 Nam was at the campsite last weekend.",
+        "question": "Read and choose True or False.\nI am Nam. Last summer, I was on holiday in London with my family. Last weekend, I was in the mountains. Yesterday, I was at the campsite. I love holidays!\n\nNam was at the campsite last weekend.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19473,7 +19473,7 @@
       },
       {
         "id": 1094,
-        "question": "Read and choose True or False.\n📖 My name is Peter. Last summer, I was on holiday in Ha Long Bay. The place was busy. The food was good. The people were helpful. My holiday was great!\n\n👉 The food was busy.",
+        "question": "Read and choose True or False.\nMy name is Peter. Last summer, I was on holiday in Ha Long Bay. The place was busy. The food was good. The people were helpful. My holiday was great!\n\nThe food was busy.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19485,7 +19485,7 @@
       },
       {
         "id": 1095,
-        "question": "Read and choose True or False.\n📖 My name is Peter. Last summer, I was on holiday in Ha Long Bay. The place was busy. The food was good. The people were helpful. My holiday was great!\n\n👉 Peter was on holiday in Ha Long Bay.",
+        "question": "Read and choose True or False.\nMy name is Peter. Last summer, I was on holiday in Ha Long Bay. The place was busy. The food was good. The people were helpful. My holiday was great!\n\nPeter was on holiday in Ha Long Bay.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19497,7 +19497,7 @@
       },
       {
         "id": 1096,
-        "question": "Read and choose True or False.\n📖 I am Nam. Last summer, I was on holiday in London with my family. Last weekend, I was in the mountains. Yesterday, I was at the campsite. I love holidays!\n\n👉 Nam was on holiday in London.",
+        "question": "Read and choose True or False.\nI am Nam. Last summer, I was on holiday in London with my family. Last weekend, I was in the mountains. Yesterday, I was at the campsite. I love holidays!\n\nNam was on holiday in London.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19701,7 +19701,7 @@
       },
       {
         "id": 1113,
-        "question": "Read and choose True or False.\n📖 Peter: What day is it today?\nMary: It's Monday.\nPeter: What do you do on Saturdays?\nMary: I do housework.\n\n👉 It's Monday today.",
+        "question": "Read and choose True or False.\nPeter: What day is it today?\nMary: It's Monday.\nPeter: What do you do on Saturdays?\nMary: I do housework.\n\nIt's Monday today.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19713,7 +19713,7 @@
       },
       {
         "id": 1114,
-        "question": "Read and choose True or False.\n📖 Our sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\n👉 The sports day is in February.",
+        "question": "Read and choose True or False.\nOur sports day is in February. It is in the school playground. The boys play table tennis. The girls play basketball. The teachers play badminton. It is a lot of fun!\n\nThe sports day is in February.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19725,7 +19725,7 @@
       },
       {
         "id": 1115,
-        "question": "Read and choose True or False.\n📖 I have three friends, Bill, Ben and Nam. Bill can fly a kite, but he can't cook. Ben can play badminton, but he can't ride a bike. Nam can cook. I can ride a bike, but I can't play badminton.\n\n👉 Bill can fly a kite.",
+        "question": "Read and choose True or False.\nI have three friends, Bill, Ben and Nam. Bill can fly a kite, but he can't cook. Ben can play badminton, but he can't ride a bike. Nam can cook. I can ride a bike, but I can't play badminton.\n\nBill can fly a kite.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -19854,7 +19854,7 @@
       {
         "id": 1458,
         "question": "Choose the missing letter.\nin the count_yside",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/inthecountryside.png",
+        "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
           "A. l",
@@ -19883,7 +19883,7 @@
         "id": 1460,
         "question": "Choose the missing letter.\nfavourit_",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/favourite.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. e",
           "B. s",
@@ -19993,7 +19993,7 @@
       },
       {
         "id": 1468,
-        "question": "Find the mistake.\nBecause <u>I</u> <u>want</u> to be <u>a</u> English <u>teacher</u>.",
+        "question": "Find the mistake.\nBecause I want to be a English teacher.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -20007,7 +20007,7 @@
       },
       {
         "id": 1469,
-        "question": "Find the mistake.\nHer <u>favourite</u> <u>subject</u> <u>are</u> <u>maths</u>.",
+        "question": "Find the mistake.\nHer favourite subject are maths.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -20021,7 +20021,7 @@
       },
       {
         "id": 1470,
-        "question": "Find the mistake.\n<u>Nam's</u> <u>sports</u> day <u>are</u> in <u>February</u>.",
+        "question": "Find the mistake.\nNam's sports day are in February.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -20035,7 +20035,7 @@
       },
       {
         "id": 1471,
-        "question": "Find the mistake.\n<u>Tokyo</u> was <u>an</u> <u>big</u> <u>city</u>. It was busy.",
+        "question": "Find the mistake.\nTokyo was an big city. It was busy.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -20107,7 +20107,7 @@
         "id": 1476,
         "question": "Choose the missing letter.\ngr_at",
         "questionImageUrl": "",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/great.mp3",
+        "questionAudioUrl": "",
         "choices": [
           "A. e",
           "B. c",
@@ -20176,8 +20176,8 @@
       {
         "id": 1481,
         "question": "Choose the missing letter.\nd_nce",
-        "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/photos/dance.png",
-        "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l4/audios/dance.mp3",
+        "questionImageUrl": "",
+        "questionAudioUrl": "",
         "choices": [
           "A. p",
           "B. d",
@@ -20237,7 +20237,7 @@
         "choices": [
           "A. Minh is from Viet Nam.",
           "B. Minh Nam from Viet is.",
-          "C. Nam Viet from Minh Is.",
+          "C. Is Minh from Viet Nam.",
           "D. Minh Viet from is Nam."
         ],
         "correctAnswerIndex": 0,
@@ -20259,7 +20259,7 @@
       },
       {
         "id": 1487,
-        "question": "Find the mistake.\nBecause I want <u>to</u> <u>be</u> <u>a</u> IT <u>teacher</u>.",
+        "question": "Find the mistake.\nBecause I want to be a IT teacher.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
@@ -20273,7 +20273,7 @@
       },
       {
         "id": 1488,
-        "question": "Find the mistake.\nWhat subjects <u>do</u> you <u>has</u> today? I <u>have</u> art <u>and</u> music.",
+        "question": "Find the mistake.\nWhat subjects do you has today? I have art and music.",
         "questionImageUrl": "",
         "questionAudioUrl": "",
         "choices": [
