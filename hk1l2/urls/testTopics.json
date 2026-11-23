@@ -253,13 +253,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/touchthebox.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pen.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/cup.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/box.png"
           ],
           "imageNames": [
+            "pen",
             "cup",
-            "bag",
             "box"
           ],
           "correctIndex": 2,
@@ -745,13 +745,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/jam.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/popcorn.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/jelly.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/milk.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/popcorn.png"
           ],
           "imageNames": [
             "jam",
-            "popcorn",
-            "jelly"
+            "milk",
+            "popcorn"
           ],
           "correctIndex": 0,
           "hint": "I want some jam. → Mình muốn một ít mứt.\n(Hình đúng: jam – mứt)",
@@ -868,12 +868,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/lake.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png"
           ],
           "imageNames": [
             "lake",
             "sail",
-            "river"
+            "rainbow"
           ],
           "correctIndex": 0,
           "hint": "That's a lake. → Kia là cái hồ.\n(Hình đúng: lake – cái hồ)",
@@ -1235,12 +1235,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/mypenishere.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pencil.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/book.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pen.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/clock.png"
           ],
           "imageNames": [
-            "pencil",
+            "book",
             "pen",
             "clock"
           ],
@@ -1479,13 +1479,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/top.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/truck.png"
           ],
           "imageNames": [
             "bike",
-            "top",
-            "kite"
+            "kite",
+            "truck"
           ],
           "correctIndex": 0,
           "hint": "I see a bike. → Mình nhìn thấy chiếc xe đạp.\n(Hình đúng: bike – xe đạp)",
@@ -1834,14 +1834,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/yesitsmyhair.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hand.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/girl.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hair.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/face.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/foot.png"
           ],
           "imageNames": [
-            "hand",
+            "girl",
             "hair",
-            "face"
+            "foot"
           ],
           "correctIndex": 1,
           "hint": "Yes, it's my hair. → Vâng, đó là mái tóc của mình.\n(Hình đúng: hair – tóc)",
@@ -2198,12 +2198,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/ball.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/truck.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png"
           ],
           "imageNames": [
             "kite",
             "ball",
-            "truck"
+            "car"
           ],
           "correctIndex": 0,
           "hint": "My kite is here. → Cái diều của mình ở đây.\n(Hình đúng: kite – cái diều)",
@@ -2316,14 +2316,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookavillage.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/desk.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/canteen.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/village.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/gate.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png"
           ],
           "imageNames": [
-            "desk",
+            "canteen",
             "village",
-            "gate"
+            "river"
           ],
           "correctIndex": 1,
           "hint": "Look! A village! → Nhìn kìa! Ngôi làng!\n(Hình đúng: village – ngôi làng)",
@@ -2935,12 +2935,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/canteen.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/garden.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/village.png"
           ],
           "imageNames": [
             "canteen",
-            "garden",
+            "river",
             "village"
           ],
           "correctIndex": 2,
@@ -3056,13 +3056,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/iseeafarm.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/village.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/window.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/door.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/canteen.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/farm.png"
           ],
           "imageNames": [
-            "village",
-            "window",
+            "door",
+            "canteen",
             "farm"
           ],
           "correctIndex": 2,
@@ -3175,14 +3175,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookattherainbow.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png"
           ],
           "imageNames": [
-            "river",
+            "sail",
             "rainbow",
-            "sea"
+            "river"
           ],
           "correctIndex": 1,
           "hint": "Look at the rainbow! → Nhìn cầu vồng kìa!\n(Hình đúng: rainbow – cầu vồng)",
@@ -3296,14 +3296,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/thisismybook.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/clock.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/book.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/clock.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pen.png"
           ],
           "imageNames": [
-            "bag",
+            "clock",
             "book",
-            "clock"
+            "pen"
           ],
           "correctIndex": 1,
           "hint": "This is my book. → Đây là quyển sách của mình.\n(Hình đúng: book – quyển sách)",
@@ -3424,13 +3424,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/milk.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/juice.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pasta.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pasta.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bananas.png"
           ],
           "imageNames": [
             "milk",
-            "juice",
-            "pasta"
+            "pasta",
+            "bananas"
           ],
           "correctIndex": 0,
           "hint": "This is milk. → Đây là sữa.\n(Hình đúng: milk – sữa)",
@@ -3915,13 +3915,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/desk.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/gate.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/window.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/cup.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pencil.png"
           ],
           "imageNames": [
             "desk",
-            "gate",
-            "window"
+            "cup",
+            "pencil"
           ],
           "correctIndex": 0,
           "hint": "Where's the desk? → Cái bàn học ở đâu?\n(Hình đúng: desk – cái bàn học)",
@@ -4033,12 +4033,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/foot.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/face.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/boy.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/head.png"
           ],
           "imageNames": [
             "foot",
-            "face",
+            "boy",
             "head"
           ],
           "correctIndex": 0,
@@ -4153,12 +4153,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/farm.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/gate.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/door.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/canteen.png"
           ],
           "imageNames": [
             "farm",
-            "gate",
+            "door",
             "canteen"
           ],
           "correctIndex": 0,
@@ -4275,12 +4275,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/heresaroad.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sun.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sky.png"
           ],
           "imageNames": [
-            "sun",
+            "sea",
             "road",
             "sky"
           ],
@@ -4402,13 +4402,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookasea.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sun.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png"
           ],
           "imageNames": [
-            "sail",
-            "river",
+            "sun",
+            "road",
             "sea"
           ],
           "correctIndex": 2,
@@ -4526,12 +4526,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/top.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png"
           ],
           "imageNames": [
             "top",
             "kite",
-            "volleyball"
+            "bike"
           ],
           "correctIndex": 0,
           "hint": "Wow! A top! → Ồ! Con quay!\n(Hình đúng: top – con quay)",
@@ -4646,14 +4646,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/heresacar.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bus.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png"
           ],
           "imageNames": [
-            "bus",
+            "kite",
             "car",
-            "volleyball"
+            "road"
           ],
           "correctIndex": 1,
           "hint": "Here's a car. → Đây là chiếc ô tô.\n(Hình đúng: car – ô tô)",
@@ -4767,13 +4767,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hand.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hair.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/foot.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/boy.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hair.png"
           ],
           "imageNames": [
             "hand",
-            "hair",
-            "foot"
+            "boy",
+            "hair"
           ],
           "correctIndex": 0,
           "hint": "Clean your hand. → Hãy lau sạch bàn tay của bạn.\n(Hình đúng: hand – bàn tay)",
@@ -4894,13 +4894,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookatmyhand.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/face.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/girl.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hair.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hand.png"
           ],
           "imageNames": [
+            "face",
             "girl",
-            "hair",
             "hand"
           ],
           "correctIndex": 2,
@@ -5016,13 +5016,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookakite.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/van.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/truck.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/football.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png"
           ],
           "imageNames": [
-            "van",
-            "truck",
+            "car",
+            "football",
             "kite"
           ],
           "correctIndex": 2,
@@ -5137,13 +5137,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/ball.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/truck.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/van.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png"
           ],
           "imageNames": [
             "ball",
-            "truck",
-            "van"
+            "kite",
+            "car"
           ],
           "correctIndex": 0,
           "hint": "Is it a ball? → Đó có phải là quả bóng không?\n(Hình đúng: ball – quả bóng)",
@@ -5386,12 +5386,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pencil.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/box.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/clock.png"
           ],
           "imageNames": [
             "pencil",
             "bag",
-            "box"
+            "clock"
           ],
           "correctIndex": 1,
           "hint": "Point to the bag. → Hãy chỉ vào cái túi.\n(Hình đúng: bag – cái túi)",
@@ -6231,13 +6231,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/bahasavolleyball.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/top.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png"
           ],
           "imageNames": [
-            "top",
-            "bike",
+            "car",
+            "bag",
             "volleyball"
           ],
           "correctIndex": 2,
@@ -6478,13 +6478,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookatmybag.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/box.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/book.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pencil.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/clock.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png"
           ],
           "imageNames": [
-            "box",
-            "book",
+            "pencil",
+            "clock",
             "bag"
           ],
           "correctIndex": 2,
@@ -6599,13 +6599,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookatruck.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/top.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/truck.png"
           ],
           "imageNames": [
-            "top",
-            "car",
+            "bike",
+            "kite",
             "truck"
           ],
           "correctIndex": 2,
@@ -6842,12 +6842,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shakeyourhand.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/foot.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/face.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hand.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/boy.png"
           ],
           "imageNames": [
-            "foot",
+            "face",
             "hand",
             "boy"
           ],
@@ -7082,14 +7082,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/heresasun.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sun.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sky.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png"
           ],
           "imageNames": [
-            "rainbow",
+            "river",
             "sun",
-            "sky"
+            "sail"
           ],
           "correctIndex": 1,
           "hint": "Here's a sun. → Đây là mặt trời.\n(Hình đúng: sun – mặt trời)",
@@ -7203,12 +7203,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/football.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/truck.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png"
           ],
           "imageNames": [
             "football",
-            "truck",
+            "bike",
             "kite"
           ],
           "correctIndex": 2,
@@ -7330,12 +7330,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/boy.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hand.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hair.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/face.png"
           ],
           "imageNames": [
             "boy",
             "hand",
-            "hair"
+            "face"
           ],
           "correctIndex": 1,
           "hint": "Yes, it's my hand. → Vâng, đó là bàn tay của mình.\n(Hình đúng: hand – bàn tay)",
@@ -7445,13 +7445,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/boy.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/head.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hair.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hand.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/head.png"
           ],
           "imageNames": [
             "boy",
-            "head",
-            "hair"
+            "hand",
+            "head"
           ],
           "correctIndex": 0,
           "hint": "I can see a boy. → Mình có thể nhìn thấy bạn nam.\n(Hình đúng: boy – bạn nam)",
@@ -7563,13 +7563,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/top.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png"
           ],
           "imageNames": [
             "car",
-            "top",
-            "volleyball"
+            "kite",
+            "road"
           ],
           "correctIndex": 0,
           "hint": "He has a car. → Cậu ấy có chiếc ô tô.\n(Hình đúng: car – ô tô)",
@@ -7683,12 +7683,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sun.png"
           ],
           "imageNames": [
             "sail",
-            "sea",
+            "river",
             "sun"
           ],
           "correctIndex": 0,
@@ -7808,12 +7808,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/van.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png"
           ],
           "imageNames": [
             "kite",
-            "van",
+            "car",
             "volleyball"
           ],
           "correctIndex": 0,
@@ -8046,12 +8046,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/yesitsmyface.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/head.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/boy.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/face.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hand.png"
           ],
           "imageNames": [
-            "head",
+            "boy",
             "face",
             "hand"
           ],
@@ -8166,14 +8166,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/thatsarainbow.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sand.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png"
           ],
           "imageNames": [
-            "river",
+            "sand",
             "rainbow",
-            "road"
+            "river"
           ],
           "correctIndex": 1,
           "hint": "That's a rainbow. → Kia là cầu vồng.\n(Hình đúng: rainbow – cầu vồng)",
@@ -8296,12 +8296,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/ihaveabag.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/book.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/clock.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pen.png"
           ],
           "imageNames": [
-            "book",
+            "clock",
             "bag",
             "pen"
           ],
@@ -8412,14 +8412,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/mywindowishere.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/desk.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/garden.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/window.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/farm.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/desk.png"
           ],
           "imageNames": [
-            "desk",
+            "garden",
             "window",
-            "farm"
+            "desk"
           ],
           "correctIndex": 1,
           "hint": "My window is here. → Cái cửa sổ của mình ở đây.\n(Hình đúng: window – cái cửa sổ)",
@@ -8533,12 +8533,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/juice.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pasta.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/cake.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/noodles.png"
           ],
           "imageNames": [
             "juice",
-            "pasta",
+            "cake",
             "noodles"
           ],
           "correctIndex": 0,
@@ -8781,12 +8781,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/itsmybike.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/van.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png"
           ],
           "imageNames": [
-            "volleyball",
+            "road",
             "van",
             "bike"
           ],
@@ -9020,12 +9020,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/door.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/window.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/canteen.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/village.png"
           ],
           "imageNames": [
             "door",
-            "window",
+            "canteen",
             "village"
           ],
           "correctIndex": 2,
@@ -9262,14 +9262,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/wherestheroad.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/lake.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sky.png"
           ],
           "imageNames": [
-            "lake",
+            "sea",
             "road",
-            "sea"
+            "sky"
           ],
           "correctIndex": 1,
           "hint": "Where's the road? → Con đường ở đâu?\n(Hình đúng: road – con đường)",
@@ -9385,13 +9385,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/lake.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/farm.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png"
           ],
           "imageNames": [
             "sea",
-            "lake",
-            "river"
+            "farm",
+            "rainbow"
           ],
           "correctIndex": 0,
           "hint": "I can see a sea. → Mình có thể nhìn thấy biển.\n(Hình đúng: sea – biển)",
@@ -9870,12 +9870,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/whatsthisitsariver.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sand.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png"
           ],
           "imageNames": [
-            "sea",
+            "rainbow",
             "sand",
             "river"
           ],
@@ -9993,12 +9993,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/truck.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/football.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png"
           ],
           "imageNames": [
             "truck",
-            "football",
+            "road",
             "bike"
           ],
           "correctIndex": 2,
@@ -10482,12 +10482,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sun.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/lake.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png"
           ],
           "imageNames": [
             "sail",
-            "sun",
+            "lake",
             "rainbow"
           ],
           "correctIndex": 0,
@@ -10605,12 +10605,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/tiger.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/horse.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/ox.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/dog.png"
           ],
           "imageNames": [
             "tiger",
             "horse",
-            "ox"
+            "dog"
           ],
           "correctIndex": 1,
           "hint": "What's this? It's a horse. → Đây là gì? Đó là con ngựa.\n(Hình đúng: horse – con ngựa)",
@@ -10729,12 +10729,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/van.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png"
           ],
           "imageNames": [
             "volleyball",
-            "van",
+            "bag",
             "car"
           ],
           "correctIndex": 0,
@@ -10847,13 +10847,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/door.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/village.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/canteen.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/box.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/garden.png"
           ],
           "imageNames": [
             "door",
-            "village",
-            "canteen"
+            "box",
+            "garden"
           ],
           "correctIndex": 0,
           "hint": "Look at my door! → Nhìn cánh cửa của mình này!\n(Hình đúng: door – cánh cửa)",
@@ -11338,12 +11338,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/juice.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/jam.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/jelly.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/chips.png"
           ],
           "imageNames": [
             "juice",
             "jam",
-            "jelly"
+            "chips"
           ],
           "correctIndex": 0,
           "hint": "Do you like juice? → Bạn có thích nước ép không?\n(Hình đúng: juice – nước ép)",
@@ -11577,12 +11577,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/van.png"
           ],
           "imageNames": [
             "bike",
-            "car",
+            "kite",
             "van"
           ],
           "correctIndex": 0,
@@ -11820,12 +11820,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/thisismyvolleyball.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/truck.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bus.png"
           ],
           "imageNames": [
-            "truck",
+            "kite",
             "volleyball",
             "bus"
           ],
@@ -11936,14 +11936,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/shehasabox.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pen.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/box.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/pen.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/clock.png"
           ],
           "imageNames": [
-            "bag",
+            "pen",
             "box",
-            "pen"
+            "clock"
           ],
           "correctIndex": 1,
           "hint": "She has a box. → Cô ấy có cái hộp.\n(Hình đúng: box – cái hộp)",
@@ -12057,12 +12057,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sky.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sand.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/lake.png"
           ],
           "imageNames": [
             "rainbow",
-            "sky",
+            "sand",
             "lake"
           ],
           "correctIndex": 0,
@@ -12184,13 +12184,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/lookasand.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sun.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sand.png"
           ],
           "imageNames": [
+            "river",
             "sun",
-            "sea",
             "sand"
           ],
           "correctIndex": 2,
@@ -12426,12 +12426,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/farm.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/door.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/garden.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/canteen.png"
           ],
           "imageNames": [
             "farm",
             "door",
-            "garden"
+            "canteen"
           ],
           "correctIndex": 0,
           "hint": "It's a farm. → Đó là nông trại.\n(Hình đúng: farm – nông trại)",
@@ -12548,13 +12548,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/foot.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/boy.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/face.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/head.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/boy.png"
           ],
           "imageNames": [
             "foot",
-            "boy",
-            "face"
+            "head",
+            "boy"
           ],
           "correctIndex": 0,
           "hint": "Yes, it's my foot. → Vâng, đó là bàn chân của mình.\n(Hình đúng: foot – bàn chân)",
@@ -12675,14 +12675,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/thatsaroad.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/lake.png"
           ],
           "imageNames": [
-            "river",
+            "sail",
             "road",
-            "sail"
+            "lake"
           ],
           "correctIndex": 1,
           "hint": "That's a road. → Kia là con đường.\n(Hình đúng: road – con đường)",
@@ -12916,13 +12916,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hehasavolleyball.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/ball.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/volleyball.png"
           ],
           "imageNames": [
-            "kite",
-            "ball",
+            "car",
+            "bag",
             "volleyball"
           ],
           "correctIndex": 2,
@@ -13039,13 +13039,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/football.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bike.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kite.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png"
           ],
           "imageNames": [
             "car",
-            "football",
-            "bike"
+            "kite",
+            "road"
           ],
           "correctIndex": 0,
           "hint": "It's my car. → Đó là chiếc ô tô của mình.\n(Hình đúng: car – ô tô)",
@@ -13164,14 +13164,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/itsmydoor.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/gate.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/desk.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/door.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/desk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/garden.png"
           ],
           "imageNames": [
-            "gate",
+            "desk",
             "door",
-            "desk"
+            "garden"
           ],
           "correctIndex": 1,
           "hint": "It's my door. → Đó là cánh cửa của mình.\n(Hình đúng: door – cánh cửa)",
@@ -13287,13 +13287,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sand.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sky.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sail.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/river.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sky.png"
           ],
           "imageNames": [
             "sand",
-            "sky",
-            "sail"
+            "river",
+            "sky"
           ],
           "correctIndex": 0,
           "hint": "I can see a sand. → Mình có thể nhìn thấy bãi cát.\n(Hình đúng: sand – cát)",
@@ -13525,14 +13525,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/bahasafootball.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bus.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/bag.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/football.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/van.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/car.png"
           ],
           "imageNames": [
-            "bus",
+            "bag",
             "football",
-            "van"
+            "car"
           ],
           "correctIndex": 1,
           "hint": "Ba has a football. → Ba có quả bóng đá.\n(Hình đúng: football – quả bóng đá)",
@@ -13654,12 +13654,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/kitten.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/ox.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/cat.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/dog.png"
           ],
           "imageNames": [
             "kitten",
             "ox",
-            "cat"
+            "dog"
           ],
           "correctIndex": 1,
           "hint": "Look at the ox! → Nhìn con bò đực kìa!\n(Hình đúng: ox – con bò đực)",
@@ -13773,14 +13773,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l2/audios/hiitsarainbow.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sky.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/rainbow.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/road.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/sea.png"
           ],
           "imageNames": [
-            "sky",
+            "road",
             "rainbow",
-            "road"
+            "sea"
           ],
           "correctIndex": 1,
           "hint": "Hi! It's a rainbow. → Chào! Đó là cầu vồng.\n(Hình đúng: rainbow – cầu vồng)",
@@ -14502,13 +14502,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/hand.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/girl.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/foot.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/face.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l2/photos/girl.png"
           ],
           "imageNames": [
             "hand",
-            "girl",
-            "foot"
+            "face",
+            "girl"
           ],
           "correctIndex": 0,
           "hint": "Wash your hand, please. → Làm ơn rửa bàn tay của bạn.\n(Hình đúng: hand – bàn tay)",
