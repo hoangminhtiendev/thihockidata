@@ -1,7 +1,7 @@
 [
   {
     "id": 11,
-    "text": "Unit 11: Our holidays",
+    "text": "Our holidays",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit11.png",
     "scenes": [
       {
@@ -245,7 +245,7 @@
       {
         "id": 35,
         "word": "No, I didn't.",
-        "meaning": "Không, mình đã không.",
+        "meaning": "Không, mình không.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/noididnt.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/noididnt.mp3"
       },
@@ -511,7 +511,7 @@
       {
         "id": 73,
         "word": "Did you collect seashells? No, I didn't.",
-        "meaning": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không.",
+        "meaning": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/didyoucollectseashellsnoididnt.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/didyoucollectseashellsnoididnt.mp3"
       },
@@ -581,7 +581,7 @@
       {
         "id": 83,
         "word": "Did you see some interesting places? No, I didn't.",
-        "meaning": "Bạn đã ngắm những nơi thú vị chưa? Chưa, mình đã không.",
+        "meaning": "Bạn đã ngắm những nơi thú vị chưa? Chưa, mình chưa.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/didyouseesomeinterestingplacesnoididnt.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/didyouseesomeinterestingplacesnoididnt.mp3"
       },
@@ -651,7 +651,7 @@
       {
         "id": 93,
         "word": "Did you walk on the beach? No, I didn't.",
-        "meaning": "Bạn đã đi dạo trên bãi biển chưa? Chưa, mình đã không.",
+        "meaning": "Bạn đã đi dạo trên bãi biển chưa? Chưa, mình chưa.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/didyouwalkonthebeachnoididnt.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/didyouwalkonthebeachnoididnt.mp3"
       },
@@ -721,7 +721,7 @@
       {
         "id": 103,
         "word": "Did you take photos? No, I didn't.",
-        "meaning": "Bạn đã chụp ảnh chưa? Chưa, mình đã không.",
+        "meaning": "Bạn đã chụp ảnh chưa? Chưa, mình chưa.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/didyoutakephotosnoididnt.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/didyoutakephotosnoididnt.mp3"
       },
@@ -791,7 +791,7 @@
       {
         "id": 113,
         "word": "Did you explore the caves? No, I didn't.",
-        "meaning": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không.",
+        "meaning": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/didyouexplorethecavesnoididnt.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/didyouexplorethecavesnoididnt.mp3"
       },
@@ -2311,7 +2311,7 @@
   },
   {
     "id": 12,
-    "text": "Unit 12: Our Tet holiday",
+    "text": "Our Tet holiday",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit12.png",
     "scenes": [
       {
@@ -4040,7 +4040,7 @@
   },
   {
     "id": 13,
-    "text": "Unit 13: Our special days",
+    "text": "Our special days",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit13.png",
     "scenes": [
       {
@@ -5734,7 +5734,7 @@
   },
   {
     "id": 14,
-    "text": "Unit 14: Staying healthy",
+    "text": "Staying healthy",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit14.png",
     "scenes": [
       {
@@ -5929,14 +5929,14 @@
       {
         "id": 844,
         "word": "How does he stay healthy?",
-        "meaning": "Ông ấy/Anh ấy giữ gìn sức khỏe bằng cách nào?",
+        "meaning": "Anh ấy giữ gìn sức khỏe bằng cách nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/howdoeshestayhealthy.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/howdoeshestayhealthy.mp3"
       },
       {
         "id": 845,
         "word": "How does she stay healthy?",
-        "meaning": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?",
+        "meaning": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/howdoesshestayhealthy.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/howdoesshestayhealthy.mp3"
       },
@@ -7161,7 +7161,7 @@
       {
         "id": 1020,
         "word": "She drinks a lot of water.",
-        "meaning": "Bà ấy uống nhiều nước.",
+        "meaning": "Cô ấy uống nhiều nước.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/shedrinksalotofwater.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/shedrinksalotofwater.mp3"
       },
@@ -7441,7 +7441,7 @@
       {
         "id": 1060,
         "word": "She drinks a lot of water once a week.",
-        "meaning": "Bà ấy uống nhiều nước một lần một tuần.",
+        "meaning": "Cô ấy uống nhiều nước một lần một tuần.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/shedrinksalotofwateronceaweek.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/shedrinksalotofwateronceaweek.mp3"
       },
@@ -7679,14 +7679,14 @@
       {
         "id": 1094,
         "word": "He eats fruit.",
-        "meaning": "Ông ấy ăn trái cây.",
+        "meaning": "Anh ấy ăn trái cây.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/heeatsfruit.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/heeatsfruit.mp3"
       },
       {
         "id": 1095,
         "word": "He does morning exercise.",
-        "meaning": "Ông ấy tập thể dục buổi sáng.",
+        "meaning": "Anh ấy tập thể dục buổi sáng.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hedoesmorningexercise.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/hedoesmorningexercise.mp3"
       },
@@ -7721,7 +7721,7 @@
       {
         "id": 1100,
         "word": "He eats vegetables.",
-        "meaning": "Ông ấy ăn rau.",
+        "meaning": "Anh ấy ăn rau.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/heeatsvegetables.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/heeatsvegetables.mp3"
       }
@@ -7729,7 +7729,7 @@
   },
   {
     "id": 15,
-    "text": "Unit 15: Our health",
+    "text": "Our health",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit15.png",
     "scenes": [
       {
@@ -9255,7 +9255,7 @@
   },
   {
     "id": 16,
-    "text": "Unit 16: Seasons and the weather",
+    "text": "Seasons and the weather",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit16.png",
     "scenes": [
       {
@@ -10746,7 +10746,7 @@
   },
   {
     "id": 17,
-    "text": "Unit 17: Stories for children",
+    "text": "Stories for children",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit17.png",
     "scenes": [
       {
@@ -11081,7 +11081,7 @@
       {
         "id": 1577,
         "word": "I won the race with the hare. Who am I? You are the tortoise.",
-        "meaning": "Tôi đã thắng cuộc đua với con thỏ. Tôi là ai? Bạn là con rùa.",
+        "meaning": "Mình đã thắng cuộc đua với con thỏ. Mình là ai? Bạn là con rùa.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/iwontheracewiththeharewhoamiyouarethetortoise.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/iwontheracewiththeharewhoamiyouarethetortoise.mp3"
       },
@@ -11207,7 +11207,7 @@
       {
         "id": 1595,
         "word": "\"Yes, I can sing beautifully,\" the crow answered.",
-        "meaning": "\"Có, tôi hát rất hay,\" con quạ trả lời.",
+        "meaning": "\"Có, mình hát rất hay,\" con quạ trả lời.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/\"yesicansingbeautifully\"thecrowanswered.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/\"yesicansingbeautifully\"thecrowanswered.mp3"
       },
@@ -11739,7 +11739,7 @@
       {
         "id": 1671,
         "word": "What was the witch like?",
-        "meaning": "Mụ phù thủy là con như thế nào?",
+        "meaning": "Mụ phù thủy trông như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/whatwasthewitchlike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/whatwasthewitchlike.mp3"
       },
@@ -11837,7 +11837,7 @@
       {
         "id": 1685,
         "word": "What was the ant like?",
-        "meaning": "Kiến là con như thế nào?",
+        "meaning": "Con kiến như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/whatwastheantlike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/whatwastheantlike.mp3"
       },
@@ -11907,7 +11907,7 @@
       {
         "id": 1695,
         "word": "I won the race with the hare. Who am I?",
-        "meaning": "Tôi đã thắng cuộc đua với con thỏ. Tôi là ai?",
+        "meaning": "Mình đã thắng cuộc đua với con thỏ. Mình là ai?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/iwontheracewiththeharewhoami.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/iwontheracewiththeharewhoami.mp3"
       },
@@ -11942,7 +11942,7 @@
       {
         "id": 1700,
         "word": "What was the crow like?",
-        "meaning": "Quạ là con như thế nào?",
+        "meaning": "Con quạ trông như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/whatwasthecrowlike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/whatwasthecrowlike.mp3"
       },
@@ -11998,7 +11998,7 @@
       {
         "id": 1708,
         "word": "What was the tortoise like?",
-        "meaning": "Rùa là con như thế nào?",
+        "meaning": "Con rùa trông như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/whatwasthetortoiselike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/whatwasthetortoiselike.mp3"
       },
@@ -12068,7 +12068,7 @@
       {
         "id": 1718,
         "word": "What was the prince like?",
-        "meaning": "Hoàng tử là con như thế nào?",
+        "meaning": "Hoàng tử là người như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/whatwastheprincelike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/whatwastheprincelike.mp3"
       },
@@ -12236,7 +12236,7 @@
       {
         "id": 1742,
         "word": "What was the fox like?",
-        "meaning": "Cáo là con như thế nào?",
+        "meaning": "Con cáo trông như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/whatwasthefoxlike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/whatwasthefoxlike.mp3"
       },
@@ -12348,7 +12348,7 @@
       {
         "id": 1758,
         "word": "He does morning exercise every day.",
-        "meaning": "Ông ấy tập thể dục buổi sáng mỗi ngày.",
+        "meaning": "Anh ấy tập thể dục buổi sáng mỗi ngày.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hedoesmorningexerciseeveryday.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/hedoesmorningexerciseeveryday.mp3"
       }
@@ -12356,7 +12356,7 @@
   },
   {
     "id": 18,
-    "text": "Unit 18: Means of transport",
+    "text": "Means of transport",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit18.png",
     "scenes": [
       {
@@ -13342,7 +13342,7 @@
       {
         "id": 1899,
         "word": "What was the grasshopper like?",
-        "meaning": "Châu chấu là con như thế nào?",
+        "meaning": "Con châu chấu như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/whatwasthegrasshopperlike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/whatwasthegrasshopperlike.mp3"
       },
@@ -13874,7 +13874,7 @@
       {
         "id": 1975,
         "word": "What was the hare like?",
-        "meaning": "Thỏ rừng là con như thế nào?",
+        "meaning": "Con thỏ rừng như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/whatwastheharelike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/whatwastheharelike.mp3"
       },
@@ -14050,7 +14050,7 @@
   },
   {
     "id": 19,
-    "text": "Unit 19: Places of interest",
+    "text": "Places of interest",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit19.png",
     "scenes": [
       {
@@ -15842,7 +15842,7 @@
   },
   {
     "id": 20,
-    "text": "Unit 20: Our summer holidays",
+    "text": "Our summer holidays",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit20.png",
     "scenes": [
       {

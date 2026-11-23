@@ -1,7 +1,7 @@
 [
   {
     "id": 11,
-    "text": " Our holidays",
+    "text": "Our holidays",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit11.png",
     "scenes": [
       {
@@ -53,7 +53,7 @@
         "title": [
           {
             "en": "Did you collect seashells? No, I didn't.",
-            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
           },
           {
             "en": "Did you go to Finland? Yes, I did.",
@@ -68,7 +68,7 @@
             "vi": "Bạn mình sống ở Xit-ni."
           }
         ],
-        "hint": "Did you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không.\nDid you go to Finland? Yes, I did. - Bạn có đi Phần Lan không? Có.\nBen ate seafood in Phu Quoc. - Ben đã ăn hải sản ở Phú Quốc.\nMy friend lives in Sydney. - Bạn mình sống ở Xit-ni."
+        "hint": "Did you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa.\nDid you go to Finland? Yes, I did. - Bạn có đi Phần Lan không? Có.\nBen ate seafood in Phu Quoc. - Ben đã ăn hải sản ở Phú Quốc.\nMy friend lives in Sydney. - Bạn mình sống ở Xit-ni."
       },
       {
         "id": 4,
@@ -347,14 +347,14 @@
           },
           {
             "en": "No, I didn't.",
-            "vi": "Không, mình đã không."
+            "vi": "Không, mình không."
           },
           {
             "en": "Ben ate local food at Suoi Tien Theme Park.",
             "vi": "Ben đã ăn món địa phương ở công viên Suối Tiên."
           }
         ],
-        "hint": "Nam sunbathed on the beach in Nha Trang. - Nam đã tắm nắng trên bãi biển ở Nha Trang.\nWhat did they do there? They planted trees. - Họ đã làm gì ở đó? Họ đã trồng cây.\nNo, I didn't. - Không, mình đã không.\nBen ate local food at Suoi Tien Theme Park. - Ben đã ăn món địa phương ở công viên Suối Tiên."
+        "hint": "Nam sunbathed on the beach in Nha Trang. - Nam đã tắm nắng trên bãi biển ở Nha Trang.\nWhat did they do there? They planted trees. - Họ đã làm gì ở đó? Họ đã trồng cây.\nNo, I didn't. - Không, mình không.\nBen ate local food at Suoi Tien Theme Park. - Ben đã ăn món địa phương ở công viên Suối Tiên."
       },
       {
         "id": 17,
@@ -409,7 +409,7 @@
           },
           {
             "en": "Did you take photos? No, I didn't.",
-            "vi": "Bạn đã chụp ảnh chưa? Chưa, mình đã không."
+            "vi": "Bạn đã chụp ảnh chưa? Chưa, mình chưa."
           },
           {
             "en": "We swam in the sea.",
@@ -420,7 +420,7 @@
             "vi": "Mình đã bơi ở biển ở Phú Quốc."
           }
         ],
-        "hint": "Where were you? We were in Ha Long Bay. - Bạn đã ở đâu? Chúng mình ở Vịnh Hạ Long.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình đã không.\nWe swam in the sea. - Chúng mình đã bơi ở biển.\nI swam in the sea in Phu Quoc. - Mình đã bơi ở biển ở Phú Quốc."
+        "hint": "Where were you? We were in Ha Long Bay. - Bạn đã ở đâu? Chúng mình ở Vịnh Hạ Long.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình chưa.\nWe swam in the sea. - Chúng mình đã bơi ở biển.\nI swam in the sea in Phu Quoc. - Mình đã bơi ở biển ở Phú Quốc."
       },
       {
         "id": 20,
@@ -681,10 +681,10 @@
           },
           {
             "en": "Did you collect seashells? No, I didn't.",
-            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
           }
         ],
-        "hint": "I ate seafood with my brother. - Mình đã ăn hải sản cùng anh/em trai.\nWe went to Nha Trang. We ate seafood. - Chúng mình đã đến Nha Trang. Chúng mình đã ăn hải sản.\nI explored the caves in Sa Pa. - Mình đã khám phá hang động ở Sa Pa.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+        "hint": "I ate seafood with my brother. - Mình đã ăn hải sản cùng anh/em trai.\nWe went to Nha Trang. We ate seafood. - Chúng mình đã đến Nha Trang. Chúng mình đã ăn hải sản.\nI explored the caves in Sa Pa. - Mình đã khám phá hang động ở Sa Pa.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
       },
       {
         "id": 32,
@@ -1099,10 +1099,10 @@
           },
           {
             "en": "Did you explore the caves? No, I didn't.",
-            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
           }
         ],
-        "hint": "My family took a boat trip and ate seafood. - Gia đình mình đã đi thuyền và ăn hải sản.\nMary swam in the sea in Nha Trang. - Mary đã bơi ở biển ở Nha Trang.\nWe went to the beach and swam in the sea. - Chúng mình đã đi biển và bơi ở biển.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+        "hint": "My family took a boat trip and ate seafood. - Gia đình mình đã đi thuyền và ăn hải sản.\nMary swam in the sea in Nha Trang. - Mary đã bơi ở biển ở Nha Trang.\nWe went to the beach and swam in the sea. - Chúng mình đã đi biển và bơi ở biển.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
       },
       {
         "id": 51,
@@ -1187,10 +1187,10 @@
           },
           {
             "en": "Did you walk on the beach? No, I didn't.",
-            "vi": "Bạn đã đi dạo trên bãi biển chưa? Chưa, mình đã không."
+            "vi": "Bạn đã đi dạo trên bãi biển chưa? Chưa, mình chưa."
           }
         ],
-        "hint": "Tony ate local food at Ba Na Hills. - Tony đã ăn món địa phương ở Bà Nà Hills.\nI bought some souvenirs for my friends. - Mình đã mua quà lưu niệm cho bạn bè.\nWe bought some souvenirs. - Chúng mình đã mua một vài món quà lưu niệm.\nDid you walk on the beach? No, I didn't. - Bạn đã đi dạo trên bãi biển chưa? Chưa, mình đã không."
+        "hint": "Tony ate local food at Ba Na Hills. - Tony đã ăn món địa phương ở Bà Nà Hills.\nI bought some souvenirs for my friends. - Mình đã mua quà lưu niệm cho bạn bè.\nWe bought some souvenirs. - Chúng mình đã mua một vài món quà lưu niệm.\nDid you walk on the beach? No, I didn't. - Bạn đã đi dạo trên bãi biển chưa? Chưa, mình chưa."
       },
       {
         "id": 55,
@@ -1363,10 +1363,10 @@
           },
           {
             "en": "No, I didn't.",
-            "vi": "Không, mình đã không."
+            "vi": "Không, mình không."
           }
         ],
-        "hint": "I ate seafood with my brother. - Mình đã ăn hải sản cùng anh/em trai.\nIt was a wonderful journey. - Đó là một hành trình tuyệt vời.\nI bought some souvenirs for my friends. - Mình đã mua quà lưu niệm cho bạn bè.\nNo, I didn't. - Không, mình đã không."
+        "hint": "I ate seafood with my brother. - Mình đã ăn hải sản cùng anh/em trai.\nIt was a wonderful journey. - Đó là một hành trình tuyệt vời.\nI bought some souvenirs for my friends. - Mình đã mua quà lưu niệm cho bạn bè.\nNo, I didn't. - Không, mình không."
       },
       {
         "id": 63,
@@ -1381,14 +1381,14 @@
           },
           {
             "en": "Did you take photos? No, I didn't.",
-            "vi": "Bạn đã chụp ảnh chưa? Chưa, mình đã không."
+            "vi": "Bạn đã chụp ảnh chưa? Chưa, mình chưa."
           },
           {
             "en": "I swam in the sea in Phu Quoc.",
             "vi": "Mình đã bơi ở biển ở Phú Quốc."
           }
         ],
-        "hint": "Bill explored the caves in Sa Pa. - Bill đã khám phá hang động ở Sa Pa.\nI explored the caves with my family. - Mình đã khám phá các hang động cùng gia đình.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình đã không.\nI swam in the sea in Phu Quoc. - Mình đã bơi ở biển ở Phú Quốc."
+        "hint": "Bill explored the caves in Sa Pa. - Bill đã khám phá hang động ở Sa Pa.\nI explored the caves with my family. - Mình đã khám phá các hang động cùng gia đình.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình chưa.\nI swam in the sea in Phu Quoc. - Mình đã bơi ở biển ở Phú Quốc."
       },
       {
         "id": 64,
@@ -2221,10 +2221,10 @@
           },
           {
             "en": "No, I didn't.",
-            "vi": "Không, mình đã không."
+            "vi": "Không, mình không."
           }
         ],
-        "hint": "It's a car. - Đó là ô tô.\nIt's an eraser. - Đó là cục tẩy.\nTouch your mouth. - Hãy chạm vào cái miệng của bạn.\nNo, I didn't. - Không, mình đã không."
+        "hint": "It's a car. - Đó là ô tô.\nIt's an eraser. - Đó là cục tẩy.\nTouch your mouth. - Hãy chạm vào cái miệng của bạn.\nNo, I didn't. - Không, mình không."
       },
       {
         "id": 102,
@@ -2565,7 +2565,7 @@
           },
           {
             "en": "Did you explore the caves? No, I didn't.",
-            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
           },
           {
             "en": "What did your family do in Ha Long Bay?",
@@ -2576,7 +2576,7 @@
             "vi": "Mình đã đi dạo trên bãi biển cùng mẹ."
           }
         ],
-        "hint": "It's a cat. - Đó là con mèo.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không.\nWhat did your family do in Ha Long Bay? - Gia đình bạn đã làm gì ở Vịnh Hạ Long?\nI walked on the beach with my mother. - Mình đã đi dạo trên bãi biển cùng mẹ."
+        "hint": "It's a cat. - Đó là con mèo.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa.\nWhat did your family do in Ha Long Bay? - Gia đình bạn đã làm gì ở Vịnh Hạ Long?\nI walked on the beach with my mother. - Mình đã đi dạo trên bãi biển cùng mẹ."
       },
       {
         "id": 118,
@@ -2595,10 +2595,10 @@
           },
           {
             "en": "Did you explore the caves? No, I didn't.",
-            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
           }
         ],
-        "hint": "Did you go to Phu Quoc? Yes, I did. - Bạn có đi Phú Quốc không? Có.\nDid your family swim in the sea? - Gia đình bạn đã bơi ở biển chưa?\nIt's a plane. - Đó là máy bay.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+        "hint": "Did you go to Phu Quoc? Yes, I did. - Bạn có đi Phú Quốc không? Có.\nDid your family swim in the sea? - Gia đình bạn đã bơi ở biển chưa?\nIt's a plane. - Đó là máy bay.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
       },
       {
         "id": 119,
@@ -2609,7 +2609,7 @@
           },
           {
             "en": "Did you explore the caves? No, I didn't.",
-            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
           },
           {
             "en": "I like lemons.",
@@ -2620,7 +2620,7 @@
             "vi": "Bạn có đi Xin-ga-po không? Có."
           }
         ],
-        "hint": "I took photos with my brother. - Mình đã chụp ảnh cùng anh/em trai.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không.\nI like lemons. - Mình thích quả chanh.\nDid you go to Singapore? Yes, I did. - Bạn có đi Xin-ga-po không? Có."
+        "hint": "I took photos with my brother. - Mình đã chụp ảnh cùng anh/em trai.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa.\nI like lemons. - Mình thích quả chanh.\nDid you go to Singapore? Yes, I did. - Bạn có đi Xin-ga-po không? Có."
       },
       {
         "id": 120,
@@ -3308,7 +3308,7 @@
   },
   {
     "id": 12,
-    "text": " Our Tet holiday",
+    "text": "Our Tet holiday",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit12.png",
     "scenes": [
       {
@@ -5978,7 +5978,7 @@
         "title": [
           {
             "en": "Did you collect seashells? No, I didn't.",
-            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
           },
           {
             "en": "Nam sunbathed on the beach in Nha Trang.",
@@ -5993,7 +5993,7 @@
             "vi": "Đó là một hành trình dài."
           }
         ],
-        "hint": "Did you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không.\nNam sunbathed on the beach in Nha Trang. - Nam đã tắm nắng trên bãi biển ở Nha Trang.\nMum will do the shopping for Tet. - Mẹ sẽ đi mua sắm vào dịp Tết.\nIt was a long journey. - Đó là một hành trình dài."
+        "hint": "Did you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa.\nNam sunbathed on the beach in Nha Trang. - Nam đã tắm nắng trên bãi biển ở Nha Trang.\nMum will do the shopping for Tet. - Mẹ sẽ đi mua sắm vào dịp Tết.\nIt was a long journey. - Đó là một hành trình dài."
       },
       {
         "id": 273,
@@ -6022,7 +6022,7 @@
         "title": [
           {
             "en": "Did you explore the caves? No, I didn't.",
-            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
           },
           {
             "en": "Yes, I will.",
@@ -6037,7 +6037,7 @@
             "vi": "Đây là bố của mình."
           }
         ],
-        "hint": "Did you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không.\nYes, I will. - Có, mình sẽ mua.\nDid you go to Paris? Yes, I did. - Bạn có đi Pa-ri không? Có.\nThis is my father. - Đây là bố của mình."
+        "hint": "Did you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa.\nYes, I will. - Có, mình sẽ mua.\nDid you go to Paris? Yes, I did. - Bạn có đi Pa-ri không? Có.\nThis is my father. - Đây là bố của mình."
       },
       {
         "id": 275,
@@ -6136,7 +6136,7 @@
           },
           {
             "en": "Did you collect seashells? No, I didn't.",
-            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
           },
           {
             "en": "It's a robot.",
@@ -6147,7 +6147,7 @@
             "vi": "Chúng mình đã đến Thái Lan. Chúng mình đã bơi ở biển."
           }
         ],
-        "hint": "My father will decorate the house for Tet. - Bố mình sẽ trang trí nhà cửa vào dịp Tết.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không.\nIt's a robot. - Đó là con rô-bốt.\nWe went to Thailand. We swam in the sea. - Chúng mình đã đến Thái Lan. Chúng mình đã bơi ở biển."
+        "hint": "My father will decorate the house for Tet. - Bố mình sẽ trang trí nhà cửa vào dịp Tết.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa.\nIt's a robot. - Đó là con rô-bốt.\nWe went to Thailand. We swam in the sea. - Chúng mình đã đến Thái Lan. Chúng mình đã bơi ở biển."
       },
       {
         "id": 280,
@@ -6496,10 +6496,10 @@
           },
           {
             "en": "Did you take photos? No, I didn't.",
-            "vi": "Bạn đã chụp ảnh chưa? Chưa, mình đã không."
+            "vi": "Bạn đã chụp ảnh chưa? Chưa, mình chưa."
           }
         ],
-        "hint": "Will you plant trees for Tet? - Bạn có trồng cây vào dịp Tết không?\nMy friend lives in Paris. - Bạn mình sống ở Pa-ri.\nDid your family collect seashells? - Gia đình bạn đã nhặt vỏ sò chưa?\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình đã không."
+        "hint": "Will you plant trees for Tet? - Bạn có trồng cây vào dịp Tết không?\nMy friend lives in Paris. - Bạn mình sống ở Pa-ri.\nDid your family collect seashells? - Gia đình bạn đã nhặt vỏ sò chưa?\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình chưa."
       },
       {
         "id": 296,
@@ -6615,7 +6615,7 @@
   },
   {
     "id": 13,
-    "text": " Our special days",
+    "text": "Our special days",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit13.png",
     "scenes": [
       {
@@ -9139,14 +9139,14 @@
           },
           {
             "en": "Did you take photos? No, I didn't.",
-            "vi": "Bạn đã chụp ảnh chưa? Chưa, mình đã không."
+            "vi": "Bạn đã chụp ảnh chưa? Chưa, mình chưa."
           },
           {
             "en": "It's a goat.",
             "vi": "Đó là con dê."
           }
         ],
-        "hint": "I ate seafood in Phu Quoc. - Mình đã ăn hải sản ở Phú Quốc.\nWhat is Tet? It's our New Year festival. - Tết là gì? Đó là lễ hội năm mới của chúng ta.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình đã không.\nIt's a goat. - Đó là con dê."
+        "hint": "I ate seafood in Phu Quoc. - Mình đã ăn hải sản ở Phú Quốc.\nWhat is Tet? It's our New Year festival. - Tết là gì? Đó là lễ hội năm mới của chúng ta.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình chưa.\nIt's a goat. - Đó là con dê."
       },
       {
         "id": 416,
@@ -9469,14 +9469,14 @@
           },
           {
             "en": "Did you collect seashells? No, I didn't.",
-            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
           },
           {
             "en": "We wish each other good luck.",
             "vi": "Chúng mình chúc nhau may mắn."
           }
         ],
-        "hint": "Ben would like some chips and some water. - Ben muốn một ít khoai tây chiên và một ít nước.\nI like apples. - Mình thích quả táo.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không.\nWe wish each other good luck. - Chúng mình chúc nhau may mắn."
+        "hint": "Ben would like some chips and some water. - Ben muốn một ít khoai tây chiên và một ít nước.\nI like apples. - Mình thích quả táo.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa.\nWe wish each other good luck. - Chúng mình chúc nhau may mắn."
       },
       {
         "id": 431,
@@ -9922,7 +9922,7 @@
   },
   {
     "id": 14,
-    "text": " Staying healthy",
+    "text": "Staying healthy",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit14.png",
     "scenes": [
       {
@@ -10447,11 +10447,11 @@
             "vi": "bữa tiệc"
           },
           {
-            "en": "healthy",
-            "vi": "khỏe mạnh"
+            "en": "waterfall",
+            "vi": "thác nước"
           }
         ],
-        "hint": "stay healthy - giữ sức khỏe\ndo morning exercise - tập thể dục buổi sáng\nparty - bữa tiệc\nhealthy - khỏe mạnh"
+        "hint": "stay healthy - giữ sức khỏe\ndo morning exercise - tập thể dục buổi sáng\nparty - bữa tiệc\nwaterfall - thác nước"
       },
       {
         "id": 475,
@@ -10590,7 +10590,7 @@
         "title": [
           {
             "en": "He does morning exercise every day.",
-            "vi": "Ông ấy tập thể dục buổi sáng mỗi ngày."
+            "vi": "Anh ấy tập thể dục buổi sáng mỗi ngày."
           },
           {
             "en": "How often does Ben play sports?",
@@ -10605,7 +10605,7 @@
             "vi": "Bạn tập yoga thường xuyên như thế nào?"
           }
         ],
-        "hint": "He does morning exercise every day. - Ông ấy tập thể dục buổi sáng mỗi ngày.\nHow often does Ben play sports? - Ben chơi thể thao thường xuyên như thế nào?\nShe plays sports. - Bà ấy chơi thể thao.\nHow often do you do yoga? - Bạn tập yoga thường xuyên như thế nào?"
+        "hint": "He does morning exercise every day. - Anh ấy tập thể dục buổi sáng mỗi ngày.\nHow often does Ben play sports? - Ben chơi thể thao thường xuyên như thế nào?\nShe plays sports. - Bà ấy chơi thể thao.\nHow often do you do yoga? - Bạn tập yoga thường xuyên như thế nào?"
       },
       {
         "id": 482,
@@ -10730,14 +10730,14 @@
           },
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "And drinks fresh juice.",
             "vi": "Và uống nước ép tươi."
           }
         ],
-        "hint": "To stay healthy, I go swimming. - Để giữ gìn sức khỏe, mình đi bơi.\nHe exercises every day. - Cậu ấy tập thể dục mỗi ngày.\nHow does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nAnd drinks fresh juice. - Và uống nước ép tươi."
+        "hint": "To stay healthy, I go swimming. - Để giữ gìn sức khỏe, mình đi bơi.\nHe exercises every day. - Cậu ấy tập thể dục mỗi ngày.\nHow does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nAnd drinks fresh juice. - Và uống nước ép tươi."
       },
       {
         "id": 488,
@@ -10906,14 +10906,14 @@
           },
           {
             "en": "How does he stay healthy?",
-            "vi": "Ông ấy/Anh ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Anh ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "My grandfather eats vegetables every morning.",
             "vi": "Ông mình ăn rau mỗi sáng."
           }
         ],
-        "hint": "Kate does yoga every morning. - Kate tập yoga mỗi buổi sáng.\nAnd drinks fresh juice. - Và uống nước ép tươi.\nHow does he stay healthy? - Ông ấy/Anh ấy giữ gìn sức khỏe bằng cách nào?\nMy grandfather eats vegetables every morning. - Ông mình ăn rau mỗi sáng."
+        "hint": "Kate does yoga every morning. - Kate tập yoga mỗi buổi sáng.\nAnd drinks fresh juice. - Và uống nước ép tươi.\nHow does he stay healthy? - Anh ấy giữ gìn sức khỏe bằng cách nào?\nMy grandfather eats vegetables every morning. - Ông mình ăn rau mỗi sáng."
       },
       {
         "id": 496,
@@ -11038,14 +11038,14 @@
           },
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "Ben plays sports every weekend.",
             "vi": "Ben chơi thể thao mỗi cuối tuần."
           }
         ],
-        "hint": "I do morning exercise to stay healthy. - Mình tập thể dục buổi sáng để khỏe mạnh.\nTo stay healthy, I eat healthy food. - Để giữ gìn sức khỏe, mình ăn thức ăn tốt cho sức khỏe.\nHow does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nBen plays sports every weekend. - Ben chơi thể thao mỗi cuối tuần."
+        "hint": "I do morning exercise to stay healthy. - Mình tập thể dục buổi sáng để khỏe mạnh.\nTo stay healthy, I eat healthy food. - Để giữ gìn sức khỏe, mình ăn thức ăn tốt cho sức khỏe.\nHow does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nBen plays sports every weekend. - Ben chơi thể thao mỗi cuối tuần."
       },
       {
         "id": 502,
@@ -11086,10 +11086,10 @@
           },
           {
             "en": "She drinks a lot of water once a week.",
-            "vi": "Bà ấy uống nhiều nước một lần một tuần."
+            "vi": "Cô ấy uống nhiều nước một lần một tuần."
           }
         ],
-        "hint": "What do you do to stay healthy? - Bạn làm gì để giữ sức khỏe?\nI eat healthy food. - Mình ăn đồ ăn tốt cho sức khỏe.\nHow often does Tony play basketball? - Tony chơi bóng rổ thường xuyên thế nào?\nShe drinks a lot of water once a week. - Bà ấy uống nhiều nước một lần một tuần."
+        "hint": "What do you do to stay healthy? - Bạn làm gì để giữ sức khỏe?\nI eat healthy food. - Mình ăn đồ ăn tốt cho sức khỏe.\nHow often does Tony play basketball? - Tony chơi bóng rổ thường xuyên thế nào?\nShe drinks a lot of water once a week. - Cô ấy uống nhiều nước một lần một tuần."
       },
       {
         "id": 504,
@@ -11214,14 +11214,14 @@
           },
           {
             "en": "He does morning exercise every day.",
-            "vi": "Ông ấy tập thể dục buổi sáng mỗi ngày."
+            "vi": "Anh ấy tập thể dục buổi sáng mỗi ngày."
           },
           {
             "en": "She does yoga twice a week.",
             "vi": "Cô ấy tập yoga hai lần một tuần."
           }
         ],
-        "hint": "No, I didn't. - Không, mình không.\nShe does judo. - Chị ấy tập võ judo.\nHe does morning exercise every day. - Ông ấy tập thể dục buổi sáng mỗi ngày.\nShe does yoga twice a week. - Cô ấy tập yoga hai lần một tuần."
+        "hint": "No, I didn't. - Không, mình không.\nShe does judo. - Chị ấy tập võ judo.\nHe does morning exercise every day. - Anh ấy tập thể dục buổi sáng mỗi ngày.\nShe does yoga twice a week. - Cô ấy tập yoga hai lần một tuần."
       },
       {
         "id": 510,
@@ -11301,15 +11301,15 @@
             "vi": "may mắn"
           },
           {
-            "en": "healthy",
-            "vi": "khỏe mạnh"
+            "en": "parrot",
+            "vi": "con vẹt"
           },
           {
             "en": "stay healthy",
             "vi": "giữ sức khỏe"
           }
         ],
-        "hint": "go swimming - đi bơi\ngood luck - may mắn\nhealthy - khỏe mạnh\nstay healthy - giữ sức khỏe"
+        "hint": "go swimming - đi bơi\ngood luck - may mắn\nparrot - con vẹt\nstay healthy - giữ sức khỏe"
       },
       {
         "id": 514,
@@ -11404,7 +11404,7 @@
         "title": [
           {
             "en": "He does morning exercise every day.",
-            "vi": "Ông ấy tập thể dục buổi sáng mỗi ngày."
+            "vi": "Anh ấy tập thể dục buổi sáng mỗi ngày."
           },
           {
             "en": "He plays sports regularly.",
@@ -11419,7 +11419,7 @@
             "vi": "Cô ấy đã dọn nhà."
           }
         ],
-        "hint": "He does morning exercise every day. - Ông ấy tập thể dục buổi sáng mỗi ngày.\nHe plays sports regularly. - Bố mình chơi thể thao đều đặn.\nShe does judo three times a week. - Chị ấy tập võ judo ba lần một tuần.\nShe cleaned the house. - Cô ấy đã dọn nhà."
+        "hint": "He does morning exercise every day. - Anh ấy tập thể dục buổi sáng mỗi ngày.\nHe plays sports regularly. - Bố mình chơi thể thao đều đặn.\nShe does judo three times a week. - Chị ấy tập võ judo ba lần một tuần.\nShe cleaned the house. - Cô ấy đã dọn nhà."
       },
       {
         "id": 519,
@@ -11452,7 +11452,7 @@
           },
           {
             "en": "He eats fruit.",
-            "vi": "Ông ấy ăn trái cây."
+            "vi": "Anh ấy ăn trái cây."
           },
           {
             "en": "He would like some sweets.",
@@ -11463,7 +11463,7 @@
             "vi": "Bà ấy tập yoga một lần một tuần."
           }
         ],
-        "hint": "Yes, he does. - Có.\nHe eats fruit. - Ông ấy ăn trái cây.\nHe would like some sweets. - Cậu ấy muốn ăn kẹo.\nShe does yoga once a week. - Bà ấy tập yoga một lần một tuần."
+        "hint": "Yes, he does. - Có.\nHe eats fruit. - Anh ấy ăn trái cây.\nHe would like some sweets. - Cậu ấy muốn ăn kẹo.\nShe does yoga once a week. - Bà ấy tập yoga một lần một tuần."
       },
       {
         "id": 521,
@@ -11785,15 +11785,15 @@
             "vi": "thói quen"
           },
           {
-            "en": "exercise",
-            "vi": "bài tập thể dục"
+            "en": "autumn",
+            "vi": "mùa thu"
           },
           {
             "en": "healthy",
             "vi": "khỏe mạnh"
           }
         ],
-        "hint": "do morning exercise - tập thể dục buổi sáng\nhabit - thói quen\nexercise - bài tập thể dục\nhealthy - khỏe mạnh"
+        "hint": "do morning exercise - tập thể dục buổi sáng\nhabit - thói quen\nautumn - mùa thu\nhealthy - khỏe mạnh"
       },
       {
         "id": 536,
@@ -12024,7 +12024,7 @@
           },
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "Yeah, me too. I exercise every day.",
@@ -12035,7 +12035,7 @@
             "vi": "Chị gái mình tập võ judo ba lần một tuần."
           }
         ],
-        "hint": "My mother does yoga once a week. - Mẹ mình tập yoga một lần một tuần.\nHow does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nYeah, me too. I exercise every day. - Ừ, mình cũng vậy. Mình tập thể dục mỗi ngày.\nMy sister does judo three times a week. - Chị gái mình tập võ judo ba lần một tuần."
+        "hint": "My mother does yoga once a week. - Mẹ mình tập yoga một lần một tuần.\nHow does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nYeah, me too. I exercise every day. - Ừ, mình cũng vậy. Mình tập thể dục mỗi ngày.\nMy sister does judo three times a week. - Chị gái mình tập võ judo ba lần một tuần."
       },
       {
         "id": 547,
@@ -12208,10 +12208,10 @@
           },
           {
             "en": "Did you collect seashells? No, I didn't.",
-            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
           }
         ],
-        "hint": "My sister will wear new clothes for Tet. - Chị mình sẽ mặc quần áo mới vào dịp Tết.\nI would like some cakes. - Mình muốn một ít bánh ngọt.\nKate cleaned the house before Tet. - Kate đã dọn nhà trước Tết.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+        "hint": "My sister will wear new clothes for Tet. - Chị mình sẽ mặc quần áo mới vào dịp Tết.\nI would like some cakes. - Mình muốn một ít bánh ngọt.\nKate cleaned the house before Tet. - Kate đã dọn nhà trước Tết.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
       },
       {
         "id": 555,
@@ -13229,7 +13229,7 @@
   },
   {
     "id": 15,
-    "text": " Our health",
+    "text": "Our health",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit15.png",
     "scenes": [
       {
@@ -14384,8 +14384,8 @@
             "vi": "lời khuyên"
           },
           {
-            "en": "medicine",
-            "vi": "thuốc"
+            "en": "witch",
+            "vi": "mụ phù thủy"
           },
           {
             "en": "take some medicine",
@@ -14396,7 +14396,7 @@
             "vi": "cảm thấy mệt"
           }
         ],
-        "hint": "advice - lời khuyên\nmedicine - thuốc\ntake some medicine - uống thuốc\nfeel tired - cảm thấy mệt"
+        "hint": "advice - lời khuyên\nwitch - mụ phù thủy\ntake some medicine - uống thuốc\nfeel tired - cảm thấy mệt"
       },
       {
         "id": 654,
@@ -16017,14 +16017,14 @@
           },
           {
             "en": "No, I didn't.",
-            "vi": "Không, mình đã không."
+            "vi": "Không, mình không."
           },
           {
             "en": "I like bananas.",
             "vi": "Mình thích quả chuối."
           }
         ],
-        "hint": "I have a cold. - Mình bị cảm lạnh.\nTo stay healthy, I eat fruit. - Để giữ gìn sức khỏe, mình ăn trái cây.\nNo, I didn't. - Không, mình đã không.\nI like bananas. - Mình thích quả chuối."
+        "hint": "I have a cold. - Mình bị cảm lạnh.\nTo stay healthy, I eat fruit. - Để giữ gìn sức khỏe, mình ăn trái cây.\nNo, I didn't. - Không, mình không.\nI like bananas. - Mình thích quả chuối."
       },
       {
         "id": 728,
@@ -16211,7 +16211,7 @@
           },
           {
             "en": "Did you explore the caves? No, I didn't.",
-            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
           },
           {
             "en": "Did you eat seafood? Yes, I did.",
@@ -16222,7 +16222,7 @@
             "vi": "Bố mình ăn trái cây mỗi ngày."
           }
         ],
-        "hint": "I have a sore throat. - Mình bị đau họng.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không.\nDid you eat seafood? Yes, I did. - Bạn đã ăn hải sản chưa? Rồi.\nMy father eats fruit every day. - Bố mình ăn trái cây mỗi ngày."
+        "hint": "I have a sore throat. - Mình bị đau họng.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa.\nDid you eat seafood? Yes, I did. - Bạn đã ăn hải sản chưa? Rồi.\nMy father eats fruit every day. - Bố mình ăn trái cây mỗi ngày."
       },
       {
         "id": 737,
@@ -16536,7 +16536,7 @@
   },
   {
     "id": 16,
-    "text": " Seasons and the weather",
+    "text": "Seasons and the weather",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit16.png",
     "scenes": [
       {
@@ -16772,14 +16772,14 @@
           },
           {
             "en": "She drinks a lot of water.",
-            "vi": "Bà ấy uống nhiều nước."
+            "vi": "Cô ấy uống nhiều nước."
           },
           {
             "en": "He has a toothache.",
             "vi": "Cậu ấy bị đau răng."
           }
         ],
-        "hint": "I like spring. - Mình thích mùa xuân.\nWhat do you wear in summer? - Bạn mặc gì vào mùa hè?\nShe drinks a lot of water. - Bà ấy uống nhiều nước.\nHe has a toothache. - Cậu ấy bị đau răng."
+        "hint": "I like spring. - Mình thích mùa xuân.\nWhat do you wear in summer? - Bạn mặc gì vào mùa hè?\nShe drinks a lot of water. - Cô ấy uống nhiều nước.\nHe has a toothache. - Cậu ấy bị đau răng."
       },
       {
         "id": 762,
@@ -17238,10 +17238,10 @@
           },
           {
             "en": "She drinks a lot of water.",
-            "vi": "Bà ấy uống nhiều nước."
+            "vi": "Cô ấy uống nhiều nước."
           }
         ],
-        "hint": "I wear trousers. - Mình mặc quần dài.\nWhich season do you like best? - Bạn thích mùa nào nhất?\nBecause it's hot. - Vì trời nóng.\nShe drinks a lot of water. - Bà ấy uống nhiều nước."
+        "hint": "I wear trousers. - Mình mặc quần dài.\nWhich season do you like best? - Bạn thích mùa nào nhất?\nBecause it's hot. - Vì trời nóng.\nShe drinks a lot of water. - Cô ấy uống nhiều nước."
       },
       {
         "id": 783,
@@ -17546,10 +17546,10 @@
           },
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           }
         ],
-        "hint": "Jackets are good for winter. - Áo khoác rất hợp cho mùa đông.\nHow are you feeling today? - Hôm nay bạn cảm thấy thế nào?\nMum will wear new clothes for Tet. - Mẹ sẽ mặc quần áo mới vào dịp Tết.\nHow does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+        "hint": "Jackets are good for winter. - Áo khoác rất hợp cho mùa đông.\nHow are you feeling today? - Hôm nay bạn cảm thấy thế nào?\nMum will wear new clothes for Tet. - Mẹ sẽ mặc quần áo mới vào dịp Tết.\nHow does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
       },
       {
         "id": 797,
@@ -17604,7 +17604,7 @@
           },
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "You shouldn't eat sweets.",
@@ -17615,7 +17615,7 @@
             "vi": "Mẹ sẽ mặc quần áo mới vào dịp Tết."
           }
         ],
-        "hint": "We wear scarves outside. - Chúng mình quàng khăn khi ra ngoài.\nHow does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nYou shouldn't eat sweets. - Bạn không nên ăn kẹo.\nMum will wear new clothes for Tet. - Mẹ sẽ mặc quần áo mới vào dịp Tết."
+        "hint": "We wear scarves outside. - Chúng mình quàng khăn khi ra ngoài.\nHow does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nYou shouldn't eat sweets. - Bạn không nên ăn kẹo.\nMum will wear new clothes for Tet. - Mẹ sẽ mặc quần áo mới vào dịp Tết."
       },
       {
         "id": 800,
@@ -17801,8 +17801,8 @@
             "vi": "uống thuốc"
           },
           {
-            "en": "season",
-            "vi": "mùa"
+            "en": "toothache",
+            "vi": "đau răng"
           },
           {
             "en": "dry season",
@@ -17813,7 +17813,7 @@
             "vi": "thời tiết"
           }
         ],
-        "hint": "take some medicine - uống thuốc\nseason - mùa\ndry season - mùa khô\nweather - thời tiết"
+        "hint": "take some medicine - uống thuốc\ntoothache - đau răng\ndry season - mùa khô\nweather - thời tiết"
       },
       {
         "id": 809,
@@ -17981,15 +17981,15 @@
             "vi": "áo cánh"
           },
           {
-            "en": "season",
-            "vi": "mùa"
+            "en": "cloudy",
+            "vi": "nhiều mây"
           },
           {
             "en": "wear",
             "vi": "mặc"
           }
         ],
-        "hint": "dry season - mùa khô\nblouse - áo cánh\nseason - mùa\nwear - mặc"
+        "hint": "dry season - mùa khô\nblouse - áo cánh\ncloudy - nhiều mây\nwear - mặc"
       },
       {
         "id": 817,
@@ -18074,10 +18074,10 @@
           },
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           }
         ],
-        "hint": "We wear scarves outside. - Chúng mình quàng khăn khi ra ngoài.\nWhat season is it in Sydney? - Ở Xit-ni bây giờ là mùa gì?\nThe weather is perfect today. - Hôm nay thời tiết thật hoàn hảo.\nHow does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+        "hint": "We wear scarves outside. - Chúng mình quàng khăn khi ra ngoài.\nWhat season is it in Sydney? - Ở Xit-ni bây giờ là mùa gì?\nThe weather is perfect today. - Hôm nay thời tiết thật hoàn hảo.\nHow does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
       },
       {
         "id": 821,
@@ -18756,10 +18756,10 @@
           },
           {
             "en": "She drinks a lot of water.",
-            "vi": "Bà ấy uống nhiều nước."
+            "vi": "Cô ấy uống nhiều nước."
           }
         ],
-        "hint": "I eat healthy food every weekend. - Mình ăn đồ ăn tốt cho sức khỏe mỗi cuối tuần.\nYes, I do. - Vâng, mình có.\nWhat did Nam do in Nha Trang? - Nam đã làm gì ở Nha Trang?\nShe drinks a lot of water. - Bà ấy uống nhiều nước."
+        "hint": "I eat healthy food every weekend. - Mình ăn đồ ăn tốt cho sức khỏe mỗi cuối tuần.\nYes, I do. - Vâng, mình có.\nWhat did Nam do in Nha Trang? - Nam đã làm gì ở Nha Trang?\nShe drinks a lot of water. - Cô ấy uống nhiều nước."
       },
       {
         "id": 852,
@@ -18774,14 +18774,14 @@
           },
           {
             "en": "How does he stay healthy?",
-            "vi": "Ông ấy/Anh ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Anh ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "It's a cat.",
             "vi": "Đó là con mèo."
           }
         ],
-        "hint": "Mum will wear new clothes for Tet. - Mẹ sẽ mặc quần áo mới vào dịp Tết.\nI have a toothache. - Mình bị đau răng.\nHow does he stay healthy? - Ông ấy/Anh ấy giữ gìn sức khỏe bằng cách nào?\nIt's a cat. - Đó là con mèo."
+        "hint": "Mum will wear new clothes for Tet. - Mẹ sẽ mặc quần áo mới vào dịp Tết.\nI have a toothache. - Mình bị đau răng.\nHow does he stay healthy? - Anh ấy giữ gìn sức khỏe bằng cách nào?\nIt's a cat. - Đó là con mèo."
       },
       {
         "id": 853,
@@ -19188,7 +19188,7 @@
           },
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "Mum will do the shopping for Tet.",
@@ -19199,7 +19199,7 @@
             "vi": "Bố mình tập thể dục buổi sáng mỗi ngày."
           }
         ],
-        "hint": "What season is it in Sydney? - Ở Xit-ni bây giờ là mùa gì?\nHow does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nMum will do the shopping for Tet. - Mẹ sẽ đi mua sắm vào dịp Tết.\nMy father does morning exercise every day. - Bố mình tập thể dục buổi sáng mỗi ngày."
+        "hint": "What season is it in Sydney? - Ở Xit-ni bây giờ là mùa gì?\nHow does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nMum will do the shopping for Tet. - Mẹ sẽ đi mua sắm vào dịp Tết.\nMy father does morning exercise every day. - Bố mình tập thể dục buổi sáng mỗi ngày."
       },
       {
         "id": 872,
@@ -19800,7 +19800,7 @@
         "title": [
           {
             "en": "Did you explore the caves? No, I didn't.",
-            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+            "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
           },
           {
             "en": "Twice a week.",
@@ -19815,7 +19815,7 @@
             "vi": "Đó là phòng ăn."
           }
         ],
-        "hint": "Did you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không.\nTwice a week. - Hai lần một tuần.\nMy sister does judo three times a week. - Chị gái mình tập võ judo ba lần một tuần.\nIt's a dining room. - Đó là phòng ăn."
+        "hint": "Did you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa.\nTwice a week. - Hai lần một tuần.\nMy sister does judo three times a week. - Chị gái mình tập võ judo ba lần một tuần.\nIt's a dining room. - Đó là phòng ăn."
       },
       {
         "id": 900,
@@ -19843,7 +19843,7 @@
   },
   {
     "id": 17,
-    "text": " Stories for children",
+    "text": "Stories for children",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit17.png",
     "scenes": [
       {
@@ -19873,7 +19873,7 @@
         "title": [
           {
             "en": "What was the crow like?",
-            "vi": "Quạ là con như thế nào?"
+            "vi": "Con quạ trông như thế nào?"
           },
           {
             "en": "It could run fast.",
@@ -19888,7 +19888,7 @@
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "What was the crow like? - Quạ là con như thế nào?\nIt could run fast. - Nó có thể chạy nhanh.\nHow did the hare run? - Con thỏ đã chạy như thế nào?\nYes, it was. - Vâng, đúng vậy."
+        "hint": "What was the crow like? - Con quạ trông như thế nào?\nIt could run fast. - Nó có thể chạy nhanh.\nHow did the hare run? - Con thỏ đã chạy như thế nào?\nYes, it was. - Vâng, đúng vậy."
       },
       {
         "id": 903,
@@ -20255,14 +20255,14 @@
           },
           {
             "en": "What was the hare like?",
-            "vi": "Thỏ rừng là con như thế nào?"
+            "vi": "Con thỏ rừng như thế nào?"
           },
           {
             "en": "It could sing beautifully.",
             "vi": "Nó có thể hát hay."
           }
         ],
-        "hint": "Who are the main characters? - Các nhân vật chính là ai?\nWas the grasshopper lazy? - Châu chấu có lười biếng không?\nWhat was the hare like? - Thỏ rừng là con như thế nào?\nIt could sing beautifully. - Nó có thể hát hay."
+        "hint": "Who are the main characters? - Các nhân vật chính là ai?\nWas the grasshopper lazy? - Châu chấu có lười biếng không?\nWhat was the hare like? - Con thỏ rừng như thế nào?\nIt could sing beautifully. - Nó có thể hát hay."
       },
       {
         "id": 920,
@@ -20409,14 +20409,14 @@
           },
           {
             "en": "What was the hare like?",
-            "vi": "Thỏ rừng là con như thế nào?"
+            "vi": "Con thỏ rừng như thế nào?"
           },
           {
             "en": "It was fast.",
             "vi": "Nó nhanh."
           }
         ],
-        "hint": "I like the crow. - Mình thích con quạ.\nWhat could the grasshopper do? - Châu chấu có thể làm gì?\nWhat was the hare like? - Thỏ rừng là con như thế nào?\nIt was fast. - Nó nhanh."
+        "hint": "I like the crow. - Mình thích con quạ.\nWhat could the grasshopper do? - Châu chấu có thể làm gì?\nWhat was the hare like? - Con thỏ rừng như thế nào?\nIt was fast. - Nó nhanh."
       },
       {
         "id": 927,
@@ -20427,18 +20427,18 @@
           },
           {
             "en": "I won the race with the hare. Who am I?",
-            "vi": "Tôi đã thắng cuộc đua với con thỏ. Tôi là ai?"
+            "vi": "Mình đã thắng cuộc đua với con thỏ. Mình là ai?"
           },
           {
             "en": "What was the crow like?",
-            "vi": "Quạ là con như thế nào?"
+            "vi": "Con quạ trông như thế nào?"
           },
           {
             "en": "How did the ant cook well?",
             "vi": "Con kiến đã làm như thế nào?"
           }
         ],
-        "hint": "What could the grasshopper do? - Châu chấu có thể làm gì?\nI won the race with the hare. Who am I? - Tôi đã thắng cuộc đua với con thỏ. Tôi là ai?\nWhat was the crow like? - Quạ là con như thế nào?\nHow did the ant cook well? - Con kiến đã làm như thế nào?"
+        "hint": "What could the grasshopper do? - Châu chấu có thể làm gì?\nI won the race with the hare. Who am I? - Mình đã thắng cuộc đua với con thỏ. Mình là ai?\nWhat was the crow like? - Con quạ trông như thế nào?\nHow did the ant cook well? - Con kiến đã làm như thế nào?"
       },
       {
         "id": 928,
@@ -20665,7 +20665,7 @@
         "title": [
           {
             "en": "What was the grasshopper like?",
-            "vi": "Châu chấu là con như thế nào?"
+            "vi": "Con châu chấu như thế nào?"
           },
           {
             "en": "He ran fast.",
@@ -20680,7 +20680,7 @@
             "vi": "Nó đã làm việc chăm chỉ."
           }
         ],
-        "hint": "What was the grasshopper like? - Châu chấu là con như thế nào?\nHe ran fast. - Nó chạy nhanh.\nWas the ant kind? - Kiến có tốt bụng không?\nIt worked hard. - Nó đã làm việc chăm chỉ."
+        "hint": "What was the grasshopper like? - Con châu chấu như thế nào?\nHe ran fast. - Nó chạy nhanh.\nWas the ant kind? - Kiến có tốt bụng không?\nIt worked hard. - Nó đã làm việc chăm chỉ."
       },
       {
         "id": 939,
@@ -20775,7 +20775,7 @@
         "title": [
           {
             "en": "What was the tortoise like?",
-            "vi": "Rùa là con như thế nào?"
+            "vi": "Con rùa trông như thế nào?"
           },
           {
             "en": "Which character do you like?",
@@ -20790,7 +20790,7 @@
             "vi": "Vào mùa xuân trời có có mưa không?"
           }
         ],
-        "hint": "What was the tortoise like? - Rùa là con như thế nào?\nWhich character do you like? - Bạn thích nhân vật nào?\nWas the ant kind? - Kiến có tốt bụng không?\nIs it rainy in spring? - Vào mùa xuân trời có có mưa không?"
+        "hint": "What was the tortoise like? - Con rùa trông như thế nào?\nWhich character do you like? - Bạn thích nhân vật nào?\nWas the ant kind? - Kiến có tốt bụng không?\nIs it rainy in spring? - Vào mùa xuân trời có có mưa không?"
       },
       {
         "id": 944,
@@ -21394,8 +21394,8 @@
             "vi": "khu rừng"
           },
           {
-            "en": "character",
-            "vi": "nhân vật"
+            "en": "chips",
+            "vi": "khoai tây chiên"
           },
           {
             "en": "main character",
@@ -21406,7 +21406,7 @@
             "vi": "mụ phù thủy"
           }
         ],
-        "hint": "forest - khu rừng\ncharacter - nhân vật\nmain character - nhân vật chính\nwitch - mụ phù thủy"
+        "hint": "forest - khu rừng\nchips - khoai tây chiên\nmain character - nhân vật chính\nwitch - mụ phù thủy"
       },
       {
         "id": 972,
@@ -22063,17 +22063,17 @@
           },
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           }
         ],
-        "hint": "We have a party on Children's Day. - Chúng mình tổ chức tiệc vào Ngày Quốc tế Thiếu nhi.\nTake care of yourself. - Hãy giữ gìn sức khỏe nhé.\nDoes your mother do yoga? No, she doesn't. - Mẹ bạn có tập yoga không? Không.\nHow does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+        "hint": "We have a party on Children's Day. - Chúng mình tổ chức tiệc vào Ngày Quốc tế Thiếu nhi.\nTake care of yourself. - Hãy giữ gìn sức khỏe nhé.\nDoes your mother do yoga? No, she doesn't. - Mẹ bạn có tập yoga không? Không.\nHow does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
       },
       {
         "id": 1002,
         "title": [
           {
             "en": "How does she stay healthy?",
-            "vi": "Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "You should drink lots of water.",
@@ -22088,7 +22088,7 @@
             "vi": "Con châu chấu là một nhân vật trong câu chuyện."
           }
         ],
-        "hint": "How does she stay healthy? - Bà ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nYou should drink lots of water. - Bạn nên uống nhiều nước.\nI wear a hat in summer. - Mùa hè mình mặc mũ.\nThe grasshopper is a character in the story. - Con châu chấu là một nhân vật trong câu chuyện."
+        "hint": "How does she stay healthy? - Cô ấy/Chị ấy giữ gìn sức khỏe bằng cách nào?\nYou should drink lots of water. - Bạn nên uống nhiều nước.\nI wear a hat in summer. - Mùa hè mình mặc mũ.\nThe grasshopper is a character in the story. - Con châu chấu là một nhân vật trong câu chuyện."
       },
       {
         "id": 1003,
@@ -22547,10 +22547,10 @@
           },
           {
             "en": "Did you collect seashells? No, I didn't.",
-            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
           }
         ],
-        "hint": "I do judo twice a week. - Mình tập judo hai lần một tuần.\nI feel tired. I have a headache. - Mình thấy mệt. Mình bị đau đầu.\nWhen did you go to Ha Long Bay? - Bạn đã đến Vịnh Hạ Long khi nào?\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+        "hint": "I do judo twice a week. - Mình tập judo hai lần một tuần.\nI feel tired. I have a headache. - Mình thấy mệt. Mình bị đau đầu.\nWhen did you go to Ha Long Bay? - Bạn đã đến Vịnh Hạ Long khi nào?\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
       },
       {
         "id": 1024,
@@ -23150,7 +23150,7 @@
   },
   {
     "id": 18,
-    "text": " Means of transport",
+    "text": "Means of transport",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit18.png",
     "scenes": [
       {
@@ -23320,14 +23320,14 @@
           },
           {
             "en": "What was the grasshopper like?",
-            "vi": "Châu chấu là con như thế nào?"
+            "vi": "Con châu chấu như thế nào?"
           },
           {
             "en": "You can get there by plane.",
             "vi": "Bạn có thể đến đó bằng máy bay."
           }
         ],
-        "hint": "How often do you eat healthy food? - Bạn ăn đồ ăn tốt cho sức khỏe thường xuyên như thế nào?\nCan you get there by ferry? - Bạn có thể đến đó bằng phà không?\nWhat was the grasshopper like? - Châu chấu là con như thế nào?\nYou can get there by plane. - Bạn có thể đến đó bằng máy bay."
+        "hint": "How often do you eat healthy food? - Bạn ăn đồ ăn tốt cho sức khỏe thường xuyên như thế nào?\nCan you get there by ferry? - Bạn có thể đến đó bằng phà không?\nWhat was the grasshopper like? - Con châu chấu như thế nào?\nYou can get there by plane. - Bạn có thể đến đó bằng máy bay."
       },
       {
         "id": 1059,
@@ -24424,10 +24424,10 @@
           },
           {
             "en": "What was the ant like?",
-            "vi": "Kiến là con như thế nào?"
+            "vi": "Con kiến như thế nào?"
           }
         ],
-        "hint": "Yes. Let's go by bus. - Rồi. Chúng ta đi bằng xe buýt nhé.\nHow often do you eat healthy food? - Bạn ăn đồ ăn tốt cho sức khỏe thường xuyên như thế nào?\nNo, it isn't. You can get there on foot. - Không. Bạn có thể đi bộ đến đó.\nWhat was the ant like? - Kiến là con như thế nào?"
+        "hint": "Yes. Let's go by bus. - Rồi. Chúng ta đi bằng xe buýt nhé.\nHow often do you eat healthy food? - Bạn ăn đồ ăn tốt cho sức khỏe thường xuyên như thế nào?\nNo, it isn't. You can get there on foot. - Không. Bạn có thể đi bộ đến đó.\nWhat was the ant like? - Con kiến như thế nào?"
       },
       {
         "id": 1109,
@@ -25480,10 +25480,10 @@
           },
           {
             "en": "What was the ant like?",
-            "vi": "Kiến là con như thế nào?"
+            "vi": "Con kiến như thế nào?"
           }
         ],
-        "hint": "What did your family do in Sydney? - Gia đình bạn đã làm gì ở Xit-ni?\nI bought roses. - Mình đã mua hoa hồng.\nWould you like some mooncakes? - Bạn có muốn dùng một ít bánh trung thu không?\nWhat was the ant like? - Kiến là con như thế nào?"
+        "hint": "What did your family do in Sydney? - Gia đình bạn đã làm gì ở Xit-ni?\nI bought roses. - Mình đã mua hoa hồng.\nWould you like some mooncakes? - Bạn có muốn dùng một ít bánh trung thu không?\nWhat was the ant like? - Con kiến như thế nào?"
       },
       {
         "id": 1157,
@@ -26110,7 +26110,7 @@
           },
           {
             "en": "Did you collect seashells? No, I didn't.",
-            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không."
+            "vi": "Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa."
           },
           {
             "en": "How are you today, Nam? I have toothache.",
@@ -26121,7 +26121,7 @@
             "vi": "Chị gái bạn có tập võ judo không? Không."
           }
         ],
-        "hint": "It's hot and sunny in summer. - Vào mùa hè, trời nóng và có nắng.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình đã không.\nHow are you today, Nam? I have toothache. - Hôm nay bạn thế nào, Nam? Mình bị đau răng.\nDoes your sister do judo? No, she doesn't. - Chị gái bạn có tập võ judo không? Không."
+        "hint": "It's hot and sunny in summer. - Vào mùa hè, trời nóng và có nắng.\nDid you collect seashells? No, I didn't. - Bạn đã nhặt vỏ sò chưa? Chưa, mình chưa.\nHow are you today, Nam? I have toothache. - Hôm nay bạn thế nào, Nam? Mình bị đau răng.\nDoes your sister do judo? No, she doesn't. - Chị gái bạn có tập võ judo không? Không."
       },
       {
         "id": 1186,
@@ -26457,7 +26457,7 @@
   },
   {
     "id": 19,
-    "text": " Places of interest",
+    "text": "Places of interest",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit19.png",
     "scenes": [
       {
@@ -27146,8 +27146,8 @@
         "id": 1232,
         "title": [
           {
-            "en": "cave",
-            "vi": "hang động"
+            "en": "humid",
+            "vi": "ẩm ướt"
           },
           {
             "en": "opinion",
@@ -27162,7 +27162,7 @@
             "vi": "động Thiên Cung"
           }
         ],
-        "hint": "cave - hang động\nopinion - ý kiến\nrace - cuộc đua\nDau Go Cave - động Thiên Cung"
+        "hint": "humid - ẩm ướt\nopinion - ý kiến\nrace - cuộc đua\nDau Go Cave - động Thiên Cung"
       },
       {
         "id": 1233,
@@ -29065,7 +29065,7 @@
           },
           {
             "en": "I won the race with the hare. Who am I?",
-            "vi": "Tôi đã thắng cuộc đua với con thỏ. Tôi là ai?"
+            "vi": "Mình đã thắng cuộc đua với con thỏ. Mình là ai?"
           },
           {
             "en": "How did you get there?",
@@ -29076,7 +29076,7 @@
             "vi": "Mùa đông bạn thường mặc gì?"
           }
         ],
-        "hint": "I'll go to Hue. - Mình sẽ đến Huế.\nI won the race with the hare. Who am I? - Tôi đã thắng cuộc đua với con thỏ. Tôi là ai?\nHow did you get there? - Các bạn đã đến đó bằng cách nào?\nWhat do you usually wear in winter? - Mùa đông bạn thường mặc gì?"
+        "hint": "I'll go to Hue. - Mình sẽ đến Huế.\nI won the race with the hare. Who am I? - Mình đã thắng cuộc đua với con thỏ. Mình là ai?\nHow did you get there? - Các bạn đã đến đó bằng cách nào?\nWhat do you usually wear in winter? - Mùa đông bạn thường mặc gì?"
       },
       {
         "id": 1320,
@@ -29764,7 +29764,7 @@
   },
   {
     "id": 20,
-    "text": " Our summer holidays",
+    "text": "Our summer holidays",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/unit20.png",
     "scenes": [
       {
@@ -31297,15 +31297,15 @@
             "vi": "câu lạc bộ âm nhạc"
           },
           {
-            "en": "plan",
-            "vi": "kế hoạch"
+            "en": "cough",
+            "vi": "ho"
           },
           {
             "en": "plan a trip",
             "vi": "lên kế hoạch cho chuyến đi"
           }
         ],
-        "hint": "help my parents - giúp bố mẹ\nmusic club - câu lạc bộ âm nhạc\nplan - kế hoạch\nplan a trip - lên kế hoạch cho chuyến đi"
+        "hint": "help my parents - giúp bố mẹ\nmusic club - câu lạc bộ âm nhạc\ncough - ho\nplan a trip - lên kế hoạch cho chuyến đi"
       },
       {
         "id": 1421,
@@ -32152,7 +32152,7 @@
           },
           {
             "en": "She drinks a lot of water once a week.",
-            "vi": "Bà ấy uống nhiều nước một lần một tuần."
+            "vi": "Cô ấy uống nhiều nước một lần một tuần."
           },
           {
             "en": "What would Nam like to eat?",
@@ -32163,7 +32163,7 @@
             "vi": "Con quạ đã làm như thế nào?"
           }
         ],
-        "hint": "Do you think Hyde Park is fantastic? - Bạn có nghĩ Công viên Hyde tuyệt vời không?\nShe drinks a lot of water once a week. - Bà ấy uống nhiều nước một lần một tuần.\nWhat would Nam like to eat? - Nam muốn ăn gì?\nHow did the crow sing beautifully? - Con quạ đã làm như thế nào?"
+        "hint": "Do you think Hyde Park is fantastic? - Bạn có nghĩ Công viên Hyde tuyệt vời không?\nShe drinks a lot of water once a week. - Cô ấy uống nhiều nước một lần một tuần.\nWhat would Nam like to eat? - Nam muốn ăn gì?\nHow did the crow sing beautifully? - Con quạ đã làm như thế nào?"
       },
       {
         "id": 1460,
@@ -32812,7 +32812,7 @@
           },
           {
             "en": "How does he stay healthy?",
-            "vi": "Ông ấy/Anh ấy giữ gìn sức khỏe bằng cách nào?"
+            "vi": "Anh ấy giữ gìn sức khỏe bằng cách nào?"
           },
           {
             "en": "I'm not very well. I have a sore throat.",
@@ -32823,7 +32823,7 @@
             "vi": "Bạn sẽ có món ăn gì ở bữa tiệc?"
           }
         ],
-        "hint": "It's about one hundred kilometres from here. - Nó cách đây khoảng một trăm ki-lô-mét.\nHow does he stay healthy? - Ông ấy/Anh ấy giữ gìn sức khỏe bằng cách nào?\nI'm not very well. I have a sore throat. - Mình không khỏe lắm. Mình bị đau họng.\nWhat food will you have at the party? - Bạn sẽ có món ăn gì ở bữa tiệc?"
+        "hint": "It's about one hundred kilometres from here. - Nó cách đây khoảng một trăm ki-lô-mét.\nHow does he stay healthy? - Anh ấy giữ gìn sức khỏe bằng cách nào?\nI'm not very well. I have a sore throat. - Mình không khỏe lắm. Mình bị đau họng.\nWhat food will you have at the party? - Bạn sẽ có món ăn gì ở bữa tiệc?"
       },
       {
         "id": 1490,

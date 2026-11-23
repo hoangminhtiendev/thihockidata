@@ -48,8 +48,8 @@
         "value": {
           "id": 475,
           "sentence": "ha_i_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/habit.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/habit.mp3",
           "answer": "bt",
           "hint": "habit: thói quen",
           "topicId": 14
@@ -58,7 +58,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 401,
+          "id": 399,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -84,7 +84,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1339,
-          "question": "Find the mistake.\nMy favourite special day are Children's Day.",
+          "question": "Find the mistake.\n<u>My</u> favourite <u>special</u> day <u>are</u> Children's <u>Day</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -132,13 +132,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/dwarfs.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/witch.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/grasshopper.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/snowwhite.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/witch.png"
           ],
           "imageNames": [
             "dwarfs",
-            "witch",
-            "grasshopper"
+            "Snow White",
+            "witch"
           ],
           "correctIndex": 0,
           "hint": "They're dwarfs. → Đó là các chú lùn.\n(Hình đúng: dwarfs – các chú lùn)",
@@ -150,8 +150,8 @@
         "value": {
           "id": 1444,
           "question": "Choose the missing letter.\nsore thr_at",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/sorethroat.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/sorethroat.mp3",
           "choices": [
             "A. v",
             "B. s",
@@ -199,7 +199,7 @@
             "photos?",
             "take"
           ],
-          "hint": "Bạn đã chụp ảnh chưa? Chưa, mình đã không. → Did you take photos? No, I didn't.",
+          "hint": "Bạn đã chụp ảnh chưa? Chưa, mình chưa. → Did you take photos? No, I didn't.",
           "eraseFlag": 0,
           "topicId": 11
         }
@@ -293,14 +293,14 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/shedrinksalotofwater.mp3",
           "answer": "water",
-          "hint": "She drinks a lot of water: Bà ấy uống nhiều nước.",
+          "hint": "She drinks a lot of water: Cô ấy uống nhiều nước.",
           "topicId": 16
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 604,
+          "id": 600,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -323,7 +323,7 @@
         "type": "multiChoice",
         "value": {
           "id": 539,
-          "question": "___ did you get to Tower Bridge? – I went there on foot.",
+          "question": "Choose the correct answer.\nA: ___ did you get to Tower Bridge?\nB: I went there on foot.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -398,7 +398,7 @@
             "D. books"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 Bài nghe: Ben: My friend lives in Singapore. I went there last summer.\nNam: Did you take photos?\nBen: Yes, I did. I also bought some postcards.\n→ Ben: Bạn mình sống ở Xin-ga-po. Mùa hè năm ngoái mình đã đến đó.\nNam: Bạn có chụp ảnh không?\nBen: Có. Mình cũng đã mua vài tấm bưu thiếp.\n✅ C. postcards",
+          "hint": "🎧 Bài nghe: A: My friend lives in Singapore. I went there last summer.\nB: Did you take photos?\nA: Yes, I did. I also bought some postcards.\n→ A: Bạn mình sống ở Xin-ga-po. Mùa hè năm ngoái mình đã đến đó.\nB: Bạn có chụp ảnh không?\nA: Có. Mình cũng đã mua vài tấm bưu thiếp.\n✅ C. postcards",
           "topicId": 11
         }
       },
@@ -407,8 +407,8 @@
         "value": {
           "id": 258,
           "sentence": "gira__e",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/giraffe.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/giraffe.mp3",
           "answer": "ff",
           "hint": "giraffe: hươu cao cổ",
           "topicId": 12
@@ -417,7 +417,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 211,
+          "id": 209,
           "audioUrl": "",
           "question": "Kate đã dọn nhà trước Tết.",
           "correctAnswer": [
@@ -498,9 +498,9 @@
             ""
           ],
           "imageNames": [
-            "winter",
-            "water park",
-            "waterfall"
+            "Is it cold in winter?",
+            "Is it cold in spring?",
+            "Is it cold in autumn?"
           ],
           "correctIndex": 0,
           "hint": "Is it cold in winter? → Vào mùa đông trời có lạnh không?\n(Chữ cần chọn: winter – mùa đông)",
@@ -512,8 +512,8 @@
         "value": {
           "id": 1347,
           "question": "Choose the missing letter.\nmed_cine",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/medicine.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/medicine.mp3",
           "choices": [
             "A. a",
             "B. s",
@@ -540,7 +540,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1393,
+          "id": 1384,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -614,14 +614,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/wellhavecakesandsweets.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/burgers.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/chips.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/sweets.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/sandwiches.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/burgers.png"
           ],
           "imageNames": [
-            "burgers",
+            "chips",
             "sweets",
-            "sandwiches"
+            "burgers"
           ],
           "correctIndex": 1,
           "hint": "We'll have cakes and sweets. → Chúng mình sẽ có bánh ngọt và kẹo.\n(Hình đúng: sweets – kẹo)",
@@ -649,8 +649,8 @@
         "value": {
           "id": 708,
           "sentence": "h_b_t",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/habit.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/habit.mp3",
           "answer": "ai",
           "hint": "habit: thói quen",
           "topicId": 15
@@ -659,7 +659,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 496,
+          "id": 493,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -695,7 +695,7 @@
             "D. Yes, he did."
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 Bài nghe: Mai: What was the witch like?\nPeter: It was bad.\nMai: Did you like it?\nPeter: Yes, I did.\n→ Mai: Mụ phù thủy là con như thế nào?\nPeter: Nó xấu xa.\nMai: Bạn có thích nó không?\nPeter: Có.\n✅ D. Yes, he did.",
+          "hint": "🎧 Bài nghe: A: What was the witch like?\nB: It was bad.\nA: Did you like it?\nB: Yes, I did.\n→ A: Mụ phù thủy là con như thế nào?\nB: Nó xấu xa.\nA: Bạn có thích nó không?\nB: Có.\n✅ D. Yes, he did.",
           "topicId": 17
         }
       },
@@ -779,7 +779,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 107,
+          "id": 106,
           "audioUrl": "",
           "question": "Không. Mình sẽ trang trí nhà cửa.",
           "correctAnswer": [
@@ -902,9 +902,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 779,
+          "id": 773,
           "audioUrl": "",
-          "question": "",
+          "question": "áo cánh",
           "correctAnswer": [
             "B",
             "LO",
@@ -974,12 +974,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/ball.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/pencil.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/teddybear.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/robot.png"
           ],
           "imageNames": [
             "ball",
-            "pencil",
+            "teddy bear",
             "robot"
           ],
           "correctIndex": 0,
@@ -1010,8 +1010,8 @@
         "value": {
           "id": 314,
           "sentence": "h__el",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hotel.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/hotel.mp3",
           "answer": "ot",
           "hint": "hotel: khách sạn",
           "topicId": 13
@@ -1020,7 +1020,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 344,
+          "id": 342,
           "audioUrl": "",
           "question": "Peter tập yoga mỗi cuối tuần.",
           "correctAnswer": [
@@ -1048,8 +1048,8 @@
         "value": {
           "id": 344,
           "question": "Complete the word.\n_ _ould",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/should.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/should.mp3",
           "choices": [
             "A. rr",
             "B. tr",
@@ -1099,9 +1099,9 @@
             ""
           ],
           "imageNames": [
-            "summer",
-            "scarf",
-            "sister"
+            "We went there last summer.",
+            "We went there last spring.",
+            "We went there last autumn."
           ],
           "correctIndex": 0,
           "hint": "We went there last summer. → Chúng mình đã đến đó vào mùa hè năm ngoái.\n(Chữ cần chọn: summer – mùa hè)",
@@ -1141,7 +1141,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1454,
+          "id": 1444,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -1169,7 +1169,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Tony: Did you take photos in Sa Pa, Mai?\nMai: Yes, I did. It was great.\nTony: Lucky you!\n→ Tony: Mai, bạn có chụp ảnh ở Sa Pa không?\nMai: Có. Thật tuyệt.\nTony: May cho bạn quá!\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: Did you take photos in Sa Pa, Mai?\nB: Yes, I did. It was great.\nA: Lucky you!\n→ A: Mai, bạn có chụp ảnh ở Sa Pa không?\nB: Có. Thật tuyệt.\nA: May cho bạn quá!\n✅ B. False",
           "topicId": 11
         }
       },
@@ -1231,7 +1231,7 @@
         "type": "multiChoice",
         "value": {
           "id": 358,
-          "question": "I ___ a headache. What should I do? – You should take some medicine.",
+          "question": "Choose the correct answer.\nA: I ___ a headache. What should I do?\nB: You should take some medicine.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1260,7 +1260,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 691,
+          "id": 686,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -1354,8 +1354,8 @@
         "value": {
           "id": 1126,
           "question": "Choose the missing letter.\n_eafood",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/seafood.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/seafood.mp3",
           "choices": [
             "A. m",
             "B. t",
@@ -1382,7 +1382,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 228,
+          "id": 226,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -1488,7 +1488,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Mai: What was the tortoise like?\nBill: It was slow.\nMai: Did you like it?\nBill: Yes, I did.\n→ Mai: Rùa là con như thế nào?\nBill: Nó chậm.\nMai: Bạn có thích nó không?\nBill: Có.\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: What was the tortoise like?\nB: It was slow.\nA: Did you like it?\nB: Yes, I did.\n→ A: Rùa là con như thế nào?\nB: Nó chậm.\nA: Bạn có thích nó không?\nB: Có.\n✅ B. False",
           "topicId": 17
         }
       },
@@ -1507,7 +1507,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1382,
+          "id": 1373,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -1598,7 +1598,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1228,
-          "question": "Find the mistake.\nShe would like a sweets.",
+          "question": "Find the mistake.\n<u>She</u> <u>would</u> <u>like</u> <u>a</u> sweets.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1617,8 +1617,8 @@
         "value": {
           "id": 461,
           "sentence": "e_ercise",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/exercise.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/exercise.mp3",
           "answer": "x",
           "hint": "exercise: bài tập thể dục",
           "topicId": 14
@@ -1627,7 +1627,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 354,
+          "id": 352,
           "audioUrl": "",
           "question": "Mình bị đau bụng.",
           "correctAnswer": [
@@ -1706,9 +1706,9 @@
             ""
           ],
           "imageNames": [
-            "headache",
-            "Hyde Park",
-            "hare"
+            "Minh went to West Lake by taxi.",
+            "Minh went to Hyde Park by taxi.",
+            "Minh went to Nha Trang Vinpearl Land by taxi."
           ],
           "correctIndex": 1,
           "hint": "Minh went to Hyde Park by taxi. → Minh đã đến công viên Hyde bằng taxi.\n(Chữ cần chọn: Hyde Park – công viên Hyde)",
@@ -1748,7 +1748,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 992,
+          "id": 985,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -1772,7 +1772,7 @@
         "type": "multiChoice",
         "value": {
           "id": 96,
-          "question": "Read and complete.\nPeter: What did you do before Tet?\nTony: I ___.",
+          "question": "Read and complete.\nA: What did you do before Tet?\nB: I ___.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1861,8 +1861,8 @@
         "value": {
           "id": 901,
           "sentence": "me_i_ine",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/medicine.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/medicine.mp3",
           "answer": "dc",
           "hint": "medicine: thuốc",
           "topicId": 17
@@ -1871,7 +1871,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 741,
+          "id": 735,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -1907,7 +1907,7 @@
             "D. a cave"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Bill: Let us plan a trip. There is a famous place near here.\nMary: What is it?\nBill: It is Ba Na Hills. There is a waterfall there. It is fantastic.\n→ Bill: Chúng ta hãy lên kế hoạch cho một chuyến đi. Gần đây có một nơi nổi tiếng.\nMary: Đó là nơi nào?\nBill: Đó là Bà Nà Hills. Ở đó có thác nước. Nó thật tuyệt vời.\n✅ A. a waterfall",
+          "hint": "🎧 Bài nghe: A: Let us plan a trip. There is a famous place near here.\nB: What is it?\nA: It is Ba Na Hills. There is a waterfall there. It is fantastic.\n→ A: Chúng ta hãy lên kế hoạch cho một chuyến đi. Gần đây có một nơi nổi tiếng.\nB: Đó là nơi nào?\nA: Đó là Bà Nà Hills. Ở đó có thác nước. Nó thật tuyệt vời.\n✅ A. a waterfall",
           "topicId": 19
         }
       },
@@ -1991,7 +1991,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 325,
+          "id": 323,
           "audioUrl": "",
           "question": "Anh ấy uống nước ép tươi hai lần một tuần.",
           "correctAnswer": [
@@ -2087,7 +2087,7 @@
         "type": "multiChoice",
         "value": {
           "id": 538,
-          "question": "How do you go to school? – I go ___.",
+          "question": "Choose the correct answer.\nA: How do you go to school?\nB: I go ___.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2116,9 +2116,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 955,
+          "id": 948,
           "audioUrl": "",
-          "question": "",
+          "question": "khoảng cách",
           "correctAnswer": [
             "D",
             "I",
@@ -2236,7 +2236,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 560,
+          "id": 556,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -2314,9 +2314,9 @@
             ""
           ],
           "imageNames": [
-            "lake",
-            "cave",
-            "lemon"
+            "We're going to West Lake this weekend. Do you want to come with us?",
+            "We're going to Vung Tau Beach this weekend. Do you want to come with us?",
+            "We're going to Ban Gioc Waterfall this weekend. Do you want to come with us?"
           ],
           "correctIndex": 0,
           "hint": "We're going to West Lake this weekend. Do you want to come with us? → Cuối tuần này chúng mình sẽ đến Hồ Tây. Bạn có muốn đi cùng không?\n(Chữ cần chọn: lake – cái hồ)",
@@ -2356,7 +2356,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 140,
+          "id": 139,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -2381,7 +2381,7 @@
         "type": "multiChoice",
         "value": {
           "id": 171,
-          "question": "Read and complete.\nMary: Would you like some milk tea?\nBill: No, ___.",
+          "question": "Read and complete.\nA: Would you like some milk tea?\nB: No, ___.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2470,8 +2470,8 @@
         "value": {
           "id": 1058,
           "sentence": "nea_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/near.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/near.mp3",
           "answer": "r",
           "hint": "near: gần",
           "topicId": 18
@@ -2480,7 +2480,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 853,
+          "id": 847,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -2578,7 +2578,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. moncakes",
-            "B. mooncake",
+            "B. moonkakes",
             "C. moonccakes",
             "D. mooncakes"
           ],
@@ -2602,7 +2602,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 431,
+          "id": 428,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -2704,7 +2704,7 @@
             "A. There is a lake here near.",
             "B. There is a near lake here.",
             "C. There is a lake near here.",
-            "D. Is there a lake near here."
+            "D. Is lake there a near here."
           ],
           "correctAnswerIndex": 2,
           "hint": "Sắp xếp từ thành câu đúng.\n✅ C. There is a lake near here.\n👉 Có cái hồ gần đây.",
@@ -2726,7 +2726,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1032,
+          "id": 1025,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -2746,7 +2746,7 @@
         "type": "multiChoice",
         "value": {
           "id": 93,
-          "question": "Read and complete.\nPeter: What did you do before Tet?\nBen: I ___.",
+          "question": "Read and complete.\nA: What did you do before Tet?\nB: I ___.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2830,8 +2830,8 @@
         "value": {
           "id": 857,
           "sentence": "se_she_l",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/seashell.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/seashell.mp3",
           "answer": "al",
           "hint": "seashell: vỏ sò",
           "topicId": 16
@@ -2840,7 +2840,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 654,
+          "id": 649,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -2919,9 +2919,9 @@
             ""
           ],
           "imageNames": [
-            "Ha Long Bay",
-            "headache",
-            "have a rest"
+            "What does Minh think of Ha Long Bay?",
+            "What does Minh think of Dragon Bridge?",
+            "What does Minh think of Suoi Tien Theme Park?"
           ],
           "correctIndex": 0,
           "hint": "What does Minh think of Ha Long Bay? → Minh nghĩ gì về Vịnh Hạ Long?\n(Chữ cần chọn: Ha Long Bay – Vịnh Hạ Long)",
@@ -2961,7 +2961,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1114,
+          "id": 1107,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -3050,7 +3050,7 @@
         "type": "multiChoice",
         "value": {
           "id": 545,
-          "question": "Read and complete.\nBill: How do you go to school?\nTony: I go ___.",
+          "question": "Read and complete.\nA: How do you go to school?\nB: I go ___.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3069,8 +3069,8 @@
         "value": {
           "id": 1224,
           "sentence": "o_ini_n",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/opinion.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/opinion.mp3",
           "answer": "po",
           "hint": "opinion: ý kiến",
           "topicId": 19
@@ -3079,7 +3079,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 921,
+          "id": 915,
           "audioUrl": "",
           "question": "Peter sẽ chụp ảnh.",
           "correctAnswer": [
@@ -3118,7 +3118,7 @@
             "D. collected seashells"
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 Bài nghe: Laura: Where did you go last summer, Mary?\nMary: I went to Phu Quoc.\nLaura: What did you do there?\nMary: I collected seashells.\n→ Laura: Mary, mùa hè năm ngoái bạn đã đi đâu?\nMary: Mình đã đến Phú Quốc.\nLaura: Bạn đã làm gì ở đó?\nMary: Mình đã nhặt vỏ sò.\n✅ D. collected seashells",
+          "hint": "🎧 Bài nghe: A: Where did you go last summer, Mary?\nB: I went to Phu Quoc.\nA: What did you do there?\nB: I collected seashells.\n→ A: Mary, mùa hè năm ngoái bạn đã đi đâu?\nB: Mình đã đến Phú Quốc.\nA: Bạn đã làm gì ở đó?\nB: Mình đã nhặt vỏ sò.\n✅ D. collected seashells",
           "topicId": 11
         }
       },
@@ -3174,8 +3174,8 @@
         "value": {
           "id": 297,
           "question": "Complete the word.\nkit_ _en",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/kitchen.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/kitchen.mp3",
           "choices": [
             "A. pl",
             "B. nk",
@@ -3202,7 +3202,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 505,
+          "id": 502,
           "audioUrl": "",
           "question": "Cô ấy thường mặc khăn quàng cổ vào mùa xuân.",
           "correctAnswer": [
@@ -3234,8 +3234,8 @@
         "value": {
           "id": 1366,
           "question": "Choose the missing letter.\nsto_y",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/story.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/story.mp3",
           "choices": [
             "A. l",
             "B. f",
@@ -3325,9 +3325,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 178,
+          "id": 176,
           "audioUrl": "",
-          "question": "",
+          "question": "con mèo",
           "correctAnswer": [
             "C",
             "A",
@@ -3347,7 +3347,7 @@
         "type": "multiChoice",
         "value": {
           "id": 168,
-          "question": "Read and complete.\nTony: What's your favourite special day?\nMinh: ___ Children's Day.",
+          "question": "Read and complete.\nA: What's your favourite special day?\nB: ___ Children's Day.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3412,7 +3412,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1340,
-          "question": "Find the mistake.\nI wear an scarf.",
+          "question": "Find the mistake.\n<u>I</u> <u>wear</u> <u>an</u> <u>scarf</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3431,8 +3431,8 @@
         "value": {
           "id": 907,
           "sentence": "medi_ine",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/medicine.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/medicine.mp3",
           "answer": "c",
           "hint": "medicine: thuốc",
           "topicId": 17
@@ -3441,7 +3441,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 720,
+          "id": 715,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -3471,8 +3471,8 @@
         "value": {
           "id": 643,
           "question": "Complete the word.\nb_ _ch",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/beach.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/beach.mp3",
           "choices": [
             "A. ea",
             "B. th",
@@ -3522,9 +3522,9 @@
             ""
           ],
           "imageNames": [
-            "Teachers' Day",
-            "take photos",
-            "Tet"
+            "Did you swim in the sea? Yes, I did.",
+            "Did you take photos? Yes, I did.",
+            "Did you eat seafood? Yes, I did."
           ],
           "correctIndex": 1,
           "hint": "Did you take photos? Yes, I did. → Bạn đã chụp ảnh chưa? Rồi.\n(Chữ cần chọn: take photos – chụp ảnh)",
@@ -3564,7 +3564,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1176,
+          "id": 1168,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -3653,7 +3653,7 @@
         "type": "multiChoice",
         "value": {
           "id": 625,
-          "question": "Would you like to visit Ha Long Bay? – ___",
+          "question": "Choose the correct answer.\nA: Would you like to visit Ha Long Bay?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3672,8 +3672,8 @@
         "value": {
           "id": 1455,
           "sentence": "s_or_s",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/shorts.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/shorts.mp3",
           "answer": "ht",
           "hint": "shorts: quần soóc",
           "topicId": 20
@@ -3682,7 +3682,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 68,
+          "id": 67,
           "audioUrl": "",
           "question": "Bạn mình sống ở Xin-ga-po.",
           "correctAnswer": [
@@ -3780,7 +3780,7 @@
           "choices": [
             "A. lion",
             "B. lio",
-            "C. lino",
+            "C. lieon",
             "D. ilon"
           ],
           "correctAnswerIndex": 0,
@@ -3803,7 +3803,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 644,
+          "id": 639,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -3901,7 +3901,7 @@
         "type": "multiChoice",
         "value": {
           "id": 57,
-          "question": "___ this? – It's a giraffe.",
+          "question": "Choose the correct answer.\nA: ___ this?\nB: It's a giraffe.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -3930,7 +3930,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1144,
+          "id": 1137,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -3950,7 +3950,7 @@
         "type": "multiChoice",
         "value": {
           "id": 240,
-          "question": "___ often does your mother do yoga? – She does yoga once a week.",
+          "question": "Choose the correct answer.\nA: ___ often does your mother do yoga?\nB: She does yoga once a week.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4034,8 +4034,8 @@
         "value": {
           "id": 1154,
           "sentence": "swe_ts",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/sweets.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/sweets.mp3",
           "answer": "e",
           "hint": "sweets: kẹo",
           "topicId": 18
@@ -4044,7 +4044,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 893,
+          "id": 887,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -4097,7 +4097,7 @@
             },
             {
               "en": "Did you take photos? No, I didn't.",
-              "vi": "Bạn đã chụp ảnh chưa? Chưa, mình đã không."
+              "vi": "Bạn đã chụp ảnh chưa? Chưa, mình chưa."
             },
             {
               "en": "We swam in the sea.",
@@ -4108,7 +4108,7 @@
               "vi": "Mình đã bơi ở biển ở Phú Quốc."
             }
           ],
-          "hint": "Where were you? We were in Ha Long Bay. - Bạn đã ở đâu? Chúng mình ở Vịnh Hạ Long.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình đã không.\nWe swam in the sea. - Chúng mình đã bơi ở biển.\nI swam in the sea in Phu Quoc. - Mình đã bơi ở biển ở Phú Quốc.",
+          "hint": "Where were you? We were in Ha Long Bay. - Bạn đã ở đâu? Chúng mình ở Vịnh Hạ Long.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình chưa.\nWe swam in the sea. - Chúng mình đã bơi ở biển.\nI swam in the sea in Phu Quoc. - Mình đã bơi ở biển ở Phú Quốc.",
           "topicId": 11
         }
       },
@@ -4124,9 +4124,9 @@
             ""
           ],
           "imageNames": [
-            "chips",
-            "cloudy",
-            "clean the house"
+            "Dad will give lucky money for Tet.",
+            "Dad will plant trees for Tet.",
+            "Dad will clean the house for Tet."
           ],
           "correctIndex": 2,
           "hint": "Dad will clean the house for Tet. → Bố sẽ dọn dẹp nhà cửa vào dịp Tết.\n(Chữ cần chọn: clean the house – dọn nhà)",
@@ -4159,16 +4159,16 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/howdoeshestayhealthy.mp3",
           "answer": "healthy",
-          "hint": "How does he stay healthy: Ông ấy/Anh ấy giữ gìn sức khỏe bằng cách nào?",
+          "hint": "How does he stay healthy: Anh ấy giữ gìn sức khỏe bằng cách nào?",
           "topicId": 14
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 388,
+          "id": 386,
           "audioUrl": "",
-          "question": "",
+          "question": "đau đầu",
           "correctAnswer": [
             "HE",
             "A",
@@ -4192,7 +4192,7 @@
         "type": "multiChoice",
         "value": {
           "id": 436,
-          "question": "Read and complete.\nBen: What's your favourite special day?\nPeter: ___ Children's Day.",
+          "question": "Read and complete.\nA: What's your favourite special day?\nB: ___ Children's Day.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4264,7 +4264,7 @@
         "type": "multiChoice",
         "value": {
           "id": 693,
-          "question": "Read and complete.\nMary: Where are you going to go this summer?\nTony: We're going to ___ Sa Pa.",
+          "question": "Read and complete.\nA: Where are you going to go this summer?\nB: We're going to ___ Sa Pa.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4283,8 +4283,8 @@
         "value": {
           "id": 19,
           "sentence": "sou_enir",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/souvenir.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/souvenir.mp3",
           "answer": "v",
           "hint": "souvenir: đồ lưu niệm",
           "topicId": 11
@@ -4293,7 +4293,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 117,
+          "id": 116,
           "audioUrl": "",
           "question": "Cậu ấy sẽ xem bắn pháo hoa.",
           "correctAnswer": [
@@ -4320,7 +4320,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1209,
-          "question": "Find the mistake.\nYes, I did. I went there with I family.",
+          "question": "Find the mistake.\nYes, I <u>did</u>. I went there <u>with</u> <u>I</u> <u>family</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4414,7 +4414,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 778,
+          "id": 772,
           "audioUrl": "",
           "question": "hồ Hoàn Kiếm ở Ha Noi.",
           "correctAnswer": [
@@ -4539,7 +4539,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 303,
+          "id": 301,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -4619,7 +4619,7 @@
             "fox"
           ],
           "correctIndex": 0,
-          "hint": "What was the crow like? → Quạ là con như thế nào?\n(Hình đúng: crow – con quạ)",
+          "hint": "What was the crow like? → Con quạ trông như thế nào?\n(Hình đúng: crow – con quạ)",
           "topicId": 17
         }
       },
@@ -4646,8 +4646,8 @@
         "value": {
           "id": 1210,
           "sentence": "peacef_l",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/peaceful.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/peaceful.mp3",
           "answer": "u",
           "hint": "peaceful: yên bình",
           "topicId": 19
@@ -4656,7 +4656,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 896,
+          "id": 890,
           "audioUrl": "",
           "question": "Mình dự định thăm một thác nước.",
           "correctAnswer": [
@@ -4737,9 +4737,9 @@
             ""
           ],
           "imageNames": [
-            "Sports Day",
-            "sweets",
-            "supermarket"
+            "He would like some pizza.",
+            "He would like some sweets.",
+            "He would like some fish."
           ],
           "correctIndex": 1,
           "hint": "He would like some sweets. → Cậu ấy muốn ăn kẹo.\n(Chữ cần chọn: sweets – kẹo)",
@@ -4751,8 +4751,8 @@
         "value": {
           "id": 1236,
           "question": "Choose the missing letter.\n_isit my grandparents",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/visitmygrandparents.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/visitmygrandparents.mp3",
           "choices": [
             "A. v",
             "B. n",
@@ -4779,7 +4779,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 488,
+          "id": 485,
           "audioUrl": "",
           "question": "To stay healthy, I play sports.",
           "correctAnswer": [
@@ -4788,7 +4788,7 @@
           ],
           "scramble": [
             "khỏe, mình chơi thể thao.",
-            "ở Nha Trang.",
+            "nhưng",
             "Để giữ gìn sức"
           ],
           "hint": "To stay healthy, I play sports. → Để giữ gìn sức khỏe, mình chơi thể thao.",
@@ -4800,7 +4800,7 @@
         "type": "multiChoice",
         "value": {
           "id": 471,
-          "question": "Read and complete.\nLucy: What was the prince like?\nKate: It ___ kind.",
+          "question": "Read and complete.\nA: What was the prince like?\nB: It ___ kind.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4889,8 +4889,8 @@
         "value": {
           "id": 166,
           "sentence": "hot_l",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hotel.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/hotel.mp3",
           "answer": "e",
           "hint": "hotel: khách sạn",
           "topicId": 12
@@ -4899,7 +4899,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 231,
+          "id": 229,
           "audioUrl": "",
           "question": "Chúng mình sẽ chơi cầu lông vào Ngày hội thể thao.",
           "correctAnswer": [
@@ -4938,7 +4938,7 @@
             "D. twice a week"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Lucy: Do you drink fresh juice?\nLaura: Yes, I do. I drink fresh juice every morning.\nLucy: Do you do judo?\nLaura: Yes, I do. I do judo twice a week.\n→ Lucy: Bạn có uống nước ép trái cây không?\nLaura: Có. Mình uống nước ép trái cây mỗi buổi sáng.\nLucy: Bạn có tập judo không?\nLaura: Có. Mình tập judo hai lần một tuần.\n✅ A. every morning",
+          "hint": "🎧 Bài nghe: A: Do you drink fresh juice?\nB: Yes, I do. I drink fresh juice every morning.\nA: Do you do judo?\nB: Yes, I do. I do judo twice a week.\n→ A: Bạn có uống nước ép trái cây không?\nB: Có. Mình uống nước ép trái cây mỗi buổi sáng.\nA: Bạn có tập judo không?\nB: Có. Mình tập judo hai lần một tuần.\n✅ A. every morning",
           "topicId": 14
         }
       },
@@ -5022,7 +5022,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 859,
+          "id": 853,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -5056,8 +5056,8 @@
         "value": {
           "id": 744,
           "question": "Complete the word.\nsh_ _ld",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/should.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/should.mp3",
           "choices": [
             "A. ou",
             "B. or",
@@ -5128,7 +5128,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Mary: What will you do on Teachers' Day?\nBill: We will have a party.\nMary: What food will you have?\nBill: We will have chips.\n→ Mary: Bạn sẽ làm gì vào Ngày Nhà giáo?\nBill: Chúng mình sẽ tổ chức một bữa tiệc.\nMary: Các bạn sẽ có món gì?\nBill: Chúng mình sẽ có đồ ăn.\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: What will you do on Teachers' Day?\nB: We will have a party.\nA: What food will you have?\nB: We will have chips.\n→ A: Bạn sẽ làm gì vào Ngày Nhà giáo?\nB: Chúng mình sẽ tổ chức một bữa tiệc.\nA: Các bạn sẽ có món gì?\nB: Chúng mình sẽ có đồ ăn.\n✅ B. False",
           "topicId": 13
         }
       },
@@ -5147,9 +5147,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 436,
+          "id": 433,
           "audioUrl": "",
-          "question": "",
+          "question": "lời khuyên",
           "correctAnswer": [
             "AD",
             "V",
@@ -5253,8 +5253,8 @@
         "value": {
           "id": 1456,
           "sentence": "drive_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/driver.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/driver.mp3",
           "answer": "r",
           "hint": "driver: tài xế",
           "topicId": 20
@@ -5292,8 +5292,8 @@
         "value": {
           "id": 146,
           "question": "Complete the word.\n_anana",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/banana.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/banana.mp3",
           "choices": [
             "A. m",
             "B. c",
@@ -5343,9 +5343,9 @@
             ""
           ],
           "imageNames": [
-            "eat fruit",
-            "eat vegetables",
-            "explore the caves"
+            "How often does your grandfather eat fruit?",
+            "How often does your grandfather eat vegetables?",
+            "How often does your grandfather drink fresh juice?"
           ],
           "correctIndex": 1,
           "hint": "How often does your grandfather eat vegetables? → Ông bạn ăn rau thường xuyên thế nào?\n(Chữ cần chọn: eat vegetables – ăn rau)",
@@ -5385,9 +5385,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 657,
+          "id": 652,
           "audioUrl": "",
-          "question": "",
+          "question": "mùa hè",
           "correctAnswer": [
             "SU",
             "M",
@@ -5481,7 +5481,7 @@
         "type": "multiChoice",
         "value": {
           "id": 92,
-          "question": "When ___ Tet? – It's next month, in January.",
+          "question": "Choose the correct answer.\nA: When ___ Tet?\nB: It's next month, in January.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5500,8 +5500,8 @@
         "value": {
           "id": 303,
           "sentence": "burger_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/burgers.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/burgers.mp3",
           "answer": "s",
           "hint": "burgers: bánh hăm-bơ-gơ",
           "topicId": 13
@@ -5510,7 +5510,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 343,
+          "id": 341,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -5537,7 +5537,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1283,
-          "question": "Find the mistake.\nI has a toothache.",
+          "question": "Find the mistake.\n<u>I</u> <u>has</u> <u>a</u> <u>toothache</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5561,8 +5561,8 @@
               "vi": "uống thuốc"
             },
             {
-              "en": "season",
-              "vi": "mùa"
+              "en": "toothache",
+              "vi": "đau răng"
             },
             {
               "en": "dry season",
@@ -5573,7 +5573,7 @@
               "vi": "thời tiết"
             }
           ],
-          "hint": "take some medicine - uống thuốc\nseason - mùa\ndry season - mùa khô\nweather - thời tiết",
+          "hint": "take some medicine - uống thuốc\ntoothache - đau răng\ndry season - mùa khô\nweather - thời tiết",
           "topicId": 16
         }
       },
@@ -5631,7 +5631,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 978,
+          "id": 971,
           "audioUrl": "",
           "question": "Chúng mình đã đến chùa Bái Đính vào tháng Mười.",
           "correctAnswer": [
@@ -5729,7 +5729,7 @@
         "type": "multiChoice",
         "value": {
           "id": 239,
-          "question": "___ does Tony stay healthy? – He eats fish and vegetables.",
+          "question": "Choose the correct answer.\nA: ___ does Tony stay healthy?\nB: He eats fish and vegetables.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5758,7 +5758,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1278,
+          "id": 1269,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -5789,7 +5789,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Minh: What was the tortoise like?\nKate: It was slow.\nMinh: Did you like it?\nKate: Yes, I did.\n→ Minh: Rùa là con như thế nào?\nKate: Nó chậm.\nMinh: Bạn có thích nó không?\nKate: Có.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: What was the tortoise like?\nB: It was slow.\nA: Did you like it?\nB: Yes, I did.\n→ A: Rùa là con như thế nào?\nB: Nó chậm.\nA: Bạn có thích nó không?\nB: Có.\n✅ A. True",
           "topicId": 17
         }
       },
@@ -5827,12 +5827,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/bytrain.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/byferry.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/byplane.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/byboat.png"
           ],
           "imageNames": [
             "by train",
-            "by ferry",
+            "by plane",
             "by boat"
           ],
           "correctIndex": 0,
@@ -5863,8 +5863,8 @@
         "value": {
           "id": 9,
           "sentence": "so_ven_r",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/souvenir.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/souvenir.mp3",
           "answer": "ui",
           "hint": "souvenir: đồ lưu niệm",
           "topicId": 11
@@ -5873,7 +5873,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 102,
+          "id": 101,
           "audioUrl": "",
           "question": "Chúng mình trang trí nhà vào dịp Tết.",
           "correctAnswer": [
@@ -5954,9 +5954,9 @@
             ""
           ],
           "imageNames": [
-            "eat vegetables",
-            "eat local food",
-            "eat seafood"
+            "I eat vegetables every morning.",
+            "I drink a lot of water every morning.",
+            "I do yoga every morning."
           ],
           "correctIndex": 0,
           "hint": "I eat vegetables every morning. → Mình ăn rau mỗi sáng.\n(Chữ cần chọn: eat vegetables – ăn rau)",
@@ -5996,7 +5996,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 713,
+          "id": 708,
           "audioUrl": "",
           "question": "Chúng mình đã đi bằng xe buýt.",
           "correctAnswer": [
@@ -6093,7 +6093,7 @@
         "type": "multiChoice",
         "value": {
           "id": 167,
-          "question": "___ your favourite special day? – It's Mid-Autumn Festival.",
+          "question": "Choose the correct answer.\nA: ___ your favourite special day?\nB: It's Mid-Autumn Festival.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6112,8 +6112,8 @@
         "value": {
           "id": 451,
           "sentence": "part_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/party.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/party.mp3",
           "answer": "y",
           "hint": "party: bữa tiệc",
           "topicId": 14
@@ -6122,7 +6122,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 465,
+          "id": 462,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -6340,7 +6340,7 @@
         "type": "multiChoice",
         "value": {
           "id": 326,
-          "question": "What's the matter? – ___",
+          "question": "Choose the correct answer.\nA: What's the matter?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6369,7 +6369,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 595,
+          "id": 591,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -6393,7 +6393,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1041,
-          "question": "Read and choose True or False.\nLaura: Which season do you like best, Peter?\nPeter: I like winter.\nLaura: Why?\nPeter: Because it is cold. I wear a jumper.\n\nPeter likes winter best.",
+          "question": "Read and choose True or False.\n📖 Laura: Which season do you like best, Peter?\nA: I like winter.\nB: Why?\nA: Because it is cold. I wear a jumper.\n\n👉 Peter likes winter best.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6401,7 +6401,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "📖 Bài đọc: Laura: Which season do you like best, Peter?\nPeter: I like winter.\nLaura: Why?\nPeter: Because it is cold. I wear a jumper.\n→ Laura: Peter, bạn thích mùa nào nhất?\nPeter: Mình thích mùa đông.\nLaura: Tại sao?\nPeter: Vì trời lạnh. Mình mặc áo len.\n✅ A. True",
+          "hint": "📖 Bài đọc: Laura: Which season do you like best, Peter?\nA: I like winter.\nB: Why?\nA: Because it is cold. I wear a jumper.\n→ B: Peter, bạn thích mùa nào nhất?\nA: Mình thích mùa đông.\nB: Tại sao?\nA: Vì trời lạnh. Mình mặc áo len.\n✅ A. True",
           "topicId": 18
         }
       },
@@ -6439,13 +6439,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/helpmyparents.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/imgoingtojoinamusicclub.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/imgoingtolearnenglish.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/readstorybooks.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/gocamping.png"
           ],
           "imageNames": [
             "help my parents",
-            "I'm going to join a music club.",
-            "I'm going to learn English."
+            "read storybooks",
+            "go camping"
           ],
           "correctIndex": 0,
           "hint": "I'm going to help my parents this summer. → Mùa hè này mình sẽ giúp bố mẹ.\n(Hình đúng: help my parents – giúp bố mẹ)",
@@ -6466,7 +6466,7 @@
             "D. No, he didn't."
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Lucy: Did you take a boat trip around the bay in Ha Long Bay, Peter?\nPeter: Yes, I did. It was great.\nLucy: Lucky you!\n→ Lucy: Peter, bạn có đi thuyền quanh vịnh ở Vịnh Hạ Long không?\nPeter: Có. Thật tuyệt.\nLucy: May cho bạn quá!\n✅ B. Yes, he did.",
+          "hint": "🎧 Bài nghe: A: Did you take a boat trip around the bay in Ha Long Bay, Peter?\nB: Yes, I did. It was great.\nA: Lucky you!\n→ A: Peter, bạn có đi thuyền quanh vịnh ở Vịnh Hạ Long không?\nB: Có. Thật tuyệt.\nA: May cho bạn quá!\n✅ B. Yes, he did.",
           "topicId": 11
         }
       },
@@ -6475,8 +6475,8 @@
         "value": {
           "id": 260,
           "sentence": "mot_er",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/mother.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/mother.mp3",
           "answer": "h",
           "hint": "mother: mẹ",
           "topicId": 12
@@ -6485,7 +6485,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 206,
+          "id": 204,
           "audioUrl": "",
           "question": "Chúng mình sẽ ăn bánh trung thu vào Tết Trung thu.",
           "correctAnswer": [
@@ -6566,9 +6566,9 @@
             ""
           ],
           "imageNames": [
-            "parrot",
-            "play sports",
-            "plant trees"
+            "I eat fruit to stay healthy.",
+            "I play sports to stay healthy.",
+            "I do yoga to stay healthy."
           ],
           "correctIndex": 1,
           "hint": "I play sports to stay healthy. → Mình chơi thể thao để khỏe mạnh.\n(Chữ cần chọn: play sports – chơi thể thao)",
@@ -6608,7 +6608,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 845,
+          "id": 839,
           "audioUrl": "",
           "question": "Do you want to come with us?",
           "correctAnswer": [
@@ -6617,7 +6617,7 @@
             "cùng chúng mình không?"
           ],
           "scramble": [
-            "là nhà bếp.",
+            "nhưng",
             "có muốn đi",
             "cùng chúng mình không?",
             "Bạn"
@@ -6703,7 +6703,7 @@
         "type": "multiChoice",
         "value": {
           "id": 893,
-          "question": "Read and choose True or False.\nWe had a wonderful time at Tet. We made banh chung. We decorated the house. We did the shopping. We also watched a fireworks show. I was very excited.\n\nThey watched a fireworks show.",
+          "question": "Read and choose True or False.\n📖 We had a wonderful time at Tet. We made banh chung. We decorated the house. We did the shopping. We also watched a fireworks show. I was very excited.\n\n👉 They watched a fireworks show.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6720,8 +6720,8 @@
         "value": {
           "id": 711,
           "sentence": "m_ther",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/mother.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/mother.mp3",
           "answer": "o",
           "hint": "mother: mẹ",
           "topicId": 15
@@ -6730,7 +6730,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 501,
+          "id": 498,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -6768,7 +6768,7 @@
             "D. Yes, she did."
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 Bài nghe: Mai: What was the hare like?\nKate: It was fast.\nMai: Did you like it?\nKate: Yes, I did.\n→ Mai: Thỏ rừng là con như thế nào?\nKate: Nó nhanh.\nMai: Bạn có thích nó không?\nKate: Có.\n✅ D. Yes, she did.",
+          "hint": "🎧 Bài nghe: A: What was the hare like?\nB: It was fast.\nA: Did you like it?\nB: Yes, I did.\n→ A: Thỏ rừng là con như thế nào?\nB: Nó nhanh.\nA: Bạn có thích nó không?\nB: Có.\n✅ D. Yes, she did.",
           "topicId": 17
         }
       },
@@ -6852,7 +6852,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 191,
+          "id": 189,
           "audioUrl": "",
           "question": "Kate đã tắm nắng trên bãi biển ở Nha Trang.",
           "correctAnswer": [
@@ -6886,8 +6886,8 @@
         "value": {
           "id": 1199,
           "question": "Choose the missing letter.\n_ater",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/water.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/water.mp3",
           "choices": [
             "A. w",
             "B. k",
@@ -6950,7 +6950,7 @@
         "type": "multiChoice",
         "value": {
           "id": 439,
-          "question": "Where did you go last summer? – ___",
+          "question": "Choose the correct answer.\nA: Where did you go last summer?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6979,7 +6979,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1374,
+          "id": 1365,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -6999,7 +6999,7 @@
         "type": "multiChoice",
         "value": {
           "id": 662,
-          "question": "Excuse me. How can I get to Dragon Bridge? – ___",
+          "question": "Choose the correct answer.\nA: Excuse me. How can I get to Dragon Bridge?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7093,7 +7093,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 293,
+          "id": 291,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -7123,8 +7123,8 @@
         "value": {
           "id": 1296,
           "question": "Choose the missing letter.\nsunbathe _n the beach",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/sunbatheonthebeach.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/sunbatheonthebeach.mp3",
           "choices": [
             "A. e",
             "B. j",
@@ -7174,9 +7174,9 @@
             ""
           ],
           "imageNames": [
-            "crow",
-            "cold",
-            "cough"
+            "What could the crow do?",
+            "What could the hare do?",
+            "What could the fox do?"
           ],
           "correctIndex": 0,
           "hint": "What could the crow do? → Quạ có thể làm gì?\n(Chữ cần chọn: crow – con quạ)",
@@ -7216,7 +7216,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 985,
+          "id": 978,
           "audioUrl": "",
           "question": "It's a ball.",
           "correctAnswer": [
@@ -7224,7 +7224,7 @@
             "là quả bóng."
           ],
           "scramble": [
-            "Chúng mình tặng hoa",
+            "nhưng",
             "Đó",
             "là quả bóng."
           ],
@@ -7237,7 +7237,7 @@
         "type": "multiChoice",
         "value": {
           "id": 762,
-          "question": "Read and choose True or False.\nBen: My friend lives in London. I went there last summer.\nMinh: Did you take photos?\nBen: Yes, I did. I also bought some postcards.\n\nThe speaker did not take photos.",
+          "question": "Read and choose True or False.\n📖 Ben: My friend lives in London. I went there last summer.\nA: Did you take photos?\nB: Yes, I did. I also bought some postcards.\n\n👉 The speaker did not take photos.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7245,7 +7245,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "📖 Bài đọc: Ben: My friend lives in London. I went there last summer.\nMinh: Did you take photos?\nBen: Yes, I did. I also bought some postcards.\n→ Ben: Bạn mình sống ở Luân Đôn. Mùa hè năm ngoái mình đã đến đó.\nMinh: Bạn có chụp ảnh không?\nBen: Có. Mình cũng đã mua vài tấm bưu thiếp.\n✅ B. False",
+          "hint": "📖 Bài đọc: Ben: My friend lives in London. I went there last summer.\nA: Did you take photos?\nB: Yes, I did. I also bought some postcards.\n→ B: Bạn mình sống ở Luân Đôn. Mùa hè năm ngoái mình đã đến đó.\nA: Bạn có chụp ảnh không?\nB: Có. Mình cũng đã mua vài tấm bưu thiếp.\n✅ B. False",
           "topicId": 11
         }
       },
@@ -7315,7 +7315,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Peter: I have a cough. What should I do?\nBill: You should drink warm water. You should not eat ice cream.\n→ Peter: Mình bị ho. Mình nên làm gì?\nBill: Bạn nên uống nước ấm. Bạn không nên eat ice cream.\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: I have a cough. What should I do?\nB: You should drink warm water. You should not eat ice cream.\n→ A: Mình bị ho. Mình nên làm gì?\nB: Bạn nên uống nước ấm. Bạn không nên eat ice cream.\n✅ B. False",
           "topicId": 15
         }
       },
@@ -7324,8 +7324,8 @@
         "value": {
           "id": 863,
           "sentence": "souv__ir",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/souvenir.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/souvenir.mp3",
           "answer": "en",
           "hint": "souvenir: đồ lưu niệm",
           "topicId": 16
@@ -7334,7 +7334,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 635,
+          "id": 630,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -7360,7 +7360,7 @@
         "type": "multiChoice",
         "value": {
           "id": 555,
-          "question": "Read and choose the correct answer.\nLast weekend, I visited Tower Bridge and Dragon Bridge. We went there by boat. We took many photos. I saw the sunset. It was a great trip.\n\nWhat did the speaker see?",
+          "question": "Read and choose the correct answer.\n📖 Last weekend, I visited Tower Bridge and Dragon Bridge. We went there by boat. We took many photos. I saw the sunset. It was a great trip.\n\n❓ What did the speaker see?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7454,7 +7454,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 254,
+          "id": 252,
           "audioUrl": "",
           "question": "Bạn đã nhặt vỏ sò chưa? Rồi.",
           "correctAnswer": [
@@ -7579,7 +7579,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1421,
+          "id": 1412,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -7674,7 +7674,7 @@
             "D. Yes, she does."
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Linh: Would you like some sandwiches, Kate?\nKate: Yes, please.\nLinh: Would you like some apple juice?\nKate: No, thanks.\n→ Linh: Kate, bạn có muốn dùng một ít bánh mì kẹp không?\nKate: Vâng, xin cảm ơn.\nLinh: Bạn có muốn dùng một ít nước ép táo không?\nKate: Không, cảm ơn.\n✅ B. No, she doesn't.",
+          "hint": "🎧 Bài nghe: A: Would you like some sandwiches, Kate?\nB: Yes, please.\nA: Would you like some apple juice?\nB: No, thanks.\n→ A: Kate, bạn có muốn dùng một ít bánh mì kẹp không?\nB: Vâng, xin cảm ơn.\nA: Bạn có muốn dùng một ít nước ép táo không?\nB: Không, cảm ơn.\n✅ B. No, she doesn't.",
           "topicId": 13
         }
       },
@@ -7693,7 +7693,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 468,
+          "id": 465,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -7724,7 +7724,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. go swimming",
-            "B. eat healthy food",
+            "B. drink fresh juice",
             "C. do judo",
             "D. eat fruit"
           ],
@@ -7771,9 +7771,9 @@
             ""
           ],
           "imageNames": [
-            "headache",
-            "Hoan Kiem Lake",
-            "Hyde Park"
+            "Excuse me. How can I get to Ha Long Bay?",
+            "Excuse me. How can I get to Hoan Kiem Lake?",
+            "Excuse me. How can I get to Hyde Park?"
           ],
           "correctIndex": 1,
           "hint": "Excuse me. How can I get to Hoan Kiem Lake? → Xin lỗi, làm thế nào để mình đến Hồ Hoàn Kiếm?\n(Chữ cần chọn: Hoan Kiem Lake – hồ Hoàn Kiếm)",
@@ -7813,9 +7813,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 79,
+          "id": 78,
           "audioUrl": "",
-          "question": "",
+          "question": "con ngựa",
           "correctAnswer": [
             "HO",
             "R",
@@ -7907,7 +7907,7 @@
         "type": "multiChoice",
         "value": {
           "id": 949,
-          "question": "Listen and choose True or False.\nIt is hot in autumn.",
+          "question": "Listen and choose True or False.\nThe weather is hot in autumn.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/katewhatistheweatherlikeinautumnmai\nmaiitiscool\nkatedoyoulikeautumn\nmaiyesido.mp3",
           "choices": [
@@ -7915,7 +7915,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Kate: What is the weather like in autumn, Mai?\nMai: It is cool.\nKate: Do you like autumn?\nMai: Yes, I do.\n→ Kate: Mai, thời tiết vào mùa thu như thế nào?\nMai: Trời mát mẻ.\nKate: Bạn có thích mùa thu không?\nMai: Có.\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: What is the weather like in autumn, Mai?\nB: It is cool.\nA: Do you like autumn?\nB: Yes, I do.\n→ A: Mai, thời tiết vào mùa thu như thế nào?\nB: Trời mát mẻ.\nA: Bạn có thích mùa thu không?\nB: Có.\n✅ B. False\n👉 The weather is hot in autumn. → Mùa thu thời tiết nóng.\n(Câu đúng: The weather is cool in autumn.)",
           "topicId": 16
         }
       },
@@ -7924,8 +7924,8 @@
         "value": {
           "id": 911,
           "sentence": "cha_acter",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/character.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/character.mp3",
           "answer": "r",
           "hint": "character: nhân vật",
           "topicId": 17
@@ -7934,7 +7934,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 711,
+          "id": 706,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -8034,7 +8034,7 @@
             "A. bll",
             "B. bell",
             "C. ebll",
-            "D. boll"
+            "D. belll"
           ],
           "correctAnswerIndex": 1,
           "hint": "Cách viết đúng: bell (cái chuông).\n✅ B. bell",
@@ -8056,7 +8056,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 320,
+          "id": 318,
           "audioUrl": "",
           "question": "Bà bạn có chơi thể thao không? Không.",
           "correctAnswer": [
@@ -8071,7 +8071,7 @@
           ],
           "scramble": [
             "play",
-            "you",
+            "seven",
             "she",
             "No,",
             "your",
@@ -8154,7 +8154,7 @@
         "type": "multiChoice",
         "value": {
           "id": 537,
-          "question": "___ did you get there? – We went by ferry.",
+          "question": "Choose the correct answer.\nA: ___ did you get there?\nB: We went by ferry.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8183,7 +8183,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1471,
+          "id": 1461,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -8268,7 +8268,7 @@
         "type": "multiChoice",
         "value": {
           "id": 255,
-          "question": "Read and choose the correct answer.\nLaura has a healthy lifestyle. She drinks fresh juice three times a week. She eats healthy food twice a week. She drinks a lot of water once a week.\n\nWhat does Laura do once a week?",
+          "question": "Read and choose the correct answer.\n📖 Laura has a healthy lifestyle. She drinks fresh juice three times a week. She eats healthy food twice a week. She drinks a lot of water once a week.\n\n❓ What does Laura do once a week?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8287,8 +8287,8 @@
         "value": {
           "id": 619,
           "sentence": "ma__er",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/matter.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/matter.mp3",
           "answer": "tt",
           "hint": "matter: vấn đề",
           "topicId": 15
@@ -8297,7 +8297,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 475,
+          "id": 472,
           "audioUrl": "",
           "question": "Mùa xuân mình mặc áo sơ mi nữ.",
           "correctAnswer": [
@@ -8378,9 +8378,9 @@
             ""
           ],
           "imageNames": [
-            "headache",
-            "have a rest",
-            "Hoan Kiem Lake"
+            "Peter thinks Ha Noi Opera House is beautiful.",
+            "Peter thinks Phu Quoc is beautiful.",
+            "Peter thinks Hoan Kiem Lake is beautiful."
           ],
           "correctIndex": 2,
           "hint": "Peter thinks Hoan Kiem Lake is beautiful. → Peter nghĩ hồ Hoàn Kiếm đẹp.\n(Chữ cần chọn: Hoan Kiem Lake – hồ Hoàn Kiếm)",
@@ -8420,7 +8420,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1055,
+          "id": 1048,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -8451,7 +8451,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Peter: What is your favourite special day, Tony?\nTony: It is my birthday party.\nPeter: What do you do at a birthday party?\nTony: We sing songs.\n→ Peter: Tony, ngày đặc biệt yêu thích của bạn là gì?\nTony: Đó là bữa tiệc sinh nhật.\nPeter: Bạn làm gì vào dịp đó?\nTony: Chúng mình hát.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: What is your favourite special day, Tony?\nB: It is my birthday party.\nA: What do you do at a birthday party?\nB: We sing songs.\n→ A: Tony, ngày đặc biệt yêu thích của bạn là gì?\nB: Đó là bữa tiệc sinh nhật.\nA: Bạn làm gì vào dịp đó?\nB: Chúng mình hát.\n✅ A. True",
           "topicId": 13
         }
       },
@@ -8495,13 +8495,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/ilikesummerbecauseitishot.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/rainy.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/dry.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/warm.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hot.png"
           ],
           "imageNames": [
+            "rainy",
             "dry",
-            "warm",
             "hot"
           ],
           "correctIndex": 2,
@@ -8513,7 +8513,7 @@
         "type": "multiChoice",
         "value": {
           "id": 512,
-          "question": "Read and complete.\nTony: I have a cold.\nPeter: You ___ drink warm water.",
+          "question": "Read and complete.\nA: I have a cold.\nB: You ___ drink warm water.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8532,8 +8532,8 @@
         "value": {
           "id": 1065,
           "sentence": "l_st",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/lost.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/lost.mp3",
           "answer": "o",
           "hint": "lost: bị lạc",
           "topicId": 18
@@ -8542,7 +8542,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 883,
+          "id": 877,
           "audioUrl": "",
           "question": "Mình ăn rau mỗi sáng.",
           "correctAnswer": [
@@ -8569,7 +8569,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1468,
-          "question": "Find the mistake.\nSummer holidays is coming soon.",
+          "question": "Find the mistake.\n<u>Summer</u> <u>holidays</u> <u>is</u> coming <u>soon</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8663,7 +8663,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 360,
+          "id": 358,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -8680,7 +8680,7 @@
             "will.",
             "Thanks",
             "OK,",
-            "you",
+            "seven",
             "advice.",
             "I",
             "for"
@@ -8759,7 +8759,7 @@
         "type": "multiChoice",
         "value": {
           "id": 659,
-          "question": "Read and complete.\nTony: I have a sore throat.\nLinh: You ___ gargle with salt water.",
+          "question": "Read and complete.\nA: I have a sore throat.\nB: You ___ gargle with salt water.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8883,7 +8883,7 @@
             "D. go to the doctor"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 Bài nghe: Bill: What is the matter, Kate?\nKate: I have a fever.\nBill: You should take some medicine.\nKate: Thank you.\n→ Bill: Kate, bạn bị làm sao vậy?\nKate: Mình bị sốt.\nBill: Bạn nên uống thuốc.\nKate: Cảm ơn bạn.\n✅ C. take some medicine",
+          "hint": "🎧 Bài nghe: A: What is the matter, Kate?\nB: I have a fever.\nA: You should take some medicine.\nB: Thank you.\n→ A: Kate, bạn bị làm sao vậy?\nB: Mình bị sốt.\nA: Bạn nên uống thuốc.\nB: Cảm ơn bạn.\n✅ C. take some medicine",
           "topicId": 15
         }
       },
@@ -8892,8 +8892,8 @@
         "value": {
           "id": 761,
           "sentence": "c_ima_e",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/climate.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/climate.mp3",
           "answer": "lt",
           "hint": "climate: khí hậu",
           "topicId": 16
@@ -8902,7 +8902,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 688,
+          "id": 683,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -8983,9 +8983,9 @@
             ""
           ],
           "imageNames": [
-            "lemonade",
-            "cave",
-            "lake"
+            "Nha Trang is exciting.",
+            "Hue is exciting.",
+            "Ba Be Lake is exciting."
           ],
           "correctIndex": 2,
           "hint": "Ba Be Lake is exciting. → hồ Ba Bể thú vị, hồi hộp.\n(Chữ cần chọn: lake – cái hồ)",
@@ -8997,8 +8997,8 @@
         "value": {
           "id": 44,
           "question": "Complete the word.\ns_ _food",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/seafood.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/seafood.mp3",
           "choices": [
             "A. er",
             "B. ll",
@@ -9025,7 +9025,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1142,
+          "id": 1135,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -9097,14 +9097,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/thefoxworkedhard.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/witch.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hare.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/fox.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hare.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/lion.png"
           ],
           "imageNames": [
-            "witch",
+            "hare",
             "fox",
-            "hare"
+            "lion"
           ],
           "correctIndex": 1,
           "hint": "The fox worked hard. → Con cáo đã làm việc chăm chỉ.\n(Hình đúng: fox – con cáo)",
@@ -9132,8 +9132,8 @@
         "value": {
           "id": 1203,
           "sentence": "fan_astic",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/fantastic.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/fantastic.mp3",
           "answer": "t",
           "hint": "fantastic: tuyệt vời",
           "topicId": 19
@@ -9142,7 +9142,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 975,
+          "id": 968,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -9180,7 +9180,7 @@
             "D. Ha Long Bay"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Laura: Where did you go last summer, Mary?\nMary: I went to Phu Quoc.\nLaura: What did you do there?\nMary: I collected seashells.\n→ Laura: Mary, mùa hè năm ngoái bạn đã đi đâu?\nMary: Mình đã đến Phú Quốc.\nLaura: Bạn đã làm gì ở đó?\nMary: Mình đã nhặt vỏ sò.\n✅ A. Phu Quoc",
+          "hint": "🎧 Bài nghe: A: Where did you go last summer, Mary?\nB: I went to Phu Quoc.\nA: What did you do there?\nB: I collected seashells.\n→ A: Mary, mùa hè năm ngoái bạn đã đi đâu?\nB: Mình đã đến Phú Quốc.\nA: Bạn đã làm gì ở đó?\nB: Mình đã nhặt vỏ sò.\n✅ A. Phu Quoc",
           "topicId": 11
         }
       },
@@ -9236,8 +9236,8 @@
         "value": {
           "id": 298,
           "question": "Complete the word.\n_ag",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/bag.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/bag.mp3",
           "choices": [
             "A. e",
             "B. a",
@@ -9264,7 +9264,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 567,
+          "id": 563,
           "audioUrl": "",
           "question": "Chúng mình sẽ làm đèn lồng và xem múa lân.",
           "correctAnswer": [
@@ -9298,8 +9298,8 @@
         "value": {
           "id": 1348,
           "question": "Choose the missing letter.\ngrasshoppe_",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/grasshopper.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/grasshopper.mp3",
           "choices": [
             "A. r",
             "B. s",
@@ -9391,7 +9391,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 184,
+          "id": 182,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -9421,7 +9421,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Lucy: Did you decorate the house before Tet, Bill?\nBill: No, I did not.\nLucy: I did.\n→ Lucy: Bill, bạn có trang trí nhà trước Tết không?\nBill: Không.\nLucy: Mình có làm.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: Did you decorate the house before Tet, Bill?\nB: No, I did not.\nA: I did.\n→ A: Bill, bạn có trang trí nhà trước Tết không?\nB: Không.\nA: Mình có làm.\n✅ A. True",
           "topicId": 13
         }
       },
@@ -9495,8 +9495,8 @@
         "value": {
           "id": 1006,
           "sentence": "par_ot",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/parrot.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/parrot.mp3",
           "answer": "r",
           "hint": "parrot: con vẹt",
           "topicId": 17
@@ -9505,7 +9505,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 723,
+          "id": 718,
           "audioUrl": "",
           "question": "Gần thôi. Chúng ta đi bộ nhé.",
           "correctAnswer": [
@@ -9535,8 +9535,8 @@
         "value": {
           "id": 670,
           "question": "Complete the word.\nwi_dy",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/windy.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/windy.mp3",
           "choices": [
             "A. u",
             "B. n",
@@ -9586,9 +9586,9 @@
             ""
           ],
           "imageNames": [
-            "ship",
-            "Sa Pa",
-            "Sports Day"
+            "When did you go to Dragon Bridge?",
+            "When did you go to Sa Pa?",
+            "When did you go to Da Nang?"
           ],
           "correctIndex": 1,
           "hint": "When did you go to Sa Pa? → Bạn đã đến Sa Pa khi nào?\n(Chữ cần chọn: Sa Pa – Sa Pa)",
@@ -9600,8 +9600,8 @@
         "value": {
           "id": 1162,
           "question": "Choose the missing letter.\nmake banh chu_g",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/makebanhchung.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/makebanhchung.mp3",
           "choices": [
             "A. n",
             "B. k",
@@ -9628,7 +9628,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 345,
+          "id": 343,
           "audioUrl": "",
           "question": "How does your grandmother stay healthy?",
           "correctAnswer": [
@@ -9638,7 +9638,7 @@
           "scramble": [
             "khỏe bằng cách nào?",
             "Bà bạn giữ gìn sức",
-            "Con quạ"
+            "nhưng"
           ],
           "hint": "How does your grandmother stay healthy? → Bà bạn giữ gìn sức khỏe bằng cách nào?",
           "eraseFlag": 0,
@@ -9649,7 +9649,7 @@
         "type": "multiChoice",
         "value": {
           "id": 928,
-          "question": "Read and choose True or False.\nBill has a healthy lifestyle. He does morning exercise once a week. He does yoga every day. He drinks a lot of water every morning.\n\nBill does yoga every day.",
+          "question": "Read and choose True or False.\n📖 Bill has a healthy lifestyle. He does morning exercise once a week. He does yoga every day. He drinks a lot of water every morning.\n\n👉 Bill does yoga every day.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9719,7 +9719,7 @@
         "type": "multiChoice",
         "value": {
           "id": 621,
-          "question": "Read and complete.\nPeter: What do you ___ of Ha Long Bay?\nLaura: It’s fantastic.",
+          "question": "Read and complete.\nA: What do you ___ of Ha Long Bay?\nB: It’s fantastic.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9738,8 +9738,8 @@
         "value": {
           "id": 1365,
           "sentence": "p_an",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/plan.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/plan.mp3",
           "answer": "l",
           "hint": "plan: kế hoạch",
           "topicId": 20
@@ -9775,7 +9775,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1175,
-          "question": "Find the mistake.\nNo, I won't. I'll visit I grandparents.",
+          "question": "Find the mistake.\nNo, I <u>won't</u>. <u>I'll</u> visit <u>I</u> <u>grandparents</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9869,7 +9869,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 599,
+          "id": 595,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -9901,8 +9901,8 @@
         "value": {
           "id": 596,
           "question": "Complete the word.\nle_onade",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/lemonade.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/lemonade.mp3",
           "choices": [
             "A. p",
             "B. i",
@@ -9992,7 +9992,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1159,
+          "id": 1152,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -10020,7 +10020,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Kate: Do you eat vegetables?\nNam: Yes, I do. I eat vegetables every morning.\nKate: Do you play sports?\nNam: Yes, I do. I play sports twice a week.\n→ Kate: Bạn có ăn rau không?\nNam: Có. Mình ăn rau mỗi buổi sáng.\nKate: Bạn có chơi thể thao không?\nNam: Có. Mình chơi thể thao hai lần một tuần.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: Do you eat vegetables?\nB: Yes, I do. I eat vegetables every morning.\nA: Do you play sports?\nB: Yes, I do. I play sports twice a week.\n→ A: Bạn có ăn rau không?\nB: Có. Mình ăn rau mỗi buổi sáng.\nA: Bạn có chơi thể thao không?\nB: Có. Mình chơi thể thao hai lần một tuần.\n✅ A. True",
           "topicId": 14
         }
       },
@@ -10104,7 +10104,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 831,
+          "id": 825,
           "audioUrl": "",
           "question": "động Thiên Cung tuyệt vời.",
           "correctAnswer": [
@@ -10160,14 +10160,14 @@
             },
             {
               "en": "Did you take photos? No, I didn't.",
-              "vi": "Bạn đã chụp ảnh chưa? Chưa, mình đã không."
+              "vi": "Bạn đã chụp ảnh chưa? Chưa, mình chưa."
             },
             {
               "en": "I swam in the sea in Phu Quoc.",
               "vi": "Mình đã bơi ở biển ở Phú Quốc."
             }
           ],
-          "hint": "Bill explored the caves in Sa Pa. - Bill đã khám phá hang động ở Sa Pa.\nI explored the caves with my family. - Mình đã khám phá các hang động cùng gia đình.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình đã không.\nI swam in the sea in Phu Quoc. - Mình đã bơi ở biển ở Phú Quốc.",
+          "hint": "Bill explored the caves in Sa Pa. - Bill đã khám phá hang động ở Sa Pa.\nI explored the caves with my family. - Mình đã khám phá các hang động cùng gia đình.\nDid you take photos? No, I didn't. - Bạn đã chụp ảnh chưa? Chưa, mình chưa.\nI swam in the sea in Phu Quoc. - Mình đã bơi ở biển ở Phú Quốc.",
           "topicId": 11
         }
       },
@@ -10183,9 +10183,9 @@
             ""
           ],
           "imageNames": [
-            "take photos",
-            "Teachers' Day",
-            "take some medicine"
+            "I'm going to take photos this summer.",
+            "I'm going to go swimming this summer.",
+            "I'm going to play football this summer."
           ],
           "correctIndex": 0,
           "hint": "I'm going to take photos this summer. → Mùa hè này mình sẽ chụp ảnh.\n(Chữ cần chọn: take photos – chụp ảnh)",
@@ -10225,7 +10225,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 453,
+          "id": 450,
           "audioUrl": "",
           "question": "Lucy would like some burgers and some lemonade.",
           "correctAnswer": [
@@ -10237,7 +10237,7 @@
             "Lucy",
             "muốn một ít bánh hăm-bơ-gơ",
             "và một ít nước chanh.",
-            "ở Sa Pa."
+            "nhưng"
           ],
           "hint": "Lucy would like some burgers and some lemonade. → Lucy muốn một ít bánh hăm-bơ-gơ và một ít nước chanh.",
           "eraseFlag": 0,
@@ -10320,7 +10320,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1096,
-          "question": "Read and choose True or False.\nSummer holidays are coming soon. I am going to visit Sa Pa. I am going to play football and join a music club. I hope we have a great time.\n\nThe speaker is going to visit Sa Pa.",
+          "question": "Read and choose True or False.\n📖 Summer holidays are coming soon. I am going to visit Sa Pa. I am going to play football and join a music club. I hope we have a great time.\n\n👉 The speaker is going to visit Sa Pa.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10337,8 +10337,8 @@
         "value": {
           "id": 6,
           "sentence": "deli__ous",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/delicious.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/delicious.mp3",
           "answer": "ci",
           "hint": "delicious: ngon",
           "topicId": 11
@@ -10347,7 +10347,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 194,
+          "id": 192,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -10374,7 +10374,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1211,
-          "question": "Find the mistake.\nShall I bring a fruits?",
+          "question": "Find the mistake.\n<u>Shall</u> <u>I</u> <u>bring</u> <u>a</u> fruits?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10440,8 +10440,8 @@
         "value": {
           "id": 1329,
           "question": "Choose the missing letter.\ntro_sers",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/trousers.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/trousers.mp3",
           "choices": [
             "A. u",
             "B. w",
@@ -10468,7 +10468,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 726,
+          "id": 721,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -10503,7 +10503,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. waterfall",
-            "B. cold",
+            "B. teacher",
             "C. exciting",
             "D. sports centre"
           ],
@@ -10590,7 +10590,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1224,
+          "id": 1216,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -10636,15 +10636,15 @@
               "vi": "áo cánh"
             },
             {
-              "en": "season",
-              "vi": "mùa"
+              "en": "cloudy",
+              "vi": "nhiều mây"
             },
             {
               "en": "wear",
               "vi": "mặc"
             }
           ],
-          "hint": "dry season - mùa khô\nblouse - áo cánh\nseason - mùa\nwear - mặc",
+          "hint": "dry season - mùa khô\nblouse - áo cánh\ncloudy - nhiều mây\nwear - mặc",
           "topicId": 16
         }
       },
@@ -10683,7 +10683,7 @@
             "D. by bicycle"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Linh: How do you go to school?\nMinh: I go by taxi.\nLinh: Is it far?\nMinh: Yes. It is far.\n→ Linh: Bạn đến trường bằng cách nào?\nMinh: Mình đi bằng taxi.\nLinh: Có xa không?\nMinh: Có. Khá xa.\n✅ A. by taxi",
+          "hint": "🎧 Bài nghe: A: How do you go to school?\nB: I go by taxi.\nA: Is it far?\nB: Yes. It is far.\n→ A: Bạn đến trường bằng cách nào?\nB: Mình đi bằng taxi.\nA: Có xa không?\nB: Có. Khá xa.\n✅ A. by taxi",
           "topicId": 18
         }
       },
@@ -10692,8 +10692,8 @@
         "value": {
           "id": 1206,
           "sentence": "c_aracte_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/character.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/character.mp3",
           "answer": "hr",
           "hint": "character: nhân vật",
           "topicId": 19
@@ -10702,7 +10702,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 919,
+          "id": 913,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -10752,7 +10752,7 @@
           "title": [
             {
               "en": "Did you explore the caves? No, I didn't.",
-              "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+              "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
             },
             {
               "en": "Yes, I will.",
@@ -10767,7 +10767,7 @@
               "vi": "Đây là bố của mình."
             }
           ],
-          "hint": "Did you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không.\nYes, I will. - Có, mình sẽ mua.\nDid you go to Paris? Yes, I did. - Bạn có đi Pa-ri không? Có.\nThis is my father. - Đây là bố của mình.",
+          "hint": "Did you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa.\nYes, I will. - Có, mình sẽ mua.\nDid you go to Paris? Yes, I did. - Bạn có đi Pa-ri không? Có.\nThis is my father. - Đây là bố của mình.",
           "topicId": 12
         }
       },
@@ -10783,9 +10783,9 @@
             ""
           ],
           "imageNames": [
-            "sports centre",
-            "sore throat",
-            "Sports Day"
+            "We'll play badminton on Mid-Autumn Festival.",
+            "We'll play badminton on Teachers' Day.",
+            "We'll play badminton on Sports Day."
           ],
           "correctIndex": 2,
           "hint": "We'll play badminton on Sports Day. → Chúng mình sẽ chơi cầu lông vào Ngày hội thể thao.\n(Chữ cần chọn: Sports Day – Ngày hội thể thao)",
@@ -10825,7 +10825,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1310,
+          "id": 1301,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -10845,7 +10845,7 @@
         "type": "multiChoice",
         "value": {
           "id": 476,
-          "question": "Who are the main characters? – ___",
+          "question": "Choose the correct answer.\nA: Who are the main characters?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10878,10 +10878,10 @@
             },
             {
               "en": "What was the ant like?",
-              "vi": "Kiến là con như thế nào?"
+              "vi": "Con kiến như thế nào?"
             }
           ],
-          "hint": "Yes. Let's go by bus. - Rồi. Chúng ta đi bằng xe buýt nhé.\nHow often do you eat healthy food? - Bạn ăn đồ ăn tốt cho sức khỏe thường xuyên như thế nào?\nNo, it isn't. You can get there on foot. - Không. Bạn có thể đi bộ đến đó.\nWhat was the ant like? - Kiến là con như thế nào?",
+          "hint": "Yes. Let's go by bus. - Rồi. Chúng ta đi bằng xe buýt nhé.\nHow often do you eat healthy food? - Bạn ăn đồ ăn tốt cho sức khỏe thường xuyên như thế nào?\nNo, it isn't. You can get there on foot. - Không. Bạn có thể đi bộ đến đó.\nWhat was the ant like? - Con kiến như thế nào?",
           "topicId": 18
         }
       }
@@ -10934,8 +10934,8 @@
         "value": {
           "id": 155,
           "sentence": "lan_er_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/lantern.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/lantern.mp3",
           "answer": "tn",
           "hint": "lantern: đèn lồng",
           "topicId": 12
@@ -10944,7 +10944,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 221,
+          "id": 219,
           "audioUrl": "",
           "question": "Có. Ngày đó sắp đến rồi.",
           "correctAnswer": [
@@ -10983,7 +10983,7 @@
             "D. twice a week"
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 Bài nghe: Minh: Do you eat healthy food?\nLucy: Yes, I do. I eat healthy food every morning.\nMinh: Do you do judo?\nLucy: Yes, I do. I do judo twice a week.\n→ Minh: Bạn có ăn đồ ăn tốt cho sức khỏe không?\nLucy: Có. Mình ăn đồ ăn tốt cho sức khỏe mỗi buổi sáng.\nMinh: Bạn có tập judo không?\nLucy: Có. Mình tập judo hai lần một tuần.\n✅ D. twice a week",
+          "hint": "🎧 Bài nghe: A: Do you eat healthy food?\nB: Yes, I do. I eat healthy food every morning.\nA: Do you do judo?\nB: Yes, I do. I do judo twice a week.\n→ A: Bạn có ăn đồ ăn tốt cho sức khỏe không?\nB: Có. Mình ăn đồ ăn tốt cho sức khỏe mỗi buổi sáng.\nA: Bạn có tập judo không?\nB: Có. Mình tập judo hai lần một tuần.\n✅ D. twice a week",
           "topicId": 14
         }
       },
@@ -11042,9 +11042,9 @@
           "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/snowwhite.png",
           "questionAudioUrl": "",
           "choices": [
-            "A. tortoise",
+            "A. prince",
             "B. Snow White",
-            "C. fox",
+            "C. witch",
             "D. dwarfs"
           ],
           "correctAnswerIndex": 1,
@@ -11067,7 +11067,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 878,
+          "id": 872,
           "audioUrl": "",
           "question": "Bạn có dọn dẹp nhà cửa vào dịp Tết không?",
           "correctAnswer": [
@@ -11099,8 +11099,8 @@
         "value": {
           "id": 1478,
           "question": "Choose the missing letter.\nplan a tri_",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/planatrip.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/planatrip.mp3",
           "choices": [
             "A. r",
             "B. w",
@@ -11163,7 +11163,7 @@
         "type": "multiChoice",
         "value": {
           "id": 208,
-          "question": "___ this? – It's a lion.",
+          "question": "Choose the correct answer.\nA: ___ this?\nB: It's a lion.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11192,9 +11192,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 373,
+          "id": 371,
           "audioUrl": "",
-          "question": "",
+          "question": "đau răng",
           "correctAnswer": [
             "TO",
             "O",
@@ -11391,9 +11391,9 @@
             ""
           ],
           "imageNames": [
-            "flower festival",
-            "fresh juice",
-            "fox"
+            "And drinks water.",
+            "And drinks fresh juice.",
+            "And drinks milk."
           ],
           "correctIndex": 1,
           "hint": "And drinks fresh juice. → Và uống nước ép tươi.\n(Chữ cần chọn: fresh juice – nước ép trái cây)",
@@ -11433,7 +11433,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1316,
+          "id": 1307,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -11456,7 +11456,7 @@
         "type": "multiChoice",
         "value": {
           "id": 549,
-          "question": "Excuse me. How can I get to Tower Bridge? – ___",
+          "question": "Choose the correct answer.\nA: Excuse me. How can I get to Tower Bridge?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11547,8 +11547,8 @@
         "value": {
           "id": 307,
           "sentence": "par__",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/party.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/party.mp3",
           "answer": "ty",
           "hint": "party: bữa tiệc",
           "topicId": 13
@@ -11557,7 +11557,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 347,
+          "id": 345,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -11594,7 +11594,7 @@
             "D. watch TV too much"
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 Bài nghe: Mary: I have a headache. What should I do?\nLinh: You should have a rest. You should not watch TV too much.\n→ Mary: Mình bị đau đầu. Mình nên làm gì?\nLinh: Bạn nên nghỉ ngơi. Bạn không nên watch TV too much.\n✅ D. watch TV too much",
+          "hint": "🎧 Bài nghe: A: I have a headache. What should I do?\nB: You should have a rest. You should not watch TV too much.\n→ A: Mình bị đau đầu. Mình nên làm gì?\nB: Bạn nên nghỉ ngơi. Bạn không nên watch TV too much.\n✅ D. watch TV too much",
           "topicId": 15
         }
       },
@@ -11650,8 +11650,8 @@
         "value": {
           "id": 1385,
           "question": "Choose the missing letter.\nha_e",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hare.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/hare.mp3",
           "choices": [
             "A. r",
             "B. g",
@@ -11678,7 +11678,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 926,
+          "id": 920,
           "audioUrl": "",
           "question": "Bạn nghĩ gì về Hồ Hoàn Kiếm?",
           "correctAnswer": [
@@ -11803,7 +11803,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 533,
+          "id": 530,
           "audioUrl": "",
           "question": "Dresses are perfect for today.",
           "correctAnswer": [
@@ -11813,7 +11813,7 @@
           "scramble": [
             "Váy liền rất hợp",
             "cho hôm nay.",
-            "có dự định tham gia câu lạc bộ âm nhạc không?"
+            "nhưng"
           ],
           "hint": "Dresses are perfect for today. → Váy liền rất hợp cho hôm nay.",
           "eraseFlag": 0,
@@ -11869,13 +11869,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/itsanorange.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/lemon.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/mango.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/sweets.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/orange.png"
           ],
           "imageNames": [
-            "lemon",
             "mango",
+            "sweets",
             "orange"
           ],
           "correctIndex": 2,
@@ -11897,7 +11897,7 @@
             "D. visit my grandparents"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 Bài nghe: Laura: What are you going to do this summer, Bill?\nBill: I am going to help my parents.\nLaura: That sounds great!\n→ Laura: Bill, mùa hè này bạn sẽ làm gì?\nBill: Mình sẽ giúp bố mẹ.\nLaura: Nghe tuyệt quá!\n✅ C. help my parents",
+          "hint": "🎧 Bài nghe: A: What are you going to do this summer, Bill?\nB: I am going to help my parents.\nA: That sounds great!\n→ A: Bill, mùa hè này bạn sẽ làm gì?\nB: Mình sẽ giúp bố mẹ.\nA: Nghe tuyệt quá!\n✅ C. help my parents",
           "topicId": 20
         }
       },
@@ -11906,8 +11906,8 @@
         "value": {
           "id": 11,
           "sentence": "c_ve",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/cave.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/cave.mp3",
           "answer": "a",
           "hint": "cave: hang động",
           "topicId": 11
@@ -11916,7 +11916,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 172,
+          "id": 170,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -11994,9 +11994,9 @@
             ""
           ],
           "imageNames": [
-            "car",
-            "cook well",
-            "cakes"
+            "We'll have fish.",
+            "We'll have noodles.",
+            "We'll have cakes."
           ],
           "correctIndex": 2,
           "hint": "We'll have cakes. → Chúng mình sẽ có bánh ngọt.\n(Chữ cần chọn: cakes – bánh ngọt)",
@@ -12036,7 +12036,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1361,
+          "id": 1352,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -12155,7 +12155,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 419,
+          "id": 416,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -12192,7 +12192,7 @@
             "D. No, I don't."
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 Bài nghe: Peter: What is the weather like in winter, Linh?\nLinh: It is dry.\nPeter: Do you like winter?\nLinh: Yes, I do.\n→ Peter: Linh, thời tiết vào mùa đông như thế nào?\nLinh: Trời khô.\nPeter: Bạn có thích mùa đông không?\nLinh: Có.\n✅ C. Yes, she does.",
+          "hint": "🎧 Bài nghe: A: What is the weather like in winter, Linh?\nB: It is dry.\nA: Do you like winter?\nB: Yes, I do.\n→ A: Linh, thời tiết vào mùa đông như thế nào?\nB: Trời khô.\nA: Bạn có thích mùa đông không?\nB: Có.\n✅ C. Yes, she does.",
           "topicId": 16
         }
       },
@@ -12276,7 +12276,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 90,
+          "id": 89,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -12300,7 +12300,7 @@
             "and",
             "I"
           ],
-          "hint": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không. → Did you explore the caves? No, I didn't.",
+          "hint": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa. → Did you explore the caves? No, I didn't.",
           "eraseFlag": 0,
           "topicId": 11
         }
@@ -12374,7 +12374,7 @@
         "type": "multiChoice",
         "value": {
           "id": 362,
-          "question": "Read and complete.\nMinh: How often do you go swimming?\nMary: ___ a week.",
+          "question": "Read and complete.\nA: How often do you go swimming?\nB: ___ a week.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12403,7 +12403,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 591,
+          "id": 587,
           "audioUrl": "",
           "question": "The hare could run fast.",
           "correctAnswer": [
@@ -12516,7 +12516,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 264,
+          "id": 262,
           "audioUrl": "",
           "question": "Chúng mình sẽ làm nem rán cho Tết.",
           "correctAnswer": [
@@ -12597,9 +12597,9 @@
             ""
           ],
           "imageNames": [
-            "dry",
-            "dress",
-            "do morning exercise"
+            "You wear a T-shirt. And you wear a hat.",
+            "You wear a dress. And you wear a hat.",
+            "You wear a jacket. And you wear a hat."
           ],
           "correctIndex": 1,
           "hint": "You wear a dress. And you wear a hat. → Bạn mặc váy liền. Và bạn đội mũ.\n(Chữ cần chọn: dress – váy liền)",
@@ -12639,9 +12639,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 837,
+          "id": 831,
           "audioUrl": "",
-          "question": "",
+          "question": "đẹp",
           "correctAnswer": [
             "B",
             "EA",
@@ -12756,8 +12756,8 @@
         "value": {
           "id": 707,
           "sentence": "man_o",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/mango.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/mango.mp3",
           "answer": "g",
           "hint": "mango: quả xoài",
           "topicId": 15
@@ -12766,7 +12766,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 545,
+          "id": 542,
           "audioUrl": "",
           "question": "Bà ấy uống nhiều nước.",
           "correctAnswer": [
@@ -12786,7 +12786,7 @@
             "drinks",
             "She"
           ],
-          "hint": "Bà ấy uống nhiều nước. → She drinks a lot of water.",
+          "hint": "Cô ấy uống nhiều nước. → She drinks a lot of water.",
           "eraseFlag": 0,
           "topicId": 16
         }
@@ -12889,7 +12889,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 111,
+          "id": 110,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -12984,7 +12984,7 @@
         "type": "multiChoice",
         "value": {
           "id": 433,
-          "question": "___ the matter with Linh? – She has a stomach ache.",
+          "question": "Choose the correct answer.\nA: ___ the matter with Linh?\nB: She has a stomach ache.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13013,9 +13013,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 724,
+          "id": 719,
           "audioUrl": "",
-          "question": "",
+          "question": "con thỏ rừng",
           "correctAnswer": [
             "H",
             "A",
@@ -13110,7 +13110,7 @@
             "D. plant trees"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Kate: What do you do at Tet, Linh?\nLinh: I clean the house.\nKate: That sounds great!\n→ Kate: Linh, bạn làm gì vào dịp Tết?\nLinh: Mình dọn nhà.\nKate: Nghe tuyệt quá!\n✅ A. clean the house",
+          "hint": "🎧 Bài nghe: A: What do you do at Tet, Linh?\nB: I clean the house.\nA: That sounds great!\n→ A: Linh, bạn làm gì vào dịp Tết?\nB: Mình dọn nhà.\nA: Nghe tuyệt quá!\n✅ A. clean the house",
           "topicId": 12
         }
       },
@@ -13119,8 +13119,8 @@
         "value": {
           "id": 406,
           "sentence": "cloc_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/clock.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/clock.mp3",
           "answer": "k",
           "hint": "clock: cái đồng hồ",
           "topicId": 13
@@ -13129,7 +13129,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 308,
+          "id": 306,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -13208,9 +13208,9 @@
             ""
           ],
           "imageNames": [
-            "ship",
-            "spring",
-            "shopping centre"
+            "I made noodles.",
+            "I made spring rolls.",
+            "I made cakes."
           ],
           "correctIndex": 1,
           "hint": "I made spring rolls. → Mình đã làm nem cuốn.\n(Chữ cần chọn: spring – mùa xuân)",
@@ -13250,7 +13250,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1507,
+          "id": 1497,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -13270,7 +13270,7 @@
         "type": "multiChoice",
         "value": {
           "id": 24,
-          "question": "Where did you go last summer? – ___",
+          "question": "Choose the correct answer.\nA: Where did you go last summer?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13350,7 +13350,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Tony: Are you OK, Peter?\nPeter: No. I have a sore throat.\nTony: You should go to the doctor.\nPeter: OK. I will go now.\n→ Tony: Peter, bạn ổn chứ?\nPeter: Không. Mình bị đau họng.\nTony: Bạn nên đi khám bác sĩ.\nPeter: Được. Mình sẽ đi ngay.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: Are you OK, Peter?\nB: No. I have a sore throat.\nA: You should go to the doctor.\nB: OK. I will go now.\n→ A: Peter, bạn ổn chứ?\nB: Không. Mình bị đau họng.\nA: Bạn nên đi khám bác sĩ.\nB: Được. Mình sẽ đi ngay.\n✅ A. True",
           "topicId": 15
         }
       },
@@ -13359,8 +13359,8 @@
         "value": {
           "id": 774,
           "sentence": "b_ouse",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/blouse.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/blouse.mp3",
           "answer": "l",
           "hint": "blouse: áo cánh",
           "topicId": 16
@@ -13369,7 +13369,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 665,
+          "id": 660,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -13395,7 +13395,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1414,
-          "question": "Find the mistake.\nDid you family sunbathe on the beach?",
+          "question": "Find the mistake.\nDid <u>you</u> <u>family</u> sunbathe <u>on</u> the <u>beach</u>?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13489,7 +13489,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 223,
+          "id": 221,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -13569,14 +13569,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/howoftendoesyourbrothergoswimming.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/eatfruit.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/eathealthyfood.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/goswimming.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/eathealthyfood.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/domorningexercise.png"
           ],
           "imageNames": [
-            "eat fruit",
+            "eat healthy food",
             "go swimming",
-            "eat healthy food"
+            "do morning exercise"
           ],
           "correctIndex": 1,
           "hint": "How often does your brother go swimming? → Anh trai bạn đi bơi thường xuyên thế nào?\n(Hình đúng: go swimming – đi bơi)",
@@ -13587,7 +13587,7 @@
         "type": "multiChoice",
         "value": {
           "id": 981,
-          "question": "Read and choose True or False.\nOnce upon a time, there was a hare and a tortoise. The hare could run fast. The tortoise was slow. They had a race. The hare slept a lot. The tortoise won the race.\n\nThe tortoise was slow.",
+          "question": "Read and choose True or False.\n📖 Once upon a time, there was a hare and a tortoise. The hare could run fast. The tortoise was slow. They had a race. The hare slept a lot. The tortoise won the race.\n\n👉 The tortoise was slow.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13614,9 +13614,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 847,
+          "id": 841,
           "audioUrl": "",
-          "question": "",
+          "question": "khoảng cách",
           "correctAnswer": [
             "DI",
             "S",
@@ -13724,8 +13724,8 @@
         "value": {
           "id": 563,
           "sentence": "no_e",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/nose.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/nose.mp3",
           "answer": "s",
           "hint": "nose: cái mũi",
           "topicId": 14
@@ -13734,7 +13734,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 411,
+          "id": 408,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -13814,9 +13814,9 @@
             ""
           ],
           "imageNames": [
-            "Tower Bridge",
-            "Teachers' Day",
-            "tortoise"
+            "Where is Tower Bridge?",
+            "Where is Mui Ne Beach?",
+            "Where is Hyde Park?"
           ],
           "correctIndex": 0,
           "hint": "Where is Tower Bridge? → cầu Tháp ở đâu?\n(Chữ cần chọn: Tower Bridge – cầu Tháp)",
@@ -13828,8 +13828,8 @@
         "value": {
           "id": 671,
           "question": "Complete the word.\n_ _aser",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/eraser.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/eraser.mp3",
           "choices": [
             "A. er",
             "B. cl",
@@ -13856,7 +13856,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1012,
+          "id": 1005,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -13971,8 +13971,8 @@
         "value": {
           "id": 1002,
           "sentence": "bath_oom",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/bathroom.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/bathroom.mp3",
           "answer": "r",
           "hint": "bathroom: phòng tắm",
           "topicId": 17
@@ -13981,7 +13981,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 791,
+          "id": 785,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -13995,7 +13995,7 @@
             "We",
             "foot.",
             "on",
-            "to",
+            "seven",
             "there",
             "went"
           ],
@@ -14102,7 +14102,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 288,
+          "id": 286,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -14180,14 +14180,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/thefoxsawthecrowandhewantedtohavethemeat.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/snowwhite.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/tortoise.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/crow.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/tortoise.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/grasshopper.png"
           ],
           "imageNames": [
-            "Snow White",
+            "tortoise",
             "crow",
-            "tortoise"
+            "grasshopper"
           ],
           "correctIndex": 1,
           "hint": "The fox saw the crow, and he wanted to have the meat. → Con cáo nhìn thấy con quạ và muốn có miếng thịt.\n(Hình đúng: crow – con quạ)",
@@ -14227,7 +14227,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1458,
+          "id": 1448,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -14247,7 +14247,7 @@
         "type": "multiChoice",
         "value": {
           "id": 25,
-          "question": "When did you go to Sydney? – ___",
+          "question": "Choose the correct answer.\nA: When did you go to Sydney?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -14296,12 +14296,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/mooncakes.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/sandwiches.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/cakes.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/lemon.png"
           ],
           "imageNames": [
             "mooncakes",
             "sandwiches",
-            "cakes"
+            "lemon"
           ],
           "correctIndex": 0,
           "hint": "Would you like some mooncakes? → Bạn có muốn dùng một ít bánh trung thu không?\n(Hình đúng: mooncakes – bánh trung thu)",
@@ -14331,8 +14331,8 @@
         "value": {
           "id": 618,
           "sentence": "t_othach_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/toothache.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/toothache.mp3",
           "answer": "oe",
           "hint": "toothache: đau răng",
           "topicId": 15
@@ -14341,7 +14341,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 481,
+          "id": 478,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -14421,9 +14421,9 @@
             ""
           ],
           "imageNames": [
-            "make spring rolls",
-            "Mid-Autumn Festival",
-            "mooncakes"
+            "We eat burgers.",
+            "We eat sausages.",
+            "We eat mooncakes."
           ],
           "correctIndex": 2,
           "hint": "We eat mooncakes. → Chúng mình ăn bánh trung thu.\n(Chữ cần chọn: mooncakes – bánh trung thu)",
@@ -14435,8 +14435,8 @@
         "value": {
           "id": 1460,
           "question": "Choose the missing letter.\n_lan",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/plan.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/plan.mp3",
           "choices": [
             "A. u",
             "B. w",
@@ -14463,7 +14463,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1071,
+          "id": 1064,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -14561,7 +14561,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Mai: Who is the main character in the story?\nBill: It is the tortoise.\nMai: What did the tortoise do?\nBill: It worked hard.\n→ Mai: Nhân vật chính trong câu chuyện là ai?\nBill: Đó là rùa.\nMai: Rùa đã làm gì?\nBill: Nó đã làm việc chăm chỉ.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: Who is the main character in the story?\nB: It is the tortoise.\nA: What did the tortoise do?\nB: It worked hard.\n→ A: Nhân vật chính trong câu chuyện là ai?\nB: Đó là rùa.\nA: Rùa đã làm gì?\nB: Nó đã làm việc chăm chỉ.\n✅ A. True",
           "topicId": 17
         }
       },
@@ -14570,8 +14570,8 @@
         "value": {
           "id": 1069,
           "sentence": "grassh_pper",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/grasshopper.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/grasshopper.mp3",
           "answer": "o",
           "hint": "grasshopper: châu chấu",
           "topicId": 18
@@ -14580,7 +14580,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 868,
+          "id": 862,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -14609,7 +14609,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1471,
-          "question": "Find the mistake.\nHave an good time!",
+          "question": "Find the mistake.\n<u>Have</u> <u>an</u> <u>good</u> <u>time</u>!",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -14675,8 +14675,8 @@
         "value": {
           "id": 192,
           "question": "Complete the word.\nm_ _ncakes",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/mooncakes.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/mooncakes.mp3",
           "choices": [
             "A. oo",
             "B. sk",
@@ -14703,7 +14703,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 447,
+          "id": 444,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -14735,8 +14735,8 @@
         "value": {
           "id": 421,
           "question": "Complete the word.\ns_ _son",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/season.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/season.mp3",
           "choices": [
             "A. ea",
             "B. an",
@@ -14826,7 +14826,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1039,
+          "id": 1032,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -14846,7 +14846,7 @@
         "type": "multiChoice",
         "value": {
           "id": 136,
-          "question": "What did Bill do in Sa Pa? – ___",
+          "question": "Choose the correct answer.\nA: What did Bill do in Sa Pa?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -14894,13 +14894,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/domorningexercise.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/ieatvegetables.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/idojudo.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/goswimming.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/eatfruit.png"
           ],
           "imageNames": [
             "do morning exercise",
-            "I eat vegetables.",
-            "I do judo."
+            "go swimming",
+            "eat fruit"
           ],
           "correctIndex": 0,
           "hint": "How often do you do morning exercise? → Bạn tập thể dục buổi sáng thường xuyên như thế nào?\n(Hình đúng: do morning exercise – tập thể dục buổi sáng)",
@@ -14940,7 +14940,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 693,
+          "id": 688,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -14970,8 +14970,8 @@
         "value": {
           "id": 568,
           "question": "Complete the word.\nn_ _r",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/near.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/near.mp3",
           "choices": [
             "A. nk",
             "B. ea",
@@ -15021,9 +15021,9 @@
             ""
           ],
           "imageNames": [
-            "cool",
-            "cave",
-            "car"
+            "It's a beach.",
+            "It's a cave.",
+            "It's a river."
           ],
           "correctIndex": 1,
           "hint": "It's a cave. → Đó là hang động.\n(Chữ cần chọn: cave – hang động)",
@@ -15035,8 +15035,8 @@
         "value": {
           "id": 1144,
           "question": "Choose the missing letter.\nh_tel",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hotel.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/hotel.mp3",
           "choices": [
             "A. c",
             "B. m",
@@ -15063,7 +15063,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1157,
+          "id": 1150,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -15083,7 +15083,7 @@
         "type": "multiChoice",
         "value": {
           "id": 248,
-          "question": "Does your brother drink fresh juice? – ___",
+          "question": "Choose the correct answer.\nA: Does your brother drink fresh juice?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -15138,12 +15138,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/fox.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/prince.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/cat.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hare.png"
           ],
           "imageNames": [
             "fox",
-            "prince",
+            "cat",
             "hare"
           ],
           "correctIndex": 2,
@@ -15174,8 +15174,8 @@
         "value": {
           "id": 1222,
           "sentence": "opin__n",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/opinion.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/opinion.mp3",
           "answer": "io",
           "hint": "opinion: ý kiến",
           "topicId": 19
@@ -15184,7 +15184,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 965,
+          "id": 958,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -15212,7 +15212,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1135,
-          "question": "Find the mistake.\nThey had an picnic.",
+          "question": "Find the mistake.\n<u>They</u> <u>had</u> <u>an</u> <u>picnic</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -15278,8 +15278,8 @@
         "value": {
           "id": 1237,
           "question": "Choose the missing letter.\ng_ swimming",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/goswimming.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/goswimming.mp3",
           "choices": [
             "A. y",
             "B. o",
@@ -15306,7 +15306,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 516,
+          "id": 513,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -15343,7 +15343,7 @@
             "A. prince",
             "B. dwarfs",
             "C. witch",
-            "D. ant"
+            "D. Snow White"
           ],
           "correctAnswerIndex": 1,
           "hint": "Nhìn hình và chọn.\n✅ B. dwarfs → các chú lùn",
@@ -15409,7 +15409,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Bill: What is the matter, Kate?\nKate: I have a fever.\nBill: You should take some medicine.\nKate: Thank you.\n→ Bill: Kate, bạn bị làm sao vậy?\nKate: Mình bị sốt.\nBill: Bạn nên uống thuốc.\nKate: Cảm ơn bạn.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: What is the matter, Kate?\nB: I have a fever.\nA: You should take some medicine.\nB: Thank you.\n→ A: Kate, bạn bị làm sao vậy?\nB: Mình bị sốt.\nA: Bạn nên uống thuốc.\nB: Cảm ơn bạn.\n✅ A. True",
           "topicId": 20
         }
       },
@@ -15428,7 +15428,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 115,
+          "id": 114,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -15439,7 +15439,7 @@
           "scramble": [
             "I",
             "will.",
-            "can",
+            "seven",
             "Yes,"
           ],
           "hint": "Có, mình sẽ mua. → Yes, I will.",
@@ -15479,15 +15479,15 @@
               "vi": "thói quen"
             },
             {
-              "en": "exercise",
-              "vi": "bài tập thể dục"
+              "en": "autumn",
+              "vi": "mùa thu"
             },
             {
               "en": "healthy",
               "vi": "khỏe mạnh"
             }
           ],
-          "hint": "do morning exercise - tập thể dục buổi sáng\nhabit - thói quen\nexercise - bài tập thể dục\nhealthy - khỏe mạnh",
+          "hint": "do morning exercise - tập thể dục buổi sáng\nhabit - thói quen\nautumn - mùa thu\nhealthy - khỏe mạnh",
           "topicId": 14
         }
       },
@@ -15535,8 +15535,8 @@
         "value": {
           "id": 1004,
           "sentence": "adv__e",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/advice.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/advice.mp3",
           "answer": "ic",
           "hint": "advice: lời khuyên",
           "topicId": 17
@@ -15545,7 +15545,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 736,
+          "id": 731,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -15623,9 +15623,9 @@
             ""
           ],
           "imageNames": [
-            "plane",
-            "plant trees",
-            "policeman"
+            "I give lucky money.",
+            "I plant trees.",
+            "I make spring rolls."
           ],
           "correctIndex": 1,
           "hint": "I plant trees. → Mình trồng cây.\n(Chữ cần chọn: plant trees – trồng cây)",
@@ -15665,7 +15665,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1193,
+          "id": 1185,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -15773,8 +15773,8 @@
         "value": {
           "id": 1370,
           "sentence": "d_stance",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/distance.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/distance.mp3",
           "answer": "i",
           "hint": "distance: khoảng cách",
           "topicId": 20
@@ -15783,7 +15783,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 86,
+          "id": 85,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -15809,7 +15809,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1173,
-          "question": "Find the mistake.\nMy mother will visit I grandparents for Tet.",
+          "question": "Find the mistake.\nMy <u>mother</u> <u>will</u> visit <u>I</u> <u>grandparents</u> for Tet.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -15903,7 +15903,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 668,
+          "id": 663,
           "audioUrl": "",
           "question": "Bạn có thích Bạch Tuyết không? Có.",
           "correctAnswer": [
@@ -15920,7 +15920,7 @@
             "like",
             "Snow",
             "do.",
-            "Does",
+            "seven",
             "I",
             "Yes,",
             "White?",
@@ -16009,7 +16009,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Laura: Where did you go last summer, Mary?\nMary: I went to Phu Quoc.\nLaura: What did you do there?\nMary: I collected seashells.\n→ Laura: Mary, mùa hè năm ngoái bạn đã đi đâu?\nMary: Mình đã đến Phú Quốc.\nLaura: Bạn đã làm gì ở đó?\nMary: Mình đã nhặt vỏ sò.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: Where did you go last summer, Mary?\nB: I went to Phu Quoc.\nA: What did you do there?\nB: I collected seashells.\n→ A: Mary, mùa hè năm ngoái bạn đã đi đâu?\nB: Mình đã đến Phú Quốc.\nA: Bạn đã làm gì ở đó?\nB: Mình đã nhặt vỏ sò.\n✅ A. True",
           "topicId": 11
         }
       },
@@ -16028,7 +16028,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1131,
+          "id": 1124,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -16110,7 +16110,7 @@
         "type": "multiChoice",
         "value": {
           "id": 517,
-          "question": "Read and choose the correct answer.\nLast summer, I went to Phu Quoc with my family. I ate seafood. I also collected seashells. I stayed in a hotel. It was a wonderful journey.\n\nWho did the speaker go with?",
+          "question": "Read and choose the correct answer.\n📖 Last summer, I went to Phu Quoc with my family. I ate seafood. I also collected seashells. I stayed in a hotel. It was a wonderful journey.\n\n❓ Who did the speaker go with?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16129,8 +16129,8 @@
         "value": {
           "id": 1072,
           "sentence": "h_re",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hare.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/hare.mp3",
           "answer": "a",
           "hint": "hare: con thỏ rừng",
           "topicId": 18
@@ -16139,7 +16139,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 824,
+          "id": 818,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -16169,8 +16169,8 @@
         "value": {
           "id": 1458,
           "question": "Choose the missing letter.\nbe go_ng to",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/begoingto.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/begoingto.mp3",
           "choices": [
             "A. i",
             "B. d",
@@ -16201,10 +16201,10 @@
             },
             {
               "en": "Did you explore the caves? No, I didn't.",
-              "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình đã không."
+              "vi": "Bạn đã khám phá các hang động chưa? Chưa, mình chưa."
             }
           ],
-          "hint": "Did you go to Phu Quoc? Yes, I did. - Bạn có đi Phú Quốc không? Có.\nDid your family swim in the sea? - Gia đình bạn đã bơi ở biển chưa?\nIt's a plane. - Đó là máy bay.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình đã không.",
+          "hint": "Did you go to Phu Quoc? Yes, I did. - Bạn có đi Phú Quốc không? Có.\nDid your family swim in the sea? - Gia đình bạn đã bơi ở biển chưa?\nIt's a plane. - Đó là máy bay.\nDid you explore the caves? No, I didn't. - Bạn đã khám phá các hang động chưa? Chưa, mình chưa.",
           "topicId": 11
         }
       },
@@ -16220,9 +16220,9 @@
             ""
           ],
           "imageNames": [
-            "do morning exercise",
-            "decorate the house",
-            "dance beautifully"
+            "We make spring rolls at Tet.",
+            "We decorate the house at Tet.",
+            "We give lucky money at Tet."
           ],
           "correctIndex": 1,
           "hint": "We decorate the house at Tet. → Chúng mình trang trí nhà vào dịp Tết.\n(Chữ cần chọn: decorate the house – trang trí nhà)",
@@ -16240,7 +16240,7 @@
             "A. sweets",
             "B. pizza",
             "C. burgers",
-            "D. sandwiches"
+            "D. lemon"
           ],
           "correctAnswerIndex": 0,
           "hint": "Nhìn hình và chọn.\n✅ A. sweets → kẹo",
@@ -16262,7 +16262,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1247,
+          "id": 1238,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -16285,7 +16285,7 @@
         "type": "multiChoice",
         "value": {
           "id": 435,
-          "question": "What's the weather ___ in winter? – It's cold and dry.",
+          "question": "Choose the correct answer.\nA: What's the weather ___ in winter?\nB: It's cold and dry.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16357,7 +16357,7 @@
         "type": "multiChoice",
         "value": {
           "id": 692,
-          "question": "Where ___ you going to go this summer? – We're going to visit Phu Quoc Island.",
+          "question": "Choose the correct answer.\nA: Where ___ you going to go this summer?\nB: We're going to visit Phu Quoc Island.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16386,7 +16386,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 157,
+          "id": 155,
           "audioUrl": "",
           "question": "Mình sẽ đi mua sắm cho Tết.",
           "correctAnswer": [
@@ -16415,7 +16415,7 @@
         "type": "multiChoice",
         "value": {
           "id": 217,
-          "question": "Read and choose the correct answer.\nWe will have a party on Children's Day. We will have burgers and pizza. We will have lemonade, too. We will play Bingo and sing songs. It will be fun.\n\nWhat games will they play?",
+          "question": "Read and choose the correct answer.\n📖 We will have a party on Children's Day. We will have burgers and pizza. We will have lemonade, too. We will play Bingo and sing songs. It will be fun.\n\n❓ What games will they play?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16481,8 +16481,8 @@
         "value": {
           "id": 1310,
           "question": "Choose the missing letter.\nje_ns",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/jeans.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/jeans.mp3",
           "choices": [
             "A. l",
             "B. a",
@@ -16509,7 +16509,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 728,
+          "id": 723,
           "audioUrl": "",
           "question": "Làm thế nào để mình đến Cầu Tháp?",
           "correctAnswer": [
@@ -16610,7 +16610,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. This is my mother.",
-            "B. Is this my mother.",
+            "B. Mother is this my.",
             "C. This mother my is.",
             "D. This is mother my."
           ],
@@ -16634,7 +16634,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1183,
+          "id": 1175,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -16710,12 +16710,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/prince.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/witch.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/crow.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/snowwhite.png"
           ],
           "imageNames": [
             "prince",
             "witch",
-            "crow"
+            "Snow White"
           ],
           "correctIndex": 0,
           "hint": "I like the prince. → Mình thích hoàng tử.\n(Hình đúng: prince – hoàng tử)",
@@ -16745,8 +16745,8 @@
         "value": {
           "id": 1220,
           "sentence": "ki_omet_e",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/kilometre.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/kilometre.mp3",
           "answer": "lr",
           "hint": "kilometre: ki-lô-mét",
           "topicId": 19
@@ -16755,7 +16755,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 906,
+          "id": 900,
           "audioUrl": "",
           "question": "Peter sẽ học Tiếng Anh.",
           "correctAnswer": [
@@ -16836,9 +16836,9 @@
             ""
           ],
           "imageNames": [
-            "by boat",
-            "birthday party",
-            "brush your teeth regularly"
+            "We eat cakes at a picnic.",
+            "We eat cakes at a birthday party.",
+            "We eat cakes at a school party."
           ],
           "correctIndex": 1,
           "hint": "We eat cakes at a birthday party. → Chúng mình ăn bánh ngọt vào bữa tiệc sinh nhật.\n(Chữ cần chọn: birthday party – bữa tiệc sinh nhật)",
@@ -16854,9 +16854,9 @@
           "questionAudioUrl": "",
           "choices": [
             "A. eat healthy food",
-            "B. I go swimming.",
-            "C. I drink fresh juice.",
-            "D. I do yoga."
+            "B. drink a lot of water",
+            "C. do judo",
+            "D. play sports"
           ],
           "correctAnswerIndex": 0,
           "hint": "Nhìn hình và chọn.\n✅ A. eat healthy food → ăn đồ ăn tốt cho sức khỏe",
@@ -16878,7 +16878,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 473,
+          "id": 470,
           "audioUrl": "",
           "question": "It's hot and sunny.",
           "correctAnswer": [
@@ -16886,7 +16886,7 @@
             "có nắng."
           ],
           "scramble": [
-            "Bạn mình sống",
+            "nhưng",
             "Trời nóng và",
             "có nắng."
           ],
@@ -16971,7 +16971,7 @@
         "type": "multiChoice",
         "value": {
           "id": 63,
-          "question": "When did you go to Ha Long Bay? – ___",
+          "question": "Choose the correct answer.\nA: When did you go to Ha Long Bay?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17000,7 +17000,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 224,
+          "id": 222,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -17092,8 +17092,8 @@
         "value": {
           "id": 523,
           "question": "Complete the word.\nst_ _y",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/story.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/story.mp3",
           "choices": [
             "A. ay",
             "B. ng",
@@ -17120,7 +17120,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 821,
+          "id": 815,
           "audioUrl": "",
           "question": "Có. Mình nghĩ nó tuyệt vời.",
           "correctAnswer": [
@@ -17152,8 +17152,8 @@
         "value": {
           "id": 745,
           "question": "Complete the word.\na_t",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/ant.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/ant.mp3",
           "choices": [
             "A. o",
             "B. y",
@@ -17216,7 +17216,7 @@
         "type": "multiChoice",
         "value": {
           "id": 200,
-          "question": "Would you like some water? – ___",
+          "question": "Choose the correct answer.\nA: Would you like some water?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17245,7 +17245,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1262,
+          "id": 1253,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -17265,7 +17265,7 @@
         "type": "multiChoice",
         "value": {
           "id": 950,
-          "question": "Listen and choose True or False.\nIt is cool in autumn.",
+          "question": "Listen and choose True or False.\nThe weather is cool in autumn.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/minhwhatistheweatherlikeinautumn\nnamitiscool\nminhandinsummer\nnamitishot.mp3",
           "choices": [
@@ -17273,7 +17273,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Minh: What is the weather like in autumn?\nNam: It is cool.\nMinh: And in summer?\nNam: It is hot.\n→ Minh: Thời tiết vào mùa thu như thế nào?\nNam: Trời mát mẻ.\nMinh: Còn vào mùa hè?\nNam: Trời nóng.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: What is the weather like in autumn?\nB: It is cool.\nA: And in summer?\nB: It is hot.\n→ A: Thời tiết vào mùa thu như thế nào?\nB: Trời mát mẻ.\nA: Còn vào mùa hè?\nB: Trời nóng.\n✅ A. True\n👉 The weather is cool in autumn. → Mùa thu thời tiết mát mẻ.",
           "topicId": 16
         }
       },
@@ -17328,7 +17328,7 @@
         "type": "multiChoice",
         "value": {
           "id": 665,
-          "question": "Read and choose the correct answer.\nOnce upon a time, there was a hare and a tortoise. The hare could run fast. The tortoise was slow. They had a race. The hare slept a lot. The tortoise won the race.\n\nWhat could the hare do?",
+          "question": "Read and choose the correct answer.\n📖 Once upon a time, there was a hare and a tortoise. The hare could run fast. The tortoise was slow. They had a race. The hare slept a lot. The tortoise won the race.\n\n❓ What could the hare do?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17347,8 +17347,8 @@
         "value": {
           "id": 1353,
           "sentence": "be_ch",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/beach.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/beach.mp3",
           "answer": "a",
           "hint": "beach: bãi biển",
           "topicId": 20
@@ -17370,7 +17370,7 @@
           "scramble": [
             "the",
             "sunbathed",
-            "My",
+            "seven",
             "on",
             "beach.",
             "He"
@@ -17385,8 +17385,8 @@
         "value": {
           "id": 1182,
           "question": "Choose the missing letter.\nhot_l",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/hotel.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/hotel.mp3",
           "choices": [
             "A. e",
             "B. l",
@@ -17436,9 +17436,9 @@
             ""
           ],
           "imageNames": [
-            "do yoga",
-            "Dau Go Cave",
-            "drink a lot of water"
+            "How often does your mother do yoga?",
+            "How often does your mother do judo?",
+            "How often does your mother drink a lot of water?"
           ],
           "correctIndex": 2,
           "hint": "How often does your mother drink a lot of water? → Mẹ bạn uống nhiều nước thường xuyên thế nào?\n(Chữ cần chọn: drink a lot of water – uống nhiều nước)",
@@ -17478,7 +17478,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 640,
+          "id": 635,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -17502,7 +17502,7 @@
         "type": "multiChoice",
         "value": {
           "id": 546,
-          "question": "Excuse me. How can I get to Ho Chi Minh City Museum? – ___",
+          "question": "Choose the correct answer.\nA: Excuse me. How can I get to Ho Chi Minh City Museum?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17574,7 +17574,7 @@
         "type": "multiChoice",
         "value": {
           "id": 819,
-          "question": "Read and choose True or False.\nWe had a wonderful time at Tet. We made spring rolls. We decorated the house. We did the shopping. We also watched a fireworks show. I was very excited.\n\nThey made banh chung.",
+          "question": "Read and choose True or False.\n📖 We had a wonderful time at Tet. We made spring rolls. We decorated the house. We did the shopping. We also watched a fireworks show. I was very excited.\n\n👉 They made banh chung.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17591,8 +17591,8 @@
         "value": {
           "id": 310,
           "sentence": "sandwiche_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/sandwiches.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/sandwiches.mp3",
           "answer": "s",
           "hint": "sandwiches: bánh mì kẹp",
           "topicId": 13
@@ -17601,7 +17601,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 310,
+          "id": 308,
           "audioUrl": "",
           "question": "Kate tập yoga mỗi buổi sáng.",
           "correctAnswer": [
@@ -17694,8 +17694,8 @@
         "value": {
           "id": 1402,
           "question": "Choose the missing letter.\nn_ar",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/near.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/near.mp3",
           "choices": [
             "A. l",
             "B. v",
@@ -17722,7 +17722,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 898,
+          "id": 892,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -17844,7 +17844,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1282,
+          "id": 1273,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -17940,7 +17940,7 @@
             "D. play football"
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 Bài nghe: Bill: Where are you going to go this summer?\nMary: I am going to Ha Long Bay.\nBill: What are you going to do there?\nMary: I am going to play football.\n→ Bill: Mùa hè này bạn sẽ đi đâu?\nMary: Mình sẽ đến Vịnh Hạ Long.\nBill: Bạn sẽ làm gì ở đó?\nMary: Mình sẽ chơi bóng đá.\n✅ D. play football",
+          "hint": "🎧 Bài nghe: A: Where are you going to go this summer?\nB: I am going to Ha Long Bay.\nA: What are you going to do there?\nB: I am going to play football.\n→ A: Mùa hè này bạn sẽ đi đâu?\nB: Mình sẽ đến Vịnh Hạ Long.\nA: Bạn sẽ làm gì ở đó?\nB: Mình sẽ chơi bóng đá.\n✅ D. play football",
           "topicId": 20
         }
       },
@@ -17949,8 +17949,8 @@
         "value": {
           "id": 25,
           "sentence": "postcar_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/photos/postcard.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l5/audios/postcard.mp3",
           "answer": "d",
           "hint": "postcard: bưu thiếp",
           "topicId": 11
@@ -17959,7 +17959,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 155,
+          "id": 154,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -18040,9 +18040,9 @@
             ""
           ],
           "imageNames": [
-            "chips",
-            "cakes",
-            "cook"
+            "We'll have chips and sweets at the party.",
+            "We'll have cakes and sweets at the party.",
+            "We'll have mooncakes and sweets at the party."
           ],
           "correctIndex": 1,
           "hint": "We'll have cakes and sweets at the party. → Chúng mình sẽ có bánh ngọt và kẹo ở bữa tiệc.\n(Chữ cần chọn: cakes – bánh ngọt)",
@@ -18082,7 +18082,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1366,
+          "id": 1357,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -18102,7 +18102,7 @@
         "type": "multiChoice",
         "value": {
           "id": 656,
-          "question": "___ this? – It's a kitchen.",
+          "question": "Choose the correct answer.\nA: ___ this?\nB: It's a kitchen.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
