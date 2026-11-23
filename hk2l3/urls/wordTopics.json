@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "text": "Unit 11: My family",
+    "text": "My family",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit11.png",
     "scenes": [
       {
@@ -1008,7 +1008,7 @@
       {
         "id": 144,
         "word": "Lucy: Who's that girl?\nMary: That's my cousin. She's thirteen years old.",
-        "meaning": "Lucy: Cô bé kia là ai vậy?\nMary: Đó là chị họ mình. Chị ấy mười ba tuổi.",
+        "meaning": "Lucy: Bé gái kia là ai vậy?\nMary: Đó là chị họ mình. Chị ấy mười ba tuổi.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/lucywhosthatgirl\nmarythatsmycousinshesthirteenyearsold.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/lucywhosthatgirl\nmarythatsmycousinshesthirteenyearsold.mp3"
       },
@@ -2065,7 +2065,7 @@
       {
         "id": 295,
         "word": "The girl is running in the sun.",
-        "meaning": "Cô bé đang chạy dưới ánh nắng.",
+        "meaning": "Bé gái đang chạy dưới ánh nắng.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thegirlisrunninginthesun.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thegirlisrunninginthesun.mp3"
       },
@@ -2122,7 +2122,7 @@
   },
   {
     "id": 2,
-    "text": "Unit 12: Jobs",
+    "text": "Jobs",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit12.png",
     "scenes": [
       {
@@ -2226,28 +2226,28 @@
       {
         "id": 317,
         "word": "He's a teacher.",
-        "meaning": "Ông ấy là giáo viên.",
+        "meaning": "Anh ấy là giáo viên.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hesateacher.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/hesateacher.mp3"
       },
       {
         "id": 318,
         "word": "She's a doctor.",
-        "meaning": "Bà ấy là bác sĩ.",
+        "meaning": "Cô ấy là bác sĩ.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shesadoctor.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/shesadoctor.mp3"
       },
       {
         "id": 319,
         "word": "Is he a driver?",
-        "meaning": "Ông ấy có phải tài xế không?",
+        "meaning": "Anh ấy có phải tài xế không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/isheadriver.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/isheadriver.mp3"
       },
       {
         "id": 320,
         "word": "Is she a nurse?",
-        "meaning": "Bà ấy có phải y tá không?",
+        "meaning": "Cô ấy có phải y tá không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/issheanurse.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/issheanurse.mp3"
       },
@@ -2282,21 +2282,21 @@
       {
         "id": 325,
         "word": "What's his job? He's a teacher.",
-        "meaning": "Nghề của ông ấy là gì? Ông ấy là giáo viên.",
+        "meaning": "Nghề của anh ấy là gì? Anh ấy là giáo viên.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/whatshisjobhesateacher.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/whatshisjobhesateacher.mp3"
       },
       {
         "id": 326,
         "word": "She's a worker.",
-        "meaning": "Bà ấy là công nhân.",
+        "meaning": "Cô ấy là công nhân.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shesaworker.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/shesaworker.mp3"
       },
       {
         "id": 327,
         "word": "He's a driver.",
-        "meaning": "Ông ấy là tài xế.",
+        "meaning": "Anh ấy là tài xế.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hesadriver.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/hesadriver.mp3"
       },
@@ -2317,21 +2317,21 @@
       {
         "id": 330,
         "word": "Is he a driver? Yes, he is.",
-        "meaning": "Ông ấy có phải tài xế không? Vâng, đúng vậy.",
+        "meaning": "Anh ấy có phải tài xế không? Vâng, đúng vậy.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/isheadriveryesheis.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/isheadriveryesheis.mp3"
       },
       {
         "id": 331,
         "word": "Is she a cook?",
-        "meaning": "Bà ấy có phải đầu bếp không?",
+        "meaning": "Cô ấy có phải đầu bếp không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/issheacook.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/issheacook.mp3"
       },
       {
         "id": 332,
         "word": "Is he a singer?",
-        "meaning": "Ông ấy có phải ca sĩ không?",
+        "meaning": "Anh ấy có phải ca sĩ không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/isheasinger.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/isheasinger.mp3"
       },
@@ -2387,7 +2387,7 @@
       {
         "id": 340,
         "word": "He is a cook.",
-        "meaning": "Ông ấy là đầu bếp.",
+        "meaning": "Anh ấy là đầu bếp.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/heisacook.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/heisacook.mp3"
       },
@@ -2422,7 +2422,7 @@
       {
         "id": 345,
         "word": "She is a doctor.",
-        "meaning": "Bà ấy là bác sĩ.",
+        "meaning": "Cô ấy là bác sĩ.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sheisadoctor.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sheisadoctor.mp3"
       },
@@ -2464,7 +2464,7 @@
       {
         "id": 351,
         "word": "He is a driver.",
-        "meaning": "Ông ấy là tài xế.",
+        "meaning": "Anh ấy là tài xế.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/heisadriver.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/heisadriver.mp3"
       },
@@ -2506,7 +2506,7 @@
       {
         "id": 357,
         "word": "She is a farmer.",
-        "meaning": "Bà ấy là nông dân.",
+        "meaning": "Cô ấy là nông dân.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sheisafarmer.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sheisafarmer.mp3"
       },
@@ -2548,7 +2548,7 @@
       {
         "id": 363,
         "word": "He is a nurse.",
-        "meaning": "Ông ấy là y tá.",
+        "meaning": "Anh ấy là y tá.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/heisanurse.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/heisanurse.mp3"
       },
@@ -2590,7 +2590,7 @@
       {
         "id": 369,
         "word": "She is a singer.",
-        "meaning": "Bà ấy là ca sĩ.",
+        "meaning": "Cô ấy là ca sĩ.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sheisasinger.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sheisasinger.mp3"
       },
@@ -2632,7 +2632,7 @@
       {
         "id": 375,
         "word": "He is a teacher.",
-        "meaning": "Ông ấy là giáo viên.",
+        "meaning": "Anh ấy là giáo viên.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/heisateacher.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/heisateacher.mp3"
       },
@@ -2674,7 +2674,7 @@
       {
         "id": 381,
         "word": "She is a worker.",
-        "meaning": "Bà ấy là công nhân.",
+        "meaning": "Cô ấy là công nhân.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sheisaworker.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sheisaworker.mp3"
       },
@@ -3108,7 +3108,7 @@
       {
         "id": 443,
         "word": "No, she isn't. She's a farmer.",
-        "meaning": "Không phải. Bà ấy là nông dân.",
+        "meaning": "Không phải. Cô ấy là nông dân.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nosheisntshesafarmer.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/nosheisntshesafarmer.mp3"
       },
@@ -3122,7 +3122,7 @@
       {
         "id": 445,
         "word": "Is she a singer?",
-        "meaning": "Bà ấy có phải ca sĩ không?",
+        "meaning": "Cô ấy có phải ca sĩ không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/issheasinger.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/issheasinger.mp3"
       },
@@ -3164,7 +3164,7 @@
       {
         "id": 451,
         "word": "No, she isn't. She's a worker.",
-        "meaning": "Không phải. Bà ấy là công nhân.",
+        "meaning": "Không phải. Cô ấy là công nhân.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nosheisntshesaworker.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/nosheisntshesaworker.mp3"
       },
@@ -3402,7 +3402,7 @@
       {
         "id": 485,
         "word": "Is she a worker?",
-        "meaning": "Bà ấy có phải công nhân không?",
+        "meaning": "Cô ấy có phải công nhân không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/issheaworker.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/issheaworker.mp3"
       },
@@ -3444,7 +3444,7 @@
       {
         "id": 491,
         "word": "Is she a doctor?",
-        "meaning": "Bà ấy có phải bác sĩ không?",
+        "meaning": "Cô ấy có phải bác sĩ không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/issheadoctor.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/issheadoctor.mp3"
       },
@@ -3458,7 +3458,7 @@
       {
         "id": 493,
         "word": "He's a farmer. He's on the farm.",
-        "meaning": "Ông ấy là nông dân. Ông ấy đang ở nông trại.",
+        "meaning": "Anh ấy là nông dân. Anh ấy đang ở nông trại.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hesafarmerhesonthefarm.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/hesafarmerhesonthefarm.mp3"
       },
@@ -3472,7 +3472,7 @@
       {
         "id": 495,
         "word": "No, he isn't. He's a teacher.",
-        "meaning": "Không phải. Ông ấy là giáo viên.",
+        "meaning": "Không phải. Anh ấy là giáo viên.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/noheisnthesateacher.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/noheisnthesateacher.mp3"
       },
@@ -3507,7 +3507,7 @@
       {
         "id": 500,
         "word": "No, he isn't. He's a nurse.",
-        "meaning": "Không phải. Ông ấy là y tá.",
+        "meaning": "Không phải. Anh ấy là y tá.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/noheisnthesanurse.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/noheisnthesanurse.mp3"
       },
@@ -3570,7 +3570,7 @@
       {
         "id": 509,
         "word": "No, he isn't. He's a driver.",
-        "meaning": "Không phải. Ông ấy là tài xế.",
+        "meaning": "Không phải. Anh ấy là tài xế.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/noheisnthesadriver.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/noheisnthesadriver.mp3"
       },
@@ -3900,7 +3900,7 @@
   },
   {
     "id": 3,
-    "text": "Unit 13: My house",
+    "text": "My house",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit13.png",
     "scenes": [
       {
@@ -4641,21 +4641,21 @@
       {
         "id": 661,
         "word": "My school is over there",
-        "meaning": "Trường tôi ở đằng kia",
+        "meaning": "Trường mình ở đằng kia",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/myschoolisoverthere.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/myschoolisoverthere.mp3"
       },
       {
         "id": 662,
         "word": "My car is over there",
-        "meaning": "Xe ô tô của tôi ở đằng kia.",
+        "meaning": "Xe ô tô của mình ở đằng kia.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/mycarisoverthere.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/mycarisoverthere.mp3"
       },
       {
         "id": 663,
         "word": "Here is my book",
-        "meaning": "Đây là sách của tôi",
+        "meaning": "Đây là sách của mình",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hereismybook.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/hereismybook.mp3"
       },
@@ -4718,7 +4718,7 @@
       {
         "id": 672,
         "word": "Here is my book.",
-        "meaning": "Đây là quyển sách của tôi.",
+        "meaning": "Đây là quyển sách của mình.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hereismybook.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/hereismybook.mp3"
       },
@@ -4942,7 +4942,7 @@
       {
         "id": 704,
         "word": "No, he isn't. He's a cook.",
-        "meaning": "Không phải. Ông ấy là đầu bếp.",
+        "meaning": "Không phải. Anh ấy là đầu bếp.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/noheisnthesacook.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/noheisnthesacook.mp3"
       },
@@ -5089,7 +5089,7 @@
       {
         "id": 725,
         "word": "Is he a nurse?",
-        "meaning": "Ông ấy có phải y tá không?",
+        "meaning": "Anh ấy có phải y tá không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/isheanurse.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/isheanurse.mp3"
       },
@@ -5558,7 +5558,7 @@
       {
         "id": 792,
         "word": "The boy is running in the sun.",
-        "meaning": "Cậu bé đang chạy dưới ánh nắng.",
+        "meaning": "Bé trai đang chạy dưới ánh nắng.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/theboyisrunninginthesun.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theboyisrunninginthesun.mp3"
       },
@@ -5614,7 +5614,7 @@
       {
         "id": 800,
         "word": "There's a girl in the garden.",
-        "meaning": "Có một cô bé ở trong khu vườn.",
+        "meaning": "Có một bé gái ở trong khu vườn.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/theresagirlinthegarden.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theresagirlinthegarden.mp3"
       },
@@ -5685,7 +5685,7 @@
   },
   {
     "id": 4,
-    "text": "Unit 14: My bedroom",
+    "text": "My bedroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit14.png",
     "scenes": [
       {
@@ -6257,24 +6257,24 @@
       },
       {
         "id": 891,
-        "word": "six apples on the bed",
-        "meaning": "sáu quả táo ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixapplesonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixapplesonthebed.mp3"
+        "word": "six apples on the table",
+        "meaning": "sáu quả táo ở trên bàn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixapplesonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixapplesonthetable.mp3"
       },
       {
         "id": 892,
-        "word": "four cakes on the bed",
-        "meaning": "bốn cái bánh ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourcakesonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fourcakesonthebed.mp3"
+        "word": "four cakes on the table",
+        "meaning": "bốn cái bánh ở trên bàn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourcakesonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fourcakesonthetable.mp3"
       },
       {
         "id": 893,
-        "word": "six clocks on the bed",
-        "meaning": "sáu cái đồng hồ ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixclocksonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixclocksonthebed.mp3"
+        "word": "six clocks on the wall",
+        "meaning": "sáu cái đồng hồ ở trên tường",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixclocksonthewall.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixclocksonthewall.mp3"
       },
       {
         "id": 894,
@@ -6306,17 +6306,17 @@
       },
       {
         "id": 898,
-        "word": "four tents on the bed",
-        "meaning": "bốn cái lều ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourtentsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fourtentsonthebed.mp3"
+        "word": "four tents in the park",
+        "meaning": "bốn cái lều trong công viên",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourtentsinthepark.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fourtentsinthepark.mp3"
       },
       {
         "id": 899,
-        "word": "five lemons on the bed",
-        "meaning": "năm quả chanh ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivelemonsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fivelemonsonthebed.mp3"
+        "word": "five lemons on the table",
+        "meaning": "năm quả chanh ở trên bàn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivelemonsonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fivelemonsonthetable.mp3"
       },
       {
         "id": 900,
@@ -6328,21 +6328,21 @@
       {
         "id": 901,
         "word": "The boy is behind the box",
-        "meaning": "Cậu bé đang ở sau cái hộp",
+        "meaning": "Bé trai đang ở sau cái hộp",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/theboyisbehindthebox.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theboyisbehindthebox.mp3"
       },
       {
         "id": 902,
         "word": "The boy is on the box",
-        "meaning": "Cậu bé ở trên cái hộp.",
+        "meaning": "Bé trai ở trên cái hộp.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/theboyisonthebox.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theboyisonthebox.mp3"
       },
       {
         "id": 903,
         "word": "The boy is in front of the box",
-        "meaning": "Cậu bé đang ở trước cái hộp",
+        "meaning": "Bé trai đang ở trước cái hộp",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/theboyisinfrontofthebox.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theboyisinfrontofthebox.mp3"
       },
@@ -6369,10 +6369,10 @@
       },
       {
         "id": 907,
-        "word": "five bananas on the bed",
-        "meaning": "năm quả chuối ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivebananasonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fivebananasonthebed.mp3"
+        "word": "five bananas on the table",
+        "meaning": "năm quả chuối ở trên bàn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivebananasonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fivebananasonthetable.mp3"
       },
       {
         "id": 908,
@@ -6383,24 +6383,24 @@
       },
       {
         "id": 909,
-        "word": "three kites on the bed",
-        "meaning": "ba cái diều ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threekitesonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/threekitesonthebed.mp3"
+        "word": "three kites in the sky",
+        "meaning": "ba cái diều trên bầu trời",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threekitesinthesky.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/threekitesinthesky.mp3"
       },
       {
         "id": 910,
-        "word": "four goats on the bed",
-        "meaning": "bốn con dê ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourgoatsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fourgoatsonthebed.mp3"
+        "word": "four goats in the garden",
+        "meaning": "bốn con dê trong khu vườn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourgoatsinthegarden.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fourgoatsinthegarden.mp3"
       },
       {
         "id": 911,
-        "word": "six cups on the bed",
-        "meaning": "sáu cái cốc ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixcupsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixcupsonthebed.mp3"
+        "word": "six cups on the table",
+        "meaning": "sáu cái cốc ở trên bàn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixcupsonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixcupsonthetable.mp3"
       },
       {
         "id": 912,
@@ -6425,10 +6425,10 @@
       },
       {
         "id": 915,
-        "word": "three yo-yos on the bed",
-        "meaning": "ba cái yo-yo ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threeyo-yosonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/threeyo-yosonthebed.mp3"
+        "word": "three yo-yos on the desk",
+        "meaning": "ba cái yo-yo ở trên bàn học",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threeyo-yosonthedesk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/threeyo-yosonthedesk.mp3"
       },
       {
         "id": 916,
@@ -6453,10 +6453,10 @@
       },
       {
         "id": 919,
-        "word": "four bells on the bed",
-        "meaning": "bốn cái chuông ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourbellsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fourbellsonthebed.mp3"
+        "word": "four bells on the desk",
+        "meaning": "bốn cái chuông ở trên bàn học",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourbellsonthedesk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fourbellsonthedesk.mp3"
       },
       {
         "id": 920,
@@ -6495,17 +6495,17 @@
       },
       {
         "id": 925,
-        "word": "five mangoes on the bed",
-        "meaning": "năm quả xoài ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivemangoesonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fivemangoesonthebed.mp3"
+        "word": "five mangoes on the table",
+        "meaning": "năm quả xoài ở trên bàn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivemangoesonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fivemangoesonthetable.mp3"
       },
       {
         "id": 926,
-        "word": "two teapots on the bed",
-        "meaning": "hai ấm trà ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twoteapotsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/twoteapotsonthebed.mp3"
+        "word": "two teapots on the table",
+        "meaning": "hai ấm trà ở trên bàn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twoteapotsonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/twoteapotsonthetable.mp3"
       },
       {
         "id": 927,
@@ -6566,7 +6566,7 @@
       {
         "id": 935,
         "word": "The boy is on the box.",
-        "meaning": "Cậu bé ở trên cái hộp.",
+        "meaning": "Bé trai ở trên cái hộp.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/theboyisonthebox.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theboyisonthebox.mp3"
       },
@@ -6600,24 +6600,24 @@
       },
       {
         "id": 940,
-        "word": "There are four cakes on the bed.",
-        "meaning": "Có bốn cái bánh ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefourcakesonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefourcakesonthebed.mp3"
+        "word": "There are four cakes on the table.",
+        "meaning": "Có bốn cái bánh ở trên bàn.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefourcakesonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefourcakesonthetable.mp3"
       },
       {
         "id": 941,
-        "word": "There are six apples on the bed.",
-        "meaning": "Có sáu quả táo ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearesixapplesonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearesixapplesonthebed.mp3"
+        "word": "There are six apples on the table.",
+        "meaning": "Có sáu quả táo ở trên bàn.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearesixapplesonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearesixapplesonthetable.mp3"
       },
       {
         "id": 942,
-        "word": "There are four goats on the bed.",
-        "meaning": "Có bốn con dê ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefourgoatsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefourgoatsonthebed.mp3"
+        "word": "There are four goats in the garden.",
+        "meaning": "Có bốn con dê trong khu vườn.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefourgoatsinthegarden.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefourgoatsinthegarden.mp3"
       },
       {
         "id": 943,
@@ -6628,17 +6628,17 @@
       },
       {
         "id": 944,
-        "word": "There are six cups on the bed.",
-        "meaning": "Có sáu cái cốc ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearesixcupsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearesixcupsonthebed.mp3"
+        "word": "There are six cups on the table.",
+        "meaning": "Có sáu cái cốc ở trên bàn.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearesixcupsonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearesixcupsonthetable.mp3"
       },
       {
         "id": 945,
-        "word": "There are six ducks on the bed.",
-        "meaning": "Có sáu con vịt ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearesixducksonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearesixducksonthebed.mp3"
+        "word": "There are six ducks in the garden.",
+        "meaning": "Có sáu con vịt trong khu vườn.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearesixducksinthegarden.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearesixducksinthegarden.mp3"
       },
       {
         "id": 946,
@@ -6670,10 +6670,10 @@
       },
       {
         "id": 950,
-        "word": "There are six clocks on the bed.",
-        "meaning": "Có sáu cái đồng hồ ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearesixclocksonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearesixclocksonthebed.mp3"
+        "word": "There are six clocks on the wall.",
+        "meaning": "Có sáu cái đồng hồ ở trên tường.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearesixclocksonthewall.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearesixclocksonthewall.mp3"
       },
       {
         "id": 951,
@@ -6691,10 +6691,10 @@
       },
       {
         "id": 953,
-        "word": "There are four bells on the bed.",
-        "meaning": "Có bốn cái chuông ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefourbellsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefourbellsonthebed.mp3"
+        "word": "There are four bells on the desk.",
+        "meaning": "Có bốn cái chuông ở trên bàn học.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefourbellsonthedesk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefourbellsonthedesk.mp3"
       },
       {
         "id": 954,
@@ -6705,10 +6705,10 @@
       },
       {
         "id": 955,
-        "word": "There are five bananas on the bed.",
-        "meaning": "Có năm quả chuối ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefivebananasonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefivebananasonthebed.mp3"
+        "word": "There are five bananas on the table.",
+        "meaning": "Có năm quả chuối ở trên bàn.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefivebananasonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefivebananasonthetable.mp3"
       },
       {
         "id": 956,
@@ -6726,10 +6726,10 @@
       },
       {
         "id": 958,
-        "word": "There are four tents on the bed.",
-        "meaning": "Có bốn cái lều ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefourtentsonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefourtentsonthebed.mp3"
+        "word": "There are four tents in the park.",
+        "meaning": "Có bốn cái lều trong công viên.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearefourtentsinthepark.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearefourtentsinthepark.mp3"
       },
       {
         "id": 959,
@@ -6978,10 +6978,10 @@
       },
       {
         "id": 994,
-        "word": "There are three kites on the bed.",
-        "meaning": "Có ba cái diều ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearethreekitesonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearethreekitesonthebed.mp3"
+        "word": "There are three kites in the sky.",
+        "meaning": "Có ba cái diều trên bầu trời.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearethreekitesinthesky.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearethreekitesinthesky.mp3"
       },
       {
         "id": 995,
@@ -7125,10 +7125,10 @@
       },
       {
         "id": 1015,
-        "word": "There are three yo-yos on the bed.",
-        "meaning": "Có ba cái yo-yo ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearethreeyo-yosonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearethreeyo-yosonthebed.mp3"
+        "word": "There are three yo-yos on the desk.",
+        "meaning": "Có ba cái yo-yo ở trên bàn học.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/therearethreeyo-yosonthedesk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/therearethreeyo-yosonthedesk.mp3"
       },
       {
         "id": 1016,
@@ -7174,10 +7174,10 @@
       },
       {
         "id": 1022,
-        "word": "The computer is on the bed.",
-        "meaning": "Máy tính ở trên giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thecomputerisonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thecomputerisonthebed.mp3"
+        "word": "The computer is on the desk.",
+        "meaning": "Máy tính ở trên bàn học.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thecomputerisonthedesk.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thecomputerisonthedesk.mp3"
       },
       {
         "id": 1023,
@@ -7512,7 +7512,7 @@
   },
   {
     "id": 5,
-    "text": "Unit 15: At the dining table",
+    "text": "At the dining table",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit15.png",
     "scenes": [
       {
@@ -8322,10 +8322,10 @@
       },
       {
         "id": 1185,
-        "word": "six ducks on the bed",
-        "meaning": "sáu con vịt ở trên giường",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixducksonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixducksonthebed.mp3"
+        "word": "six ducks in the garden",
+        "meaning": "sáu con vịt trong khu vườn",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixducksinthegarden.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixducksinthegarden.mp3"
       },
       {
         "id": 1186,
@@ -8973,10 +8973,10 @@
       },
       {
         "id": 1278,
-        "word": "The cake is on the bed.",
-        "meaning": "Cái bánh ở trên cái giường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thecakeisonthebed.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thecakeisonthebed.mp3"
+        "word": "The cake is on the table.",
+        "meaning": "Cái bánh ở trên bàn.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thecakeisonthetable.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thecakeisonthetable.mp3"
       },
       {
         "id": 1279,
@@ -9106,10 +9106,10 @@
       },
       {
         "id": 1297,
-        "word": "It's a soup.",
+        "word": "It's soup.",
         "meaning": "Đó là món súp.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/itsasoup.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/itsasoup.mp3"
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/itssoup.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/itssoup.mp3"
       },
       {
         "id": 1298,
@@ -9198,7 +9198,7 @@
       {
         "id": 1310,
         "word": "There's a girl near the lake.",
-        "meaning": "Có một cô bé ở gần cái hồ.",
+        "meaning": "Có một bé gái ở gần cái hồ.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/theresagirlnearthelake.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theresagirlnearthelake.mp3"
       },
@@ -9318,7 +9318,7 @@
   },
   {
     "id": 6,
-    "text": "Unit 16: My pets",
+    "text": "My pets",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit16.png",
     "scenes": [
       {
@@ -9968,7 +9968,7 @@
       {
         "id": 1419,
         "word": "I have some apples",
-        "meaning": "Tôi có một ít quả táo.",
+        "meaning": "Mình có một ít quả táo.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/ihavesomeapples.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/ihavesomeapples.mp3"
       },
@@ -10171,14 +10171,14 @@
       {
         "id": 1448,
         "word": "I have many apples.",
-        "meaning": "Tôi có nhiều quả táo.",
+        "meaning": "Mình có nhiều quả táo.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/ihavemanyapples.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/ihavemanyapples.mp3"
       },
       {
         "id": 1449,
         "word": "I have some apples.",
-        "meaning": "Tôi có một ít quả táo.",
+        "meaning": "Mình có một ít quả táo.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/ihavesomeapples.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/ihavesomeapples.mp3"
       },
@@ -11312,7 +11312,7 @@
       {
         "id": 1611,
         "word": "There's a girl.",
-        "meaning": "Có một cô bé.",
+        "meaning": "Có một bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/theresagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theresagirl.mp3"
       },
@@ -11341,7 +11341,7 @@
   },
   {
     "id": 7,
-    "text": "Unit 17: Our toys",
+    "text": "Our toys",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit17.png",
     "scenes": [
       {
@@ -12908,7 +12908,7 @@
       {
         "id": 1838,
         "word": "No, she isn't. She's a doctor.",
-        "meaning": "Không phải. Bà ấy là bác sĩ.",
+        "meaning": "Không phải. Cô ấy là bác sĩ.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nosheisntshesadoctor.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/nosheisntshesadoctor.mp3"
       },
@@ -13497,7 +13497,7 @@
   },
   {
     "id": 8,
-    "text": "Unit 18: Playing and doing",
+    "text": "Playing and doing",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit18.png",
     "scenes": [
       {
@@ -14161,7 +14161,7 @@
       {
         "id": 2016,
         "word": "The girl is on the swing",
-        "meaning": "Cô bé đang ở trên xích đu",
+        "meaning": "Bé gái đang ở trên xích đu",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thegirlisontheswing.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thegirlisontheswing.mp3"
       },
@@ -15303,7 +15303,7 @@
   },
   {
     "id": 9,
-    "text": "Unit 19: Outdoor activities",
+    "text": "Outdoor activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit19.png",
     "scenes": [
       {
@@ -16982,7 +16982,7 @@
       {
         "id": 2418,
         "word": "No, she isn't. She's a singer.",
-        "meaning": "Không phải. Bà ấy là ca sĩ.",
+        "meaning": "Không phải. Cô ấy là ca sĩ.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nosheisntshesasinger.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/nosheisntshesasinger.mp3"
       },
@@ -17220,7 +17220,7 @@
       {
         "id": 2452,
         "word": "Look at the girl.",
-        "meaning": "Hãy nhìn cô bé.",
+        "meaning": "Hãy nhìn bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/lookatthegirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/lookatthegirl.mp3"
       },
@@ -17270,7 +17270,7 @@
   },
   {
     "id": 10,
-    "text": "Unit 20: At the zoo",
+    "text": "At the zoo",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit20.png",
     "scenes": [
       {
@@ -18431,7 +18431,7 @@
       {
         "id": 2624,
         "word": "This is my garden. There's a girl.",
-        "meaning": "Đây là khu vườn của mình. Có một cô bé.",
+        "meaning": "Đây là khu vườn của mình. Có một bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thisismygardentheresagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thisismygardentheresagirl.mp3"
       },

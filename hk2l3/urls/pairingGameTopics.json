@@ -1,7 +1,7 @@
 [
   {
     "id": 11,
-    "text": " My family",
+    "text": "My family",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit11.png",
     "scenes": [
       {
@@ -144,19 +144,19 @@
             "vi": "ông nội/ông ngoại"
           },
           {
-            "en": "mother",
-            "vi": "mẹ"
+            "en": "blanket",
+            "vi": "cái chăn"
           },
           {
-            "en": "father",
-            "vi": "bố"
+            "en": "daughter",
+            "vi": "con gái"
           },
           {
             "en": "grandmother",
             "vi": "bà nội/bà ngoại"
           }
         ],
-        "hint": "grandfather - ông nội/ông ngoại\nmother - mẹ\nfather - bố\ngrandmother - bà nội/bà ngoại"
+        "hint": "grandfather - ông nội/ông ngoại\nblanket - cái chăn\ndaughter - con gái\ngrandmother - bà nội/bà ngoại"
       },
       {
         "id": 8,
@@ -184,8 +184,8 @@
         "id": 9,
         "title": [
           {
-            "en": "parents",
-            "vi": "bố mẹ"
+            "en": "head",
+            "vi": "cái đầu"
           },
           {
             "en": "son",
@@ -200,7 +200,7 @@
             "vi": "con gái"
           }
         ],
-        "hint": "parents - bố mẹ\nson - con trai\ngrandparents - ông bà\ndaughter - con gái"
+        "hint": "head - cái đầu\nson - con trai\ngrandparents - ông bà\ndaughter - con gái"
       },
       {
         "id": 10,
@@ -1912,11 +1912,11 @@
             "vi": "Ông của mình có bảy cái chuông."
           },
           {
-            "en": "This is my father. He's thirteen years old.",
-            "vi": "Đây là bố của mình. Bố mười ba tuổi."
+            "en": "This is my brother. He's thirteen years old.",
+            "vi": "Đây là anh/em trai của mình. Anh ấy mười ba tuổi."
           }
         ],
-        "hint": "This is my brother. - Đây là anh/em trai của mình.\nI'm Linh. I'm nine years old. - Mình là Linh. Mình chín tuổi.\nMy grandfather has seven bells. - Ông của mình có bảy cái chuông.\nThis is my father. He's thirteen years old. - Đây là bố của mình. Bố mười ba tuổi."
+        "hint": "This is my brother. - Đây là anh/em trai của mình.\nI'm Linh. I'm nine years old. - Mình là Linh. Mình chín tuổi.\nMy grandfather has seven bells. - Ông của mình có bảy cái chuông.\nThis is my brother. He's thirteen years old. - Đây là anh/em trai của mình. Anh ấy mười ba tuổi."
       },
       {
         "id": 88,
@@ -2190,8 +2190,8 @@
             "vi": "Mai đang ở phòng máy tính. Cô ấy có quả xoài."
           },
           {
-            "en": "This is my father. He's thirteen years old.",
-            "vi": "Đây là bố của mình. Bố mười ba tuổi."
+            "en": "This is my brother. He's thirteen years old.",
+            "vi": "Đây là anh/em trai của mình. Anh ấy mười ba tuổi."
           },
           {
             "en": "My grandmother has sixteen cups.",
@@ -2202,7 +2202,7 @@
             "vi": "Kia là ai? Đó là bố của mình."
           }
         ],
-        "hint": "Mai is in the computer room. She has a mango. - Mai đang ở phòng máy tính. Cô ấy có quả xoài.\nThis is my father. He's thirteen years old. - Đây là bố của mình. Bố mười ba tuổi.\nMy grandmother has sixteen cups. - Bà của mình có mười sáu cái cốc.\nWho's that? It's my father. - Kia là ai? Đó là bố của mình."
+        "hint": "Mai is in the computer room. She has a mango. - Mai đang ở phòng máy tính. Cô ấy có quả xoài.\nThis is my brother. He's thirteen years old. - Đây là anh/em trai của mình. Anh ấy mười ba tuổi.\nMy grandmother has sixteen cups. - Bà của mình có mười sáu cái cốc.\nWho's that? It's my father. - Kia là ai? Đó là bố của mình."
       },
       {
         "id": 101,
@@ -2437,14 +2437,14 @@
           },
           {
             "en": "Look! There's a girl.",
-            "vi": "Nhìn kìa! Có một cô bé."
+            "vi": "Nhìn kìa! Có một bé gái."
           },
           {
             "en": "Look! I can see a teddy bear.",
             "vi": "Nhìn này! Mình nhìn thấy một con gấu bông."
           }
         ],
-        "hint": "This is my baby brother. - Đây là em trai nhỏ của mình.\nHe's in the backyard. He's flying a kite. - Cậu ấy ở sân sau. Cậu ấy đang thả diều.\nLook! There's a girl. - Nhìn kìa! Có một cô bé.\nLook! I can see a teddy bear. - Nhìn này! Mình nhìn thấy một con gấu bông."
+        "hint": "This is my baby brother. - Đây là em trai nhỏ của mình.\nHe's in the backyard. He's flying a kite. - Cậu ấy ở sân sau. Cậu ấy đang thả diều.\nLook! There's a girl. - Nhìn kìa! Có một bé gái.\nLook! I can see a teddy bear. - Nhìn này! Mình nhìn thấy một con gấu bông."
       },
       {
         "id": 112,
@@ -2683,10 +2683,10 @@
           },
           {
             "en": "Look at the girl.",
-            "vi": "Hãy nhìn cô bé."
+            "vi": "Hãy nhìn bé gái."
           }
         ],
-        "hint": "It's my cousin. - Đó là anh/chị/em họ của mình.\nShe's running in the sun. - Cô ấy đang chạy dưới ánh nắng.\nMy father has eight clocks. - Bố của mình có tám cái đồng hồ.\nLook at the girl. - Hãy nhìn cô bé."
+        "hint": "It's my cousin. - Đó là anh/chị/em họ của mình.\nShe's running in the sun. - Cô ấy đang chạy dưới ánh nắng.\nMy father has eight clocks. - Bố của mình có tám cái đồng hồ.\nLook at the girl. - Hãy nhìn bé gái."
       },
       {
         "id": 123,
@@ -2737,7 +2737,7 @@
         "title": [
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           },
           {
             "en": "Nam's having nuts today.",
@@ -2752,7 +2752,7 @@
             "vi": "Bà của mình có mười bốn cái lều."
           }
         ],
-        "hint": "The boy is running. - Cậu bé đang chạy.\nNam's having nuts today. - Hôm nay Nam ăn hạt lạc.\nIt's a pen. - Đó là một cái bút mực.\nMy grandmother has fourteen tents. - Bà của mình có mười bốn cái lều."
+        "hint": "The boy is running. - Bé trai đang chạy.\nNam's having nuts today. - Hôm nay Nam ăn hạt lạc.\nIt's a pen. - Đó là một cái bút mực.\nMy grandmother has fourteen tents. - Bà của mình có mười bốn cái lều."
       },
       {
         "id": 126,
@@ -2917,18 +2917,18 @@
           },
           {
             "en": "Look at the boy. He's running.",
-            "vi": "Hãy nhìn cậu bé. Cậu bé đang chạy."
+            "vi": "Hãy nhìn bé trai. Bé trai đang chạy."
           },
           {
             "en": "I'm Mary. I'm eight years old.",
             "vi": "Mình là Mary. Mình tám tuổi."
           },
           {
-            "en": "This is my mother. She's fifteen years old.",
-            "vi": "Đây là mẹ của mình. Mẹ mười lăm tuổi."
+            "en": "This is my sister. She's fifteen years old.",
+            "vi": "Đây là chị/em gái của mình. Chị ấy mười lăm tuổi."
           }
         ],
-        "hint": "This is Mary. She has five yo-yos. - Đây là Mary. Cô ấy có năm cái yo-yo.\nLook at the boy. He's running. - Hãy nhìn cậu bé. Cậu bé đang chạy.\nI'm Mary. I'm eight years old. - Mình là Mary. Mình tám tuổi.\nThis is my mother. She's fifteen years old. - Đây là mẹ của mình. Mẹ mười lăm tuổi."
+        "hint": "This is Mary. She has five yo-yos. - Đây là Mary. Cô ấy có năm cái yo-yo.\nLook at the boy. He's running. - Hãy nhìn bé trai. Bé trai đang chạy.\nI'm Mary. I'm eight years old. - Mình là Mary. Mình tám tuổi.\nThis is my sister. She's fifteen years old. - Đây là chị/em gái của mình. Chị ấy mười lăm tuổi."
       },
       {
         "id": 134,
@@ -3027,7 +3027,7 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           },
           {
             "en": "My brother has two cups.",
@@ -3038,7 +3038,7 @@
             "vi": "Mary bốn tuổi. Cô ấy có mèo con."
           }
         ],
-        "hint": "Let's look at the sea and the sand! - Chúng ta hãy nhìn biển và bãi cát nào!\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng.\nMy brother has two cups. - Anh/em trai của mình có hai cái cốc.\nMary is four years old. She has a kitten. - Mary bốn tuổi. Cô ấy có mèo con."
+        "hint": "Let's look at the sea and the sand! - Chúng ta hãy nhìn biển và bãi cát nào!\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng.\nMy brother has two cups. - Anh/em trai của mình có hai cái cốc.\nMary is four years old. She has a kitten. - Mary bốn tuổi. Cô ấy có mèo con."
       },
       {
         "id": 139,
@@ -3308,7 +3308,7 @@
   },
   {
     "id": 12,
-    "text": " Jobs",
+    "text": "Jobs",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit12.png",
     "scenes": [
       {
@@ -3540,18 +3540,18 @@
           },
           {
             "en": "Is she a doctor?",
-            "vi": "Bà ấy có phải bác sĩ không?"
+            "vi": "Cô ấy có phải bác sĩ không?"
           },
           {
             "en": "No, he isn't. He's a cook.",
-            "vi": "Không phải. Ông ấy là đầu bếp."
+            "vi": "Không phải. Anh ấy là đầu bếp."
           },
           {
             "en": "What's his job?",
             "vi": "Nghề của ông ấy là gì?"
           }
         ],
-        "hint": "Is he a teacher? - Ông ấy có phải giáo viên không?\nIs she a doctor? - Bà ấy có phải bác sĩ không?\nNo, he isn't. He's a cook. - Không phải. Ông ấy là đầu bếp.\nWhat's his job? - Nghề của ông ấy là gì?"
+        "hint": "Is he a teacher? - Ông ấy có phải giáo viên không?\nIs she a doctor? - Cô ấy có phải bác sĩ không?\nNo, he isn't. He's a cook. - Không phải. Anh ấy là đầu bếp.\nWhat's his job? - Nghề của ông ấy là gì?"
       },
       {
         "id": 162,
@@ -3646,7 +3646,7 @@
         "title": [
           {
             "en": "No, she isn't. She's a doctor.",
-            "vi": "Không phải. Bà ấy là bác sĩ."
+            "vi": "Không phải. Cô ấy là bác sĩ."
           },
           {
             "en": "Yes, he is.",
@@ -3658,10 +3658,10 @@
           },
           {
             "en": "Is he a driver?",
-            "vi": "Ông ấy có phải tài xế không?"
+            "vi": "Anh ấy có phải tài xế không?"
           }
         ],
-        "hint": "No, she isn't. She's a doctor. - Không phải. Bà ấy là bác sĩ.\nYes, he is. - Vâng, đúng vậy.\nWhat's your brother's job? - Nghề của anh/em trai bạn là gì?\nIs he a driver? - Ông ấy có phải tài xế không?"
+        "hint": "No, she isn't. She's a doctor. - Không phải. Cô ấy là bác sĩ.\nYes, he is. - Vâng, đúng vậy.\nWhat's your brother's job? - Nghề của anh/em trai bạn là gì?\nIs he a driver? - Anh ấy có phải tài xế không?"
       },
       {
         "id": 167,
@@ -3716,18 +3716,18 @@
           },
           {
             "en": "Is he a driver?",
-            "vi": "Ông ấy có phải tài xế không?"
+            "vi": "Anh ấy có phải tài xế không?"
           },
           {
             "en": "Is she a singer?",
-            "vi": "Bà ấy có phải ca sĩ không?"
+            "vi": "Cô ấy có phải ca sĩ không?"
           },
           {
             "en": "No, she isn't. She's a doctor.",
-            "vi": "Không phải. Bà ấy là bác sĩ."
+            "vi": "Không phải. Cô ấy là bác sĩ."
           }
         ],
-        "hint": "He's a policeman. - Chú ấy là chú cảnh sát.\nIs he a driver? - Ông ấy có phải tài xế không?\nIs she a singer? - Bà ấy có phải ca sĩ không?\nNo, she isn't. She's a doctor. - Không phải. Bà ấy là bác sĩ."
+        "hint": "He's a policeman. - Chú ấy là chú cảnh sát.\nIs he a driver? - Anh ấy có phải tài xế không?\nIs she a singer? - Cô ấy có phải ca sĩ không?\nNo, she isn't. She's a doctor. - Không phải. Cô ấy là bác sĩ."
       },
       {
         "id": 170,
@@ -3856,10 +3856,10 @@
           },
           {
             "en": "Is he a driver?",
-            "vi": "Ông ấy có phải tài xế không?"
+            "vi": "Anh ấy có phải tài xế không?"
           }
         ],
-        "hint": "He's a waiter. - Chú ấy là người phục vụ.\nNo, he isn't. He's a nurse. - Không phải. Anh ấy là y tá.\nYes, he is. - Vâng, đúng vậy.\nIs he a driver? - Ông ấy có phải tài xế không?"
+        "hint": "He's a waiter. - Chú ấy là người phục vụ.\nNo, he isn't. He's a nurse. - Không phải. Anh ấy là y tá.\nYes, he is. - Vâng, đúng vậy.\nIs he a driver? - Anh ấy có phải tài xế không?"
       },
       {
         "id": 176,
@@ -3874,14 +3874,14 @@
           },
           {
             "en": "Is she a worker?",
-            "vi": "Bà ấy có phải công nhân không?"
+            "vi": "Cô ấy có phải công nhân không?"
           },
           {
             "en": "What's his job?",
             "vi": "Nghề của anh ấy là gì?"
           }
         ],
-        "hint": "My grandmother is a singer. - Bà mình là ca sĩ.\nWhat's your mother's job? - Nghề của mẹ bạn là gì?\nIs she a worker? - Bà ấy có phải công nhân không?\nWhat's his job? - Nghề của anh ấy là gì?"
+        "hint": "My grandmother is a singer. - Bà mình là ca sĩ.\nWhat's your mother's job? - Nghề của mẹ bạn là gì?\nIs she a worker? - Cô ấy có phải công nhân không?\nWhat's his job? - Nghề của anh ấy là gì?"
       },
       {
         "id": 177,
@@ -3944,10 +3944,10 @@
           },
           {
             "en": "She is a farmer.",
-            "vi": "Bà ấy là nông dân."
+            "vi": "Cô ấy là nông dân."
           }
         ],
-        "hint": "The school bag is black. - Cặp sách màu đen.\nMy sister is a nurse. - Chị/em gái của mình là y tá.\nThis is the office. - Đây là văn phòng.\nShe is a farmer. - Bà ấy là nông dân."
+        "hint": "The school bag is black. - Cặp sách màu đen.\nMy sister is a nurse. - Chị/em gái của mình là y tá.\nThis is the office. - Đây là văn phòng.\nShe is a farmer. - Cô ấy là nông dân."
       },
       {
         "id": 180,
@@ -3962,14 +3962,14 @@
           },
           {
             "en": "Is he a driver?",
-            "vi": "Ông ấy có phải tài xế không?"
+            "vi": "Anh ấy có phải tài xế không?"
           },
           {
             "en": "He's a policeman.",
             "vi": "Chú ấy là chú cảnh sát."
           }
         ],
-        "hint": "No, she isn't. - Không phải.\nHe's a driver. - Anh ấy là tài xế.\nIs he a driver? - Ông ấy có phải tài xế không?\nHe's a policeman. - Chú ấy là chú cảnh sát."
+        "hint": "No, she isn't. - Không phải.\nHe's a driver. - Anh ấy là tài xế.\nIs he a driver? - Anh ấy có phải tài xế không?\nHe's a policeman. - Chú ấy là chú cảnh sát."
       },
       {
         "id": 181,
@@ -4112,18 +4112,18 @@
           },
           {
             "en": "He's a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "No, she isn't. She's a farmer.",
-            "vi": "Không phải. Bà ấy là nông dân."
+            "vi": "Không phải. Cô ấy là nông dân."
           },
           {
             "en": "What's his job?",
             "vi": "Nghề của anh ấy là gì?"
           }
         ],
-        "hint": "He's a dentist. - Chú ấy là nha sĩ.\nHe's a teacher. - Ông ấy là giáo viên.\nNo, she isn't. She's a farmer. - Không phải. Bà ấy là nông dân.\nWhat's his job? - Nghề của anh ấy là gì?"
+        "hint": "He's a dentist. - Chú ấy là nha sĩ.\nHe's a teacher. - Anh ấy là giáo viên.\nNo, she isn't. She's a farmer. - Không phải. Cô ấy là nông dân.\nWhat's his job? - Nghề của anh ấy là gì?"
       },
       {
         "id": 188,
@@ -4152,7 +4152,7 @@
         "title": [
           {
             "en": "No, he isn't. He's a driver.",
-            "vi": "Không phải. Ông ấy là tài xế."
+            "vi": "Không phải. Anh ấy là tài xế."
           },
           {
             "en": "Yes, he is.",
@@ -4167,7 +4167,7 @@
             "vi": "Nghề của cô ấy là gì?"
           }
         ],
-        "hint": "No, he isn't. He's a driver. - Không phải. Ông ấy là tài xế.\nYes, he is. - Vâng, đúng vậy.\nShe's an artist. - Cô ấy là họa sĩ.\nWhat's her job? - Nghề của cô ấy là gì?"
+        "hint": "No, he isn't. He's a driver. - Không phải. Anh ấy là tài xế.\nYes, he is. - Vâng, đúng vậy.\nShe's an artist. - Cô ấy là họa sĩ.\nWhat's her job? - Nghề của cô ấy là gì?"
       },
       {
         "id": 190,
@@ -4218,7 +4218,7 @@
         "title": [
           {
             "en": "No, she isn't. She's a worker.",
-            "vi": "Không phải. Bà ấy là công nhân."
+            "vi": "Không phải. Cô ấy là công nhân."
           },
           {
             "en": "What's her job?",
@@ -4226,14 +4226,14 @@
           },
           {
             "en": "Is she a worker?",
-            "vi": "Bà ấy có phải công nhân không?"
+            "vi": "Cô ấy có phải công nhân không?"
           },
           {
             "en": "What's his job?",
             "vi": "Nghề của anh ấy là gì?"
           }
         ],
-        "hint": "No, she isn't. She's a worker. - Không phải. Bà ấy là công nhân.\nWhat's her job? - Cô ấy làm nghề gì?\nIs she a worker? - Bà ấy có phải công nhân không?\nWhat's his job? - Nghề của anh ấy là gì?"
+        "hint": "No, she isn't. She's a worker. - Không phải. Cô ấy là công nhân.\nWhat's her job? - Cô ấy làm nghề gì?\nIs she a worker? - Cô ấy có phải công nhân không?\nWhat's his job? - Nghề của anh ấy là gì?"
       },
       {
         "id": 193,
@@ -4266,7 +4266,7 @@
           },
           {
             "en": "He's a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "He's an engineer.",
@@ -4277,7 +4277,7 @@
             "vi": "Chú ấy làm nghề gì?"
           }
         ],
-        "hint": "What's your father's job? - Nghề của bố bạn là gì?\nHe's a teacher. - Ông ấy là giáo viên.\nHe's an engineer. - Chú ấy là kĩ sư.\nWhat's his job? - Chú ấy làm nghề gì?"
+        "hint": "What's your father's job? - Nghề của bố bạn là gì?\nHe's a teacher. - Anh ấy là giáo viên.\nHe's an engineer. - Chú ấy là kĩ sư.\nWhat's his job? - Chú ấy làm nghề gì?"
       },
       {
         "id": 195,
@@ -4314,14 +4314,14 @@
           },
           {
             "en": "He's a driver.",
-            "vi": "Ông ấy là tài xế."
+            "vi": "Anh ấy là tài xế."
           },
           {
             "en": "She's a policeman.",
             "vi": "Cô ấy là chú cảnh sát."
           }
         ],
-        "hint": "She's a teacher. - Cô ấy là giáo viên.\nWhat's her job? - Cô ấy làm nghề gì?\nHe's a driver. - Ông ấy là tài xế.\nShe's a policeman. - Cô ấy là chú cảnh sát."
+        "hint": "She's a teacher. - Cô ấy là giáo viên.\nWhat's her job? - Cô ấy làm nghề gì?\nHe's a driver. - Anh ấy là tài xế.\nShe's a policeman. - Cô ấy là chú cảnh sát."
       },
       {
         "id": 197,
@@ -4350,7 +4350,7 @@
         "title": [
           {
             "en": "She is a doctor.",
-            "vi": "Bà ấy là bác sĩ."
+            "vi": "Cô ấy là bác sĩ."
           },
           {
             "en": "He's a waiter.",
@@ -4365,7 +4365,7 @@
             "vi": "Mình là Mary. Mình ba tuổi."
           }
         ],
-        "hint": "She is a doctor. - Bà ấy là bác sĩ.\nHe's a waiter. - Chú ấy là người phục vụ.\nBill likes swimming. He has a doll. - Bill thích bơi. Cậu ấy có con búp bê.\nI'm Mary. I'm three years old. - Mình là Mary. Mình ba tuổi."
+        "hint": "She is a doctor. - Cô ấy là bác sĩ.\nHe's a waiter. - Chú ấy là người phục vụ.\nBill likes swimming. He has a doll. - Bill thích bơi. Cậu ấy có con búp bê.\nI'm Mary. I'm three years old. - Mình là Mary. Mình ba tuổi."
       },
       {
         "id": 199,
@@ -4398,7 +4398,7 @@
           },
           {
             "en": "He is a driver.",
-            "vi": "Ông ấy là tài xế."
+            "vi": "Anh ấy là tài xế."
           },
           {
             "en": "Let's go to the library, Minh!",
@@ -4409,7 +4409,7 @@
             "vi": "Chú ấy là phi công."
           }
         ],
-        "hint": "My sister has five teapots. - Chị/em gái của mình có năm ấm trà.\nHe is a driver. - Ông ấy là tài xế.\nLet's go to the library, Minh! - Chúng ta đến thư viện đi, Minh!\nHe's a pilot. - Chú ấy là phi công."
+        "hint": "My sister has five teapots. - Chị/em gái của mình có năm ấm trà.\nHe is a driver. - Anh ấy là tài xế.\nLet's go to the library, Minh! - Chúng ta đến thư viện đi, Minh!\nHe's a pilot. - Chú ấy là phi công."
       },
       {
         "id": 201,
@@ -4508,7 +4508,7 @@
           },
           {
             "en": "No, he isn't. He's a teacher.",
-            "vi": "Không phải. Ông ấy là giáo viên."
+            "vi": "Không phải. Anh ấy là giáo viên."
           },
           {
             "en": "She's a singer.",
@@ -4519,7 +4519,7 @@
             "vi": "Vâng, đúng vậy."
           }
         ],
-        "hint": "What's her job? - Nghề của cô ấy là gì?\nNo, he isn't. He's a teacher. - Không phải. Ông ấy là giáo viên.\nShe's a singer. - Bà ấy là ca sĩ.\nYes, he is. - Vâng, đúng vậy."
+        "hint": "What's her job? - Nghề của cô ấy là gì?\nNo, he isn't. He's a teacher. - Không phải. Anh ấy là giáo viên.\nShe's a singer. - Bà ấy là ca sĩ.\nYes, he is. - Vâng, đúng vậy."
       },
       {
         "id": 206,
@@ -4643,15 +4643,15 @@
             "vi": "học sinh"
           },
           {
-            "en": "her",
-            "vi": "của cô ấy"
+            "en": "grapes",
+            "vi": "quả nho"
           },
           {
             "en": "policeman",
             "vi": "chú cảnh sát"
           }
         ],
-        "hint": "teacher - giáo viên\npupil - học sinh\nher - của cô ấy\npoliceman - chú cảnh sát"
+        "hint": "teacher - giáo viên\npupil - học sinh\ngrapes - quả nho\npoliceman - chú cảnh sát"
       },
       {
         "id": 212,
@@ -4768,7 +4768,7 @@
         "title": [
           {
             "en": "She is a worker.",
-            "vi": "Bà ấy là công nhân."
+            "vi": "Cô ấy là công nhân."
           },
           {
             "en": "Linh is two years old. She has a cup.",
@@ -4783,14 +4783,14 @@
             "vi": "Bố của mình có bốn chiếc áo sơ mi."
           }
         ],
-        "hint": "She is a worker. - Bà ấy là công nhân.\nLinh is two years old. She has a cup. - Linh hai tuổi. Cô ấy có cái cốc.\nMy father is a cook. My mother is a singer. - Bố mình là đầu bếp. Mẹ mình là ca sĩ.\nMy father has four shirts. - Bố của mình có bốn chiếc áo sơ mi."
+        "hint": "She is a worker. - Cô ấy là công nhân.\nLinh is two years old. She has a cup. - Linh hai tuổi. Cô ấy có cái cốc.\nMy father is a cook. My mother is a singer. - Bố mình là đầu bếp. Mẹ mình là ca sĩ.\nMy father has four shirts. - Bố của mình có bốn chiếc áo sơ mi."
       },
       {
         "id": 218,
         "title": [
           {
             "en": "She is a singer.",
-            "vi": "Bà ấy là ca sĩ."
+            "vi": "Cô ấy là ca sĩ."
           },
           {
             "en": "She's an artist.",
@@ -4805,7 +4805,7 @@
             "vi": "Chú ấy là lính cứu hỏa."
           }
         ],
-        "hint": "She is a singer. - Bà ấy là ca sĩ.\nShe's an artist. - Cô ấy là họa sĩ.\nThis is my friend, Linh. She is four. - Đây là bạn của mình, Linh. Cô ấy bốn tuổi.\nHe's a firefighter. - Chú ấy là lính cứu hỏa."
+        "hint": "She is a singer. - Cô ấy là ca sĩ.\nShe's an artist. - Cô ấy là họa sĩ.\nThis is my friend, Linh. She is four. - Đây là bạn của mình, Linh. Cô ấy bốn tuổi.\nHe's a firefighter. - Chú ấy là lính cứu hỏa."
       },
       {
         "id": 219,
@@ -4890,10 +4890,10 @@
           },
           {
             "en": "He is a driver.",
-            "vi": "Ông ấy là tài xế."
+            "vi": "Anh ấy là tài xế."
           }
         ],
-        "hint": "My brother has seven clocks. - Anh/em trai của mình có bảy cái đồng hồ.\nLet's go to the playground, Ben! - Chúng ta đến sân chơi đi, Ben!\nMy sister has four dolls. - Chị/em gái của mình có bốn con búp bê.\nHe is a driver. - Ông ấy là tài xế."
+        "hint": "My brother has seven clocks. - Anh/em trai của mình có bảy cái đồng hồ.\nLet's go to the playground, Ben! - Chúng ta đến sân chơi đi, Ben!\nMy sister has four dolls. - Chị/em gái của mình có bốn con búp bê.\nHe is a driver. - Anh ấy là tài xế."
       },
       {
         "id": 223,
@@ -5154,10 +5154,10 @@
           },
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           }
         ],
-        "hint": "My sister has five balls. - Chị/em gái của mình có năm quả bóng.\nMy sister has two cups. - Chị/em gái của mình có hai cái cốc.\nLinh and Nam like singing. - Linh và Nam thích hát.\nHe is a teacher. - Ông ấy là giáo viên."
+        "hint": "My sister has five balls. - Chị/em gái của mình có năm quả bóng.\nMy sister has two cups. - Chị/em gái của mình có hai cái cốc.\nLinh and Nam like singing. - Linh và Nam thích hát.\nHe is a teacher. - Anh ấy là giáo viên."
       },
       {
         "id": 235,
@@ -5564,7 +5564,7 @@
           },
           {
             "en": "He is a nurse.",
-            "vi": "Ông ấy là y tá."
+            "vi": "Anh ấy là y tá."
           },
           {
             "en": "She's in the yard.",
@@ -5575,7 +5575,7 @@
             "vi": "Nhìn kìa! Có một cái cổng."
           }
         ],
-        "hint": "There's a goat near the lake. - Có một con dê ở gần cái hồ.\nHe is a nurse. - Ông ấy là y tá.\nShe's in the yard. - Cô ấy ở trong sân.\nLook! There's a gate. - Nhìn kìa! Có một cái cổng."
+        "hint": "There's a goat near the lake. - Có một con dê ở gần cái hồ.\nHe is a nurse. - Anh ấy là y tá.\nShe's in the yard. - Cô ấy ở trong sân.\nLook! There's a gate. - Nhìn kìa! Có một cái cổng."
       },
       {
         "id": 254,
@@ -5682,10 +5682,10 @@
           },
           {
             "en": "Is she a doctor?",
-            "vi": "Bà ấy có phải bác sĩ không?"
+            "vi": "Cô ấy có phải bác sĩ không?"
           }
         ],
-        "hint": "Yes, he is. - Vâng, đúng vậy.\nHow old is he? - Anh ấy bao nhiêu tuổi?\nShe's seventeen. - Chị/em ấy mười bảy tuổi.\nIs she a doctor? - Bà ấy có phải bác sĩ không?"
+        "hint": "Yes, he is. - Vâng, đúng vậy.\nHow old is he? - Anh ấy bao nhiêu tuổi?\nShe's seventeen. - Chị/em ấy mười bảy tuổi.\nIs she a doctor? - Cô ấy có phải bác sĩ không?"
       },
       {
         "id": 259,
@@ -6268,7 +6268,7 @@
           },
           {
             "en": "No, he isn't. He's a teacher.",
-            "vi": "Không phải. Ông ấy là giáo viên."
+            "vi": "Không phải. Anh ấy là giáo viên."
           },
           {
             "en": "It's my grandmother.",
@@ -6276,10 +6276,10 @@
           },
           {
             "en": "No, she isn't. She's a doctor.",
-            "vi": "Không phải. Bà ấy là bác sĩ."
+            "vi": "Không phải. Cô ấy là bác sĩ."
           }
         ],
-        "hint": "He's thirteen years old. - Anh ấy mười ba tuổi.\nNo, he isn't. He's a teacher. - Không phải. Ông ấy là giáo viên.\nIt's my grandmother. - Đó là bà của mình.\nNo, she isn't. She's a doctor. - Không phải. Bà ấy là bác sĩ."
+        "hint": "He's thirteen years old. - Anh ấy mười ba tuổi.\nNo, he isn't. He's a teacher. - Không phải. Anh ấy là giáo viên.\nIt's my grandmother. - Đó là bà của mình.\nNo, she isn't. She's a doctor. - Không phải. Cô ấy là bác sĩ."
       },
       {
         "id": 286,
@@ -6496,10 +6496,10 @@
           },
           {
             "en": "Is she a worker?",
-            "vi": "Bà ấy có phải công nhân không?"
+            "vi": "Cô ấy có phải công nhân không?"
           }
         ],
-        "hint": "How old is your brother? - Anh/em trai bạn bao nhiêu tuổi?\nMy mother is a worker. - Mẹ mình là công nhân.\nWhat's his job? - Nghề của anh ấy là gì?\nIs she a worker? - Bà ấy có phải công nhân không?"
+        "hint": "How old is your brother? - Anh/em trai bạn bao nhiêu tuổi?\nMy mother is a worker. - Mẹ mình là công nhân.\nWhat's his job? - Nghề của anh ấy là gì?\nIs she a worker? - Cô ấy có phải công nhân không?"
       },
       {
         "id": 296,
@@ -6536,14 +6536,14 @@
           },
           {
             "en": "She's a worker.",
-            "vi": "Bà ấy là công nhân."
+            "vi": "Cô ấy là công nhân."
           },
           {
             "en": "Is she a singer?",
-            "vi": "Bà ấy có phải ca sĩ không?"
+            "vi": "Cô ấy có phải ca sĩ không?"
           }
         ],
-        "hint": "Yes, he is. - Vâng, đúng vậy.\nIs he a doctor? - Anh ấy có phải là bác sĩ không?\nShe's a worker. - Bà ấy là công nhân.\nIs she a singer? - Bà ấy có phải ca sĩ không?"
+        "hint": "Yes, he is. - Vâng, đúng vậy.\nIs he a doctor? - Anh ấy có phải là bác sĩ không?\nShe's a worker. - Cô ấy là công nhân.\nIs she a singer? - Cô ấy có phải ca sĩ không?"
       },
       {
         "id": 298,
@@ -6554,7 +6554,7 @@
           },
           {
             "en": "There's a girl near the lake.",
-            "vi": "Có một cô bé ở gần cái hồ."
+            "vi": "Có một bé gái ở gần cái hồ."
           },
           {
             "en": "Mary has a brown ruler.",
@@ -6565,7 +6565,7 @@
             "vi": "Đây là ai? Đó là mẹ của mình."
           }
         ],
-        "hint": "I'm a pupil, too. - Mình cũng là học sinh.\nThere's a girl near the lake. - Có một cô bé ở gần cái hồ.\nMary has a brown ruler. - Mary có cái thước kẻ màu nâu.\nWho's this? It's my mother. - Đây là ai? Đó là mẹ của mình."
+        "hint": "I'm a pupil, too. - Mình cũng là học sinh.\nThere's a girl near the lake. - Có một bé gái ở gần cái hồ.\nMary has a brown ruler. - Mary có cái thước kẻ màu nâu.\nWho's this? It's my mother. - Đây là ai? Đó là mẹ của mình."
       },
       {
         "id": 299,
@@ -6615,7 +6615,7 @@
   },
   {
     "id": 13,
-    "text": " My house",
+    "text": "My house",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit13.png",
     "scenes": [
       {
@@ -7040,8 +7040,8 @@
         "id": 320,
         "title": [
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "tent",
+            "vi": "cái lều"
           },
           {
             "en": "there",
@@ -7056,7 +7056,7 @@
             "vi": "cái gương"
           }
         ],
-        "hint": "here - ở đây\nthere - ở kia\nliving room - phòng khách\nmirror - cái gương"
+        "hint": "tent - cái lều\nthere - ở kia\nliving room - phòng khách\nmirror - cái gương"
       },
       {
         "id": 321,
@@ -7154,8 +7154,8 @@
             "vi": "Những cái bàn ở đâu? Chúng ở đây."
           },
           {
-            "en": "The cake is on the bed.",
-            "vi": "Cái bánh ở trên cái giường."
+            "en": "The cake is on the table.",
+            "vi": "Cái bánh ở trên bàn."
           },
           {
             "en": "There is a TV.",
@@ -7166,7 +7166,7 @@
             "vi": "Mình thích nhà của mình. Nó to."
           }
         ],
-        "hint": "Where are the tables? They're here. - Những cái bàn ở đâu? Chúng ở đây.\nThe cake is on the bed. - Cái bánh ở trên cái giường.\nThere is a TV. - Có ti vi.\nI like my house. It's big. - Mình thích nhà của mình. Nó to."
+        "hint": "Where are the tables? They're here. - Những cái bàn ở đâu? Chúng ở đây.\nThe cake is on the table. - Cái bánh ở trên bàn.\nThere is a TV. - Có ti vi.\nI like my house. It's big. - Mình thích nhà của mình. Nó to."
       },
       {
         "id": 326,
@@ -7550,8 +7550,8 @@
             "vi": "Cái giường ở đó."
           },
           {
-            "en": "The cake is on the bed.",
-            "vi": "Cái bánh ở trên cái giường."
+            "en": "The cake is on the table.",
+            "vi": "Cái bánh ở trên bàn."
           },
           {
             "en": "It's here.",
@@ -7562,7 +7562,7 @@
             "vi": "Có ghế sô-pha."
           }
         ],
-        "hint": "The bed is there. - Cái giường ở đó.\nThe cake is on the bed. - Cái bánh ở trên cái giường.\nIt's here. - Nó ở đây.\nThere is a sofa. - Có ghế sô-pha."
+        "hint": "The bed is there. - Cái giường ở đó.\nThe cake is on the table. - Cái bánh ở trên bàn.\nIt's here. - Nó ở đây.\nThere is a sofa. - Có ghế sô-pha."
       },
       {
         "id": 344,
@@ -7840,15 +7840,15 @@
             "vi": "ở kia"
           },
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "drink",
+            "vi": "đồ uống / uống"
           },
           {
             "en": "sofa",
             "vi": "ghế sô-pha"
           }
         ],
-        "hint": "chair - cái ghế\nthere - ở kia\nhere - ở đây\nsofa - ghế sô-pha"
+        "hint": "chair - cái ghế\nthere - ở kia\ndrink - đồ uống / uống\nsofa - ghế sô-pha"
       },
       {
         "id": 357,
@@ -7866,11 +7866,11 @@
             "vi": "ở kia"
           },
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "artist",
+            "vi": "hoạ sĩ"
           }
         ],
-        "hint": "bedroom - phòng ngủ\nfridge - tủ lạnh\nthere - ở kia\nhere - ở đây"
+        "hint": "bedroom - phòng ngủ\nfridge - tủ lạnh\nthere - ở kia\nartist - hoạ sĩ"
       },
       {
         "id": 358,
@@ -7972,15 +7972,15 @@
             "vi": "ở kia"
           },
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "job",
+            "vi": "công việc"
           },
           {
             "en": "table",
             "vi": "cái bàn"
           }
         ],
-        "hint": "roof - mái nhà\nthere - ở kia\nhere - ở đây\ntable - cái bàn"
+        "hint": "roof - mái nhà\nthere - ở kia\njob - công việc\ntable - cái bàn"
       },
       {
         "id": 363,
@@ -8122,8 +8122,8 @@
             "vi": "ghế sô-pha"
           },
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "sister",
+            "vi": "chị gái/em gái"
           },
           {
             "en": "there",
@@ -8134,7 +8134,7 @@
             "vi": "phòng ăn"
           }
         ],
-        "hint": "sofa - ghế sô-pha\nhere - ở đây\nthere - ở kia\ndining room - phòng ăn"
+        "hint": "sofa - ghế sô-pha\nsister - chị gái/em gái\nthere - ở kia\ndining room - phòng ăn"
       },
       {
         "id": 370,
@@ -8152,11 +8152,11 @@
             "vi": "Những cái bàn ở đâu? Chúng ở đây."
           },
           {
-            "en": "The cake is on the bed.",
-            "vi": "Cái bánh ở trên cái giường."
+            "en": "The cake is on the table.",
+            "vi": "Cái bánh ở trên bàn."
           }
         ],
-        "hint": "That is the dining room. - Kia là phòng ăn.\nMinh is in the computer room. He has a robot. - Minh đang ở phòng máy tính. Cậu ấy có con rô-bốt.\nWhere are the tables? They're here. - Những cái bàn ở đâu? Chúng ở đây.\nThe cake is on the bed. - Cái bánh ở trên cái giường."
+        "hint": "That is the dining room. - Kia là phòng ăn.\nMinh is in the computer room. He has a robot. - Minh đang ở phòng máy tính. Cậu ấy có con rô-bốt.\nWhere are the tables? They're here. - Những cái bàn ở đâu? Chúng ở đây.\nThe cake is on the table. - Cái bánh ở trên bàn."
       },
       {
         "id": 371,
@@ -8184,8 +8184,8 @@
         "id": 372,
         "title": [
           {
-            "en": "The cake is on the bed.",
-            "vi": "Cái bánh ở trên cái giường."
+            "en": "The cake is on the table.",
+            "vi": "Cái bánh ở trên bàn."
           },
           {
             "en": "I can see a fridge.",
@@ -8200,14 +8200,14 @@
             "vi": "Mary đang ở phòng máy tính. Cô ấy có cái túi."
           }
         ],
-        "hint": "The cake is on the bed. - Cái bánh ở trên cái giường.\nI can see a fridge. - Mình nhìn thấy tủ lạnh.\nNam has a yellow pencil. - Nam có cái bút chì màu vàng.\nMary is in the computer room. She has a bag. - Mary đang ở phòng máy tính. Cô ấy có cái túi."
+        "hint": "The cake is on the table. - Cái bánh ở trên bàn.\nI can see a fridge. - Mình nhìn thấy tủ lạnh.\nNam has a yellow pencil. - Nam có cái bút chì màu vàng.\nMary is in the computer room. She has a bag. - Mary đang ở phòng máy tính. Cô ấy có cái túi."
       },
       {
         "id": 373,
         "title": [
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "brother",
+            "vi": "anh trai/em trai"
           },
           {
             "en": "sofa",
@@ -8222,7 +8222,7 @@
             "vi": "phòng khách"
           }
         ],
-        "hint": "here - ở đây\nsofa - ghế sô-pha\nthere - ở kia\nliving room - phòng khách"
+        "hint": "brother - anh trai/em trai\nsofa - ghế sô-pha\nthere - ở kia\nliving room - phòng khách"
       },
       {
         "id": 374,
@@ -8250,8 +8250,8 @@
         "id": 375,
         "title": [
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "ten",
+            "vi": "mười"
           },
           {
             "en": "there",
@@ -8266,7 +8266,7 @@
             "vi": "cái gương"
           }
         ],
-        "hint": "here - ở đây\nthere - ở kia\nbathroom - phòng tắm\nmirror - cái gương"
+        "hint": "ten - mười\nthere - ở kia\nbathroom - phòng tắm\nmirror - cái gương"
       },
       {
         "id": 376,
@@ -8404,8 +8404,8 @@
         "id": 382,
         "title": [
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "goat",
+            "vi": "con dê"
           },
           {
             "en": "roof",
@@ -8420,7 +8420,7 @@
             "vi": "phòng ăn"
           }
         ],
-        "hint": "here - ở đây\nroof - mái nhà\nthere - ở kia\ndining room - phòng ăn"
+        "hint": "goat - con dê\nroof - mái nhà\nthere - ở kia\ndining room - phòng ăn"
       },
       {
         "id": 383,
@@ -8500,15 +8500,15 @@
             "vi": "ngôi nhà"
           },
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "shoes",
+            "vi": "đôi giày"
           },
           {
             "en": "kitchen",
             "vi": "nhà bếp"
           }
         ],
-        "hint": "there - ở kia\nhouse - ngôi nhà\nhere - ở đây\nkitchen - nhà bếp"
+        "hint": "there - ở kia\nhouse - ngôi nhà\nshoes - đôi giày\nkitchen - nhà bếp"
       },
       {
         "id": 387,
@@ -8606,8 +8606,8 @@
             "vi": "ở kia"
           },
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "actress",
+            "vi": "nữ diễn viên"
           },
           {
             "en": "mirror",
@@ -8618,7 +8618,7 @@
             "vi": "cái ghế"
           }
         ],
-        "hint": "there - ở kia\nhere - ở đây\nmirror - cái gương\nchair - cái ghế"
+        "hint": "there - ở kia\nactress - nữ diễn viên\nmirror - cái gương\nchair - cái ghế"
       },
       {
         "id": 392,
@@ -8867,7 +8867,7 @@
         "title": [
           {
             "en": "No, she isn't. She's a worker.",
-            "vi": "Không phải. Bà ấy là công nhân."
+            "vi": "Không phải. Cô ấy là công nhân."
           },
           {
             "en": "He's twenty years old.",
@@ -8882,7 +8882,7 @@
             "vi": "Những cái bàn ở đâu?"
           }
         ],
-        "hint": "No, she isn't. She's a worker. - Không phải. Bà ấy là công nhân.\nHe's twenty years old. - Anh ấy hai mươi tuổi.\nWhere's the kite? - Cái diều ở đâu?\nWhere are the tables? - Những cái bàn ở đâu?"
+        "hint": "No, she isn't. She's a worker. - Không phải. Cô ấy là công nhân.\nHe's twenty years old. - Anh ấy hai mươi tuổi.\nWhere's the kite? - Cái diều ở đâu?\nWhere are the tables? - Những cái bàn ở đâu?"
       },
       {
         "id": 404,
@@ -9197,7 +9197,7 @@
         "title": [
           {
             "en": "There's a girl near the lake.",
-            "vi": "Có một cô bé ở gần cái hồ."
+            "vi": "Có một bé gái ở gần cái hồ."
           },
           {
             "en": "Look at the TV!",
@@ -9212,7 +9212,7 @@
             "vi": "Quyển vở màu xanh da trời."
           }
         ],
-        "hint": "There's a girl near the lake. - Có một cô bé ở gần cái hồ.\nLook at the TV! - Hãy nhìn ti vi kìa!\nIt's Lucy's teddy bear! - Đó là con gấu bông của Lucy!\nThe notebook is blue. - Quyển vở màu xanh da trời."
+        "hint": "There's a girl near the lake. - Có một bé gái ở gần cái hồ.\nLook at the TV! - Hãy nhìn ti vi kìa!\nIt's Lucy's teddy bear! - Đó là con gấu bông của Lucy!\nThe notebook is blue. - Quyển vở màu xanh da trời."
       },
       {
         "id": 419,
@@ -9223,7 +9223,7 @@
           },
           {
             "en": "Look! There's a girl.",
-            "vi": "Nhìn kìa! Có một cô bé."
+            "vi": "Nhìn kìa! Có một bé gái."
           },
           {
             "en": "She's in the backyard. She's riding a bike.",
@@ -9234,7 +9234,7 @@
             "vi": "Cậu ấy ở bờ biển."
           }
         ],
-        "hint": "My brother is twenty years old. - Anh của mình hai mươi tuổi.\nLook! There's a girl. - Nhìn kìa! Có một cô bé.\nShe's in the backyard. She's riding a bike. - Cô ấy ở sân sau. Cô ấy đang đi xe đạp.\nHe's at the seaside. - Cậu ấy ở bờ biển."
+        "hint": "My brother is twenty years old. - Anh của mình hai mươi tuổi.\nLook! There's a girl. - Nhìn kìa! Có một bé gái.\nShe's in the backyard. She's riding a bike. - Cô ấy ở sân sau. Cô ấy đang đi xe đạp.\nHe's at the seaside. - Cậu ấy ở bờ biển."
       },
       {
         "id": 420,
@@ -9341,10 +9341,10 @@
           },
           {
             "en": "Is she a doctor?",
-            "vi": "Bà ấy có phải bác sĩ không?"
+            "vi": "Cô ấy có phải bác sĩ không?"
           }
         ],
-        "hint": "Yes, he is. - Vâng, đúng vậy.\nIt's a roof. - Đó là mái nhà.\nHow old is your brother? - Anh/em trai của bạn bao nhiêu tuổi?\nIs she a doctor? - Bà ấy có phải bác sĩ không?"
+        "hint": "Yes, he is. - Vâng, đúng vậy.\nIt's a roof. - Đó là mái nhà.\nHow old is your brother? - Anh/em trai của bạn bao nhiêu tuổi?\nIs she a doctor? - Cô ấy có phải bác sĩ không?"
       },
       {
         "id": 425,
@@ -9403,14 +9403,14 @@
           },
           {
             "en": "No, he isn't. He's a nurse.",
-            "vi": "Không phải. Ông ấy là y tá."
+            "vi": "Không phải. Anh ấy là y tá."
           },
           {
             "en": "It's in the kitchen.",
             "vi": "Nó ở trong nhà bếp."
           }
         ],
-        "hint": "Where are the chairs? - Những ghế ở đâu?\nWhat's her job? - Cô ấy làm nghề gì?\nNo, he isn't. He's a nurse. - Không phải. Ông ấy là y tá.\nIt's in the kitchen. - Nó ở trong nhà bếp."
+        "hint": "Where are the chairs? - Những ghế ở đâu?\nWhat's her job? - Cô ấy làm nghề gì?\nNo, he isn't. He's a nurse. - Không phải. Anh ấy là y tá.\nIt's in the kitchen. - Nó ở trong nhà bếp."
       },
       {
         "id": 428,
@@ -9421,7 +9421,7 @@
           },
           {
             "en": "This is my garden. There's a girl.",
-            "vi": "Đây là khu vườn của mình. Có một cô bé."
+            "vi": "Đây là khu vườn của mình. Có một bé gái."
           },
           {
             "en": "The school bag is brown.",
@@ -9432,7 +9432,7 @@
             "vi": "Những bàn học ở trong phòng khách."
           }
         ],
-        "hint": "Yes, he is. - Vâng, đúng vậy.\nThis is my garden. There's a girl. - Đây là khu vườn của mình. Có một cô bé.\nThe school bag is brown. - Cặp sách màu nâu.\nThe desks are in the living room. - Những bàn học ở trong phòng khách."
+        "hint": "Yes, he is. - Vâng, đúng vậy.\nThis is my garden. There's a girl. - Đây là khu vườn của mình. Có một bé gái.\nThe school bag is brown. - Cặp sách màu nâu.\nThe desks are in the living room. - Những bàn học ở trong phòng khách."
       },
       {
         "id": 429,
@@ -9531,7 +9531,7 @@
           },
           {
             "en": "Is he a driver?",
-            "vi": "Ông ấy có phải tài xế không?"
+            "vi": "Anh ấy có phải tài xế không?"
           },
           {
             "en": "Who's this?",
@@ -9542,7 +9542,7 @@
             "vi": "Cô ấy là giáo viên."
           }
         ],
-        "hint": "She's seventeen. - Bà mười bảy tuổi.\nIs he a driver? - Ông ấy có phải tài xế không?\nWho's this? - Đây là ai?\nShe's a teacher. - Cô ấy là giáo viên."
+        "hint": "She's seventeen. - Bà mười bảy tuổi.\nIs he a driver? - Anh ấy có phải tài xế không?\nWho's this? - Đây là ai?\nShe's a teacher. - Cô ấy là giáo viên."
       },
       {
         "id": 434,
@@ -9813,7 +9813,7 @@
         "title": [
           {
             "en": "He's a farmer. He's on the farm.",
-            "vi": "Ông ấy là nông dân. Ông ấy đang ở nông trại."
+            "vi": "Anh ấy là nông dân. Anh ấy đang ở nông trại."
           },
           {
             "en": "There is a roof.",
@@ -9828,14 +9828,14 @@
             "vi": "Mình có một chiếc xe ô tô màu đỏ."
           }
         ],
-        "hint": "He's a farmer. He's on the farm. - Ông ấy là nông dân. Ông ấy đang ở nông trại.\nThere is a roof. - Có mái nhà.\nI can see eight windows. - Mình nhìn thấy tám cái cửa sổ.\nI have a red car. - Mình có một chiếc xe ô tô màu đỏ."
+        "hint": "He's a farmer. He's on the farm. - Anh ấy là nông dân. Anh ấy đang ở nông trại.\nThere is a roof. - Có mái nhà.\nI can see eight windows. - Mình nhìn thấy tám cái cửa sổ.\nI have a red car. - Mình có một chiếc xe ô tô màu đỏ."
       },
       {
         "id": 447,
         "title": [
           {
             "en": "No, she isn't. She's a worker.",
-            "vi": "Không phải. Bà ấy là công nhân."
+            "vi": "Không phải. Cô ấy là công nhân."
           },
           {
             "en": "No, she isn't.",
@@ -9850,7 +9850,7 @@
             "vi": "Nó ở đây."
           }
         ],
-        "hint": "No, she isn't. She's a worker. - Không phải. Bà ấy là công nhân.\nNo, she isn't. - Không phải.\nWhere's the desk? - Cái bàn học ở đâu?\nIt's here. - Nó ở đây."
+        "hint": "No, she isn't. She's a worker. - Không phải. Cô ấy là công nhân.\nNo, she isn't. - Không phải.\nWhere's the desk? - Cái bàn học ở đâu?\nIt's here. - Nó ở đây."
       },
       {
         "id": 448,
@@ -9922,7 +9922,7 @@
   },
   {
     "id": 14,
-    "text": " My bedroom",
+    "text": "My bedroom",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit14.png",
     "scenes": [
       {
@@ -9985,11 +9985,11 @@
             "vi": "ở đó"
           },
           {
-            "en": "here",
-            "vi": "ở đây"
+            "en": "dancer",
+            "vi": "vũ công"
           }
         ],
-        "hint": "in - ở trong\non - ở trên\nthere - ở đó\nhere - ở đây"
+        "hint": "in - ở trong\non - ở trên\nthere - ở đó\ndancer - vũ công"
       },
       {
         "id": 454,
@@ -10197,8 +10197,8 @@
             "vi": "Đây là tấm áp phích."
           },
           {
-            "en": "There are six apples on the bed.",
-            "vi": "Có sáu quả táo ở trên giường."
+            "en": "There are six apples on the table.",
+            "vi": "Có sáu quả táo ở trên bàn."
           },
           {
             "en": "There are two desks in the room.",
@@ -10209,7 +10209,7 @@
             "vi": "Những cửa cũ."
           }
         ],
-        "hint": "This is a poster. - Đây là tấm áp phích.\nThere are six apples on the bed. - Có sáu quả táo ở trên giường.\nThere are two desks in the room. - Có hai bàn học trong phòng.\nThe doors are old. - Những cửa cũ."
+        "hint": "This is a poster. - Đây là tấm áp phích.\nThere are six apples on the table. - Có sáu quả táo ở trên bàn.\nThere are two desks in the room. - Có hai bàn học trong phòng.\nThe doors are old. - Những cửa cũ."
       },
       {
         "id": 464,
@@ -10219,19 +10219,19 @@
             "vi": "Không có cái kệ trong phòng ngủ của mình."
           },
           {
-            "en": "There are three yo-yos on the bed.",
-            "vi": "Có ba cái yo-yo ở trên giường."
+            "en": "There are three yo-yos on the desk.",
+            "vi": "Có ba cái yo-yo ở trên bàn học."
           },
           {
-            "en": "There are two teapots on the bed.",
-            "vi": "Có hai ấm trà ở trên giường."
+            "en": "There are two teapots on the table.",
+            "vi": "Có hai ấm trà ở trên bàn học."
           },
           {
             "en": "The lamps are new.",
             "vi": "Những đèn mới."
           }
         ],
-        "hint": "There isn't a shelf in my bedroom. - Không có cái kệ trong phòng ngủ của mình.\nThere are three yo-yos on the bed. - Có ba cái yo-yo ở trên giường.\nThere are two teapots on the bed. - Có hai ấm trà ở trên giường.\nThe lamps are new. - Những đèn mới."
+        "hint": "There isn't a shelf in my bedroom. - Không có cái kệ trong phòng ngủ của mình.\nThere are three yo-yos on the desk. - Có ba cái yo-yo ở trên bàn học.\nThere are two teapots on the table. - Có hai ấm trà ở trên bàn học.\nThe lamps are new. - Những đèn mới."
       },
       {
         "id": 465,
@@ -10399,15 +10399,15 @@
             "vi": "Cái mũ ở gần cái ghế."
           },
           {
-            "en": "There are two teapots on the bed.",
-            "vi": "Có hai ấm trà ở trên giường."
+            "en": "There are two teapots on the table.",
+            "vi": "Có hai ấm trà ở trên bàn."
           },
           {
             "en": "The lamps are big.",
             "vi": "Những đèn to."
           }
         ],
-        "hint": "Let's go to the playground, Ben! - Chúng ta đến sân chơi đi, Ben!\nThe hat is near the chair. - Cái mũ ở gần cái ghế.\nThere are two teapots on the bed. - Có hai ấm trà ở trên giường.\nThe lamps are big. - Những đèn to."
+        "hint": "Let's go to the playground, Ben! - Chúng ta đến sân chơi đi, Ben!\nThe hat is near the chair. - Cái mũ ở gần cái ghế.\nThere are two teapots on the table. - Có hai ấm trà ở trên bàn.\nThe lamps are big. - Những đèn to."
       },
       {
         "id": 473,
@@ -10483,8 +10483,8 @@
             "vi": "Mẹ của mình đang ở phòng ăn."
           },
           {
-            "en": "There are five lemons on the bed.",
-            "vi": "Có năm quả chanh ở trên giường."
+            "en": "There are five lemons on the table.",
+            "vi": "Có năm quả chanh ở trên bàn."
           },
           {
             "en": "The chair is new.",
@@ -10495,7 +10495,7 @@
             "vi": "Có ba cửa sổ trong phòng."
           }
         ],
-        "hint": "My mother is in the dining room. - Mẹ của mình đang ở phòng ăn.\nThere are five lemons on the bed. - Có năm quả chanh ở trên giường.\nThe chair is new. - Cái ghế mới.\nThere are three windows in the room. - Có ba cửa sổ trong phòng."
+        "hint": "My mother is in the dining room. - Mẹ của mình đang ở phòng ăn.\nThere are five lemons on the table. - Có năm quả chanh ở trên bàn.\nThe chair is new. - Cái ghế mới.\nThere are three windows in the room. - Có ba cửa sổ trong phòng."
       },
       {
         "id": 477,
@@ -10535,11 +10535,11 @@
             "vi": "Cái đèn nhỏ."
           },
           {
-            "en": "There are four bells on the bed.",
-            "vi": "Có bốn cái chuông ở trên giường."
+            "en": "There are four bells on the desk.",
+            "vi": "Có bốn cái chuông ở trên bàn học."
           }
         ],
-        "hint": "This is my bedroom. - Đây là phòng ngủ của mình.\nThe chairs are new. - Những ghế mới.\nThe lamp is small. - Cái đèn nhỏ.\nThere are four bells on the bed. - Có bốn cái chuông ở trên giường."
+        "hint": "This is my bedroom. - Đây là phòng ngủ của mình.\nThe chairs are new. - Những ghế mới.\nThe lamp is small. - Cái đèn nhỏ.\nThere are four bells on the desk. - Có bốn cái chuông ở trên bàn học."
       },
       {
         "id": 479,
@@ -10637,8 +10637,8 @@
             "vi": "Quyển vở màu xanh da trời."
           },
           {
-            "en": "There are three kites on the bed.",
-            "vi": "Có ba cái diều ở trên giường."
+            "en": "There are three kites in the sky.",
+            "vi": "Có ba cái diều trên bầu trời."
           },
           {
             "en": "My sister is in the dining room.",
@@ -10649,7 +10649,7 @@
             "vi": "Mình có sáu tấm áp phích."
           }
         ],
-        "hint": "The notebook is blue. - Quyển vở màu xanh da trời.\nThere are three kites on the bed. - Có ba cái diều ở trên giường.\nMy sister is in the dining room. - Chị/em gái của mình đang ở phòng ăn.\nI have six posters. - Mình có sáu tấm áp phích."
+        "hint": "The notebook is blue. - Quyển vở màu xanh da trời.\nThere are three kites in the sky. - Có ba cái diều trên bầu trời.\nMy sister is in the dining room. - Chị/em gái của mình đang ở phòng ăn.\nI have six posters. - Mình có sáu tấm áp phích."
       },
       {
         "id": 484,
@@ -10920,11 +10920,11 @@
         "title": [
           {
             "en": "There are five hats on the bed.",
-            "vi": "Có năm cái mũ ở trên giường."
+            "vi": "Có năm cái mũ trên bầu trời."
           },
           {
-            "en": "There are three kites on the bed.",
-            "vi": "Có ba cái diều ở trên giường."
+            "en": "There are three kites in the sky.",
+            "vi": "Có ba cái diều trên bầu trời."
           },
           {
             "en": "Look at the computer!",
@@ -10935,7 +10935,7 @@
             "vi": "Hãy nhìn cái gối kìa!"
           }
         ],
-        "hint": "There are five hats on the bed. - Có năm cái mũ ở trên giường.\nThere are three kites on the bed. - Có ba cái diều ở trên giường.\nLook at the computer! - Hãy nhìn máy tính kìa!\nLook at the pillow! - Hãy nhìn cái gối kìa!"
+        "hint": "There are five hats on the bed. - Có năm cái mũ trên bầu trời.\nThere are three kites in the sky. - Có ba cái diều trên bầu trời.\nLook at the computer! - Hãy nhìn máy tính kìa!\nLook at the pillow! - Hãy nhìn cái gối kìa!"
       },
       {
         "id": 497,
@@ -11447,8 +11447,8 @@
         "id": 520,
         "title": [
           {
-            "en": "There are five mangoes on the bed.",
-            "vi": "Có năm quả xoài ở trên giường."
+            "en": "There are five mangoes on the table.",
+            "vi": "Có năm quả xoài ở trên bàn."
           },
           {
             "en": "My brother is in the bedroom.",
@@ -11456,14 +11456,14 @@
           },
           {
             "en": "There are four bags on the bed.",
-            "vi": "Có bốn cái túi ở trên giường."
+            "vi": "Có bốn cái túi ở trên bàn."
           },
           {
-            "en": "There are six cups on the bed.",
-            "vi": "Có sáu cái cốc ở trên giường."
+            "en": "There are six cups on the table.",
+            "vi": "Có sáu cái cốc ở trên bàn."
           }
         ],
-        "hint": "There are five mangoes on the bed. - Có năm quả xoài ở trên giường.\nMy brother is in the bedroom. - Anh/em trai của mình đang ở phòng ngủ.\nThere are four bags on the bed. - Có bốn cái túi ở trên giường.\nThere are six cups on the bed. - Có sáu cái cốc ở trên giường."
+        "hint": "There are five mangoes on the table. - Có năm quả xoài ở trên bàn.\nMy brother is in the bedroom. - Anh/em trai của mình đang ở phòng ngủ.\nThere are four bags on the bed. - Có bốn cái túi ở trên bàn.\nThere are six cups on the table. - Có sáu cái cốc ở trên bàn."
       },
       {
         "id": 521,
@@ -11843,8 +11843,8 @@
         "id": 538,
         "title": [
           {
-            "en": "There are four bells on the bed.",
-            "vi": "Có bốn cái chuông ở trên giường."
+            "en": "There are four bells on the desk.",
+            "vi": "Có bốn cái chuông ở trên bàn học."
           },
           {
             "en": "My brother is a worker.",
@@ -11859,14 +11859,14 @@
             "vi": "Con búp bê ở phía sau cái ghế."
           }
         ],
-        "hint": "There are four bells on the bed. - Có bốn cái chuông ở trên giường.\nMy brother is a worker. - Anh/em trai của mình là công nhân.\nThis is Lucy. She has eight bikes. - Đây là Lucy. Cô ấy có tám chiếc xe đạp.\nThe doll is behind the chair. - Con búp bê ở phía sau cái ghế."
+        "hint": "There are four bells on the desk. - Có bốn cái chuông ở trên bàn học.\nMy brother is a worker. - Anh/em trai của mình là công nhân.\nThis is Lucy. She has eight bikes. - Đây là Lucy. Cô ấy có tám chiếc xe đạp.\nThe doll is behind the chair. - Con búp bê ở phía sau cái ghế."
       },
       {
         "id": 539,
         "title": [
           {
-            "en": "There are five lemons on the bed.",
-            "vi": "Có năm quả chanh ở trên giường."
+            "en": "There are five lemons on the table.",
+            "vi": "Có năm quả chanh ở trên bàn."
           },
           {
             "en": "The clock is next to the desk.",
@@ -11881,7 +11881,7 @@
             "vi": "Có máy tính trong phòng ngủ của mình."
           }
         ],
-        "hint": "There are five lemons on the bed. - Có năm quả chanh ở trên giường.\nThe clock is next to the desk. - Cái đồng hồ ở bên cạnh cái bàn học.\nThere's a mango in my bedroom. - Có quả xoài trong phòng ngủ của mình.\nThere's a computer in my bedroom. - Có máy tính trong phòng ngủ của mình."
+        "hint": "There are five lemons on the table. - Có năm quả chanh ở trên bàn.\nThe clock is next to the desk. - Cái đồng hồ ở bên cạnh cái bàn học.\nThere's a mango in my bedroom. - Có quả xoài trong phòng ngủ của mình.\nThere's a computer in my bedroom. - Có máy tính trong phòng ngủ của mình."
       },
       {
         "id": 540,
@@ -11935,8 +11935,8 @@
             "vi": "Anh/em trai của mình là công nhân."
           },
           {
-            "en": "There are five bananas on the bed.",
-            "vi": "Có năm quả chuối ở trên giường."
+            "en": "There are five bananas on the table.",
+            "vi": "Có năm quả chuối ở trên bàn."
           },
           {
             "en": "The clock is next to the desk.",
@@ -11947,7 +11947,7 @@
             "vi": "Có một cái đèn trong phòng ngủ của mình. Nó mới."
           }
         ],
-        "hint": "My brother is a worker. - Anh/em trai của mình là công nhân.\nThere are five bananas on the bed. - Có năm quả chuối ở trên giường.\nThe clock is next to the desk. - Cái đồng hồ ở bên cạnh cái bàn học.\nThere's a lamp in my bedroom. It's new. - Có một cái đèn trong phòng ngủ của mình. Nó mới."
+        "hint": "My brother is a worker. - Anh/em trai của mình là công nhân.\nThere are five bananas on the table. - Có năm quả chuối ở trên bàn.\nThe clock is next to the desk. - Cái đồng hồ ở bên cạnh cái bàn học.\nThere's a lamp in my bedroom. It's new. - Có một cái đèn trong phòng ngủ của mình. Nó mới."
       },
       {
         "id": 543,
@@ -12045,8 +12045,8 @@
             "vi": "Có một cánh cửa trong phòng."
           },
           {
-            "en": "There are three kites on the bed.",
-            "vi": "Có ba cái diều ở trên giường."
+            "en": "There are three kites in the sky.",
+            "vi": "Có ba cái diều trên bầu trời."
           },
           {
             "en": "I'm Bill. I'm four years old.",
@@ -12057,7 +12057,7 @@
             "vi": "Mai chạm vào con mắt của cô ấy."
           }
         ],
-        "hint": "There's a door in the room. - Có một cánh cửa trong phòng.\nThere are three kites on the bed. - Có ba cái diều ở trên giường.\nI'm Bill. I'm four years old. - Mình là Bill. Mình bốn tuổi.\nMai touches her eye. - Mai chạm vào con mắt của cô ấy."
+        "hint": "There's a door in the room. - Có một cánh cửa trong phòng.\nThere are three kites in the sky. - Có ba cái diều trên bầu trời.\nI'm Bill. I'm four years old. - Mình là Bill. Mình bốn tuổi.\nMai touches her eye. - Mai chạm vào con mắt của cô ấy."
       },
       {
         "id": 548,
@@ -12240,7 +12240,7 @@
         "title": [
           {
             "en": "Is he a nurse?",
-            "vi": "Ông ấy có phải y tá không?"
+            "vi": "Anh ấy có phải y tá không?"
           },
           {
             "en": "What's his job?",
@@ -12255,7 +12255,7 @@
             "vi": "Đây là ai?"
           }
         ],
-        "hint": "Is he a nurse? - Ông ấy có phải y tá không?\nWhat's his job? - Chú ấy làm nghề gì?\nHe's twelve years old. - Anh ấy mười hai tuổi.\nWho's this? - Đây là ai?"
+        "hint": "Is he a nurse? - Anh ấy có phải y tá không?\nWhat's his job? - Chú ấy làm nghề gì?\nHe's twelve years old. - Anh ấy mười hai tuổi.\nWho's this? - Đây là ai?"
       },
       {
         "id": 557,
@@ -12508,7 +12508,7 @@
           },
           {
             "en": "Look at the boy. He's running.",
-            "vi": "Hãy nhìn cậu bé. Cậu bé đang chạy."
+            "vi": "Hãy nhìn bé trai. Bé trai đang chạy."
           },
           {
             "en": "The clock is in the bedroom.",
@@ -12519,7 +12519,7 @@
             "vi": "Ken ở đâu? – Cậu ấy ở trên con đường."
           }
         ],
-        "hint": "There are five bags. - Có năm cái túi.\nLook at the boy. He's running. - Hãy nhìn cậu bé. Cậu bé đang chạy.\nThe clock is in the bedroom. - Cái đồng hồ ở trong phòng ngủ.\nI like the countryside. - Ken ở đâu? – Cậu ấy ở trên con đường."
+        "hint": "There are five bags. - Có năm cái túi.\nLook at the boy. He's running. - Hãy nhìn bé trai. Bé trai đang chạy.\nThe clock is in the bedroom. - Cái đồng hồ ở trong phòng ngủ.\nI like the countryside. - Ken ở đâu? – Cậu ấy ở trên con đường."
       },
       {
         "id": 569,
@@ -12556,14 +12556,14 @@
           },
           {
             "en": "There's a girl.",
-            "vi": "Có một cô bé."
+            "vi": "Có một bé gái."
           },
           {
             "en": "It's a bell. It's red.",
             "vi": "Đó là một cái chuông. Nó màu đỏ."
           }
         ],
-        "hint": "There's a cake in my bedroom. - Có cái bánh trong phòng ngủ của mình.\nIt's my grandfather. - Đó là ông của mình.\nThere's a girl. - Có một cô bé.\nIt's a bell. It's red. - Đó là một cái chuông. Nó màu đỏ."
+        "hint": "There's a cake in my bedroom. - Có cái bánh trong phòng ngủ của mình.\nIt's my grandfather. - Đó là ông của mình.\nThere's a girl. - Có một bé gái.\nIt's a bell. It's red. - Đó là một cái chuông. Nó màu đỏ."
       },
       {
         "id": 571,
@@ -12772,7 +12772,7 @@
           },
           {
             "en": "Look! There's a girl.",
-            "vi": "Nhìn kìa! Có một cô bé."
+            "vi": "Nhìn kìa! Có một bé gái."
           },
           {
             "en": "I can see two tops.",
@@ -12783,7 +12783,7 @@
             "vi": "Bố của mình có năm quả xoài."
           }
         ],
-        "hint": "Mary likes dancing. She has a bike. - Mary thích nhảy múa. Cô ấy có chiếc xe đạp.\nLook! There's a girl. - Nhìn kìa! Có một cô bé.\nI can see two tops. - Mình nhìn thấy hai con quay.\nMy father has five mangoes. - Bố của mình có năm quả xoài."
+        "hint": "Mary likes dancing. She has a bike. - Mary thích nhảy múa. Cô ấy có chiếc xe đạp.\nLook! There's a girl. - Nhìn kìa! Có một bé gái.\nI can see two tops. - Mình nhìn thấy hai con quay.\nMy father has five mangoes. - Bố của mình có năm quả xoài."
       },
       {
         "id": 581,
@@ -12900,7 +12900,7 @@
         "title": [
           {
             "en": "She is a singer.",
-            "vi": "Bà ấy là ca sĩ."
+            "vi": "Cô ấy là ca sĩ."
           },
           {
             "en": "There are four windows in the room.",
@@ -12915,7 +12915,7 @@
             "vi": "Cái hộp ở gần cái giường."
           }
         ],
-        "hint": "She is a singer. - Bà ấy là ca sĩ.\nThere are four windows in the room. - Có bốn cửa sổ trong phòng.\nBill's running in the sun. - Bill đang chạy dưới ánh nắng.\nThe box is near the bed. - Cái hộp ở gần cái giường."
+        "hint": "She is a singer. - Cô ấy là ca sĩ.\nThere are four windows in the room. - Có bốn cửa sổ trong phòng.\nBill's running in the sun. - Bill đang chạy dưới ánh nắng.\nThe box is near the bed. - Cái hộp ở gần cái giường."
       },
       {
         "id": 587,
@@ -12952,14 +12952,14 @@
           },
           {
             "en": "He's a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "Is there a computer in your bedroom?",
             "vi": "Có máy tính trong phòng ngủ của bạn không?"
           }
         ],
-        "hint": "It's there. - Nó ở đó.\nIs she a farmer? - Bà ấy có phải nông dân không?\nHe's a teacher. - Ông ấy là giáo viên.\nIs there a computer in your bedroom? - Có máy tính trong phòng ngủ của bạn không?"
+        "hint": "It's there. - Nó ở đó.\nIs she a farmer? - Bà ấy có phải nông dân không?\nHe's a teacher. - Anh ấy là giáo viên.\nIs there a computer in your bedroom? - Có máy tính trong phòng ngủ của bạn không?"
       },
       {
         "id": 589,
@@ -13212,7 +13212,7 @@
           },
           {
             "en": "Look at the boy.",
-            "vi": "Hãy nhìn cậu bé."
+            "vi": "Hãy nhìn bé trai."
           },
           {
             "en": "The book is red.",
@@ -13223,13 +13223,13 @@
             "vi": "Đây là ti vi."
           }
         ],
-        "hint": "Let's go to the computer room, Linh! - Chúng ta đến phòng máy tính đi, Linh!\nLook at the boy. - Hãy nhìn cậu bé.\nThe book is red. - Quyển sách màu đỏ.\nThis is a TV. - Đây là ti vi."
+        "hint": "Let's go to the computer room, Linh! - Chúng ta đến phòng máy tính đi, Linh!\nLook at the boy. - Hãy nhìn bé trai.\nThe book is red. - Quyển sách màu đỏ.\nThis is a TV. - Đây là ti vi."
       }
     ]
   },
   {
     "id": 15,
-    "text": " At the dining table",
+    "text": "At the dining table",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit15.png",
     "scenes": [
       {
@@ -13464,15 +13464,15 @@
             "vi": "Lucy chạm vào tóc của cô ấy."
           },
           {
-            "en": "The cake is on the bed.",
-            "vi": "Cái bánh ở trên cái giường."
+            "en": "The cake is on the table.",
+            "vi": "Cái bánh ở trên bàn."
           },
           {
             "en": "This is a potato.",
             "vi": "Đây là củ khoai tây."
           }
         ],
-        "hint": "I like potatoes. - Mình thích củ khoai tây.\nLucy touches her hair. - Lucy chạm vào tóc của cô ấy.\nThe cake is on the bed. - Cái bánh ở trên cái giường.\nThis is a potato. - Đây là củ khoai tây."
+        "hint": "I like potatoes. - Mình thích củ khoai tây.\nLucy touches her hair. - Lucy chạm vào tóc của cô ấy.\nThe cake is on the table. - Cái bánh ở trên bàn.\nThis is a potato. - Đây là củ khoai tây."
       },
       {
         "id": 612,
@@ -15422,15 +15422,15 @@
             "vi": "thịt"
           },
           {
-            "en": "eat",
-            "vi": "ăn"
+            "en": "zoo",
+            "vi": "sở thú"
           },
           {
             "en": "carrot",
             "vi": "củ cà rốt"
           }
         ],
-        "hint": "strawberry - quả dâu tây\nmeat - thịt\neat - ăn\ncarrot - củ cà rốt"
+        "hint": "strawberry - quả dâu tây\nmeat - thịt\nzoo - sở thú\ncarrot - củ cà rốt"
       },
       {
         "id": 701,
@@ -15911,10 +15911,10 @@
           },
           {
             "en": "She's a doctor.",
-            "vi": "Bà ấy là bác sĩ."
+            "vi": "Cô ấy là bác sĩ."
           }
         ],
-        "hint": "Would you like some water? - Bạn có muốn một ít nước lọc không?\nIs he a farmer? - Anh ấy có phải là nông dân không?\nShe's an engineer. - Cô ấy là kĩ sư.\nShe's a doctor. - Bà ấy là bác sĩ."
+        "hint": "Would you like some water? - Bạn có muốn một ít nước lọc không?\nIs he a farmer? - Anh ấy có phải là nông dân không?\nShe's an engineer. - Cô ấy là kĩ sư.\nShe's a doctor. - Cô ấy là bác sĩ."
       },
       {
         "id": 723,
@@ -16351,10 +16351,10 @@
           },
           {
             "en": "He is a driver.",
-            "vi": "Ông ấy là tài xế."
+            "vi": "Anh ấy là tài xế."
           }
         ],
-        "hint": "This is Linh. She has seven teapots. - Đây là Linh. Cô ấy có bảy ấm trà.\nThere are six windows. - Có sáu cái cửa sổ.\nThis is Ben. He has eight clocks. - Đây là Ben. Cậu ấy có tám cái đồng hồ.\nHe is a driver. - Ông ấy là tài xế."
+        "hint": "This is Linh. She has seven teapots. - Đây là Linh. Cô ấy có bảy ấm trà.\nThere are six windows. - Có sáu cái cửa sổ.\nThis is Ben. He has eight clocks. - Đây là Ben. Cậu ấy có tám cái đồng hồ.\nHe is a driver. - Anh ấy là tài xế."
       },
       {
         "id": 743,
@@ -16453,7 +16453,7 @@
           },
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "Fourteen and one is fifteen.",
@@ -16464,7 +16464,7 @@
             "vi": "Một cầu vồng trên bầu trời."
           }
         ],
-        "hint": "Point to Bill. - Hãy chỉ vào Bill.\nHe is a teacher. - Ông ấy là giáo viên.\nFourteen and one is fifteen. - Mười bốn cộng một là mười lăm.\nA rainbow in the sky. - Một cầu vồng trên bầu trời."
+        "hint": "Point to Bill. - Hãy chỉ vào Bill.\nHe is a teacher. - Anh ấy là giáo viên.\nFourteen and one is fifteen. - Mười bốn cộng một là mười lăm.\nA rainbow in the sky. - Một cầu vồng trên bầu trời."
       },
       {
         "id": 748,
@@ -16536,7 +16536,7 @@
   },
   {
     "id": 16,
-    "text": " My pets",
+    "text": "My pets",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit16.png",
     "scenes": [
       {
@@ -16837,15 +16837,15 @@
             "vi": "nhiều"
           },
           {
-            "en": "any",
-            "vi": "nào"
+            "en": "dance",
+            "vi": "nhảy / múa"
           },
           {
             "en": "turtle",
             "vi": "con rùa"
           }
         ],
-        "hint": "pet - thú cưng\nmany - nhiều\nany - nào\nturtle - con rùa"
+        "hint": "pet - thú cưng\nmany - nhiều\ndance - nhảy / múa\nturtle - con rùa"
       },
       {
         "id": 765,
@@ -18073,11 +18073,11 @@
             "vi": "con cá vàng"
           },
           {
-            "en": "any",
-            "vi": "nào"
+            "en": "mother",
+            "vi": "mẹ"
           }
         ],
-        "hint": "many - nhiều\ntank - bể cá\ngoldfish - con cá vàng\nany - nào"
+        "hint": "many - nhiều\ntank - bể cá\ngoldfish - con cá vàng\nmother - mẹ"
       },
       {
         "id": 821,
@@ -18263,8 +18263,8 @@
             "vi": "nhiều"
           },
           {
-            "en": "any",
-            "vi": "nào"
+            "en": "paint",
+            "vi": "vẽ / tô màu"
           },
           {
             "en": "hamster",
@@ -18275,7 +18275,7 @@
             "vi": "con thỏ"
           }
         ],
-        "hint": "many - nhiều\nany - nào\nhamster - chuột hamster\nrabbit - con thỏ"
+        "hint": "many - nhiều\npaint - vẽ / tô màu\nhamster - chuột hamster\nrabbit - con thỏ"
       },
       {
         "id": 830,
@@ -18293,11 +18293,11 @@
             "vi": "con vịt"
           },
           {
-            "en": "any",
-            "vi": "nào"
+            "en": "small",
+            "vi": "nhỏ"
           }
         ],
-        "hint": "many - nhiều\npet - thú cưng\nduck - con vịt\nany - nào"
+        "hint": "many - nhiều\npet - thú cưng\nduck - con vịt\nsmall - nhỏ"
       },
       {
         "id": 831,
@@ -18601,11 +18601,11 @@
             "vi": "thú cưng"
           },
           {
-            "en": "any",
-            "vi": "nào"
+            "en": "sixteen",
+            "vi": "mười sáu"
           }
         ],
-        "hint": "many - nhiều\nrabbit - con thỏ\npet - thú cưng\nany - nào"
+        "hint": "many - nhiều\nrabbit - con thỏ\npet - thú cưng\nsixteen - mười sáu"
       },
       {
         "id": 845,
@@ -18814,7 +18814,7 @@
           },
           {
             "en": "No, she isn't. She's a doctor.",
-            "vi": "Không phải. Bà ấy là bác sĩ."
+            "vi": "Không phải. Cô ấy là bác sĩ."
           },
           {
             "en": "Yes, I do.",
@@ -18825,7 +18825,7 @@
             "vi": "Đây có phải là cái gối không?"
           }
         ],
-        "hint": "Do you like ice cream? - Bạn có thích kem không?\nNo, she isn't. She's a doctor. - Không phải. Bà ấy là bác sĩ.\nYes, I do. - Có, mình có.\nIs this a pillow? - Đây có phải là cái gối không?"
+        "hint": "Do you like ice cream? - Bạn có thích kem không?\nNo, she isn't. She's a doctor. - Không phải. Cô ấy là bác sĩ.\nYes, I do. - Có, mình có.\nIs this a pillow? - Đây có phải là cái gối không?"
       },
       {
         "id": 855,
@@ -19012,7 +19012,7 @@
           },
           {
             "en": "Look at the girl. She's running.",
-            "vi": "Hãy nhìn cô bé. Cô bé đang chạy."
+            "vi": "Hãy nhìn bé gái. Bé gái đang chạy."
           },
           {
             "en": "I like fish.",
@@ -19023,7 +19023,7 @@
             "vi": "Không. Cậu ấy đang chơi với mèo con."
           }
         ],
-        "hint": "The lamp is new. - Cái đèn mới.\nLook at the girl. She's running. - Hãy nhìn cô bé. Cô bé đang chạy.\nI like fish. - Mình thích cá.\nNo, he isn't. He's playing with a kitten. - Không. Cậu ấy đang chơi với mèo con."
+        "hint": "The lamp is new. - Cái đèn mới.\nLook at the girl. She's running. - Hãy nhìn bé gái. Bé gái đang chạy.\nI like fish. - Mình thích cá.\nNo, he isn't. He's playing with a kitten. - Không. Cậu ấy đang chơi với mèo con."
       },
       {
         "id": 864,
@@ -19213,15 +19213,15 @@
             "vi": "Nhìn này! Mình nhìn thấy một cầu vồng."
           },
           {
-            "en": "The cake is on the bed.",
-            "vi": "Cái bánh ở trên cái giường."
+            "en": "The cake is on the table.",
+            "vi": "Cái bánh ở trên bàn."
           },
           {
             "en": "My grandmother has three cups.",
             "vi": "Bà của mình có ba cái cốc."
           }
         ],
-        "hint": "There are two mops. - Có hai cây lau nhà.\nLook! There's a rainbow. - Nhìn này! Mình nhìn thấy một cầu vồng.\nThe cake is on the bed. - Cái bánh ở trên cái giường.\nMy grandmother has three cups. - Bà của mình có ba cái cốc."
+        "hint": "There are two mops. - Có hai cây lau nhà.\nLook! There's a rainbow. - Nhìn này! Mình nhìn thấy một cầu vồng.\nThe cake is on the table. - Cái bánh ở trên bàn.\nMy grandmother has three cups. - Bà của mình có ba cái cốc."
       },
       {
         "id": 873,
@@ -19592,10 +19592,10 @@
           },
           {
             "en": "He is a cook.",
-            "vi": "Ông ấy là đầu bếp."
+            "vi": "Anh ấy là đầu bếp."
           }
         ],
-        "hint": "There's a kite in my bedroom. - Có cái diều trong phòng ngủ của mình.\nTouch your head and touch your hair. - Hãy chạm vào đầu và chạm vào tóc của bạn.\nThis is the bedroom. - Đây là phòng ngủ.\nHe is a cook. - Ông ấy là đầu bếp."
+        "hint": "There's a kite in my bedroom. - Có cái diều trong phòng ngủ của mình.\nTouch your head and touch your hair. - Hãy chạm vào đầu và chạm vào tóc của bạn.\nThis is the bedroom. - Đây là phòng ngủ.\nHe is a cook. - Anh ấy là đầu bếp."
       },
       {
         "id": 890,
@@ -19624,7 +19624,7 @@
         "title": [
           {
             "en": "No, he isn't. He's a teacher.",
-            "vi": "Không phải. Ông ấy là giáo viên."
+            "vi": "Không phải. Anh ấy là giáo viên."
           },
           {
             "en": "How old is she?",
@@ -19639,7 +19639,7 @@
             "vi": "Đây có phải là cái kệ không?"
           }
         ],
-        "hint": "No, he isn't. He's a teacher. - Không phải. Ông ấy là giáo viên.\nHow old is she? - Chị ấy bao nhiêu tuổi?\nWhat's her job? - Cô ấy làm nghề gì?\nIs this a shelf? - Đây có phải là cái kệ không?"
+        "hint": "No, he isn't. He's a teacher. - Không phải. Anh ấy là giáo viên.\nHow old is she? - Chị ấy bao nhiêu tuổi?\nWhat's her job? - Cô ấy làm nghề gì?\nIs this a shelf? - Đây có phải là cái kệ không?"
       },
       {
         "id": 892,
@@ -19689,8 +19689,8 @@
         "id": 894,
         "title": [
           {
-            "en": "her",
-            "vi": "của cô ấy"
+            "en": "desk",
+            "vi": "cái bàn học"
           },
           {
             "en": "teacher",
@@ -19705,7 +19705,7 @@
             "vi": "có (số nhiều)"
           }
         ],
-        "hint": "her - của cô ấy\nteacher - giáo viên\nice cream - kem\nthere are - có (số nhiều)"
+        "hint": "desk - cái bàn học\nteacher - giáo viên\nice cream - kem\nthere are - có (số nhiều)"
       },
       {
         "id": 895,
@@ -19756,7 +19756,7 @@
         "title": [
           {
             "en": "Is she a doctor?",
-            "vi": "Bà ấy có phải bác sĩ không?"
+            "vi": "Cô ấy có phải bác sĩ không?"
           },
           {
             "en": "Do you like tea?",
@@ -19771,7 +19771,7 @@
             "vi": "Không, cảm ơn."
           }
         ],
-        "hint": "Is she a doctor? - Bà ấy có phải bác sĩ không?\nDo you like tea? - Bạn có thích trà không?\nYes, please. - Vâng, làm ơn.\nNo, thanks. - Không, cảm ơn."
+        "hint": "Is she a doctor? - Cô ấy có phải bác sĩ không?\nDo you like tea? - Bạn có thích trà không?\nYes, please. - Vâng, làm ơn.\nNo, thanks. - Không, cảm ơn."
       },
       {
         "id": 898,
@@ -19804,7 +19804,7 @@
           },
           {
             "en": "She is a singer.",
-            "vi": "Bà ấy là ca sĩ."
+            "vi": "Cô ấy là ca sĩ."
           },
           {
             "en": "Let's go to the library, Mai!",
@@ -19815,7 +19815,7 @@
             "vi": "Mình có con vẹt và cái túi."
           }
         ],
-        "hint": "Bill likes swimming. He has a doll. - Bill thích bơi. Cậu ấy có con búp bê.\nShe is a singer. - Bà ấy là ca sĩ.\nLet's go to the library, Mai! - Chúng ta đến thư viện đi, Mai!\nI have a parrot and a bag. - Mình có con vẹt và cái túi."
+        "hint": "Bill likes swimming. He has a doll. - Bill thích bơi. Cậu ấy có con búp bê.\nShe is a singer. - Cô ấy là ca sĩ.\nLet's go to the library, Mai! - Chúng ta đến thư viện đi, Mai!\nI have a parrot and a bag. - Mình có con vẹt và cái túi."
       },
       {
         "id": 900,
@@ -19843,7 +19843,7 @@
   },
   {
     "id": 17,
-    "text": " Our toys",
+    "text": "Our toys",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit17.png",
     "scenes": [
       {
@@ -22077,7 +22077,7 @@
           },
           {
             "en": "Is she a nurse?",
-            "vi": "Bà ấy có phải y tá không?"
+            "vi": "Cô ấy có phải y tá không?"
           },
           {
             "en": "The cake is in the kitchen.",
@@ -22088,7 +22088,7 @@
             "vi": "Cái đồng hồ ở phía trước cái giường."
           }
         ],
-        "hint": "There's a cup in my bedroom. - Có cái cốc trong phòng ngủ của mình.\nIs she a nurse? - Bà ấy có phải y tá không?\nThe cake is in the kitchen. - Cái bánh ở trong nhà bếp.\nThe clock is in front of the bed. - Cái đồng hồ ở phía trước cái giường."
+        "hint": "There's a cup in my bedroom. - Có cái cốc trong phòng ngủ của mình.\nIs she a nurse? - Cô ấy có phải y tá không?\nThe cake is in the kitchen. - Cái bánh ở trong nhà bếp.\nThe clock is in front of the bed. - Cái đồng hồ ở phía trước cái giường."
       },
       {
         "id": 1003,
@@ -22560,8 +22560,8 @@
             "vi": "Linh thích bánh mì. Cô ấy uống nước."
           },
           {
-            "en": "The cake is on the bed.",
-            "vi": "Cái bánh ở trên cái giường."
+            "en": "The cake is on the table.",
+            "vi": "Cái bánh ở trên bàn."
           },
           {
             "en": "This is Mary. She has five yo-yos.",
@@ -22572,7 +22572,7 @@
             "vi": "Mình thích một ngôi nhà lớn."
           }
         ],
-        "hint": "Linh likes bread. She drinks water. - Linh thích bánh mì. Cô ấy uống nước.\nThe cake is on the bed. - Cái bánh ở trên cái giường.\nThis is Mary. She has five yo-yos. - Đây là Mary. Cô ấy có năm cái yo-yo.\nI like a big house. - Mình thích một ngôi nhà lớn."
+        "hint": "Linh likes bread. She drinks water. - Linh thích bánh mì. Cô ấy uống nước.\nThe cake is on the table. - Cái bánh ở trên bàn.\nThis is Mary. She has five yo-yos. - Đây là Mary. Cô ấy có năm cái yo-yo.\nI like a big house. - Mình thích một ngôi nhà lớn."
       },
       {
         "id": 1025,
@@ -23150,7 +23150,7 @@
   },
   {
     "id": 18,
-    "text": " Playing and doing",
+    "text": "Playing and doing",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit18.png",
     "scenes": [
       {
@@ -25446,7 +25446,7 @@
         "title": [
           {
             "en": "Is she a singer?",
-            "vi": "Bà ấy có phải ca sĩ không?"
+            "vi": "Cô ấy có phải ca sĩ không?"
           },
           {
             "en": "What's his job?",
@@ -25461,7 +25461,7 @@
             "vi": "Mình có hai con mèo."
           }
         ],
-        "hint": "Is she a singer? - Bà ấy có phải ca sĩ không?\nWhat's his job? - Nghề của anh ấy là gì?\nIs this a skateboard? - Đây có phải là ván trượt không?\nI have two cats. - Mình có hai con mèo."
+        "hint": "Is she a singer? - Cô ấy có phải ca sĩ không?\nWhat's his job? - Nghề của anh ấy là gì?\nIs this a skateboard? - Đây có phải là ván trượt không?\nI have two cats. - Mình có hai con mèo."
       },
       {
         "id": 1156,
@@ -25740,14 +25740,14 @@
           },
           {
             "en": "Look at the boy. He's running.",
-            "vi": "Hãy nhìn cậu bé. Cậu bé đang chạy."
+            "vi": "Hãy nhìn bé trai. Bé trai đang chạy."
           },
           {
             "en": "Linh has a brown ruler.",
             "vi": "Linh có cái thước kẻ màu nâu."
           }
         ],
-        "hint": "She's an engineer. - Cô ấy là kĩ sư.\nMy cousin is short. - Anh họ của mình thấp.\nLook at the boy. He's running. - Hãy nhìn cậu bé. Cậu bé đang chạy.\nLinh has a brown ruler. - Linh có cái thước kẻ màu nâu."
+        "hint": "She's an engineer. - Cô ấy là kĩ sư.\nMy cousin is short. - Anh họ của mình thấp.\nLook at the boy. He's running. - Hãy nhìn bé trai. Bé trai đang chạy.\nLinh has a brown ruler. - Linh có cái thước kẻ màu nâu."
       },
       {
         "id": 1169,
@@ -26061,8 +26061,8 @@
         "id": 1183,
         "title": [
           {
-            "en": "There are six apples on the bed.",
-            "vi": "Có sáu quả táo ở trên giường."
+            "en": "There are six apples on the table.",
+            "vi": "Có sáu quả táo ở trên bàn."
           },
           {
             "en": "Mai has a green truck.",
@@ -26077,7 +26077,7 @@
             "vi": "Có một con khỉ. Kia là một con khỉ."
           }
         ],
-        "hint": "There are six apples on the bed. - Có sáu quả táo ở trên giường.\nMai has a green truck. - Mai có xe tải màu xanh lá cây.\nI'm watching TV and listening to music. - Mình đang xem ti vi và nghe nhạc.\nThere's a monkey. That's a monkey. - Có một con khỉ. Kia là một con khỉ."
+        "hint": "There are six apples on the table. - Có sáu quả táo ở trên bàn.\nMai has a green truck. - Mai có xe tải màu xanh lá cây.\nI'm watching TV and listening to music. - Mình đang xem ti vi và nghe nhạc.\nThere's a monkey. That's a monkey. - Có một con khỉ. Kia là một con khỉ."
       },
       {
         "id": 1184,
@@ -26118,10 +26118,10 @@
           },
           {
             "en": "He is a cook.",
-            "vi": "Ông ấy là đầu bếp."
+            "vi": "Anh ấy là đầu bếp."
           }
         ],
-        "hint": "There's a window in the room. - Có một cửa sổ trong phòng.\nI like pizza and popcorn. - Mình thích bánh pizza và bỏng ngô.\nThe lamps are small. - Những đèn nhỏ.\nHe is a cook. - Ông ấy là đầu bếp."
+        "hint": "There's a window in the room. - Có một cửa sổ trong phòng.\nI like pizza and popcorn. - Mình thích bánh pizza và bỏng ngô.\nThe lamps are small. - Những đèn nhỏ.\nHe is a cook. - Anh ấy là đầu bếp."
       },
       {
         "id": 1186,
@@ -26457,7 +26457,7 @@
   },
   {
     "id": 19,
-    "text": " Outdoor activities",
+    "text": "Outdoor activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit19.png",
     "scenes": [
       {
@@ -27942,8 +27942,8 @@
             "vi": "có mây"
           },
           {
-            "en": "cloud",
-            "vi": "đám mây"
+            "en": "grandparents",
+            "vi": "ông bà"
           },
           {
             "en": "sunny",
@@ -27954,7 +27954,7 @@
             "vi": "nhảy dây"
           }
         ],
-        "hint": "cloudy - có mây\ncloud - đám mây\nsunny - có nắng\nskipping - nhảy dây"
+        "hint": "cloudy - có mây\ngrandparents - ông bà\nsunny - có nắng\nskipping - nhảy dây"
       },
       {
         "id": 1269,
@@ -28202,8 +28202,8 @@
         "id": 1280,
         "title": [
           {
-            "en": "cloud",
-            "vi": "đám mây"
+            "en": "grandmother",
+            "vi": "bà"
           },
           {
             "en": "park",
@@ -28218,7 +28218,7 @@
             "vi": "có mây"
           }
         ],
-        "hint": "cloud - đám mây\npark - công viên\nplaying badminton - chơi cầu lông\ncloudy - có mây"
+        "hint": "grandmother - bà\npark - công viên\nplaying badminton - chơi cầu lông\ncloudy - có mây"
       },
       {
         "id": 1281,
@@ -28753,7 +28753,7 @@
         "title": [
           {
             "en": "Is he a driver?",
-            "vi": "Ông ấy có phải tài xế không?"
+            "vi": "Anh ấy có phải tài xế không?"
           },
           {
             "en": "He has three bikes.",
@@ -28768,7 +28768,7 @@
             "vi": "Đây là cây cầu."
           }
         ],
-        "hint": "Is he a driver? - Ông ấy có phải tài xế không?\nHe has three bikes. - Cậu ấy có ba xe đạp.\nLucy is six years old. She has a cake. - Lucy sáu tuổi. Cô ấy có cái bánh.\nThis is a bridge. - Đây là cây cầu."
+        "hint": "Is he a driver? - Anh ấy có phải tài xế không?\nHe has three bikes. - Cậu ấy có ba xe đạp.\nLucy is six years old. She has a cake. - Lucy sáu tuổi. Cô ấy có cái bánh.\nThis is a bridge. - Đây là cây cầu."
       },
       {
         "id": 1306,
@@ -29043,7 +29043,7 @@
           },
           {
             "en": "He's a driver.",
-            "vi": "Ông ấy là tài xế."
+            "vi": "Anh ấy là tài xế."
           },
           {
             "en": "Would you like some chicken?",
@@ -29054,7 +29054,7 @@
             "vi": "Bạn đang làm gì?"
           }
         ],
-        "hint": "Is this a pillow? - Đây có phải là cái gối không?\nHe's a driver. - Ông ấy là tài xế.\nWould you like some chicken? - Bạn có muốn một ít thịt gà không?\nWhat are you doing? - Bạn đang làm gì?"
+        "hint": "Is this a pillow? - Đây có phải là cái gối không?\nHe's a driver. - Anh ấy là tài xế.\nWould you like some chicken? - Bạn có muốn một ít thịt gà không?\nWhat are you doing? - Bạn đang làm gì?"
       },
       {
         "id": 1319,
@@ -29764,7 +29764,7 @@
   },
   {
     "id": 20,
-    "text": " At the zoo",
+    "text": "At the zoo",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/unit20.png",
     "scenes": [
       {
@@ -32138,10 +32138,10 @@
           },
           {
             "en": "Is he a driver?",
-            "vi": "Ông ấy có phải tài xế không?"
+            "vi": "Anh ấy có phải tài xế không?"
           }
         ],
-        "hint": "Where's Ben? - Ben ở đâu?\nIs that a kangaroo? - Kia có phải là chuột túi không?\nWhere are the chairs? - Những cái ghế ở đâu?\nIs he a driver? - Ông ấy có phải tài xế không?"
+        "hint": "Where's Ben? - Ben ở đâu?\nIs that a kangaroo? - Kia có phải là chuột túi không?\nWhere are the chairs? - Những cái ghế ở đâu?\nIs he a driver? - Anh ấy có phải tài xế không?"
       },
       {
         "id": 1459,

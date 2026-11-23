@@ -29,7 +29,7 @@
         "type": "multiChoice",
         "value": {
           "id": 204,
-          "question": "Who's that? – ___ my mother.",
+          "question": "Choose the correct answer.\nA: Who's that?\nB: ___ my mother.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -48,8 +48,8 @@
         "value": {
           "id": 497,
           "sentence": "cu_ta_n",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/curtain.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/curtain.mp3",
           "answer": "ri",
           "hint": "curtain: rèm cửa",
           "topicId": 14
@@ -58,7 +58,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 307,
+          "id": 306,
           "audioUrl": "",
           "question": "Nam's sister would like some bread, meat, and some milk.",
           "correctAnswer": [
@@ -70,12 +70,12 @@
             "một ít sữa."
           ],
           "scramble": [
-            "Em gái của Nam",
-            "muốn một ít",
             "bánh mì,",
+            "một ít sữa.",
+            "muốn một ít",
             "thịt",
             "và",
-            "một ít sữa."
+            "Em gái của Nam"
           ],
           "hint": "Nam's sister would like some bread, meat, and some milk. → Em gái của Nam muốn một ít bánh mì, thịt và một ít sữa.",
           "eraseFlag": 0,
@@ -86,7 +86,7 @@
         "type": "multiChoice",
         "value": {
           "id": 440,
-          "question": "Read and choose the correct answer.\nI don't have any pets, but my friend Mai has many. She has two cats, three rabbits and a parrot.\n\nHow many rabbits does Mai have?",
+          "question": "Read and choose the correct answer.\n📖 I don't have any pets, but my friend Mai has many. She has two cats, three rabbits and a parrot.\n\n❓ How many rabbits does Mai have?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -180,7 +180,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 72,
+          "id": 71,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -276,7 +276,7 @@
         "type": "multiChoice",
         "value": {
           "id": 910,
-          "question": "Read and choose True or False.\nToday is Sunday. Grandma cooks a big lunch: chicken, fish, eggs and rice. Everyone likes it.\n\nToday is Saturday.",
+          "question": "Read and choose True or False.\n📖 Today is Sunday. Grandma cooks a big lunch: chicken, fish, eggs and rice. Everyone likes it.\n\n👉 Today is Saturday.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -303,7 +303,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 510,
+          "id": 508,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -420,7 +420,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 156,
+          "id": 155,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -502,9 +502,9 @@
             ""
           ],
           "imageNames": [
-            "dining room",
-            "doctor",
-            "dog"
+            "I have a dolphin and a yo-yo.",
+            "I have a giraffe and a yo-yo.",
+            "I have a dog and a yo-yo."
           ],
           "correctIndex": 2,
           "hint": "I have a dog and a yo-yo. → Mình có con chó và cái yo-yo.\n(Chữ cần chọn: dog – con chó)",
@@ -544,9 +544,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 673,
+          "id": 670,
           "audioUrl": "",
-          "question": "",
+          "question": "con ong",
           "correctAnswer": [
             "B",
             "E",
@@ -566,7 +566,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1093,
-          "question": "Read and choose True or False.\nAt the zoo, there are three peacocks. Two are walking and one is dancing. Its tail is very big.\n\nTwo peacocks are dancing.",
+          "question": "Read and choose True or False.\n📖 At the zoo, there are three peacocks. Two are walking and one is dancing. Its tail is very big.\n\n👉 Two peacocks are dancing.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -618,14 +618,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fence.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/park.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/wardrobe.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fence.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/gate.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sofa.png"
           ],
           "imageNames": [
-            "park",
+            "wardrobe",
             "fence",
-            "gate"
+            "sofa"
           ],
           "correctIndex": 1,
           "hint": "fence → hàng rào\n(Hình đúng: fence – hàng rào)",
@@ -653,8 +653,8 @@
         "value": {
           "id": 640,
           "sentence": "gr_pe_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/grapes.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/grapes.mp3",
           "answer": "as",
           "hint": "grapes: quả nho",
           "topicId": 15
@@ -663,7 +663,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 402,
+          "id": 401,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -674,11 +674,11 @@
             "have?"
           ],
           "scramble": [
-            "How",
+            "do you",
+            "have?",
             "many",
             "rabbits",
-            "do you",
-            "have?"
+            "How"
           ],
           "hint": "How many rabbits do you have? → Bạn có bao nhiêu con thỏ?",
           "eraseFlag": 0,
@@ -699,7 +699,7 @@
             "D. toys"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Bill: What toys do you have?\nMinh: I have a plane and a train. I don't have a kite.\n→ Bill: Bạn có những đồ chơi nào?\nMinh: Mình có một chiếc máy bay và một chiếc tàu hỏa. Mình không có diều.\n✅ B. a kite",
+          "hint": "🎧 Bài nghe: A: What toys do you have?\nB: I have a plane and a train. I don't have a kite.\n→ A: Bạn có những đồ chơi nào?\nB: Mình có một chiếc máy bay và một chiếc tàu hỏa. Mình không có diều.\n✅ B. a kite",
           "topicId": 17
         }
       },
@@ -783,7 +783,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 140,
+          "id": 139,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -905,9 +905,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 569,
+          "id": 567,
           "audioUrl": "",
-          "question": "",
+          "question": "viết",
           "correctAnswer": [
             "WR",
             "IT",
@@ -994,7 +994,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1173,
-          "question": "Find the mistake.\nThis are Linh. She has seven teapots.",
+          "question": "Find the mistake.\n<u>This</u> <u>are</u> <u>Linh</u>. She <u>has</u> seven teapots.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1013,8 +1013,8 @@
         "value": {
           "id": 340,
           "sentence": "r_of",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/roof.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/roof.mp3",
           "answer": "o",
           "hint": "roof: mái nhà",
           "topicId": 13
@@ -1023,7 +1023,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 300,
+          "id": 299,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -1101,9 +1101,9 @@
             ""
           ],
           "imageNames": [
-            "three bikes",
-            "three trains",
-            "three kites"
+            "He has three bikes.",
+            "He has three trains.",
+            "He has three kites."
           ],
           "correctIndex": 1,
           "hint": "He has three trains. → Cậu ấy có ba tàu hỏa.\n(Chữ cần chọn: three trains – ba tàu hỏa)",
@@ -1143,7 +1143,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1501,
+          "id": 1492,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -1218,13 +1218,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/room.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/chair.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/window.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/livingroom.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/diningroom.png"
           ],
           "imageNames": [
             "room",
-            "chair",
-            "window"
+            "living room",
+            "dining room"
           ],
           "correctIndex": 0,
           "hint": "room → căn phòng\n(Hình đúng: room – căn phòng)",
@@ -1254,8 +1254,8 @@
         "value": {
           "id": 770,
           "sentence": "r_bb_t",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/rabbit.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/rabbit.mp3",
           "answer": "ai",
           "hint": "rabbit: con thỏ",
           "topicId": 16
@@ -1264,7 +1264,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 461,
+          "id": 459,
           "audioUrl": "",
           "question": "Lucy và Mai có ba con búp bê.",
           "correctAnswer": [
@@ -1276,10 +1276,10 @@
             "dolls."
           ],
           "scramble": [
-            "Lucy",
-            "and",
-            "Mai",
             "have",
+            "Mai",
+            "and",
+            "Lucy",
             "three",
             "dolls."
           ],
@@ -1292,7 +1292,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1394,
-          "question": "Find the mistake.\nLinh have a red teddy bear.",
+          "question": "Find the mistake.\nLinh <u>have</u> <u>a</u> <u>red</u> teddy <u>bear</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1340,13 +1340,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/listeningtomusic.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/imlaughing.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/imwatchingtv.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/dancing.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/running.png"
           ],
           "imageNames": [
             "listening to music",
-            "I'm laughing.",
-            "I'm watching TV."
+            "dancing",
+            "running"
           ],
           "correctIndex": 0,
           "hint": "Mai is listening to music in the living room. → Mai đang nghe nhạc trong phòng khách.\n(Hình đúng: listening to music – nghe nhạc)",
@@ -1386,7 +1386,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 160,
+          "id": 159,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -1418,16 +1418,16 @@
         "value": {
           "id": 253,
           "question": "Look and choose the correct answer.",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixapplesonthebed.png",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixapplesonthetable.png",
           "questionAudioUrl": "",
           "choices": [
-            "A. four goats on the bed",
-            "B. five mangoes on the bed",
-            "C. six apples on the bed",
-            "D. four bells on the bed"
+            "A. four goats in the garden",
+            "B. five mangoes on the table",
+            "C. six apples on the table",
+            "D. four bells on the desk"
           ],
           "correctAnswerIndex": 2,
-          "hint": "Nhìn hình và chọn.\n✅ C. six apples on the bed → sáu quả táo ở trên giường",
+          "hint": "Nhìn hình và chọn.\n✅ C. six apples on the table → sáu quả táo ở trên bàn",
           "topicId": 14
         }
       },
@@ -1511,7 +1511,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 682,
+          "id": 679,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -1521,10 +1521,10 @@
             "doing?"
           ],
           "scramble": [
-            "What",
             "are",
-            "you",
-            "doing?"
+            "What",
+            "doing?",
+            "you"
           ],
           "hint": "What are you doing? → Bạn đang làm gì vậy?",
           "eraseFlag": 0,
@@ -1629,7 +1629,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 324,
+          "id": 323,
           "audioUrl": "",
           "question": "I would like some fish, please.",
           "correctAnswer": [
@@ -1709,9 +1709,9 @@
             ""
           ],
           "imageNames": [
-            "skateboard",
-            "six hamsters",
-            "ship"
+            "It's a skateboard.",
+            "It's a shirt.",
+            "It's a ship."
           ],
           "correctIndex": 0,
           "hint": "It's a skateboard. → Đó là ván trượt.\n(Chữ cần chọn: skateboard – ván trượt)",
@@ -1751,9 +1751,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 58,
+          "id": 57,
           "audioUrl": "",
-          "question": "",
+          "question": "mặt trời",
           "correctAnswer": [
             "S",
             "U",
@@ -1773,7 +1773,7 @@
         "type": "multiChoice",
         "value": {
           "id": 132,
-          "question": "Who's that? – ___ my grandfather.",
+          "question": "Choose the correct answer.\nA: Who's that?\nB: ___ my grandfather.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1794,7 +1794,7 @@
           "title": [
             {
               "en": "No, she isn't. She's a worker.",
-              "vi": "Không phải. Bà ấy là công nhân."
+              "vi": "Không phải. Cô ấy là công nhân."
             },
             {
               "en": "He's twenty years old.",
@@ -1809,7 +1809,7 @@
               "vi": "Những cái bàn ở đâu?"
             }
           ],
-          "hint": "No, she isn't. She's a worker. - Không phải. Bà ấy là công nhân.\nHe's twenty years old. - Anh ấy hai mươi tuổi.\nWhere's the kite? - Cái diều ở đâu?\nWhere are the tables? - Những cái bàn ở đâu?",
+          "hint": "No, she isn't. She's a worker. - Không phải. Cô ấy là công nhân.\nHe's twenty years old. - Anh ấy hai mươi tuổi.\nWhere's the kite? - Cái diều ở đâu?\nWhere are the tables? - Những cái bàn ở đâu?",
           "topicId": 13
         }
       }
@@ -1827,14 +1827,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/juice.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/water.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/egg.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/juice.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/milk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/apples.png"
           ],
           "imageNames": [
-            "water",
+            "egg",
             "juice",
-            "milk"
+            "apples"
           ],
           "correctIndex": 1,
           "hint": "juice → nước ép\n(Hình đúng: juice – nước ép)",
@@ -1862,8 +1862,8 @@
         "value": {
           "id": 935,
           "sentence": "pla_e",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/plane.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/plane.mp3",
           "answer": "n",
           "hint": "plane: máy bay",
           "topicId": 17
@@ -1872,7 +1872,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 538,
+          "id": 536,
           "audioUrl": "",
           "question": "Are Nam and Phong playing basketball? – Yes, they are.",
           "correctAnswer": [
@@ -1884,12 +1884,12 @@
             "đúng vậy."
           ],
           "scramble": [
-            "Nam và Phong",
-            "đang chơi",
+            "đúng vậy.",
             "bóng rổ",
             "phải không?",
             "– Vâng,",
-            "đúng vậy."
+            "đang chơi",
+            "Nam và Phong"
           ],
           "hint": "Are Nam and Phong playing basketball? Yes, they are. → Nam và Phong đang chơi bóng rổ phải không? Vâng, đúng vậy.",
           "eraseFlag": 0,
@@ -1900,7 +1900,7 @@
         "type": "multiChoice",
         "value": {
           "id": 663,
-          "question": "Read and choose the correct answer.\nMy grandfather makes toys from wood. He makes a ship for me and a doll for my sister.\n\nWhat does the grandfather make for the speaker?",
+          "question": "Read and choose the correct answer.\n📖 My grandfather makes toys from wood. He makes a ship for me and a doll for my sister.\n\n❓ What does the grandfather make for the speaker?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -1947,13 +1947,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/itsabellitsred.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/blanket.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/clock.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shorts.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hat.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bell.png"
           ],
           "imageNames": [
-            "blanket",
-            "clock",
+            "shorts",
+            "hat",
             "bell"
           ],
           "correctIndex": 2,
@@ -1994,7 +1994,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 243,
+          "id": 242,
           "audioUrl": "",
           "question": "Đây là bạn của mình, Ben. Cậu ấy bảy tuổi.",
           "correctAnswer": [
@@ -2092,7 +2092,7 @@
         "type": "multiChoice",
         "value": {
           "id": 580,
-          "question": "___ he doing? – He's jumping.",
+          "question": "Choose the correct answer.\nA: ___ he doing?\nB: He's jumping.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2121,9 +2121,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 735,
+          "id": 732,
           "audioUrl": "",
-          "question": "",
+          "question": "chuột túi",
           "correctAnswer": [
             "KA",
             "N",
@@ -2194,12 +2194,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/wherestheteapot.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fridge.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shirt.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/teapot.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/cup.png"
           ],
           "imageNames": [
-            "fridge",
+            "shirt",
             "teapot",
             "cup"
           ],
@@ -2231,8 +2231,8 @@
         "value": {
           "id": 635,
           "sentence": "f_sh",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fish.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fish.mp3",
           "answer": "i",
           "hint": "fish: cá",
           "topicId": 15
@@ -2241,7 +2241,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 427,
+          "id": 426,
           "audioUrl": "",
           "question": "Bill có cái bút chì màu đỏ.",
           "correctAnswer": [
@@ -2320,9 +2320,9 @@
             ""
           ],
           "imageNames": [
-            "door",
-            "dog",
-            "desk"
+            "The mango is next to the door.",
+            "The mango is next to the lamp.",
+            "The mango is next to the desk."
           ],
           "correctIndex": 0,
           "hint": "The mango is next to the door. → Quả xoài ở bên cạnh cánh cửa.\n(Chữ cần chọn: door – cánh cửa)",
@@ -2362,9 +2362,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 85,
+          "id": 84,
           "audioUrl": "",
-          "question": "",
+          "question": "nhà hàng",
           "correctAnswer": [
             "RE",
             "ST",
@@ -2392,7 +2392,7 @@
         "type": "multiChoice",
         "value": {
           "id": 210,
-          "question": "What's her job? – ___",
+          "question": "Choose the correct answer.\nA: What's her job?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2447,12 +2447,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bird.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/chicken.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/lion.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/turtle.png"
           ],
           "imageNames": [
             "bird",
-            "chicken",
+            "lion",
             "turtle"
           ],
           "correctIndex": 0,
@@ -2483,8 +2483,8 @@
         "value": {
           "id": 1091,
           "sentence": "rea_in_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/reading.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/reading.mp3",
           "answer": "dg",
           "hint": "reading: đọc sách",
           "topicId": 18
@@ -2493,7 +2493,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 663,
+          "id": 660,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -2504,11 +2504,11 @@
             "skating."
           ],
           "scramble": [
-            "What's",
+            "– She is",
+            "skating.",
             "Kate",
             "doing?",
-            "– She is",
-            "skating."
+            "What's"
           ],
           "hint": "What's Kate doing? – She is skating. → Kate đang làm gì vậy? – Cô ấy đang trượt ván.",
           "eraseFlag": 0,
@@ -2519,7 +2519,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1488,
-          "question": "Find the mistake.\nThat's an goat. It's in the garden.",
+          "question": "Find the mistake.\nThat's <u>an</u> goat. It's <u>in</u> <u>the</u> <u>garden</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -2602,20 +2602,20 @@
         "type": "completeSentence",
         "value": {
           "id": 531,
-          "sentence": "two teapots on the _ _ _",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twoteapotsonthebed.png",
+          "sentence": "two teapots on the _ _ _ _ _",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twoteapotsonthetable.png",
           "audioUrl": "",
-          "answer": "bed",
-          "hint": "two teapots on the bed: hai ấm trà ở trên giường",
+          "answer": "table",
+          "hint": "two teapots on the table: hai ấm trà ở trên bàn",
           "topicId": 14
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 370,
+          "id": 369,
           "audioUrl": "",
-          "question": "Có bốn cái chuông ở trên giường.",
+          "question": "Có bốn cái chuông ở trên bàn học.",
           "correctAnswer": [
             "There",
             "are",
@@ -2623,19 +2623,19 @@
             "bells",
             "on",
             "the",
-            "bed."
+            "desk."
           ],
           "scramble": [
-            "There",
-            "on",
-            "the",
-            "bell",
-            "are",
-            "four",
             "bells",
-            "bed."
+            "the",
+            "four",
+            "are",
+            "bell",
+            "on",
+            "There",
+            "desk."
           ],
-          "hint": "Có bốn cái chuông ở trên giường. → There are four bells on the bed.",
+          "hint": "Có bốn cái chuông ở trên bàn học. → There are four bells on the desk.",
           "eraseFlag": 0,
           "topicId": 15
         }
@@ -2736,7 +2736,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 60,
+          "id": 59,
           "audioUrl": "",
           "question": "My sister is twenty years old.",
           "correctAnswer": [
@@ -2851,7 +2851,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 463,
+          "id": 461,
           "audioUrl": "",
           "question": "They have a train, a truck, and three ships.",
           "correctAnswer": [
@@ -2863,12 +2863,12 @@
             "ba con tàu."
           ],
           "scramble": [
-            "Họ có",
+            "ba con tàu.",
             "một",
             "chiếc tàu hỏa,",
-            "một chiếc xe tải",
+            "Họ có",
             "và",
-            "ba con tàu."
+            "một chiếc xe tải"
           ],
           "hint": "They have a train, a truck and three ships. → Họ có một chiếc tàu hỏa, một chiếc xe tải và ba chiếc tàu.",
           "eraseFlag": 0,
@@ -2931,9 +2931,9 @@
             ""
           ],
           "imageNames": [
-            "zoo",
-            "bear",
-            "zebra"
+            "I can see a goldfish.",
+            "I can see a bear.",
+            "I can see a zebra."
           ],
           "correctIndex": 2,
           "hint": "I can see a zebra. → Mình có thể nhìn thấy một con ngựa vằn.\n(Chữ cần chọn: zebra – con ngựa vằn)",
@@ -2948,13 +2948,13 @@
           "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/family.png",
           "questionAudioUrl": "",
           "choices": [
-            "A. doctor",
+            "A. grandfather",
             "B. mother",
             "C. family",
-            "D. sister"
+            "D. cousin"
           ],
           "correctAnswerIndex": 2,
-          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. doctor – bác sĩ\nB. mother – mẹ\n✅ C. family – gia đình\nD. sister – chị/em gái",
+          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. grandfather – ông\nB. mother – mẹ\n✅ C. family – gia đình\nD. cousin – anh/chị/em họ",
           "topicId": 11
         }
       },
@@ -2973,7 +2973,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 189,
+          "id": 188,
           "audioUrl": "",
           "question": "It's next to the table.",
           "correctAnswer": [
@@ -3047,12 +3047,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/ship.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/plane.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/doll.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/train.png"
           ],
           "imageNames": [
             "ship",
-            "plane",
+            "doll",
             "train"
           ],
           "correctIndex": 0,
@@ -3091,7 +3091,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 724,
+          "id": 721,
           "audioUrl": "",
           "question": "Con khỉ đang làm gì vậy? – Nó đang nhảy múa.",
           "correctAnswer": [
@@ -3131,7 +3131,7 @@
             "D. eleven"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 Bài nghe: Mai: How old is your brother?\nBen: He's fifteen.\nMai: And your sister?\nBen: She's twelve.\n→ Mai: Anh trai bạn bao nhiêu tuổi?\nBen: Anh ấy mười lăm tuổi.\nMai: Còn chị gái bạn?\nBen: Chị ấy mười hai tuổi.\n✅ C. twelve",
+          "hint": "🎧 Bài nghe: A: How old is your brother?\nB: He's fifteen.\nA: And your sister?\nB: She's twelve.\n→ A: Anh trai bạn bao nhiêu tuổi?\nB: Anh ấy mười lăm tuổi.\nA: Còn chị gái bạn?\nB: Chị ấy mười hai tuổi.\n✅ C. twelve",
           "topicId": 11
         }
       },
@@ -3168,13 +3168,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/letslookatthesea.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/rainbow.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/leaf.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/lake.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sea.png"
           ],
           "imageNames": [
+            "rainbow",
             "leaf",
-            "lake",
             "sea"
           ],
           "correctIndex": 2,
@@ -3204,18 +3204,18 @@
         "type": "completeSentence",
         "value": {
           "id": 729,
-          "sentence": "four _ _ _ _ _ on the bed",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourgoatsonthebed.png",
+          "sentence": "four _ _ _ _ _ in the garden",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourgoatsinthegarden.png",
           "audioUrl": "",
           "answer": "goats",
-          "hint": "four goats on the bed: bốn con dê ở trên giường",
+          "hint": "four goats in the garden: bốn con dê trong khu vườn",
           "topicId": 15
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 441,
+          "id": 439,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -3246,16 +3246,16 @@
         "value": {
           "id": 1371,
           "question": "Choose the missing letter.\ngr_pes",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/grapes.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/grapes.mp3",
           "choices": [
             "A. p",
             "B. j",
             "C. a",
-            "D. o"
+            "D. x"
           ],
           "correctAnswerIndex": 2,
-          "hint": "Điền chữ cái còn thiếu.\n✅ C. a → grapes (quả nho)",
+          "hint": "Điền chữ cái còn thiếu.\n✅ C. a → grapes (quả nhx)",
           "topicId": 17
         }
       },
@@ -3337,7 +3337,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 888,
+          "id": 885,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -3405,13 +3405,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/namlikeschickenhedrinksjuice.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bean.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bread.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/ox.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bee.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/chicken.png"
           ],
           "imageNames": [
-            "bean",
-            "bread",
+            "ox",
+            "bee",
             "chicken"
           ],
           "correctIndex": 2,
@@ -3442,8 +3442,8 @@
         "value": {
           "id": 943,
           "sentence": "tr_ck",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/truck.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/truck.mp3",
           "answer": "u",
           "hint": "truck: xe tải",
           "topicId": 17
@@ -3452,7 +3452,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 540,
+          "id": 538,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -3533,9 +3533,9 @@
             ""
           ],
           "imageNames": [
-            "banana",
-            "bag",
-            "balloon"
+            "That's Bill. He has a banana.",
+            "That's Bill. He has a biscuit.",
+            "That's Bill. He has a bean."
           ],
           "correctIndex": 0,
           "hint": "That's Bill. He has a banana. → Kia là Bill. Cậu ấy có quả chuối.\n(Chữ cần chọn: banana – quả chuối)",
@@ -3575,7 +3575,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1021,
+          "id": 1016,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -3686,8 +3686,8 @@
         "value": {
           "id": 1396,
           "sentence": "eleph__t",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/elephant.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/elephant.mp3",
           "answer": "an",
           "hint": "elephant: con voi",
           "topicId": 20
@@ -3773,14 +3773,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/icanseethirteenrobots.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nineteenkittens.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twentybikes.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thirteenrobots.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twentybikes.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/thirteenbags.png"
           ],
           "imageNames": [
-            "nineteen kittens",
+            "twenty bikes",
             "thirteen robots",
-            "twenty bikes"
+            "thirteen bags"
           ],
           "correctIndex": 1,
           "hint": "I can see thirteen robots. → Mình nhìn thấy mười ba con rô-bốt.\n(Hình đúng: thirteen robots – mười ba con rô-bốt)",
@@ -3820,7 +3820,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 519,
+          "id": 517,
           "audioUrl": "",
           "question": "Cái hộp ở trong phòng khách.",
           "correctAnswer": [
@@ -3899,13 +3899,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/swing.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/walk.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/run.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bed.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/tv.png"
           ],
           "imageNames": [
             "swing",
-            "walk",
-            "run"
+            "bed",
+            "TV"
           ],
           "correctIndex": 0,
           "hint": "swing → đu xích đu/ xích đu\n(Hình đúng: swing – đu xích đu/ xích đu)",
@@ -3924,7 +3924,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Lucy: Who's that girl?\nMary: That's my cousin. She's thirteen years old.\n→ Lucy: Cô bé kia là ai vậy?\nMary: Đó là chị họ mình. Chị ấy mười ba tuổi.\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: Who's that girl?\nB: That's my cousin. She's thirteen years old.\n→ A: Bé gái kia là ai vậy?\nB: Đó là chị họ mình. Chị ấy mười ba tuổi.\n✅ B. False",
           "topicId": 11
         }
       },
@@ -3943,7 +3943,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 969,
+          "id": 965,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -3963,7 +3963,7 @@
         "type": "multiChoice",
         "value": {
           "id": 274,
-          "question": "Where's the poster? – ___",
+          "question": "Choose the correct answer.\nA: Where's the poster?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4010,13 +4010,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/ihavefourdogs.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourgiraffes.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twogoldfish.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threedogs.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourdogs.png"
           ],
           "imageNames": [
+            "four giraffes",
             "two goldfish",
-            "three dogs",
             "four dogs"
           ],
           "correctIndex": 2,
@@ -4047,8 +4047,8 @@
         "value": {
           "id": 1155,
           "sentence": "you__",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/young.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/young.mp3",
           "answer": "ng",
           "hint": "young: trẻ",
           "topicId": 18
@@ -4057,7 +4057,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 648,
+          "id": 645,
           "audioUrl": "",
           "question": "Is Minh skipping with his friends? – Yes, he is.",
           "correctAnswer": [
@@ -4069,12 +4069,12 @@
             "– Vâng, đúng rồi."
           ],
           "scramble": [
-            "Minh",
-            "đang nhảy dây",
-            "với bạn",
-            "của cậu ấy",
             "phải không?",
-            "– Vâng, đúng rồi."
+            "với bạn",
+            "– Vâng, đúng rồi.",
+            "Minh",
+            "của cậu ấy",
+            "đang nhảy dây"
           ],
           "hint": "Is Minh skipping with his friends? – Yes, he is. → Minh đang nhảy dây với bạn của cậu ấy phải không? – Vâng, đúng rồi.",
           "eraseFlag": 0,
@@ -4137,9 +4137,9 @@
             ""
           ],
           "imageNames": [
-            "dog",
-            "doctor",
-            "door"
+            "My father is a driver.",
+            "My father is a doctor.",
+            "My father is a singer."
           ],
           "correctIndex": 1,
           "hint": "My father is a doctor. → Bố mình là bác sĩ.\n(Chữ cần chọn: doctor – bác sĩ)",
@@ -4179,7 +4179,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1137,
+          "id": 1131,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -4199,7 +4199,7 @@
         "type": "multiChoice",
         "value": {
           "id": 945,
-          "question": "Read and choose True or False.\nI don't have any pets, but my friend Mai has many. She has two cats, three rabbits and a parrot.\n\nThe speaker has no pets.",
+          "question": "Read and choose True or False.\n📖 I don't have any pets, but my friend Mai has many. She has two cats, three rabbits and a parrot.\n\n👉 The speaker has no pets.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4269,7 +4269,7 @@
         "type": "multiChoice",
         "value": {
           "id": 733,
-          "question": "Read and complete.\nBill: ___ you like some rice?\nBen: Yes, please.",
+          "question": "Read and complete.\nA: ___ you like some rice?\nB: Yes, please.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4298,7 +4298,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 97,
+          "id": 96,
           "audioUrl": "",
           "question": "Không, cô ấy không phải là y tá. Cô ấy là bác sĩ.",
           "correctAnswer": [
@@ -4422,7 +4422,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 590,
+          "id": 588,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -4501,13 +4501,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/brother.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/son.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/father.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/parents.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/brother.png"
           ],
           "imageNames": [
-            "son",
             "father",
+            "parents",
             "brother"
           ],
           "correctIndex": 2,
@@ -4548,7 +4548,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1036,
+          "id": 1031,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -4568,13 +4568,13 @@
         "type": "multiChoice",
         "value": {
           "id": 357,
-          "question": "Read and complete.\nMinh: What's his job?\nMai: He's ___ worker.",
+          "question": "Read and complete.\nA: What's his job?\nB: He's ___ worker.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
             "A. a",
             "B. an",
-            "C. the",
+            "C. two",
             "D. two"
           ],
           "correctAnswerIndex": 0,
@@ -4662,7 +4662,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 733,
+          "id": 730,
           "audioUrl": "",
           "question": "Where are you, Mai? – I am at the zoo.",
           "correctAnswer": [
@@ -4744,9 +4744,9 @@
             ""
           ],
           "imageNames": [
-            "brother",
-            "bathroom",
-            "baby brother"
+            "The bedroom is here.",
+            "The bathroom is here.",
+            "The living room is here."
           ],
           "correctIndex": 1,
           "hint": "The bathroom is here. → Phòng tắm ở đây.\n(Chữ cần chọn: bathroom – phòng tắm)",
@@ -4786,7 +4786,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1174,
+          "id": 1167,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -4806,7 +4806,7 @@
         "type": "multiChoice",
         "value": {
           "id": 983,
-          "question": "Read and choose True or False.\nMary has a box of toys. In the box, there are two dolls, a ball and three small cars.\n\nThere is a ball in the box.",
+          "question": "Read and choose True or False.\n📖 Mary has a box of toys. In the box, there are two dolls, a ball and three small cars.\n\n👉 There is a ball in the box.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4895,8 +4895,8 @@
         "value": {
           "id": 178,
           "sentence": "doct__",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/doctor.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/doctor.mp3",
           "answer": "or",
           "hint": "doctor: bác sĩ",
           "topicId": 12
@@ -4905,7 +4905,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 195,
+          "id": 194,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -4933,7 +4933,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1232,
-          "question": "Find the mistake: \nThere are two window. They're small.",
+          "question": "Find the mistake.\n<u>There</u> are two <u>window</u>. <u>They're</u> <u>small</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -4943,7 +4943,7 @@
             "D. small"
           ],
           "correctAnswerIndex": 1,
-          "hint": "✅ B. window\nFind the mistake: There are two window. They're are small.\n→ Có hai cửa sổ. Chúng nhỏ.\n\"two window\" sai → số nhiều phải là windows.",
+          "hint": "✅ B. window\nThere are two window. They're small.\n→ Có hai cửa sổ. Chúng nhỏ.\n\"two window\" sai → số nhiều phải là windows.",
           "topicId": 14
         }
       },
@@ -4982,12 +4982,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivecats.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fiveparrots.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivebirds.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivepandas.png"
           ],
           "imageNames": [
             "five cats",
             "five parrots",
-            "five birds"
+            "five pandas"
           ],
           "correctIndex": 0,
           "hint": "I have five cats. → Mình có năm con mèo.\n(Hình đúng: five cats – năm con mèo)",
@@ -5027,7 +5027,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 692,
+          "id": 689,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -5107,12 +5107,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/pupil.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/teacher.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/desk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/worker.png"
           ],
           "imageNames": [
             "pupil",
             "teacher",
-            "desk"
+            "worker"
           ],
           "correctIndex": 1,
           "hint": "teacher → giáo viên\n(Hình đúng: teacher – giáo viên)",
@@ -5152,9 +5152,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 362,
+          "id": 361,
           "audioUrl": "",
-          "question": "",
+          "question": "bánh quy",
           "correctAnswer": [
             "BI",
             "SC",
@@ -5260,8 +5260,8 @@
         "value": {
           "id": 1375,
           "sentence": "t__tle",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/turtle.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/turtle.mp3",
           "answer": "ur",
           "hint": "turtle: con rùa",
           "topicId": 20
@@ -5348,9 +5348,9 @@
             ""
           ],
           "imageNames": [
-            "bed",
-            "bike",
-            "bird"
+            "There's a bed in my bedroom.",
+            "There's a bench in my bedroom.",
+            "There's a roof in my bedroom."
           ],
           "correctIndex": 0,
           "hint": "There's a bed in my bedroom. → Có một cái giường trong phòng ngủ của mình.\n(Chữ cần chọn: bed – cái giường)",
@@ -5390,7 +5390,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 503,
+          "id": 501,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -5503,8 +5503,8 @@
         "value": {
           "id": 403,
           "sentence": "rest__rant",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/restaurant.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/restaurant.mp3",
           "answer": "au",
           "hint": "restaurant: nhà hàng",
           "topicId": 13
@@ -5513,7 +5513,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 241,
+          "id": 240,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -5524,11 +5524,11 @@
             "room."
           ],
           "scramble": [
-            "There's",
-            "a",
             "desk",
-            "in the",
-            "room."
+            "a",
+            "There's",
+            "room.",
+            "in the"
           ],
           "hint": "There's a desk in the room. → Có một cái bàn trong phòng.",
           "eraseFlag": 0,
@@ -5563,8 +5563,8 @@
               "vi": "nhiều"
             },
             {
-              "en": "any",
-              "vi": "nào"
+              "en": "paint",
+              "vi": "vẽ / tô màu"
             },
             {
               "en": "hamster",
@@ -5575,7 +5575,7 @@
               "vi": "con thỏ"
             }
           ],
-          "hint": "many - nhiều\nany - nào\nhamster - chuột hamster\nrabbit - con thỏ",
+          "hint": "many - nhiều\npaint - vẽ / tô màu\nhamster - chuột hamster\nrabbit - con thỏ",
           "topicId": 16
         }
       },
@@ -5605,8 +5605,8 @@
         "value": {
           "id": 1384,
           "question": "Choose the missing letter.\nlau_hing",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/laughing.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/laughing.mp3",
           "choices": [
             "A. y",
             "B. a",
@@ -5633,7 +5633,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 731,
+          "id": 728,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -5711,14 +5711,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/gate.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/house.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/diningtable.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/gate.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/garden.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/pillow.png"
           ],
           "imageNames": [
-            "house",
+            "dining table",
             "gate",
-            "garden"
+            "pillow"
           ],
           "correctIndex": 1,
           "hint": "gate → cái cổng\n(Hình đúng: gate – cổng)",
@@ -5751,14 +5751,14 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/theresagirlnearthelake.mp3",
           "answer": "lake",
-          "hint": "There's a girl near the lake: Có một cô bé ở gần cái hồ.",
+          "hint": "There's a girl near the lake: Có một bé gái ở gần cái hồ.",
           "topicId": 15
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 1214,
+          "id": 1207,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -5783,7 +5783,7 @@
         "type": "multiChoice",
         "value": {
           "id": 496,
-          "question": "Read and complete.\nNam: ___ they have any toys?\nMinh: Yes, they do.",
+          "question": "Read and complete.\nA: ___ they have any toys?\nB: Yes, they do.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -5867,8 +5867,8 @@
         "value": {
           "id": 49,
           "sentence": "gr_ndfather",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/grandfather.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/grandfather.mp3",
           "answer": "a",
           "hint": "grandfather: ông",
           "topicId": 11
@@ -5877,7 +5877,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 79,
+          "id": 78,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -5928,8 +5928,8 @@
               "vi": "Anh/em trai của mình là công nhân."
             },
             {
-              "en": "There are five bananas on the bed.",
-              "vi": "Có năm quả chuối ở trên giường."
+              "en": "There are five bananas on the table.",
+              "vi": "Có năm quả chuối ở trên bàn."
             },
             {
               "en": "The clock is next to the desk.",
@@ -5940,7 +5940,7 @@
               "vi": "Có một cái đèn trong phòng ngủ của mình. Nó mới."
             }
           ],
-          "hint": "My brother is a worker. - Anh/em trai của mình là công nhân.\nThere are five bananas on the bed. - Có năm quả chuối ở trên giường.\nThe clock is next to the desk. - Cái đồng hồ ở bên cạnh cái bàn học.\nThere's a lamp in my bedroom. It's new. - Có một cái đèn trong phòng ngủ của mình. Nó mới.",
+          "hint": "My brother is a worker. - Anh/em trai của mình là công nhân.\nThere are five bananas on the table. - Có năm quả chuối ở trên bàn.\nThe clock is next to the desk. - Cái đồng hồ ở bên cạnh cái bàn học.\nThere's a lamp in my bedroom. It's new. - Có một cái đèn trong phòng ngủ của mình. Nó mới.",
           "topicId": 14
         }
       },
@@ -5956,9 +5956,9 @@
             ""
           ],
           "imageNames": [
-            "snake",
-            "sun",
-            "sea"
+            "Let's look at the leaf and the sand!",
+            "Let's look at the sun and the sand!",
+            "Let's look at the sea and the sand!"
           ],
           "correctIndex": 2,
           "hint": "Let's look at the sea and the sand! → Chúng ta hãy nhìn biển và bãi cát nào!\n(Chữ cần chọn: sea – biển)",
@@ -5998,7 +5998,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 604,
+          "id": 601,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -6097,7 +6097,7 @@
           "questionAudioUrl": "",
           "choices": [
             "A. Mother my is a nurse.",
-            "B. My nurse is a mother.",
+            "B. Nurse is my a mother.",
             "C. My mother a is nurse.",
             "D. My mother is a nurse."
           ],
@@ -6121,7 +6121,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 329,
+          "id": 328,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -6160,7 +6160,7 @@
             "D. a cat"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Ben: Do you have any parrots?\nLucy: No, I don't. But I have a bird.\n→ Ben: Bạn có con vẹt nào không?\nLucy: Không, mình không có. Nhưng mình có một con chim.\n✅ A. a bird",
+          "hint": "🎧 Bài nghe: A: Do you have any parrots?\nB: No, I don't. But I have a bird.\n→ A: Bạn có con vẹt nào không?\nB: Không, mình không có. Nhưng mình có một con chim.\n✅ A. a bird",
           "topicId": 16
         }
       },
@@ -6326,12 +6326,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/window.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bed.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/door.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shelf.png"
           ],
           "imageNames": [
             "window",
             "bed",
-            "door"
+            "shelf"
           ],
           "correctIndex": 0,
           "hint": "window → cửa sổ\n(Hình đúng: window – cửa sổ)",
@@ -6371,7 +6371,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1274,
+          "id": 1267,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -6391,7 +6391,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1021,
-          "question": "Read and choose True or False.\nLinh: Hello, Mai. Are you watching TV?\nMai: No, I'm not. I'm drawing a picture. It's for Mum.\n\nMai is drawing.",
+          "question": "Read and choose True or False.\n📖 Linh: Hello, Mai. Are you watching TV?\nMai: No, I'm not. I'm drawing a picture. It's for Mum.\n\n👉 Mai is drawing.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6399,7 +6399,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "📖 Bài đọc: Linh: Hello, Mai. Are you watching TV?\nMai: No, I'm not. I'm drawing a picture. It's for Mum.\n→ Linh: Chào Mai. Bạn đang xem ti vi à?\nMai: Không phải. Mình đang vẽ tranh. Mình vẽ tặng mẹ.\n✅ A. True",
+          "hint": "📖 Bài đọc: Linh: Hello, Mai. Are you watching TV?\nA: No, I'm not. I'm drawing a picture. It's for Mum.\n→ B: Chào Mai. Bạn đang xem ti vi à?\nA: Không phải. Mình đang vẽ tranh. Mình vẽ tặng mẹ.\n✅ A. True",
           "topicId": 18
         }
       },
@@ -6454,7 +6454,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1140,
-          "question": "Find the mistake.\nMy grandfather have eight apples.",
+          "question": "Find the mistake.\n<u>My</u> grandfather <u>have</u> <u>eight</u> <u>apples</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -6483,7 +6483,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 179,
+          "id": 178,
           "audioUrl": "",
           "question": "Đây là phòng khách, còn kia là phòng ngủ.",
           "correctAnswer": [
@@ -6517,13 +6517,13 @@
           "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bed.png",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/bed.mp3",
           "choices": [
-            "A. room",
+            "A. table",
             "B. bed",
             "C. pillow",
             "D. door"
           ],
           "correctAnswerIndex": 1,
-          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. room – phòng\n✅ B. bed – cái giường\nC. pillow – cái gối\nD. door – cửa",
+          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. table – cái bàn\n✅ B. bed – cái giường\nC. pillow – cái gối\nD. door – cửa",
           "topicId": 14
         }
       },
@@ -6565,9 +6565,9 @@
             ""
           ],
           "imageNames": [
-            "nineteen ducks",
-            "nineteen balls",
-            "nineteen hats"
+            "Look! Nineteen beds!",
+            "Look! Nineteen balls!",
+            "Look! Nineteen hats!"
           ],
           "correctIndex": 1,
           "hint": "Look! Nineteen balls! → Nhìn kìa! Mười chín quả bóng!\n(Chữ cần chọn: nineteen balls – mười chín quả bóng)",
@@ -6579,8 +6579,8 @@
         "value": {
           "id": 520,
           "question": "Complete the word.\n_ofa",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sofa.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sofa.mp3",
           "choices": [
             "A. a",
             "B. v",
@@ -6607,7 +6607,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1385,
+          "id": 1377,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -6730,7 +6730,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 387,
+          "id": 386,
           "audioUrl": "",
           "question": "Do you have any dogs? – Yes, I do. I have one dog.",
           "correctAnswer": [
@@ -6742,12 +6742,12 @@
             "một con chó."
           ],
           "scramble": [
-            "Bạn có",
             "con chó",
-            "nào không?",
-            "– Có,",
+            "một con chó.",
+            "Bạn có",
             "tôi có",
-            "một con chó."
+            "nào không?",
+            "– Có,"
           ],
           "hint": "Do you have any dogs? – Yes, I do. I have one dog. → Bạn có con chó nào không? – Có, tôi có một con chó.",
           "eraseFlag": 0,
@@ -6805,14 +6805,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/icanseethreebees.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twobutterflies.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threelions.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threebees.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivebees.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twobutterflies.png"
           ],
           "imageNames": [
-            "two butterflies",
+            "three lions",
             "three bees",
-            "five bees"
+            "two butterflies"
           ],
           "correctIndex": 1,
           "hint": "I can see three bees. → Mình nhìn thấy ba con ong.\n(Hình đúng: three bees – ba con ong)",
@@ -6852,7 +6852,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 125,
+          "id": 124,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -6902,8 +6902,8 @@
           "id": 538,
           "title": [
             {
-              "en": "There are four bells on the bed.",
-              "vi": "Có bốn cái chuông ở trên giường."
+              "en": "There are four bells on the desk.",
+              "vi": "Có bốn cái chuông ở trên bàn học."
             },
             {
               "en": "My brother is a worker.",
@@ -6918,7 +6918,7 @@
               "vi": "Con búp bê ở phía sau cái ghế."
             }
           ],
-          "hint": "There are four bells on the bed. - Có bốn cái chuông ở trên giường.\nMy brother is a worker. - Anh/em trai của mình là công nhân.\nThis is Lucy. She has eight bikes. - Đây là Lucy. Cô ấy có tám chiếc xe đạp.\nThe doll is behind the chair. - Con búp bê ở phía sau cái ghế.",
+          "hint": "There are four bells on the desk. - Có bốn cái chuông ở trên bàn học.\nMy brother is a worker. - Anh/em trai của mình là công nhân.\nThis is Lucy. She has eight bikes. - Đây là Lucy. Cô ấy có tám chiếc xe đạp.\nThe doll is behind the chair. - Con búp bê ở phía sau cái ghế.",
           "topicId": 14
         }
       },
@@ -6929,14 +6929,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/milk.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/juice.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/meat.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/milk.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/meat.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/carrot.png"
           ],
           "imageNames": [
-            "juice",
+            "meat",
             "milk",
-            "meat"
+            "carrot"
           ],
           "correctIndex": 1,
           "hint": "milk → sữa\n(Hình đúng: milk – sữa)",
@@ -6974,9 +6974,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 593,
+          "id": 591,
           "audioUrl": "",
-          "question": "",
+          "question": "khóc",
           "correctAnswer": [
             "CR",
             "Y",
@@ -7045,12 +7045,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nineteenkittens.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/seventeengoats.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/eighteenteapots.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nineteenducks.png"
           ],
           "imageNames": [
             "nineteen kittens",
             "seventeen goats",
-            "eighteen teapots"
+            "nineteen ducks"
           ],
           "correctIndex": 0,
           "hint": "My grandmother has nineteen kittens. → Bà của mình có mười chín mèo con.\n(Hình đúng: nineteen kittens – mười chín mèo con)",
@@ -7090,7 +7090,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 254,
+          "id": 253,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -7121,8 +7121,8 @@
         "value": {
           "id": 1297,
           "question": "Choose the missing letter.\nfir_fighter",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/firefighter.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/firefighter.mp3",
           "choices": [
             "A. s",
             "B. e",
@@ -7172,9 +7172,9 @@
             ""
           ],
           "imageNames": [
-            "train",
-            "truck",
-            "teddy bear"
+            "She has a kite and a train.",
+            "She has a kite and a truck.",
+            "She has a kite and a teddy bear."
           ],
           "correctIndex": 2,
           "hint": "She has a kite and a teddy bear. → Cô ấy có một con diều và một con gấu bông.\n(Chữ cần chọn: teddy bear – gấu bông)",
@@ -7214,7 +7214,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1456,
+          "id": 1447,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -7323,8 +7323,8 @@
         "value": {
           "id": 772,
           "sentence": "k_tten",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/kitten.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/kitten.mp3",
           "answer": "i",
           "hint": "kitten: mèo con",
           "topicId": 16
@@ -7333,7 +7333,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 505,
+          "id": 503,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -7353,7 +7353,7 @@
             "running.",
             "girl."
           ],
-          "hint": "Hãy nhìn cô bé. Cô bé đang chạy. → Look at the girl. She's running.",
+          "hint": "Hãy nhìn bé gái. Bé gái đang chạy. → Look at the girl. She's running.",
           "eraseFlag": 0,
           "topicId": 17
         }
@@ -7362,7 +7362,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1396,
-          "question": "Find the mistake.\nI have an rabbit and a mango.",
+          "question": "Find the mistake.\nI have <u>an</u> <u>rabbit</u> <u>and</u> <u>a</u> mango.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7456,7 +7456,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 222,
+          "id": 221,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -7535,13 +7535,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/parrot.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bird.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/peacock.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/snake.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/kangaroo.png"
           ],
           "imageNames": [
             "parrot",
-            "bird",
-            "peacock"
+            "snake",
+            "kangaroo"
           ],
           "correctIndex": 0,
           "hint": "parrot → con vẹt\n(Hình đúng: parrot – con vẹt)",
@@ -7552,7 +7552,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1003,
-          "question": "Read and choose True or False.\nThe toy shop is near my house. There are cars, planes, dolls and teddy bears. I like the planes best.\n\nThe toy shop is near the house.",
+          "question": "Read and choose True or False.\n📖 The toy shop is near my house. There are cars, planes, dolls and teddy bears. I like the planes best.\n\n👉 The toy shop is near the house.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7579,7 +7579,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 672,
+          "id": 669,
           "audioUrl": "",
           "question": "Kia là Lucy. Cô ấy đang đạp xe.",
           "correctAnswer": [
@@ -7661,7 +7661,7 @@
             "singer"
           ],
           "correctIndex": 2,
-          "hint": "She is a singer. → Bà ấy là ca sĩ.\n(Hình đúng: singer – ca sĩ)",
+          "hint": "She is a singer. → Cô ấy là ca sĩ.\n(Hình đúng: singer – ca sĩ)",
           "topicId": 12
         }
       },
@@ -7698,7 +7698,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 306,
+          "id": 305,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -7710,11 +7710,11 @@
             "thanks."
           ],
           "scramble": [
+            "– No,",
+            "like",
             "Would",
             "you",
-            "like",
             "some juice?",
-            "– No,",
             "thanks."
           ],
           "hint": "Would you like some juice? – No, thanks. → Bạn có muốn một ít nước trái cây không? – Không, cảm ơn.",
@@ -7778,9 +7778,9 @@
             ""
           ],
           "imageNames": [
-            "robot",
-            "yo-yo",
-            "doll"
+            "There's a robot in my bedroom.",
+            "There's a yo-yo in my bedroom.",
+            "There's a doll in my bedroom."
           ],
           "correctIndex": 1,
           "hint": "There's a yo-yo in my bedroom. → Có cái yo-yo trong phòng ngủ của mình.\n(Chữ cần chọn: yo-yo – cái yo-yo)",
@@ -7820,7 +7820,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 811,
+          "id": 808,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -7840,7 +7840,7 @@
         "type": "multiChoice",
         "value": {
           "id": 137,
-          "question": "How old is she? – ___",
+          "question": "Choose the correct answer.\nA: How old is she?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -7931,8 +7931,8 @@
         "value": {
           "id": 939,
           "sentence": "pu_zle",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/puzzle.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/puzzle.mp3",
           "answer": "z",
           "hint": "puzzle: trò xếp hình",
           "topicId": 17
@@ -7941,7 +7941,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 610,
+          "id": 607,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -8061,7 +8061,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 238,
+          "id": 237,
           "audioUrl": "",
           "question": "Ấm trà ở phía trước cái ghế.",
           "correctAnswer": [
@@ -8098,10 +8098,10 @@
           "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nineteenkittens.png",
           "questionAudioUrl": "",
           "choices": [
-            "A. thirteen robots",
+            "A. five dogs",
             "B. nineteen kittens",
             "C. seventeen goats",
-            "D. eleven bananas"
+            "D. eleven zebras"
           ],
           "correctAnswerIndex": 1,
           "hint": "Nhìn hình và chọn.\n✅ B. nineteen kittens → mười chín mèo con",
@@ -8141,14 +8141,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/car.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bus.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/piano.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/car.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/truck.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bus.png"
           ],
           "imageNames": [
-            "bus",
+            "piano",
             "car",
-            "truck"
+            "bus"
           ],
           "correctIndex": 1,
           "hint": "car → xe hơi\n(Hình đúng: car – xe hơi)",
@@ -8159,7 +8159,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1028,
-          "question": "Listen and choose True or False.\nThey are in the music room.",
+          "question": "Listen and choose True or False.\nLucy and Mary are in the music room.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/wereinthemusicroomlucyissingingandmaryisdancing.mp3",
           "choices": [
@@ -8167,7 +8167,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: We're in the music room. Lucy is singing and Mary is dancing.\n→ Chúng mình đang ở phòng âm nhạc. Lucy đang hát còn Mary đang nhảy múa.\n✅ A. True",
+          "hint": "🎧 Bài nghe: We're in the music room. Lucy is singing and Mary is dancing.\n→ Chúng mình đang ở phòng âm nhạc. Lucy đang hát còn Mary đang nhảy múa.\n✅ A. True\n👉 Lucy and Mary are in the music room. → Lucy và Mary ở phòng âm nhạc.",
           "topicId": 18
         }
       },
@@ -8186,7 +8186,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1502,
+          "id": 1493,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -8298,7 +8298,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 420,
+          "id": 419,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -8310,12 +8310,12 @@
             "small."
           ],
           "scramble": [
-            "I",
             "have",
-            "a",
+            "small.",
             "dog.",
+            "a",
             "It is",
-            "small."
+            "I"
           ],
           "hint": "I have a dog. It is small. → Tôi có một con chó. Nó nhỏ.",
           "eraseFlag": 0,
@@ -8378,9 +8378,9 @@
             ""
           ],
           "imageNames": [
-            "restaurant",
-            "running",
-            "river"
+            "That's Linh. She's reading.",
+            "That's Linh. She's running.",
+            "That's Linh. She's jumping."
           ],
           "correctIndex": 1,
           "hint": "That's Linh. She's running. → Kia là Linh. Cô ấy đang chạy bộ.\n(Chữ cần chọn: running – chạy bộ)",
@@ -8420,7 +8420,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 932,
+          "id": 929,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -8440,7 +8440,7 @@
         "type": "multiChoice",
         "value": {
           "id": 208,
-          "question": "Read and complete.\nBill: Where are the chairs?\nMinh: ___ in the living room.",
+          "question": "Read and complete.\nA: Where are the chairs?\nB: ___ in the living room.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8529,8 +8529,8 @@
         "value": {
           "id": 1154,
           "sentence": "eig_te_n",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/eighteen.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/eighteen.mp3",
           "answer": "he",
           "hint": "eighteen: mười tám",
           "topicId": 18
@@ -8539,7 +8539,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 683,
+          "id": 680,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -8550,10 +8550,10 @@
             "badminton?"
           ],
           "scramble": [
-            "Do",
-            "you",
-            "like",
             "playing",
+            "Do",
+            "like",
+            "you",
             "badminton?"
           ],
           "hint": "Do you like playing badminton? → Bạn có thích chơi cầu lông không?",
@@ -8565,7 +8565,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1468,
-          "question": "Find the mistake.\nI cans see seven giraffes.",
+          "question": "Find the mistake.\nI <u>cans</u> <u>see</u> <u>seven</u> <u>giraffes</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8659,7 +8659,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 327,
+          "id": 326,
           "audioUrl": "",
           "question": "Ben thích vẽ. Cậu ấy có con búp bê.",
           "correctAnswer": [
@@ -8694,9 +8694,9 @@
           "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivetanks.png",
           "questionAudioUrl": "",
           "choices": [
-            "A. nine puppies",
-            "B. six hamsters",
-            "C. two puppies",
+            "A. three cars",
+            "B. seventeen bells",
+            "C. eleven vans",
             "D. five tanks"
           ],
           "correctAnswerIndex": 3,
@@ -8755,7 +8755,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1059,
-          "question": "Read and choose True or False.\nIn the park, Mary is painting a picture of the flowers. Her brother is playing badminton with Dad.\n\nMary is painting flowers.",
+          "question": "Read and choose True or False.\n📖 In the park, Mary is painting a picture of the flowers. Her brother is playing badminton with Dad.\n\n👉 Mary is painting flowers.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8782,7 +8782,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 851,
+          "id": 848,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -8867,7 +8867,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1302,
-          "question": "Find the mistake.\nI'd like some beans, pleases.",
+          "question": "Find the mistake.\n<u>I'd</u> <u>like</u> <u>some</u> beans, <u>pleases</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -8886,8 +8886,8 @@
         "value": {
           "id": 771,
           "sentence": "par_ot",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/parrot.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/parrot.mp3",
           "answer": "r",
           "hint": "parrot: con vẹt",
           "topicId": 16
@@ -8896,7 +8896,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 486,
+          "id": 484,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -8908,12 +8908,12 @@
             "ships."
           ],
           "scramble": [
-            "They",
-            "have",
-            "a train,",
-            "a truck",
+            "ships.",
             "and three",
-            "ships."
+            "have",
+            "a truck",
+            "They",
+            "a train,"
           ],
           "hint": "They have a train, a truck and three ships. → Họ có một tàu hỏa, một xe tải và ba chiếc tàu.",
           "eraseFlag": 0,
@@ -8976,9 +8976,9 @@
             ""
           ],
           "imageNames": [
-            "hamburger",
-            "hamster",
-            "hippo"
+            "Is that a horse?",
+            "Is that a hamster?",
+            "Is that a hippo?"
           ],
           "correctIndex": 2,
           "hint": "Is that a hippo? → Kia có phải là hà mã không?\n(Chữ cần chọn: hippo – hà mã)",
@@ -8990,8 +8990,8 @@
         "value": {
           "id": 69,
           "question": "Complete the word.\n_ineteen",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nineteen.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/nineteen.mp3",
           "choices": [
             "A. m",
             "B. c",
@@ -9018,7 +9018,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1014,
+          "id": 1009,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -9127,8 +9127,8 @@
         "value": {
           "id": 1229,
           "sentence": "be_ch",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bench.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/bench.mp3",
           "answer": "n",
           "hint": "bench: ghế dài",
           "topicId": 19
@@ -9137,7 +9137,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 727,
+          "id": 724,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -9150,11 +9150,11 @@
           ],
           "scramble": [
             "I",
-            "can",
-            "see a",
             "peacock",
             "at the",
-            "zoo."
+            "can",
+            "zoo.",
+            "see a"
           ],
           "hint": "I can see a peacock at the zoo. → Mình có thể thấy một con công ở sở thú.",
           "eraseFlag": 0,
@@ -9175,7 +9175,7 @@
             "D. thirteen"
           ],
           "correctAnswerIndex": 3,
-          "hint": "🎧 Bài nghe: Lucy: Who's that girl?\nMary: That's my cousin. She's thirteen years old.\n→ Lucy: Cô bé kia là ai vậy?\nMary: Đó là chị họ mình. Chị ấy mười ba tuổi.\n✅ D. thirteen",
+          "hint": "🎧 Bài nghe: A: Who's that girl?\nB: That's my cousin. She's thirteen years old.\n→ A: Bé gái kia là ai vậy?\nB: Đó là chị họ mình. Chị ấy mười ba tuổi.\n✅ D. thirteen",
           "topicId": 11
         }
       },
@@ -9234,10 +9234,10 @@
           "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/seventeenlemons.png",
           "questionAudioUrl": "",
           "choices": [
-            "A. nineteen kittens",
+            "A. fourteen mangoes",
             "B. thirteen cakes",
             "C. seventeen lemons",
-            "D. nineteen balls"
+            "D. fifteen eggs"
           ],
           "correctAnswerIndex": 2,
           "hint": "Nhìn hình và chọn.\n✅ C. seventeen lemons → mười bảy quả chanh",
@@ -9259,7 +9259,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 378,
+          "id": 377,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -9272,13 +9272,13 @@
             "cats."
           ],
           "scramble": [
-            "How many",
+            "two",
             "cats",
             "do you have?",
+            "cats.",
             "– I",
-            "have",
-            "two",
-            "cats."
+            "How many",
+            "have"
           ],
           "hint": "How many cats do you have? – I have two cats. → Bạn có mấy con mèo? – Tôi có hai con mèo.",
           "eraseFlag": 0,
@@ -9296,10 +9296,10 @@
             "A. ship",
             "B. train",
             "C. bus",
-            "D. plane"
+            "D. yo-yo"
           ],
           "correctAnswerIndex": 0,
-          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\n✅ A. ship – tàu thủy\nB. train – tàu hỏa\nC. bus – xe buýt\nD. plane – máy bay",
+          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\n✅ A. ship – tàu thủy\nB. train – tàu hỏa\nC. bus – xe buýt\nD. yo-yo – cái yo-yo",
           "topicId": 17
         }
       },
@@ -9354,7 +9354,7 @@
         "type": "multiChoice",
         "value": {
           "id": 734,
-          "question": "Is she a worker? – ___",
+          "question": "Choose the correct answer.\nA: Is she a worker?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9376,14 +9376,14 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thegirlisrunninginthesun.mp3",
           "answer": "running",
-          "hint": "The girl is running in the sun: Cô bé đang chạy dưới ánh nắng.",
+          "hint": "The girl is running in the sun: Bé gái đang chạy dưới ánh nắng.",
           "topicId": 11
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 880,
+          "id": 877,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -9406,7 +9406,7 @@
         "type": "multiChoice",
         "value": {
           "id": 838,
-          "question": "Listen and choose True or False.\nThey go to the kitchen.",
+          "question": "Listen and choose True or False.\nLucy and Mai go to the kitchen.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/lucywowilikeyourhouse\nmaithankyouletsgotomybedroom.mp3",
           "choices": [
@@ -9414,7 +9414,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Lucy: Wow, I like your house!\nMai: Thank you. Let's go to my bedroom.\n→ Lucy: Ồ, mình thích nhà bạn quá!\nMai: Cảm ơn bạn. Chúng mình đến phòng ngủ của mình nhé.\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: Wow, I like your house!\nB: Thank you. Let's go to my bedroom.\n→ A: Ồ, mình thích nhà bạn quá!\nB: Cảm ơn bạn. Chúng mình đến phòng ngủ của mình nhé.\n✅ B. False\n👉 Lucy and Mai go to the kitchen. → Lucy và Mai đi đến nhà bếp.\n(Câu đúng: Lucy and Mai go to the bedroom.)",
           "topicId": 13
         }
       },
@@ -9451,13 +9451,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thisismyhat.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/computer.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/yo-yo.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shirt.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bell.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hat.png"
           ],
           "imageNames": [
-            "computer",
-            "yo-yo",
+            "shirt",
+            "bell",
             "hat"
           ],
           "correctIndex": 2,
@@ -9469,7 +9469,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1340,
-          "question": "Find the mistake.\nThere are four bed in the room.",
+          "question": "Find the mistake.\n<u>There</u> <u>are</u> four <u>bed</u> <u>in</u> the room.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -9488,8 +9488,8 @@
         "value": {
           "id": 1001,
           "sentence": "ther_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/there.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/there.mp3",
           "answer": "e",
           "hint": "there: ở kia",
           "topicId": 17
@@ -9498,7 +9498,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 527,
+          "id": 525,
           "audioUrl": "",
           "question": "Phong và tôi đang hát một bài hát cùng nhau.",
           "correctAnswer": [
@@ -9510,12 +9510,12 @@
             " together."
           ],
           "scramble": [
-            "Phong",
-            "and I",
             "are",
+            "Phong",
             "singing",
-            "a song",
-            " together."
+            "and I",
+            " together.",
+            "a song"
           ],
           "hint": "Phong and I are singing a song together. → Phong và tôi đang hát một bài hát cùng nhau.",
           "eraseFlag": 0,
@@ -9578,9 +9578,9 @@
             ""
           ],
           "imageNames": [
-            "shorts",
-            "shirt",
-            "ship"
+            "I have a cat and a skateboard.",
+            "I have a cat and a shirt.",
+            "I have a cat and a ship."
           ],
           "correctIndex": 1,
           "hint": "I have a cat and a shirt. → Mình có con mèo và chiếc áo sơ mi.\n(Chữ cần chọn: shirt – chiếc áo sơ mi)",
@@ -9620,7 +9620,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1068,
+          "id": 1063,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -9659,7 +9659,7 @@
           "title": [
             {
               "en": "No, he isn't. He's a teacher.",
-              "vi": "Không phải. Ông ấy là giáo viên."
+              "vi": "Không phải. Anh ấy là giáo viên."
             },
             {
               "en": "How old is she?",
@@ -9674,7 +9674,7 @@
               "vi": "Đây có phải là cái kệ không?"
             }
           ],
-          "hint": "No, he isn't. He's a teacher. - Không phải. Ông ấy là giáo viên.\nHow old is she? - Chị ấy bao nhiêu tuổi?\nWhat's her job? - Cô ấy làm nghề gì?\nIs this a shelf? - Đây có phải là cái kệ không?",
+          "hint": "No, he isn't. He's a teacher. - Không phải. Anh ấy là giáo viên.\nHow old is she? - Chị ấy bao nhiêu tuổi?\nWhat's her job? - Cô ấy làm nghề gì?\nIs this a shelf? - Đây có phải là cái kệ không?",
           "topicId": 16
         }
       }
@@ -9750,10 +9750,10 @@
             "old."
           ],
           "scramble": [
-            "Lan",
-            "is",
             "eleven",
             "years",
+            "Lan",
+            "is",
             "old."
           ],
           "hint": "Lan is eleven years old. → Lan mười một tuổi.",
@@ -9793,15 +9793,15 @@
               "vi": "ở kia"
             },
             {
-              "en": "here",
-              "vi": "ở đây"
+              "en": "job",
+              "vi": "công việc"
             },
             {
               "en": "table",
               "vi": "cái bàn"
             }
           ],
-          "hint": "roof - mái nhà\nthere - ở kia\nhere - ở đây\ntable - cái bàn",
+          "hint": "roof - mái nhà\nthere - ở kia\njob - công việc\ntable - cái bàn",
           "topicId": 13
         }
       },
@@ -9859,7 +9859,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 499,
+          "id": 497,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -9983,7 +9983,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 963,
+          "id": 959,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -10078,7 +10078,7 @@
             "D. green"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Lucy: I have a ship. It's blue.\nBen: Wow! I have a ship, too. Mine is white.\n→ Lucy: Mình có một chiếc tàu thủy. Nó màu xanh da trời.\nBen: Ồ! Mình cũng có một chiếc tàu thủy. Của mình màu trắng.\n✅ B. white",
+          "hint": "🎧 Bài nghe: A: I have a ship. It's blue.\nB: Wow! I have a ship, too. Mine is white.\n→ A: Mình có một chiếc tàu thủy. Nó màu xanh da trời.\nB: Ồ! Mình cũng có một chiếc tàu thủy. Của mình màu trắng.\n✅ B. white",
           "topicId": 17
         }
       },
@@ -10097,7 +10097,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 680,
+          "id": 677,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -10108,11 +10108,11 @@
             "with Lucy."
           ],
           "scramble": [
-            "Alice",
             "is",
-            "playing",
             "badminton",
-            "with Lucy."
+            "with Lucy.",
+            "Alice",
+            "playing"
           ],
           "hint": "Alice is playing badminton with Lucy. → Alice đang chơi cầu lông với Lucy.",
           "eraseFlag": 0,
@@ -10175,9 +10175,9 @@
             ""
           ],
           "imageNames": [
-            "doll",
-            "dog",
-            "doctor"
+            "My mother is a driver.",
+            "My mother is a waiter.",
+            "My mother is a doctor."
           ],
           "correctIndex": 2,
           "hint": "My mother is a doctor. → Mẹ mình là bác sĩ.\n(Chữ cần chọn: doctor – bác sĩ)",
@@ -10206,18 +10206,18 @@
         "type": "completeSentence",
         "value": {
           "id": 565,
-          "sentence": "_ _ _ _ mangoes on the bed",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivemangoesonthebed.png",
+          "sentence": "_ _ _ _ mangoes on the table",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivemangoesonthetable.png",
           "audioUrl": "",
           "answer": "five",
-          "hint": "five mangoes on the bed: năm quả xoài ở trên giường",
+          "hint": "five mangoes on the table: năm quả xoài ở trên bàn",
           "topicId": 14
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 1108,
+          "id": 1102,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -10337,7 +10337,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 120,
+          "id": 119,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -10349,9 +10349,9 @@
           ],
           "scramble": [
             "Is",
-            "your",
-            "father",
             "a",
+            "father",
+            "your",
             "doctor?"
           ],
           "hint": "Is your father a doctor? → Bố bạn có phải là bác sĩ không?",
@@ -10410,13 +10410,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/idlikesomefishplease.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/egg.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/rice.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/peacock.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/dolphin.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fish.png"
           ],
           "imageNames": [
-            "egg",
-            "rice",
+            "peacock",
+            "dolphin",
             "fish"
           ],
           "correctIndex": 2,
@@ -10457,7 +10457,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 535,
+          "id": 533,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -10580,7 +10580,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1046,
+          "id": 1041,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -10694,7 +10694,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 786,
+          "id": 783,
           "audioUrl": "",
           "question": "Ken đang chơi với chó.",
           "correctAnswer": [
@@ -10722,8 +10722,8 @@
         "value": {
           "id": 1125,
           "question": "Choose the missing letter: _other",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/mother.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/mother.mp3",
           "choices": [
             "A. m",
             "B. n",
@@ -10773,9 +10773,9 @@
             ""
           ],
           "imageNames": [
-            "kitten",
-            "kitchen",
-            "kangaroo"
+            "No, he isn't. He's playing with a kitten.",
+            "No, he isn't. He's playing with a dog.",
+            "No, he isn't. He's playing with a kangaroo."
           ],
           "correctIndex": 0,
           "hint": "No, he isn't. He's playing with a kitten. → Không. Cậu ấy đang chơi với mèo con.\n(Chữ cần chọn: kitten – mèo con)",
@@ -10815,7 +10815,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1228,
+          "id": 1221,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -10905,7 +10905,7 @@
         "type": "multiChoice",
         "value": {
           "id": 759,
-          "question": "Read and choose True or False.\nBen's family is big. He has two sisters and one brother. His brother is sixteen.\n\nBen's brother is sixteen.",
+          "question": "Read and choose True or False.\n📖 Ben's family is big. He has two sisters and one brother. His brother is sixteen.\n\n👉 Ben's brother is sixteen.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10922,8 +10922,8 @@
         "value": {
           "id": 177,
           "sentence": "policema_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/policeman.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/policeman.mp3",
           "answer": "n",
           "hint": "policeman: chú cảnh sát",
           "topicId": 12
@@ -10932,7 +10932,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 184,
+          "id": 183,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -10944,12 +10944,12 @@
             "tables."
           ],
           "scramble": [
-            "The",
             "books",
+            "The",
             "are",
-            "on",
+            "tables.",
             "the",
-            "tables."
+            "on"
           ],
           "hint": "The books are on the tables. → Những quyển sách ở trên bàn.",
           "eraseFlag": 0,
@@ -10960,7 +10960,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1237,
-          "question": "Find the mistake:\nThere is two desks in the living room.",
+          "question": "Find the mistake.\nThere <u>is</u> two <u>desks</u> <u>in</u> the living <u>room</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -10970,7 +10970,7 @@
             "D. room"
           ],
           "correctAnswerIndex": 0,
-          "hint": "✅ A. is\nThere is two desks in the living room.\n→ Có hai cái bàn trong phòng khách.\n\"sai\" → \"two desks\" số nhiều, phải dùng \"There are\".",
+          "hint": "✅ A. is\nThere is two desks in the living room.\n→ Có hai cái bàn trong phòng khách.\n\"is\" sai → có \"two desks\" (số nhiều) nên phải dùng \"There are\".",
           "topicId": 14
         }
       },
@@ -11054,7 +11054,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 696,
+          "id": 693,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -11085,8 +11085,8 @@
         "value": {
           "id": 1481,
           "question": "Choose the missing letter.\ncycl_ng",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/cycling.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/cycling.mp3",
           "choices": [
             "A. f",
             "B. y",
@@ -11133,12 +11133,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/pupil.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/teacher.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/desk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/worker.png"
           ],
           "imageNames": [
             "pupil",
             "teacher",
-            "desk"
+            "worker"
           ],
           "correctIndex": 1,
           "hint": "teacher → giáo viên\n(Hình đúng: teacher – giáo viên)",
@@ -11178,7 +11178,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1127,
+          "id": 1121,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -11198,7 +11198,7 @@
         "type": "multiChoice",
         "value": {
           "id": 947,
-          "question": "Read and choose True or False.\nMinh's cat is black and white. It sleeps on his bed. It likes fish and milk.\n\nThe cat is brown.",
+          "question": "Read and choose True or False.\n📖 Minh's cat is black and white. It sleeps on his bed. It likes fish and milk.\n\n👉 The cat is brown.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11245,12 +11245,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shehasaball.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shehasatrain.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hehasacar.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shehasaballoon.png"
           ],
           "imageNames": [
             "She has a ball.",
             "She has a train.",
-            "He has a car."
+            "She has a balloon."
           ],
           "correctIndex": 0,
           "hint": "She has a ball. → Cô ấy có một bóng.\n(Hình đúng: She has a ball. – Cô ấy có một bóng.)",
@@ -11261,7 +11261,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1432,
-          "question": "Find the mistake.\nMinh and Mai are flying an kite in the park.",
+          "question": "Find the mistake.\n<u>Minh</u> <u>and</u> Mai are flying <u>an</u> kite in <u>the</u> park.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11280,8 +11280,8 @@
         "value": {
           "id": 1457,
           "sentence": "d_l_hin",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/dolphin.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/dolphin.mp3",
           "answer": "op",
           "hint": "dolphin: cá heo",
           "topicId": 20
@@ -11301,10 +11301,10 @@
             "father?"
           ],
           "scramble": [
+            "your",
             "How",
             "old",
             "is",
-            "your",
             "father?"
           ],
           "hint": "How old is your father? → Bố bạn bao nhiêu tuổi?",
@@ -11368,9 +11368,9 @@
             ""
           ],
           "imageNames": [
-            "shoes",
-            "shelf",
-            "ship"
+            "Is this a sofa?",
+            "Is this a shelf?",
+            "Is this a mirror?"
           ],
           "correctIndex": 1,
           "hint": "Is this a shelf? → Đây có phải là cái kệ không?\n(Chữ cần chọn: shelf – cái kệ)",
@@ -11410,9 +11410,9 @@
       {
         "type": "grammar",
         "value": {
-          "id": 464,
+          "id": 462,
           "audioUrl": "",
-          "question": "",
+          "question": "cây đàn ghi-ta",
           "correctAnswer": [
             "G",
             "UI",
@@ -11442,7 +11442,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Ben: What are you doing, Mai?\nMai: I'm writing a letter to my friend.\n→ Ben: Bạn đang làm gì vậy, Mai?\nMai: Mình đang viết thư cho bạn mình.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: What are you doing, Mai?\nB: I'm writing a letter to my friend.\n→ A: Bạn đang làm gì vậy, Mai?\nB: Mình đang viết thư cho bạn mình.\n✅ A. True",
           "topicId": 18
         }
       },
@@ -11523,8 +11523,8 @@
         "value": {
           "id": 346,
           "sentence": "ho_se",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/house.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/house.mp3",
           "answer": "u",
           "hint": "house: ngôi nhà",
           "topicId": 13
@@ -11533,7 +11533,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 227,
+          "id": 226,
           "audioUrl": "",
           "question": "Có hai cái đèn trong phòng. Chúng thì cũ.",
           "correctAnswer": [
@@ -11563,7 +11563,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1303,
-          "question": "Find the mistake.\nMy father has five bike.",
+          "question": "Find the mistake.\n<u>My</u> <u>father</u> has <u>five</u> <u>bike</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11657,7 +11657,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 760,
+          "id": 757,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -11737,13 +11737,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/house.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/pond.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/tree.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/farm.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/garden.png"
           ],
           "imageNames": [
             "house",
-            "pond",
-            "tree"
+            "farm",
+            "garden"
           ],
           "correctIndex": 0,
           "hint": "house → ngôi nhà\n(Hình đúng: house – ngôi nhà)",
@@ -11783,7 +11783,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1217,
+          "id": 1210,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -11803,7 +11803,7 @@
         "type": "multiChoice",
         "value": {
           "id": 980,
-          "question": "Read and choose True or False.\nMy grandfather makes toys from wood. He makes a ship for me and a doll for my sister.\n\nHe makes a doll for the speaker.",
+          "question": "Read and choose True or False.\n📖 My grandfather makes toys from wood. He makes a ship for me and a doll for my sister.\n\n👉 He makes a doll for the speaker.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -11895,7 +11895,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 105,
+          "id": 104,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -11977,9 +11977,9 @@
             ""
           ],
           "imageNames": [
-            "chicken",
-            "chair",
-            "cake"
+            "I'd like some chicken and some milk, please.",
+            "I'd like some chips and some milk, please.",
+            "I'd like some cheese and some milk, please."
           ],
           "correctIndex": 0,
           "hint": "I'd like some chicken and some milk, please. → Làm ơn cho mình một ít thịt gà và một ít sữa.\n(Chữ cần chọn: chicken – thịt gà)",
@@ -12019,7 +12019,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1319,
+          "id": 1311,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -12122,7 +12122,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "✅ A. True\n→ Có một cô bé. Có một con dê.",
+          "hint": "✅ A. True\n→ Có một bé gái. Có một con dê.",
           "topicId": 13
         }
       },
@@ -12131,8 +12131,8 @@
         "value": {
           "id": 554,
           "sentence": "la_p",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/lamp.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/lamp.mp3",
           "answer": "m",
           "hint": "lamp: cái đèn",
           "topicId": 14
@@ -12141,7 +12141,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 303,
+          "id": 302,
           "audioUrl": "",
           "question": "Tôi muốn một ít cơm, cá và một ít nước trái cây.",
           "correctAnswer": [
@@ -12153,12 +12153,12 @@
             "some juice."
           ],
           "scramble": [
+            "and",
+            "fish,",
+            "some juice.",
             "I",
             "would like",
-            "some rice,",
-            "fish,",
-            "and",
-            "some juice."
+            "some rice,"
           ],
           "hint": "I would like some rice, fish, and some juice. → Tôi muốn một ít cơm, cá và một ít nước trái cây.",
           "eraseFlag": 0,
@@ -12216,13 +12216,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/namhasthreebirds.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threehamsters.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivegoldfish.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourbirds.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/threebirds.png"
           ],
           "imageNames": [
+            "three hamsters",
             "five goldfish",
-            "four birds",
             "three birds"
           ],
           "correctIndex": 2,
@@ -12263,7 +12263,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 72,
+          "id": 71,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -12341,12 +12341,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/desk.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/table.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/carpet.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/chair.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/desk.png"
           ],
           "imageNames": [
-            "table",
+            "carpet",
             "chair",
             "desk"
           ],
@@ -12388,7 +12388,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1264,
+          "id": 1257,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -12473,7 +12473,7 @@
         "type": "multiChoice",
         "value": {
           "id": 64,
-          "question": "Read and choose the correct answer.\nBen's family is big. He has two sisters and one brother. His brother is sixteen.\n\nHow many sisters does Ben have?",
+          "question": "Read and choose the correct answer.\n📖 Ben's family is big. He has two sisters and one brother. His brother is sixteen.\n\n❓ How many sisters does Ben have?",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12492,8 +12492,8 @@
         "value": {
           "id": 254,
           "sentence": "lea_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/leaf.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/leaf.mp3",
           "answer": "f",
           "hint": "leaf: chiếc lá",
           "topicId": 12
@@ -12502,7 +12502,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 200,
+          "id": 199,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -12529,8 +12529,8 @@
         "value": {
           "id": 1260,
           "question": "Choose the missing letter.\ntea_ot",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/teapot.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/teapot.mp3",
           "choices": [
             "A. f",
             "B. u",
@@ -12580,9 +12580,9 @@
             ""
           ],
           "imageNames": [
-            "puppy",
-            "puzzle",
-            "panda"
+            "Look! A puppy!",
+            "Look! A peacock!",
+            "Look! A panda!"
           ],
           "correctIndex": 0,
           "hint": "Look! A puppy! → Nhìn kìa! Một chó con!\n(Chữ cần chọn: puppy – chó con)",
@@ -12597,13 +12597,13 @@
           "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bus.png",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/bus.mp3",
           "choices": [
-            "A. truck",
+            "A. van",
             "B. car",
             "C. bus",
             "D. ship"
           ],
           "correctAnswerIndex": 2,
-          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. truck – xe tải\nB. car – ô tô\n✅ C. bus – xe buýt\nD. ship – tàu thủy",
+          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. van – chiếc xe tải nhỏ\nB. car – ô tô\n✅ C. bus – xe buýt\nD. ship – tàu thủy",
           "topicId": 17
         }
       },
@@ -12622,7 +12622,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1391,
+          "id": 1383,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -12696,13 +12696,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/pond.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/park.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/parrot.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/tree.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/cloud.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/pond.png"
           ],
           "imageNames": [
-            "park",
-            "parrot",
+            "tree",
+            "cloud",
             "pond"
           ],
           "correctIndex": 2,
@@ -12731,8 +12731,8 @@
         "value": {
           "id": 646,
           "sentence": "ap_l_s",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/apples.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/apples.mp3",
           "answer": "pe",
           "hint": "apples: quả táo",
           "topicId": 15
@@ -12741,7 +12741,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 391,
+          "id": 390,
           "audioUrl": "",
           "question": "Tôi có nhiều thú cưng trong nhà.",
           "correctAnswer": [
@@ -12771,7 +12771,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1377,
-          "question": "Find the mistake.\nHe's riding an bike.",
+          "question": "Find the mistake.\n<u>He's</u> <u>riding</u> <u>an</u> <u>bike</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -12818,12 +12818,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/shesplayingbadminton.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/heswalking.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shesplayingvolleyballinthepark.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shessailingaboat.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shesplayingbadminton.png"
           ],
           "imageNames": [
-            "He's walking.",
+            "She's playing volleyball in the park.",
             "She's sailing a boat.",
             "She's playing badminton."
           ],
@@ -12865,7 +12865,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 130,
+          "id": 129,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -12942,14 +12942,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/water.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/juice.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/meat.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/water.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/milk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/apple.png"
           ],
           "imageNames": [
-            "juice",
+            "meat",
             "water",
-            "milk"
+            "apple"
           ],
           "correctIndex": 1,
           "hint": "water → nước\n(Hình đúng: water – nước)",
@@ -12989,7 +12989,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1333,
+          "id": 1325,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -13054,13 +13054,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/doyouhaveaschoolbagnam-yesido.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/cake.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/cup.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shirt.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bag.png"
           ],
           "imageNames": [
-            "cake",
             "cup",
+            "shirt",
             "bag"
           ],
           "correctIndex": 2,
@@ -13072,7 +13072,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1192,
-          "question": "Find the mistake.\nMy mother is an farmer.",
+          "question": "Find the mistake.\n<u>My</u> <u>mother</u> is <u>an</u> <u>farmer</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13091,8 +13091,8 @@
         "value": {
           "id": 336,
           "sentence": "fr_d_e",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fridge.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fridge.mp3",
           "answer": "ig",
           "hint": "fridge: tủ lạnh",
           "topicId": 13
@@ -13101,7 +13101,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 257,
+          "id": 256,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -13115,10 +13115,10 @@
           "scramble": [
             "There",
             "are",
-            "two",
-            "lamps",
             "in the",
-            "bathroom."
+            "bathroom.",
+            "two",
+            "lamps"
           ],
           "hint": "There are two lamps in the bathroom. → Có hai cái đèn trong phòng tắm.",
           "eraseFlag": 0,
@@ -13135,11 +13135,11 @@
           "choices": [
             "A. water",
             "B. bread",
-            "C. chicken",
-            "D. milk"
+            "C. noodles",
+            "D. apples"
           ],
           "correctAnswerIndex": 1,
-          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. water – nước\n✅ B. bread – bánh mì\nC. chicken – gà\nD. milk – sữa",
+          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. water – nước\n✅ B. bread – bánh mì\nC. noodles – mì\nD. apples – quả táo",
           "topicId": 15
         }
       },
@@ -13181,9 +13181,9 @@
             ""
           ],
           "imageNames": [
-            "two kites",
-            "two trucks",
-            "two cars"
+            "I have two kites.",
+            "I have two trucks.",
+            "I have two teddy bears."
           ],
           "correctIndex": 1,
           "hint": "I have two trucks. → Mình có hai xe tải.\n(Chữ cần chọn: two trucks – hai xe tải)",
@@ -13223,7 +13223,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1492,
+          "id": 1483,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -13266,18 +13266,18 @@
             },
             {
               "en": "Is he a driver?",
-              "vi": "Ông ấy có phải tài xế không?"
+              "vi": "Anh ấy có phải tài xế không?"
             },
             {
               "en": "Is she a singer?",
-              "vi": "Bà ấy có phải ca sĩ không?"
+              "vi": "Cô ấy có phải ca sĩ không?"
             },
             {
               "en": "No, she isn't. She's a doctor.",
-              "vi": "Không phải. Bà ấy là bác sĩ."
+              "vi": "Không phải. Cô ấy là bác sĩ."
             }
           ],
-          "hint": "He's a policeman. - Chú ấy là chú cảnh sát.\nIs he a driver? - Ông ấy có phải tài xế không?\nIs she a singer? - Bà ấy có phải ca sĩ không?\nNo, she isn't. She's a doctor. - Không phải. Bà ấy là bác sĩ.",
+          "hint": "He's a policeman. - Chú ấy là chú cảnh sát.\nIs he a driver? - Anh ấy có phải tài xế không?\nIs she a singer? - Cô ấy có phải ca sĩ không?\nNo, she isn't. She's a doctor. - Không phải. Cô ấy là bác sĩ.",
           "topicId": 12
         }
       }
@@ -13297,12 +13297,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/chair.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/table.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/desk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/door.png"
           ],
           "imageNames": [
             "chair",
             "table",
-            "desk"
+            "door"
           ],
           "correctIndex": 1,
           "hint": "table → cái bàn\n(Hình đúng: table – cái bàn)",
@@ -13340,7 +13340,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 458,
+          "id": 456,
           "audioUrl": "",
           "question": "They have five teddy bears.",
           "correctAnswer": [
@@ -13351,11 +13351,11 @@
             "bông."
           ],
           "scramble": [
-            "Họ",
             "có",
+            "Họ",
             "năm",
-            "gấu",
-            "bông."
+            "bông.",
+            "gấu"
           ],
           "hint": "They have five teddy bears. → Họ có năm gấu bông.",
           "eraseFlag": 0,
@@ -13453,14 +13453,14 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sheisafarmer.mp3",
           "answer": "She",
-          "hint": "She is a farmer: Bà ấy là nông dân.",
+          "hint": "She is a farmer: Cô ấy là nông dân.",
           "topicId": 12
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 206,
+          "id": 205,
           "audioUrl": "",
           "question": "Mình có một quyển sách và một con mèo.",
           "correctAnswer": [
@@ -13564,7 +13564,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Ben: Do you have any parrots?\nLucy: No, I don't. But I have a bird.\n→ Ben: Bạn có con vẹt nào không?\nLucy: Không, mình không có. Nhưng mình có một con chim.\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: Do you have any parrots?\nB: No, I don't. But I have a bird.\n→ A: Bạn có con vẹt nào không?\nB: Không, mình không có. Nhưng mình có một con chim.\n✅ B. False",
           "topicId": 17
         }
       },
@@ -13583,7 +13583,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 646,
+          "id": 643,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -13608,7 +13608,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1094,
-          "question": "Read and choose True or False.\nThe elephant is very big. It's walking to the water. It's drinking water with its long nose.\n\nThe elephant is small.",
+          "question": "Read and choose True or False.\n📖 The elephant is very big. It's walking to the water. It's drinking water with its long nose.\n\n👉 The elephant is small.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -13681,7 +13681,7 @@
             "D. to the kitchen"
           ],
           "correctAnswerIndex": 2,
-          "hint": "🎧 Bài nghe: Lucy: Wow, I like your house!\nMai: Thank you. Let's go to my bedroom.\n→ Lucy: Ồ, mình thích nhà bạn quá!\nMai: Cảm ơn bạn. Chúng mình đến phòng ngủ của mình nhé.\n✅ C. to Mai's bedroom",
+          "hint": "🎧 Bài nghe: A: Wow, I like your house!\nB: Thank you. Let's go to my bedroom.\n→ A: Ồ, mình thích nhà bạn quá!\nB: Cảm ơn bạn. Chúng mình đến phòng ngủ của mình nhé.\n✅ C. to Mai's bedroom",
           "topicId": 13
         }
       },
@@ -13690,8 +13690,8 @@
         "value": {
           "id": 560,
           "sentence": "s_xtee_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/sixteen.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/sixteen.mp3",
           "answer": "in",
           "hint": "sixteen: mười sáu",
           "topicId": 14
@@ -13700,7 +13700,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 323,
+          "id": 322,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -13712,9 +13712,9 @@
           ],
           "scramble": [
             "I'd",
-            "like",
-            "some",
             "bread,",
+            "some",
+            "like",
             "please."
           ],
           "hint": "I'd like some bread, please. → Tôi muốn một ít bánh mì, làm ơn.",
@@ -13727,8 +13727,8 @@
         "value": {
           "id": 1312,
           "question": "Choose the missing letter.\nb_rd",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bird.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/bird.mp3",
           "choices": [
             "A. i",
             "B. j",
@@ -13778,9 +13778,9 @@
             ""
           ],
           "imageNames": [
-            "juice",
-            "jumping",
-            "jam"
+            "I'd like some meat and some juice, please.",
+            "I'd like some meat and some ice cream, please.",
+            "I'd like some meat and some jam, please."
           ],
           "correctIndex": 0,
           "hint": "I'd like some meat and some juice, please. → Làm ơn cho mình một ít thịt và một ít nước ép.\n(Chữ cần chọn: juice – nước ép)",
@@ -13792,8 +13792,8 @@
         "value": {
           "id": 1421,
           "question": "Choose the missing letter.\nskipp_ng",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/skipping.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/skipping.mp3",
           "choices": [
             "A. i",
             "B. n",
@@ -13820,7 +13820,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 833,
+          "id": 830,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -13939,7 +13939,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 532,
+          "id": 530,
           "audioUrl": "",
           "question": "Mẹ ơi, con đang nhảy múa. – Chúc con vui vẻ nhé.",
           "correctAnswer": [
@@ -13951,10 +13951,10 @@
           ],
           "scramble": [
             "Mum,",
-            "I'm",
-            "dancing.",
+            "fun.",
             "– Have",
-            "fun."
+            "dancing.",
+            "I'm"
           ],
           "hint": "Mum, I'm dancing. Have fun. → Mẹ ơi, con đang nhảy múa. Chúc con vui vẻ nhé.",
           "eraseFlag": 0,
@@ -14059,7 +14059,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 292,
+          "id": 291,
           "audioUrl": "",
           "question": "Cô ấy đang đi xe đạp ở bờ biển.",
           "correctAnswer": [
@@ -14091,8 +14091,8 @@
         "value": {
           "id": 1274,
           "question": "Choose the missing letter.\nja_",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/jam.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/jam.mp3",
           "choices": [
             "A. u",
             "B. m",
@@ -14184,7 +14184,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1447,
+          "id": 1438,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -14288,8 +14288,8 @@
         "value": {
           "id": 649,
           "sentence": "bea_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bean.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/bean.mp3",
           "answer": "n",
           "hint": "bean: đậu",
           "topicId": 15
@@ -14298,7 +14298,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 404,
+          "id": 403,
           "audioUrl": "",
           "question": "Bạn có bao nhiêu con chó và mèo?",
           "correctAnswer": [
@@ -14379,9 +14379,9 @@
             ""
           ],
           "imageNames": [
-            "plane",
-            "pasta",
-            "painting"
+            "That's Linh. She's playing badminton.",
+            "That's Linh. She's playing volleyball.",
+            "That's Linh. She's painting."
           ],
           "correctIndex": 2,
           "hint": "That's Linh. She's painting. → Kia là Linh. Cô ấy đang vẽ tranh.\n(Chữ cần chọn: painting – vẽ tranh)",
@@ -14421,7 +14421,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 925,
+          "id": 922,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -14500,12 +14500,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/goldfish.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bird.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/parrot.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/dog.png"
           ],
           "imageNames": [
             "goldfish",
             "bird",
-            "parrot"
+            "dog"
           ],
           "correctIndex": 0,
           "hint": "goldfish → cá vàng\n(Hình đúng: goldfish – cá vàng)",
@@ -14543,7 +14543,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 675,
+          "id": 672,
           "audioUrl": "",
           "question": "Cậu ấy đang vẽ tranh trong công viên.",
           "correctAnswer": [
@@ -14570,7 +14570,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1471,
-          "question": "Find the mistake.\nThe zebra are running.",
+          "question": "Find the mistake.\n<u>The</u> <u>zebra</u> <u>are</u> <u>running</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -14653,18 +14653,18 @@
         "type": "completeSentence",
         "value": {
           "id": 576,
-          "sentence": "_ _ _ teapots on the bed",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twoteapotsonthebed.png",
+          "sentence": "_ _ _ teapots on the table",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/twoteapotsonthetable.png",
           "audioUrl": "",
           "answer": "two",
-          "hint": "two teapots on the bed: hai ấm trà ở trên giường",
+          "hint": "two teapots on the table: hai ấm trà ở trên bàn",
           "topicId": 14
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 368,
+          "id": 367,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -14788,7 +14788,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 842,
+          "id": 839,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -14808,7 +14808,7 @@
         "type": "multiChoice",
         "value": {
           "id": 821,
-          "question": "Listen and choose True or False.\nIt's B's father.",
+          "question": "Listen and choose True or False.\nThe person is B's father.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/aisthatyourfather\nbnoitisntitsmyuncle\naareyousure\nbyesimsure.mp3",
           "choices": [
@@ -14816,7 +14816,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: A: Is that your father?\nB: No, it isn't. It's my uncle.\nA: Are you sure?\nB: Yes, I'm sure!\n→ A: Đó có phải bố bạn không?\nB: Không phải. Đó là chú mình.\nA: Bạn chắc chứ?\nB: Vâng, mình chắc chắn!\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: Is that your father?\nB: No, it isn't. It's my uncle.\nA: Are you sure?\nB: Yes, I'm sure!\n→ A: Đó có phải bố bạn không?\nB: Không phải. Đó là chú mình.\nA: Bạn chắc chứ?\nB: Vâng, mình chắc chắn!\n✅ B. False\n👉 The person is B's father. → Người đó là bố của B.\n(Câu đúng: The person is B's uncle.)",
           "topicId": 12
         }
       },
@@ -14838,11 +14838,11 @@
               "vi": "ở kia"
             },
             {
-              "en": "here",
-              "vi": "ở đây"
+              "en": "artist",
+              "vi": "hoạ sĩ"
             }
           ],
-          "hint": "bedroom - phòng ngủ\nfridge - tủ lạnh\nthere - ở kia\nhere - ở đây",
+          "hint": "bedroom - phòng ngủ\nfridge - tủ lạnh\nthere - ở kia\nartist - hoạ sĩ",
           "topicId": 13
         }
       },
@@ -14900,7 +14900,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 455,
+          "id": 453,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -14928,8 +14928,8 @@
         "value": {
           "id": 1407,
           "question": "Choose the missing letter.\nfi_h",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fish.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fish.mp3",
           "choices": [
             "A. i",
             "B. s",
@@ -14979,9 +14979,9 @@
             ""
           ],
           "imageNames": [
-            "peacock",
-            "seal",
-            "zebra"
+            "This is a peacock.",
+            "This is a seal.",
+            "This is a zebra."
           ],
           "correctIndex": 2,
           "hint": "This is a zebra. → Đây là con ngựa vằn.\n(Chữ cần chọn: zebra – con ngựa vằn)",
@@ -15021,7 +15021,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 962,
+          "id": 958,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -15099,12 +15099,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/ship.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/plane.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/doll.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/train.png"
           ],
           "imageNames": [
             "ship",
-            "plane",
+            "doll",
             "train"
           ],
           "correctIndex": 0,
@@ -15145,7 +15145,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 756,
+          "id": 753,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -15157,10 +15157,10 @@
           ],
           "scramble": [
             "Nga",
+            "the zoo.",
             "and her",
             "mother",
-            "are at",
-            "the zoo."
+            "are at"
           ],
           "hint": "Nga and her mother are at the zoo. → Nga và mẹ cô ấy đang ở sở thú.",
           "eraseFlag": 0,
@@ -15242,7 +15242,7 @@
           "choices": [
             "A. sea",
             "B. road",
-            "C. lake",
+            "C. tree",
             "D. sun"
           ],
           "correctAnswerIndex": 1,
@@ -15265,7 +15265,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 439,
+          "id": 437,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -15299,8 +15299,8 @@
         "value": {
           "id": 1361,
           "question": "Choose the missing letter.\n_ar",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/car.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/car.mp3",
           "choices": [
             "A. c",
             "B. r",
@@ -15390,7 +15390,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 896,
+          "id": 893,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -15496,8 +15496,8 @@
         "value": {
           "id": 931,
           "sentence": "pi__o",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/piano.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/piano.mp3",
           "answer": "an",
           "hint": "piano: cây đàn piano",
           "topicId": 17
@@ -15506,7 +15506,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 588,
+          "id": 586,
           "audioUrl": "",
           "question": "Kia là Mary. Cô ấy có chiếc áo sơ mi.",
           "correctAnswer": [
@@ -15587,9 +15587,9 @@
             ""
           ],
           "imageNames": [
-            "eighteen apples",
-            "eighteen teapots",
-            "eleven zebras"
+            "I have eighteen apples.",
+            "I have eighteen beans.",
+            "I have eighteen eggs."
           ],
           "correctIndex": 0,
           "hint": "I have eighteen apples. → Mình có mười tám quả táo.\n(Chữ cần chọn: eighteen apples – mười tám quả táo)",
@@ -15629,7 +15629,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1073,
+          "id": 1068,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -15657,7 +15657,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: Ben: What's your father's job?\nNam: He's a worker. He works in a factory.\n→ Ben: Bố bạn làm nghề gì?\nNam: Bố mình là công nhân. Bố làm việc ở nhà máy.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: What's your father's job?\nB: He's a worker. He works in a factory.\n→ A: Bố bạn làm nghề gì?\nB: Bố mình là công nhân. Bố làm việc ở nhà máy.\n✅ A. True",
           "topicId": 15
         }
       },
@@ -15719,7 +15719,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1064,
-          "question": "Listen and choose True or False.\nIt's rainy.",
+          "question": "Listen and choose True or False.\nThe weather is rainy.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/itssunnytodaymyfatherandiarerunninginthepark.mp3",
           "choices": [
@@ -15727,7 +15727,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: It's sunny today. My father and I are running in the park.\n→ Hôm nay trời nắng. Bố và mình đang chạy bộ trong công viên.\n✅ B. False",
+          "hint": "🎧 Bài nghe: It's sunny today. My father and I are running in the park.\n→ Hôm nay trời nắng. Bố và mình đang chạy bộ trong công viên.\n✅ B. False\n👉 The weather is rainy. → Thời tiết đang mưa.\n(Câu đúng: The weather is sunny.)",
           "topicId": 19
         }
       },
@@ -15796,8 +15796,8 @@
           "id": 382,
           "title": [
             {
-              "en": "here",
-              "vi": "ở đây"
+              "en": "goat",
+              "vi": "con dê"
             },
             {
               "en": "roof",
@@ -15812,7 +15812,7 @@
               "vi": "phòng ăn"
             }
           ],
-          "hint": "here - ở đây\nroof - mái nhà\nthere - ở kia\ndining room - phòng ăn",
+          "hint": "goat - con dê\nroof - mái nhà\nthere - ở kia\ndining room - phòng ăn",
           "topicId": 13
         }
       },
@@ -15823,13 +15823,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/thereisawardrobe.mp3",
           "question": "",
           "imageUrls": [
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/table.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/clock.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/yo-yo.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/wardrobe.png"
           ],
           "imageNames": [
+            "table",
             "clock",
-            "yo-yo",
             "wardrobe"
           ],
           "correctIndex": 2,
@@ -15842,8 +15842,8 @@
         "value": {
           "id": 1296,
           "question": "Choose the missing letter.\n_randfather",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/grandfather.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/grandfather.mp3",
           "choices": [
             "A. y",
             "B. g",
@@ -15870,7 +15870,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 498,
+          "id": 496,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -15948,13 +15948,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/horse.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/goat.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/house.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/rabbit.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/goat.png"
           ],
           "imageNames": [
             "horse",
-            "goat",
-            "house"
+            "rabbit",
+            "goat"
           ],
           "correctIndex": 0,
           "hint": "horse → con ngựa\n(Hình đúng: horse – con ngựa)",
@@ -15994,7 +15994,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 955,
+          "id": 951,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -16072,7 +16072,7 @@
             "This apple is small"
           ],
           "correctIndex": 0,
-          "hint": "I have many apples. → Tôi có nhiều quả táo.\n(Hình đúng: I have many apples – Tôii có nhiều quả táo.)",
+          "hint": "I have many apples. → Mình có nhiều quả táo.\n(Hình đúng: I have many apples – Tôii có nhiều quả táo.)",
           "topicId": 16
         }
       },
@@ -16099,8 +16099,8 @@
         "value": {
           "id": 1098,
           "sentence": "cryin_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/crying.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/crying.mp3",
           "answer": "g",
           "hint": "crying: khóc",
           "topicId": 18
@@ -16109,7 +16109,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 644,
+          "id": 641,
           "audioUrl": "",
           "question": "Lucy đang đi xe đạp. – Cô ấy đạp xe rất nhanh!",
           "correctAnswer": [
@@ -16122,11 +16122,11 @@
           ],
           "scramble": [
             "Lucy",
-            "is",
-            "cycling.",
-            "– She",
             "rides",
-            "very fast!"
+            "is",
+            "very fast!",
+            "– She",
+            "cycling."
           ],
           "hint": "Lucy is cycling. She rides very fast! → Lucy đang đi xe đạp. Cô ấy đạp xe rất nhanh!",
           "eraseFlag": 0,
@@ -16189,9 +16189,9 @@
             ""
           ],
           "imageNames": [
-            "nineteen boxes",
-            "nine pandas",
-            "noodles"
+            "He's having tea.",
+            "He's having jam.",
+            "He's having noodles."
           ],
           "correctIndex": 2,
           "hint": "He's having noodles. → Cậu ấy đang ăn mì.\n(Chữ cần chọn: noodles – mì)",
@@ -16220,18 +16220,18 @@
         "type": "completeSentence",
         "value": {
           "id": 541,
-          "sentence": "five lemons on the _ _ _",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivelemonsonthebed.png",
+          "sentence": "five lemons on the _ _ _ _ _",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fivelemonsonthetable.png",
           "audioUrl": "",
-          "answer": "bed",
-          "hint": "five lemons on the bed: năm quả chanh ở trên giường",
+          "answer": "table",
+          "hint": "five lemons on the table: năm quả chanh ở trên bàn",
           "topicId": 14
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 1164,
+          "id": 1158,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -16323,7 +16323,7 @@
         "type": "multiChoice",
         "value": {
           "id": 730,
-          "question": "How many cats do you have? – I ___ two cats.",
+          "question": "Choose the correct answer.\nA: How many cats do you have?\nB: I ___ two cats.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16342,8 +16342,8 @@
         "value": {
           "id": 108,
           "sentence": "b_ll",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bell.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/bell.mp3",
           "answer": "e",
           "hint": "bell: cái chuông",
           "topicId": 11
@@ -16352,7 +16352,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 118,
+          "id": 117,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -16364,12 +16364,12 @@
             "grandmother."
           ],
           "scramble": [
-            "This",
-            "is",
+            "grandmother.",
             "a photo",
-            "of",
+            "This",
             "my",
-            "grandmother."
+            "is",
+            "of"
           ],
           "hint": "This is a photo of my grandmother. → Đây là ảnh của bà tôi.",
           "eraseFlag": 0,
@@ -16380,7 +16380,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1212,
-          "question": "Find the mistake.\nMinh is in the computer room. He have a robot.",
+          "question": "Find the mistake.\nMinh is <u>in</u> the <u>computer</u> room. He <u>have</u> a <u>robot</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -16427,14 +16427,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/wouldyoulikesomejuice.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/water.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/potato.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/juice.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/milk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/soup.png"
           ],
           "imageNames": [
-            "water",
+            "potato",
             "juice",
-            "milk"
+            "soup"
           ],
           "correctIndex": 1,
           "hint": "Would you like some juice? → Bạn có muốn một ít nước ép không?\n(Hình đúng: juice – nước ép)",
@@ -16474,7 +16474,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 545,
+          "id": 543,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -16570,7 +16570,7 @@
         "type": "multiChoice",
         "value": {
           "id": 802,
-          "question": "Listen and choose True or False.\nHe isn't a doctor.",
+          "question": "Listen and choose True or False.\nThe man isn't a doctor.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/aisheadoctor\nbnoheisnthesacook.mp3",
           "choices": [
@@ -16578,7 +16578,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 0,
-          "hint": "🎧 Bài nghe: A: Is he a doctor?\nB: No, he isn't. He's a cook.\n→ A: Chú ấy có phải bác sĩ không?\nB: Không phải. Chú ấy là đầu bếp.\n✅ A. True",
+          "hint": "🎧 Bài nghe: A: Is he a doctor?\nB: No, he isn't. He's a cook.\n→ A: Chú ấy có phải bác sĩ không?\nB: Không phải. Chú ấy là đầu bếp.\n✅ A. True\n👉 The man isn't a doctor. → Người đàn ông không phải bác sĩ.",
           "topicId": 12
         }
       },
@@ -16597,7 +16597,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 275,
+          "id": 274,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -16670,12 +16670,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hehasateddybear.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hehasabus.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shehasaballoon.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hehasakite.png"
           ],
           "imageNames": [
             "He has a teddy bear.",
             "He has a bus.",
-            "She has a balloon."
+            "He has a kite."
           ],
           "correctIndex": 1,
           "hint": "He has a bus. → Cậu ấy có một xe buýt.\n(Hình đúng: He has a bus. – Cậu ấy có một xe buýt.)",
@@ -16705,8 +16705,8 @@
         "value": {
           "id": 1230,
           "sentence": "wal_i_g",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/walking.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/walking.mp3",
           "answer": "kn",
           "hint": "walking: đi bộ",
           "topicId": 19
@@ -16715,7 +16715,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 737,
+          "id": 734,
           "audioUrl": "",
           "question": "What is the peacock doing? – It is dancing.",
           "correctAnswer": [
@@ -16727,12 +16727,12 @@
             "đang nhảy múa."
           ],
           "scramble": [
-            "Con công",
-            "đang",
             "làm gì",
-            "vậy?",
+            "Con công",
             "– Nó",
-            "đang nhảy múa."
+            "vậy?",
+            "đang nhảy múa.",
+            "đang"
           ],
           "hint": "What is the peacock doing? – It is dancing. → Con công đang làm gì vậy? – Nó đang nhảy múa.",
           "eraseFlag": 0,
@@ -16795,9 +16795,9 @@
             ""
           ],
           "imageNames": [
-            "factory",
-            "father",
-            "firefighter"
+            "My mother is in the living room.",
+            "My father is in the living room.",
+            "My brother is in the living room."
           ],
           "correctIndex": 1,
           "hint": "My father is in the living room. → Bố của mình đang ở phòng khách.\n(Chữ cần chọn: father – bố)",
@@ -16826,18 +16826,18 @@
         "type": "completeSentence",
         "value": {
           "id": 732,
-          "sentence": "four _ _ _ _ _ on the bed",
-          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourtentsonthebed.png",
+          "sentence": "four _ _ _ _ _ in the park",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourtentsinthepark.png",
           "audioUrl": "",
           "answer": "tents",
-          "hint": "four tents on the bed: bốn cái lều ở trên giường",
+          "hint": "four tents in the park: bốn cái lều trong công viên",
           "topicId": 15
         }
       },
       {
         "type": "grammar",
         "value": {
-          "id": 412,
+          "id": 411,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -16847,8 +16847,8 @@
             "goldfish."
           ],
           "scramble": [
-            "I",
             "have",
+            "I",
             "twenty",
             "goldfish."
           ],
@@ -16939,7 +16939,7 @@
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "🎧 Bài nghe: Mai: How old is your brother?\nBen: He's fifteen.\nMai: And your sister?\nBen: She's twelve.\n→ Mai: Anh trai bạn bao nhiêu tuổi?\nBen: Anh ấy mười lăm tuổi.\nMai: Còn chị gái bạn?\nBen: Chị ấy mười hai tuổi.\n✅ B. False",
+          "hint": "🎧 Bài nghe: A: How old is your brother?\nB: He's fifteen.\nA: And your sister?\nB: She's twelve.\n→ A: Anh trai bạn bao nhiêu tuổi?\nB: Anh ấy mười lăm tuổi.\nA: Còn chị gái bạn?\nB: Chị ấy mười hai tuổi.\n✅ B. False",
           "topicId": 11
         }
       },
@@ -16948,8 +16948,8 @@
         "value": {
           "id": 188,
           "sentence": "doc_o_",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/doctor.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/doctor.mp3",
           "answer": "tr",
           "hint": "doctor: bác sĩ",
           "topicId": 12
@@ -16958,7 +16958,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 168,
+          "id": 167,
           "audioUrl": "",
           "question": "Phòng ngủ của bạn ở đâu? Nó ở đây.",
           "correctAnswer": [
@@ -16985,7 +16985,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1255,
-          "question": "Find the mistake.\nThe teapot are behind the lamp.",
+          "question": "Find the mistake.\n<u>The</u> teapot <u>are</u> behind <u>the</u> <u>lamp</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17033,13 +17033,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/lamp.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/desk.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/table.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/table.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fence.png"
           ],
           "imageNames": [
             "lamp",
-            "desk",
-            "table"
+            "table",
+            "fence"
           ],
           "correctIndex": 0,
           "hint": "The hat is next to the lamp. → Cái mũ ở bên cạnh cái đèn.\n(Hình đúng: lamp – cái đèn)",
@@ -17079,7 +17079,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 697,
+          "id": 694,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -17111,8 +17111,8 @@
         "value": {
           "id": 1460,
           "question": "Choose the missing letter.\ndanci_g",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/dancing.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/dancing.mp3",
           "choices": [
             "A. w",
             "B. y",
@@ -17159,12 +17159,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/pupil.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/teacher.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/desk.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/worker.png"
           ],
           "imageNames": [
             "pupil",
             "teacher",
-            "desk"
+            "worker"
           ],
           "correctIndex": 1,
           "hint": "teacher → giáo viên\n(Hình đúng: teacher – giáo viên)",
@@ -17204,7 +17204,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1092,
+          "id": 1086,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -17290,7 +17290,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1431,
-          "question": "Find the mistake.\nLucy and Bill is skipping in the park.",
+          "question": "Find the mistake.\nLucy <u>and</u> <u>Bill</u> <u>is</u> <u>skipping</u> in the park.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17309,8 +17309,8 @@
         "value": {
           "id": 1384,
           "sentence": "cl_m_ing",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/climbing.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/climbing.mp3",
           "answer": "ib",
           "hint": "climbing: leo trèo",
           "topicId": 20
@@ -17331,11 +17331,11 @@
             "sister."
           ],
           "scramble": [
-            "Who",
-            "is",
-            "this?",
-            "– It's",
             "my",
+            "Who",
+            "this?",
+            "is",
+            "– It's",
             "sister."
           ],
           "hint": "Who is this? – It's my sister. → Đây là ai? – Đó là chị/em gái tôi.",
@@ -17348,8 +17348,8 @@
         "value": {
           "id": 1162,
           "question": "Choose the missing letter.\nfa_tory",
-          "questionImageUrl": "",
-          "questionAudioUrl": "",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/factory.png",
+          "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/factory.mp3",
           "choices": [
             "A. i",
             "B. l",
@@ -17371,8 +17371,8 @@
               "vi": "Cái giường ở đó."
             },
             {
-              "en": "The cake is on the bed.",
-              "vi": "Cái bánh ở trên cái giường."
+              "en": "The cake is on the table.",
+              "vi": "Cái bánh ở trên bàn."
             },
             {
               "en": "It's here.",
@@ -17383,7 +17383,7 @@
               "vi": "Có ghế sô-pha."
             }
           ],
-          "hint": "The bed is there. - Cái giường ở đó.\nThe cake is on the bed. - Cái bánh ở trên cái giường.\nIt's here. - Nó ở đây.\nThere is a sofa. - Có ghế sô-pha.",
+          "hint": "The bed is there. - Cái giường ở đó.\nThe cake is on the table. - Cái bánh ở trên bàn.\nIt's here. - Nó ở đây.\nThere is a sofa. - Có ghế sô-pha.",
           "topicId": 13
         }
       },
@@ -17399,9 +17399,9 @@
             ""
           ],
           "imageNames": [
-            "window",
-            "watching TV",
-            "worker"
+            "The window is big.",
+            "The wardrobe is big.",
+            "The desk is big."
           ],
           "correctIndex": 0,
           "hint": "The window is big. → Cửa sổ to.\n(Chữ cần chọn: window – cửa sổ)",
@@ -17441,7 +17441,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1246,
+          "id": 1239,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -17461,7 +17461,7 @@
         "type": "multiChoice",
         "value": {
           "id": 583,
-          "question": "What's your father's job? – ___",
+          "question": "Choose the correct answer.\nA: What's your father's job?\nB: ___",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17533,7 +17533,7 @@
         "type": "multiChoice",
         "value": {
           "id": 818,
-          "question": "Read and choose True or False.\nI want to be a singer like my sister. She sings very well. My brother wants to be a doctor.\n\nThe sister sings well.",
+          "question": "Read and choose True or False.\n📖 I want to be a singer like my sister. She sings very well. My brother wants to be a doctor.\n\n👉 The sister sings well.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17550,8 +17550,8 @@
         "value": {
           "id": 334,
           "sentence": "f_idge",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fridge.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/fridge.mp3",
           "answer": "r",
           "hint": "fridge: tủ lạnh",
           "topicId": 13
@@ -17560,7 +17560,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 242,
+          "id": 241,
           "audioUrl": "",
           "question": "Có ba cái cửa sổ trong bếp.",
           "correctAnswer": [
@@ -17637,12 +17637,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/shehasaship.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/hehasateddybear.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shehasatrain.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shehasaship.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/shehasarobot.png"
           ],
           "imageNames": [
-            "He has a teddy bear.",
+            "She has a train.",
             "She has a ship.",
             "She has a robot."
           ],
@@ -17684,7 +17684,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 767,
+          "id": 764,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -17762,12 +17762,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bathroom.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/yard.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/bedroom.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/kitchen.png"
           ],
           "imageNames": [
             "bathroom",
-            "yard",
+            "bedroom",
             "kitchen"
           ],
           "correctIndex": 2,
@@ -17780,14 +17780,14 @@
         "value": {
           "id": 866,
           "question": "Look and choose True or False.\nThis is a four bags on the bed.",
-          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourtentsonthebed.png",
+          "questionImageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/fourtentsinthepark.png",
           "questionAudioUrl": "",
           "choices": [
             "A. True",
             "B. False"
           ],
           "correctAnswerIndex": 1,
-          "hint": "✅ B. False\n👉 Hình vẽ: four tents on the bed (bốn cái lều ở trên giường).\nThis is a four bags on the bed. → Đây là bốn cái túi ở trên giường.\n(Câu này sai vì hình không phải four bags on the bed. Câu đúng cho hình: This is a four tents on the bed.)",
+          "hint": "✅ B. False\n👉 Hình vẽ: four tents in the park (bốn cái lều trong công viên).\nThis is a four bags on the bed. → Đây là bốn cái túi trong công viên.\n(Câu này sai vì hình không phải four bags on the bed. Câu đúng cho hình: This is a four tents in the park.)",
           "topicId": 14
         }
       },
@@ -17806,7 +17806,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1205,
+          "id": 1198,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -17889,7 +17889,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1469,
-          "question": "Find the mistake.\nBill are writing in the living room.",
+          "question": "Find the mistake.\nBill <u>are</u> writing in <u>the</u> <u>living</u> <u>room</u>.",
           "questionImageUrl": "",
           "questionAudioUrl": "",
           "choices": [
@@ -17908,8 +17908,8 @@
         "value": {
           "id": 50,
           "sentence": "ni_eteen",
-          "imageUrl": "",
-          "audioUrl": "",
+          "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/photos/nineteen.png",
+          "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/nineteen.mp3",
           "answer": "n",
           "hint": "nineteen: mười chín",
           "topicId": 11
@@ -17918,7 +17918,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 89,
+          "id": 88,
           "audioUrl": "",
           "question": "",
           "correctAnswer": [
@@ -17997,9 +17997,9 @@
             ""
           ],
           "imageNames": [
-            "bridge",
-            "bag",
-            "bell"
+            "This is my red balloon.",
+            "This is my red drum.",
+            "This is my red bell."
           ],
           "correctIndex": 2,
           "hint": "This is my red bell. → Đây là cái chuông màu đỏ của mình.\n(Chữ cần chọn: bell – cái chuông)",
@@ -18015,12 +18015,12 @@
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l3/audios/bird.mp3",
           "choices": [
             "A. fish",
-            "B. parrot",
+            "B. zebra",
             "C. cat",
             "D. bird"
           ],
           "correctAnswerIndex": 3,
-          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. fish – con cá\nB. parrot – con vẹt\nC. cat – con mèo\n✅ D. bird – con chim",
+          "hint": "Look and choose the correct answer. (Xem tranh và chọn đáp án đúng)\nA. fish – con cá\nB. zebra – con ngựa vằn\nC. cat – con mèo\n✅ D. bird – con chim",
           "topicId": 16
         }
       },
@@ -18039,7 +18039,7 @@
       {
         "type": "grammar",
         "value": {
-          "id": 1321,
+          "id": 1313,
           "audioUrl": "",
           "question": "Select the extra characters/words in the context.",
           "correctAnswer": [
@@ -18096,10 +18096,10 @@
             },
             {
               "en": "Is he a driver?",
-              "vi": "Ông ấy có phải tài xế không?"
+              "vi": "Anh ấy có phải tài xế không?"
             }
           ],
-          "hint": "Where's Ben? - Ben ở đâu?\nIs that a kangaroo? - Kia có phải là chuột túi không?\nWhere are the chairs? - Những cái ghế ở đâu?\nIs he a driver? - Ông ấy có phải tài xế không?",
+          "hint": "Where's Ben? - Ben ở đâu?\nIs that a kangaroo? - Kia có phải là chuột túi không?\nWhere are the chairs? - Những cái ghế ở đâu?\nIs he a driver? - Anh ấy có phải tài xế không?",
           "topicId": 20
         }
       }
