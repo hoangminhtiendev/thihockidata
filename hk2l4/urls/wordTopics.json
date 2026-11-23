@@ -1,7 +1,7 @@
 [
   {
     "id": 11,
-    "text": " My home",
+    "text": "My home",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit11.png",
     "scenes": [
       {
@@ -503,10 +503,10 @@
       },
       {
         "id": 72,
-        "word": "I live in a road.",
-        "meaning": "Mình sống ở một con đường.",
-        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/iliveinaroad.png",
-        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/iliveinaroad.mp3"
+        "word": "I live on a road.",
+        "meaning": "Mình sống trên một con đường.",
+        "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/iliveonaroad.png",
+        "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/iliveonaroad.mp3"
       },
       {
         "id": 73,
@@ -1716,7 +1716,7 @@
   },
   {
     "id": 12,
-    "text": " Jobs",
+    "text": "Jobs",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit12.png",
     "scenes": [
       {
@@ -1932,14 +1932,14 @@
       {
         "id": 275,
         "word": "What does he do?",
-        "meaning": "Ông ấy/Anh ấy làm nghề gì?",
+        "meaning": "Anh ấy làm nghề gì?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/whatdoeshedo.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/whatdoeshedo.mp3"
       },
       {
         "id": 276,
         "word": "What does she do?",
-        "meaning": "Bà ấy/Chị ấy làm nghề gì?",
+        "meaning": "Cô ấy/Chị ấy làm nghề gì?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/whatdoesshedo.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/whatdoesshedo.mp3"
       },
@@ -2086,7 +2086,7 @@
       {
         "id": 297,
         "word": "He works on a farm.",
-        "meaning": "Ông ấy làm việc ở trang trại.",
+        "meaning": "Anh ấy làm việc ở trang trại.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heworksonafarm.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heworksonafarm.mp3"
       },
@@ -2128,7 +2128,7 @@
       {
         "id": 303,
         "word": "He is a farmer.",
-        "meaning": "Ông ấy là nông dân.",
+        "meaning": "Anh ấy là nông dân.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heisafarmer.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heisafarmer.mp3"
       },
@@ -2198,7 +2198,7 @@
       {
         "id": 313,
         "word": "He is a teacher.",
-        "meaning": "Ông ấy là giáo viên.",
+        "meaning": "Anh ấy là giáo viên.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heisateacher.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heisateacher.mp3"
       },
@@ -2219,7 +2219,7 @@
       {
         "id": 316,
         "word": "He works at a school.",
-        "meaning": "Ông ấy làm việc ở trường học.",
+        "meaning": "Anh ấy làm việc ở trường học.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heworksataschool.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heworksataschool.mp3"
       },
@@ -2240,7 +2240,7 @@
       {
         "id": 319,
         "word": "She is a doctor.",
-        "meaning": "Bà ấy là bác sĩ.",
+        "meaning": "Cô ấy là bác sĩ.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/sheisadoctor.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/sheisadoctor.mp3"
       },
@@ -2254,7 +2254,7 @@
       {
         "id": 321,
         "word": "She works at a hospital.",
-        "meaning": "Bà ấy làm việc ở bệnh viện.",
+        "meaning": "Cô ấy làm việc ở bệnh viện.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/sheworksatahospital.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/sheworksatahospital.mp3"
       },
@@ -2317,7 +2317,7 @@
       {
         "id": 330,
         "word": "She is an office worker.",
-        "meaning": "Bà ấy là nhân viên văn phòng.",
+        "meaning": "Cô ấy là nhân viên văn phòng.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/sheisanofficeworker.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/sheisanofficeworker.mp3"
       },
@@ -2338,7 +2338,7 @@
       {
         "id": 333,
         "word": "She works in an office.",
-        "meaning": "Bà ấy làm việc ở văn phòng.",
+        "meaning": "Cô ấy làm việc ở văn phòng.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/sheworksinanoffice.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/sheworksinanoffice.mp3"
       },
@@ -2359,7 +2359,7 @@
       {
         "id": 336,
         "word": "He is a gardener.",
-        "meaning": "Ông ấy là người làm vườn.",
+        "meaning": "Anh ấy là người làm vườn.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heisagardener.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heisagardener.mp3"
       },
@@ -2380,7 +2380,7 @@
       {
         "id": 339,
         "word": "He works in a garden.",
-        "meaning": "Ông ấy làm việc ở khu vườn.",
+        "meaning": "Anh ấy làm việc ở khu vườn.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heworksinagarden.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heworksinagarden.mp3"
       },
@@ -2443,7 +2443,7 @@
       {
         "id": 348,
         "word": "He is a driver.",
-        "meaning": "Ông ấy là tài xế.",
+        "meaning": "Anh ấy là tài xế.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heisadriver.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heisadriver.mp3"
       },
@@ -2464,7 +2464,7 @@
       {
         "id": 351,
         "word": "He works at a bus station.",
-        "meaning": "Ông ấy làm việc ở bến xe buýt.",
+        "meaning": "Anh ấy làm việc ở bến xe buýt.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heworksatabusstation.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heworksatabusstation.mp3"
       },
@@ -3487,7 +3487,7 @@
   },
   {
     "id": 13,
-    "text": " Appearance",
+    "text": "Appearance",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit13.png",
     "scenes": [
       {
@@ -3661,7 +3661,7 @@
       {
         "id": 521,
         "word": "What does he look like?",
-        "meaning": "Ông ấy/Anh ấy trông như thế nào?",
+        "meaning": "Anh ấy trông như thế nào?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/whatdoeshelooklike.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/whatdoeshelooklike.mp3"
       },
@@ -3766,7 +3766,7 @@
       {
         "id": 536,
         "word": "He's big and tall.",
-        "meaning": "Ông ấy to lớn và cao.",
+        "meaning": "Anh ấy to lớn và cao.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/hesbigandtall.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/hesbigandtall.mp3"
       },
@@ -3892,7 +3892,7 @@
       {
         "id": 554,
         "word": "She has long hair.",
-        "meaning": "Bà ấy có tóc dài.",
+        "meaning": "Cô ấy có tóc dài.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/shehaslonghair.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/shehaslonghair.mp3"
       },
@@ -3934,7 +3934,7 @@
       {
         "id": 560,
         "word": "He has big eyes.",
-        "meaning": "Ông ấy có đôi mắt to.",
+        "meaning": "Anh ấy có đôi mắt to.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/hehasbigeyes.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/hehasbigeyes.mp3"
       },
@@ -3948,7 +3948,7 @@
       {
         "id": 562,
         "word": "She has a long nose.",
-        "meaning": "Bà ấy có chiếc mũi dài.",
+        "meaning": "Cô ấy có chiếc mũi dài.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/shehasalongnose.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/shehasalongnose.mp3"
       },
@@ -4985,7 +4985,7 @@
   },
   {
     "id": 14,
-    "text": " Daily activities",
+    "text": "Daily activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit14.png",
     "scenes": [
       {
@@ -6167,7 +6167,7 @@
       {
         "id": 878,
         "word": "She is short.",
-        "meaning": "Bà ấy thấp.",
+        "meaning": "Cô ấy thấp.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/sheisshort.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/sheisshort.mp3"
       },
@@ -6539,7 +6539,7 @@
   },
   {
     "id": 15,
-    "text": " My family's weekends",
+    "text": "My family's weekends",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit15.png",
     "scenes": [
       {
@@ -6720,14 +6720,14 @@
       {
         "id": 956,
         "word": "What does he do there?",
-        "meaning": "Ông ấy làm gì ở đó?",
+        "meaning": "Anh ấy làm gì ở đó?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/whatdoeshedothere.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/whatdoeshedothere.mp3"
       },
       {
         "id": 957,
         "word": "What does she do on Sundays?",
-        "meaning": "Bà ấy làm gì vào các Chủ nhật?",
+        "meaning": "Cô ấy làm gì vào các Chủ nhật?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/whatdoesshedoonsundays.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/whatdoesshedoonsundays.mp3"
       },
@@ -6769,7 +6769,7 @@
       {
         "id": 963,
         "word": "He goes to the sports centre.",
-        "meaning": "Ông ấy đi đến trung tâm thể thao.",
+        "meaning": "Anh ấy đi đến trung tâm thể thao.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/hegoestothesportscentre.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/hegoestothesportscentre.mp3"
       },
@@ -6797,7 +6797,7 @@
       {
         "id": 967,
         "word": "What does he do there? He plays tennis.",
-        "meaning": "Ông ấy làm gì ở đó? Ông ấy chơi quần vợt.",
+        "meaning": "Anh ấy làm gì ở đó? Anh ấy chơi quần vợt.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/whatdoeshedothereheplaystennis.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/whatdoeshedothereheplaystennis.mp3"
       },
@@ -7532,7 +7532,7 @@
       {
         "id": 1072,
         "word": "She goes to the zoo.",
-        "meaning": "Bà ấy đến sở thú.",
+        "meaning": "Cô ấy đến sở thú.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/shegoestothezoo.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/shegoestothezoo.mp3"
       },
@@ -8099,7 +8099,7 @@
       {
         "id": 1153,
         "word": "He reads books.",
-        "meaning": "Ông ấy đọc sách.",
+        "meaning": "Anh ấy đọc sách.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/hereadsbooks.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/hereadsbooks.mp3"
       },
@@ -8121,7 +8121,7 @@
   },
   {
     "id": 16,
-    "text": " Weather",
+    "text": "Weather",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit16.png",
     "scenes": [
       {
@@ -9472,7 +9472,7 @@
   },
   {
     "id": 17,
-    "text": " In the city",
+    "text": "In the city",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit17.png",
     "scenes": [
       {
@@ -10816,7 +10816,7 @@
   },
   {
     "id": 18,
-    "text": " At the shopping centre",
+    "text": "At the shopping centre",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit18.png",
     "scenes": [
       {
@@ -12272,7 +12272,7 @@
   },
   {
     "id": 19,
-    "text": " The animal world",
+    "text": "The animal world",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit19.png",
     "scenes": [
       {
@@ -13762,7 +13762,7 @@
       {
         "id": 1958,
         "word": "He is tall.",
-        "meaning": "Ông ấy cao.",
+        "meaning": "Anh ấy cao.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/heistall.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/audios/heistall.mp3"
       },
@@ -13896,7 +13896,7 @@
   },
   {
     "id": 20,
-    "text": " At summer camp",
+    "text": "At summer camp",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit20.png",
     "scenes": [
       {

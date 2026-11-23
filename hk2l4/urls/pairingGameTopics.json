@@ -1,7 +1,7 @@
 [
   {
     "id": 11,
-    "text": " My home",
+    "text": "My home",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit11.png",
     "scenes": [
       {
@@ -294,8 +294,8 @@
         "id": 14,
         "title": [
           {
-            "en": "parents",
-            "vi": "bố mẹ"
+            "en": "book",
+            "vi": "quyển sách"
           },
           {
             "en": "house",
@@ -310,7 +310,7 @@
             "vi": "ông bà"
           }
         ],
-        "hint": "parents - bố mẹ\nhouse - ngôi nhà\nIT teacher - giáo viên Tin học\ngrandparents - ông bà"
+        "hint": "book - quyển sách\nhouse - ngôi nhà\nIT teacher - giáo viên Tin học\ngrandparents - ông bà"
       },
       {
         "id": 15,
@@ -654,15 +654,15 @@
             "vi": "cuối tuần"
           },
           {
-            "en": "parents",
-            "vi": "bố mẹ"
+            "en": "hospital",
+            "vi": "bệnh viện"
           },
           {
             "en": "live",
             "vi": "sống"
           }
         ],
-        "hint": "grandparents - ông bà\nweekend - cuối tuần\nparents - bố mẹ\nlive - sống"
+        "hint": "grandparents - ông bà\nweekend - cuối tuần\nhospital - bệnh viện\nlive - sống"
       },
       {
         "id": 31,
@@ -694,8 +694,8 @@
             "vi": "ông bà"
           },
           {
-            "en": "parents",
-            "vi": "bố mẹ"
+            "en": "lemon",
+            "vi": "quả chanh"
           },
           {
             "en": "live",
@@ -706,7 +706,7 @@
             "vi": "yên tĩnh"
           }
         ],
-        "hint": "grandparents - ông bà\nparents - bố mẹ\nlive - sống\nquiet - yên tĩnh"
+        "hint": "grandparents - ông bà\nlemon - quả chanh\nlive - sống\nquiet - yên tĩnh"
       },
       {
         "id": 33,
@@ -3308,7 +3308,7 @@
   },
   {
     "id": 12,
-    "text": " Jobs",
+    "text": "Jobs",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit12.png",
     "scenes": [
       {
@@ -3368,21 +3368,21 @@
           },
           {
             "en": "He works in a garden.",
-            "vi": "Ông ấy làm việc ở khu vườn."
+            "vi": "Anh ấy làm việc ở khu vườn."
           },
           {
             "en": "He works on a farm.",
             "vi": "Người ấy làm việc ở nông trại."
           }
         ],
-        "hint": "He's a nurse. - Người ấy là y tá.\nWhat does your brother do? - Anh/em trai của bạn làm nghề gì?\nHe works in a garden. - Ông ấy làm việc ở khu vườn.\nHe works on a farm. - Người ấy làm việc ở nông trại."
+        "hint": "He's a nurse. - Người ấy là y tá.\nWhat does your brother do? - Anh/em trai của bạn làm nghề gì?\nHe works in a garden. - Anh ấy làm việc ở khu vườn.\nHe works on a farm. - Người ấy làm việc ở nông trại."
       },
       {
         "id": 154,
         "title": [
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "My sister is a pupil. She studies at school.",
@@ -3397,7 +3397,7 @@
             "vi": "Cô mình là nhân viên văn phòng."
           }
         ],
-        "hint": "He is a teacher. - Ông ấy là giáo viên.\nMy sister is a pupil. She studies at school. - Chị mình là học sinh. Chị học ở trường.\nI was in Tokyo last summer. - Mùa hè năm ngoái mình ở Tô-ky-ô.\nMy aunt is an office worker. - Cô mình là nhân viên văn phòng."
+        "hint": "He is a teacher. - Anh ấy là giáo viên.\nMy sister is a pupil. She studies at school. - Chị mình là học sinh. Chị học ở trường.\nI was in Tokyo last summer. - Mùa hè năm ngoái mình ở Tô-ky-ô.\nMy aunt is an office worker. - Cô mình là nhân viên văn phòng."
       },
       {
         "id": 155,
@@ -3426,7 +3426,7 @@
         "title": [
           {
             "en": "He is a driver.",
-            "vi": "Ông ấy là tài xế."
+            "vi": "Anh ấy là tài xế."
           },
           {
             "en": "My father is an office worker.",
@@ -3441,14 +3441,14 @@
             "vi": "Cô mình là chú cảnh sát."
           }
         ],
-        "hint": "He is a driver. - Ông ấy là tài xế.\nMy father is an office worker. - Bố mình là nhân viên văn phòng.\nMy grandmother is a teacher. - Bà mình là giáo viên.\nMy aunt is a policeman. - Cô mình là chú cảnh sát."
+        "hint": "He is a driver. - Anh ấy là tài xế.\nMy father is an office worker. - Bố mình là nhân viên văn phòng.\nMy grandmother is a teacher. - Bà mình là giáo viên.\nMy aunt is a policeman. - Cô mình là chú cảnh sát."
       },
       {
         "id": 157,
         "title": [
           {
             "en": "She works in an office.",
-            "vi": "Bà ấy làm việc ở văn phòng."
+            "vi": "Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "My father is a worker. He works at a factory.",
@@ -3456,14 +3456,14 @@
           },
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           },
           {
             "en": "My mother is a worker.",
             "vi": "Mẹ mình là công nhân."
           }
         ],
-        "hint": "She works in an office. - Bà ấy làm việc ở văn phòng.\nMy father is a worker. He works at a factory. - Bố mình là công nhân. Người ấy làm việc ở nhà máy.\nShe is an office worker. - Bà ấy là nhân viên văn phòng.\nMy mother is a worker. - Mẹ mình là công nhân."
+        "hint": "She works in an office. - Cô ấy làm việc ở văn phòng.\nMy father is a worker. He works at a factory. - Bố mình là công nhân. Người ấy làm việc ở nhà máy.\nShe is an office worker. - Cô ấy là nhân viên văn phòng.\nMy mother is a worker. - Mẹ mình là công nhân."
       },
       {
         "id": 158,
@@ -3548,10 +3548,10 @@
           },
           {
             "en": "He is a gardener.",
-            "vi": "Ông ấy là người làm vườn."
+            "vi": "Anh ấy là người làm vườn."
           }
         ],
-        "hint": "My grandmother is a gardener. - Bà mình là người làm vườn.\nMy father is a farmer. He works on a farm. - Bố mình là nông dân. Người ấy làm việc ở nông trại.\nMy grandmother is an actor. - Bà mình là diễn viên.\nHe is a gardener. - Ông ấy là người làm vườn."
+        "hint": "My grandmother is a gardener. - Bà mình là người làm vườn.\nMy father is a farmer. He works on a farm. - Bố mình là nông dân. Người ấy làm việc ở nông trại.\nMy grandmother is an actor. - Bà mình là diễn viên.\nHe is a gardener. - Anh ấy là người làm vườn."
       },
       {
         "id": 162,
@@ -3562,7 +3562,7 @@
           },
           {
             "en": "He is a gardener.",
-            "vi": "Ông ấy là người làm vườn."
+            "vi": "Anh ấy là người làm vườn."
           },
           {
             "en": "Peter is a worker. He works at a factory.",
@@ -3573,7 +3573,7 @@
             "vi": "Cô mình là bác sĩ."
           }
         ],
-        "hint": "Linh is a nurse. She works at a nursing home. - Linh là y tá. Cô ấy làm việc ở viện dưỡng lão.\nHe is a gardener. - Ông ấy là người làm vườn.\nPeter is a worker. He works at a factory. - Peter là công nhân. Cậu ấy làm việc ở nhà máy.\nMy aunt is a doctor. - Cô mình là bác sĩ."
+        "hint": "Linh is a nurse. She works at a nursing home. - Linh là y tá. Cô ấy làm việc ở viện dưỡng lão.\nHe is a gardener. - Anh ấy là người làm vườn.\nPeter is a worker. He works at a factory. - Peter là công nhân. Cậu ấy làm việc ở nhà máy.\nMy aunt is a doctor. - Cô mình là bác sĩ."
       },
       {
         "id": 163,
@@ -3606,7 +3606,7 @@
           },
           {
             "en": "She works at a hospital.",
-            "vi": "Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "She's a farmer.",
@@ -3617,7 +3617,7 @@
             "vi": "Cuối tuần trước bạn có ở Vịnh Hạ Long không?"
           }
         ],
-        "hint": "Where does your mother work? - Mẹ của bạn làm việc ở đâu?\nShe works at a hospital. - Bà ấy làm việc ở bệnh viện.\nShe's a farmer. - Người ấy là nông dân.\nWere you in Ha Long Bay last weekend? - Cuối tuần trước bạn có ở Vịnh Hạ Long không?"
+        "hint": "Where does your mother work? - Mẹ của bạn làm việc ở đâu?\nShe works at a hospital. - Cô ấy làm việc ở bệnh viện.\nShe's a farmer. - Người ấy là nông dân.\nWere you in Ha Long Bay last weekend? - Cuối tuần trước bạn có ở Vịnh Hạ Long không?"
       },
       {
         "id": 165,
@@ -3654,14 +3654,14 @@
           },
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           },
           {
             "en": "She's a doctor.",
             "vi": "Người ấy là bác sĩ."
           }
         ],
-        "hint": "What does your grandmother do? - Bà bạn làm nghề gì?\nShe works at a hospital. - Người ấy làm việc ở bệnh viện.\nShe is an office worker. - Bà ấy là nhân viên văn phòng.\nShe's a doctor. - Người ấy là bác sĩ."
+        "hint": "What does your grandmother do? - Bà bạn làm nghề gì?\nShe works at a hospital. - Người ấy làm việc ở bệnh viện.\nShe is an office worker. - Cô ấy là nhân viên văn phòng.\nShe's a doctor. - Người ấy là bác sĩ."
       },
       {
         "id": 167,
@@ -3694,7 +3694,7 @@
           },
           {
             "en": "He is a gardener.",
-            "vi": "Ông ấy là người làm vườn."
+            "vi": "Anh ấy là người làm vườn."
           },
           {
             "en": "She works at a factory.",
@@ -3705,7 +3705,7 @@
             "vi": "Không, mình không ở đó."
           }
         ],
-        "hint": "What does your aunt do? - Cô của bạn làm nghề gì?\nHe is a gardener. - Ông ấy là người làm vườn.\nShe works at a factory. - Chị ấy làm việc ở nhà máy.\nNo, I wasn't. I was in the countryside. - Không, mình không ở đó."
+        "hint": "What does your aunt do? - Cô của bạn làm nghề gì?\nHe is a gardener. - Anh ấy là người làm vườn.\nShe works at a factory. - Chị ấy làm việc ở nhà máy.\nNo, I wasn't. I was in the countryside. - Không, mình không ở đó."
       },
       {
         "id": 169,
@@ -3734,7 +3734,7 @@
         "title": [
           {
             "en": "She is a doctor.",
-            "vi": "Bà ấy là bác sĩ."
+            "vi": "Cô ấy là bác sĩ."
           },
           {
             "en": "My summer holiday was great!",
@@ -3749,7 +3749,7 @@
             "vi": "Chú mình là công nhân."
           }
         ],
-        "hint": "She is a doctor. - Bà ấy là bác sĩ.\nMy summer holiday was great! - Kỳ nghỉ hè của mình thật tuyệt!\nThere are five people in my family. - Gia đình mình có năm người.\nMy uncle is a worker. - Chú mình là công nhân."
+        "hint": "She is a doctor. - Cô ấy là bác sĩ.\nMy summer holiday was great! - Kỳ nghỉ hè của mình thật tuyệt!\nThere are five people in my family. - Gia đình mình có năm người.\nMy uncle is a worker. - Chú mình là công nhân."
       },
       {
         "id": 171,
@@ -3808,14 +3808,14 @@
           },
           {
             "en": "He works on a farm.",
-            "vi": "Ông ấy làm việc ở trang trại."
+            "vi": "Anh ấy làm việc ở trang trại."
           },
           {
             "en": "Where does your grandmother work?",
             "vi": "Bà của bạn làm việc ở đâu?"
           }
         ],
-        "hint": "What does your mother do? - Mẹ của bạn làm nghề gì?\nShe is a worker. - Chị ấy là công nhân.\nHe works on a farm. - Ông ấy làm việc ở trang trại.\nWhere does your grandmother work? - Bà của bạn làm việc ở đâu?"
+        "hint": "What does your mother do? - Mẹ của bạn làm nghề gì?\nShe is a worker. - Chị ấy là công nhân.\nHe works on a farm. - Anh ấy làm việc ở trang trại.\nWhere does your grandmother work? - Bà của bạn làm việc ở đâu?"
       },
       {
         "id": 174,
@@ -4024,7 +4024,7 @@
           },
           {
             "en": "He works in a garden.",
-            "vi": "Ông ấy làm việc ở khu vườn."
+            "vi": "Anh ấy làm việc ở khu vườn."
           },
           {
             "en": "I live in a quiet town.",
@@ -4035,7 +4035,7 @@
             "vi": "Chị mình và mình là học sinh."
           }
         ],
-        "hint": "Linh is a doctor. She works at a hospital. - Linh là bác sĩ. Cô ấy làm việc ở bệnh viện.\nHe works in a garden. - Ông ấy làm việc ở khu vườn.\nI live in a quiet town. - Mình sống ở thị trấn yên tĩnh.\nMy sister and I are pupils. - Chị mình và mình là học sinh."
+        "hint": "Linh is a doctor. She works at a hospital. - Linh là bác sĩ. Cô ấy làm việc ở bệnh viện.\nHe works in a garden. - Anh ấy làm việc ở khu vườn.\nI live in a quiet town. - Mình sống ở thị trấn yên tĩnh.\nMy sister and I are pupils. - Chị mình và mình là học sinh."
       },
       {
         "id": 184,
@@ -4614,7 +4614,7 @@
         "title": [
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           },
           {
             "en": "I live at 28 Nguyen Hue Street.",
@@ -4629,7 +4629,7 @@
             "vi": "Không, mình không. Mình ở vùng núi."
           }
         ],
-        "hint": "She is an office worker. - Bà ấy là nhân viên văn phòng.\nI live at 28 Nguyen Hue Street. - Mình sống ở số 28, Nguyen Hue Street.\nIt's a quiet street. - Đó là phố yên tĩnh.\nNo, I wasn't. I was in the mountains. - Không, mình không. Mình ở vùng núi."
+        "hint": "She is an office worker. - Cô ấy là nhân viên văn phòng.\nI live at 28 Nguyen Hue Street. - Mình sống ở số 28, Nguyen Hue Street.\nIt's a quiet street. - Đó là phố yên tĩnh.\nNo, I wasn't. I was in the mountains. - Không, mình không. Mình ở vùng núi."
       },
       {
         "id": 211,
@@ -4856,7 +4856,7 @@
         "title": [
           {
             "en": "He works in a garden.",
-            "vi": "Ông ấy làm việc ở khu vườn."
+            "vi": "Anh ấy làm việc ở khu vườn."
           },
           {
             "en": "I like art. It's my favourite subject.",
@@ -4871,14 +4871,14 @@
             "vi": "Cô mình là diễn viên."
           }
         ],
-        "hint": "He works in a garden. - Ông ấy làm việc ở khu vườn.\nI like art. It's my favourite subject. - Mình thích Mĩ thuật. Đó là môn học yêu thích của mình.\nThere are three people in my family. - Gia đình mình có ba người.\nMy aunt is an actor. - Cô mình là diễn viên."
+        "hint": "He works in a garden. - Anh ấy làm việc ở khu vườn.\nI like art. It's my favourite subject. - Mình thích Mĩ thuật. Đó là môn học yêu thích của mình.\nThere are three people in my family. - Gia đình mình có ba người.\nMy aunt is an actor. - Cô mình là diễn viên."
       },
       {
         "id": 222,
         "title": [
           {
-            "en": "work",
-            "vi": "làm việc"
+            "en": "library",
+            "vi": "thư viện"
           },
           {
             "en": "were",
@@ -4893,7 +4893,7 @@
             "vi": "công nhân"
           }
         ],
-        "hint": "work - làm việc\nwere - đã (thì, ở)\npupil - học sinh\nworker - công nhân"
+        "hint": "library - thư viện\nwere - đã (thì, ở)\npupil - học sinh\nworker - công nhân"
       },
       {
         "id": 223,
@@ -5080,7 +5080,7 @@
           },
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           },
           {
             "en": "I live at 28 Nguyen Hue Street.",
@@ -5091,7 +5091,7 @@
             "vi": "Con đường đó như thế nào?"
           }
         ],
-        "hint": "He works at a hospital. - Người ấy làm việc ở bệnh viện.\nShe is an office worker. - Bà ấy là nhân viên văn phòng.\nI live at 28 Nguyen Hue Street. - Mình sống ở số 28, Nguyen Hue Street.\nWhat's the road like? - Con đường đó như thế nào?"
+        "hint": "He works at a hospital. - Người ấy làm việc ở bệnh viện.\nShe is an office worker. - Cô ấy là nhân viên văn phòng.\nI live at 28 Nguyen Hue Street. - Mình sống ở số 28, Nguyen Hue Street.\nWhat's the road like? - Con đường đó như thế nào?"
       },
       {
         "id": 232,
@@ -5322,7 +5322,7 @@
           },
           {
             "en": "He works in a garden.",
-            "vi": "Ông ấy làm việc ở khu vườn."
+            "vi": "Anh ấy làm việc ở khu vườn."
           },
           {
             "en": "He's a farmer. He works on a farm.",
@@ -5330,10 +5330,10 @@
           },
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           }
         ],
-        "hint": "She is a policeman. - Chị ấy là cảnh sát.\nHe works in a garden. - Ông ấy làm việc ở khu vườn.\nHe's a farmer. He works on a farm. - Anh ấy là nông dân. Anh ấy làm việc ở trang trại.\nShe is an office worker. - Bà ấy là nhân viên văn phòng."
+        "hint": "She is a policeman. - Chị ấy là cảnh sát.\nHe works in a garden. - Anh ấy làm việc ở khu vườn.\nHe's a farmer. He works on a farm. - Anh ấy là nông dân. Anh ấy làm việc ở trang trại.\nShe is an office worker. - Cô ấy là nhân viên văn phòng."
       },
       {
         "id": 243,
@@ -5395,11 +5395,11 @@
             "vi": "đã (thì, ở)"
           },
           {
-            "en": "work",
-            "vi": "làm việc"
+            "en": "beautifully",
+            "vi": "đẹp, hay"
           }
         ],
-        "hint": "people - người\nworker - công nhân\nwere - đã (thì, ở)\nwork - làm việc"
+        "hint": "people - người\nworker - công nhân\nwere - đã (thì, ở)\nbeautifully - đẹp, hay"
       },
       {
         "id": 246,
@@ -5480,14 +5480,14 @@
           },
           {
             "en": "He works at a bus station.",
-            "vi": "Ông ấy làm việc ở bến xe buýt."
+            "vi": "Anh ấy làm việc ở bến xe buýt."
           },
           {
             "en": "What does your sister do?",
             "vi": "Chị/em gái của bạn làm nghề gì?"
           }
         ],
-        "hint": "What's the street like? - Phố đó như thế nào?\nHe's a gardener. - Người ấy là người làm vườn.\nHe works at a bus station. - Ông ấy làm việc ở bến xe buýt.\nWhat does your sister do? - Chị/em gái của bạn làm nghề gì?"
+        "hint": "What's the street like? - Phố đó như thế nào?\nHe's a gardener. - Người ấy là người làm vườn.\nHe works at a bus station. - Anh ấy làm việc ở bến xe buýt.\nWhat does your sister do? - Chị/em gái của bạn làm nghề gì?"
       },
       {
         "id": 250,
@@ -5502,14 +5502,14 @@
           },
           {
             "en": "He works at a bus station.",
-            "vi": "Ông ấy làm việc ở bến xe buýt."
+            "vi": "Anh ấy làm việc ở bến xe buýt."
           },
           {
             "en": "My aunt is a doctor.",
             "vi": "Cô mình là bác sĩ."
           }
         ],
-        "hint": "She works at a factory. - Chị ấy làm việc ở nhà máy.\nMy sister is a gardener. - Chị/em gái mình là người làm vườn.\nHe works at a bus station. - Ông ấy làm việc ở bến xe buýt.\nMy aunt is a doctor. - Cô mình là bác sĩ."
+        "hint": "She works at a factory. - Chị ấy làm việc ở nhà máy.\nMy sister is a gardener. - Chị/em gái mình là người làm vườn.\nHe works at a bus station. - Anh ấy làm việc ở bến xe buýt.\nMy aunt is a doctor. - Cô mình là bác sĩ."
       },
       {
         "id": 251,
@@ -5586,7 +5586,7 @@
           },
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "My mother is a driver.",
@@ -5597,7 +5597,7 @@
             "vi": "Mình sống ở số 39, Quang Trung Road."
           }
         ],
-        "hint": "My uncle is a policeman. - Chú mình là chú cảnh sát.\nHe is a teacher. - Ông ấy là giáo viên.\nMy mother is a driver. - Mẹ mình là tài xế.\nI live at 39 Quang Trung Road. - Mình sống ở số 39, Quang Trung Road."
+        "hint": "My uncle is a policeman. - Chú mình là chú cảnh sát.\nHe is a teacher. - Anh ấy là giáo viên.\nMy mother is a driver. - Mẹ mình là tài xế.\nI live at 39 Quang Trung Road. - Mình sống ở số 39, Quang Trung Road."
       },
       {
         "id": 255,
@@ -5872,7 +5872,7 @@
           },
           {
             "en": "He is a driver.",
-            "vi": "Ông ấy là tài xế."
+            "vi": "Anh ấy là tài xế."
           },
           {
             "en": "I live in a quiet village.",
@@ -5883,7 +5883,7 @@
             "vi": "Cô của bạn làm nghề gì?"
           }
         ],
-        "hint": "What does your sister do? - Chị/em gái của bạn làm nghề gì?\nHe is a driver. - Ông ấy là tài xế.\nI live in a quiet village. - Mình sống ở ngôi làng yên tĩnh.\nWhat does your aunt do? - Cô của bạn làm nghề gì?"
+        "hint": "What does your sister do? - Chị/em gái của bạn làm nghề gì?\nHe is a driver. - Anh ấy là tài xế.\nI live in a quiet village. - Mình sống ở ngôi làng yên tĩnh.\nWhat does your aunt do? - Cô của bạn làm nghề gì?"
       },
       {
         "id": 268,
@@ -5920,14 +5920,14 @@
           },
           {
             "en": "He works in a garden.",
-            "vi": "Ông ấy làm việc ở khu vườn."
+            "vi": "Anh ấy làm việc ở khu vườn."
           },
           {
             "en": "It's a big town.",
             "vi": "Đó là thị trấn to, lớn."
           }
         ],
-        "hint": "This is my grandfather. - Đây là ông của mình.\nMy sister is a worker. - Chị/em gái mình là công nhân.\nHe works in a garden. - Ông ấy làm việc ở khu vườn.\nIt's a big town. - Đó là thị trấn to, lớn."
+        "hint": "This is my grandfather. - Đây là ông của mình.\nMy sister is a worker. - Chị/em gái mình là công nhân.\nHe works in a garden. - Anh ấy làm việc ở khu vườn.\nIt's a big town. - Đó là thị trấn to, lớn."
       },
       {
         "id": 270,
@@ -6012,10 +6012,10 @@
           },
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           }
         ],
-        "hint": "Where was Ben last summer? - Mùa hè năm ngoái Ben ở đâu?\nWhat does your sister do? - Chị/em gái của bạn làm nghề gì?\nWhere do you live? - Bạn sống ở đâu?\nHe is a teacher. - Ông ấy là giáo viên."
+        "hint": "Where was Ben last summer? - Mùa hè năm ngoái Ben ở đâu?\nWhat does your sister do? - Chị/em gái của bạn làm nghề gì?\nWhere do you live? - Bạn sống ở đâu?\nHe is a teacher. - Anh ấy là giáo viên."
       },
       {
         "id": 274,
@@ -6118,14 +6118,14 @@
           },
           {
             "en": "What does he do?",
-            "vi": "Ông ấy/Anh ấy làm nghề gì?"
+            "vi": "Anh ấy làm nghề gì?"
           },
           {
             "en": "He is a gardener.",
-            "vi": "Ông ấy là người làm vườn."
+            "vi": "Anh ấy là người làm vườn."
           }
         ],
-        "hint": "I live in a big town. - Mình sống ở thị trấn to, lớn.\nThere are four people in my family. - Có bốn người trong gia đình mình.\nWhat does he do? - Ông ấy/Anh ấy làm nghề gì?\nHe is a gardener. - Ông ấy là người làm vườn."
+        "hint": "I live in a big town. - Mình sống ở thị trấn to, lớn.\nThere are four people in my family. - Có bốn người trong gia đình mình.\nWhat does he do? - Anh ấy làm nghề gì?\nHe is a gardener. - Anh ấy là người làm vườn."
       },
       {
         "id": 279,
@@ -6136,7 +6136,7 @@
           },
           {
             "en": "She is a doctor.",
-            "vi": "Bà ấy là bác sĩ."
+            "vi": "Cô ấy là bác sĩ."
           },
           {
             "en": "What does your aunt do?",
@@ -6147,7 +6147,7 @@
             "vi": "Người ấy là công nhân."
           }
         ],
-        "hint": "What's this? - Đây là gì?\nShe is a doctor. - Bà ấy là bác sĩ.\nWhat does your aunt do? - Cô của bạn làm nghề gì?\nHe's a worker. - Người ấy là công nhân."
+        "hint": "What's this? - Đây là gì?\nShe is a doctor. - Cô ấy là bác sĩ.\nWhat does your aunt do? - Cô của bạn làm nghề gì?\nHe's a worker. - Người ấy là công nhân."
       },
       {
         "id": 280,
@@ -6396,7 +6396,7 @@
         "title": [
           {
             "en": "She works in an office.",
-            "vi": "Bà ấy làm việc ở văn phòng."
+            "vi": "Cô ấy làm việc ở văn phòng."
           },
           {
             "en": "Mai lives at 25 Thang Long Street.",
@@ -6411,7 +6411,7 @@
             "vi": "Mai là nông dân. Cô ấy làm việc ở nông trại."
           }
         ],
-        "hint": "She works in an office. - Bà ấy làm việc ở văn phòng.\nMai lives at 25 Thang Long Street. - Mai sống ở số 25, Thang Long Street.\nMy sister is an office worker. - Chị/em gái mình là nhân viên văn phòng.\nMai is a farmer. She works on a farm. - Mai là nông dân. Cô ấy làm việc ở nông trại."
+        "hint": "She works in an office. - Cô ấy làm việc ở văn phòng.\nMai lives at 25 Thang Long Street. - Mai sống ở số 25, Thang Long Street.\nMy sister is an office worker. - Chị/em gái mình là nhân viên văn phòng.\nMai is a farmer. She works on a farm. - Mai là nông dân. Cô ấy làm việc ở nông trại."
       },
       {
         "id": 292,
@@ -6422,7 +6422,7 @@
           },
           {
             "en": "He works at a school.",
-            "vi": "Ông ấy làm việc ở trường học."
+            "vi": "Anh ấy làm việc ở trường học."
           },
           {
             "en": "I live in Quang Trung Road.",
@@ -6433,7 +6433,7 @@
             "vi": "Ben sống ở đâu?"
           }
         ],
-        "hint": "Where does your sister work? - Chị/em gái của bạn làm việc ở đâu?\nHe works at a school. - Ông ấy làm việc ở trường học.\nI live in Quang Trung Road. - Mình sống ở Quang Trung Road.\nWhere does Ben live? - Ben sống ở đâu?"
+        "hint": "Where does your sister work? - Chị/em gái của bạn làm việc ở đâu?\nHe works at a school. - Anh ấy làm việc ở trường học.\nI live in Quang Trung Road. - Mình sống ở Quang Trung Road.\nWhere does Ben live? - Ben sống ở đâu?"
       },
       {
         "id": 293,
@@ -6444,7 +6444,7 @@
           },
           {
             "en": "He works on a farm.",
-            "vi": "Ông ấy làm việc ở trang trại."
+            "vi": "Anh ấy làm việc ở trang trại."
           },
           {
             "en": "This is my mother. She is a nurse.",
@@ -6455,7 +6455,7 @@
             "vi": "Chú mình là nông dân. Người ấy làm việc ở nông trại."
           }
         ],
-        "hint": "It's a small house in a quiet street. - Đó là một ngôi nhà nhỏ trong một con phố yên tĩnh.\nHe works on a farm. - Ông ấy làm việc ở trang trại.\nThis is my mother. She is a nurse. - Đây là mẹ mình. Mẹ là y tá.\nMy uncle is a farmer. He works on a farm. - Chú mình là nông dân. Người ấy làm việc ở nông trại."
+        "hint": "It's a small house in a quiet street. - Đó là một ngôi nhà nhỏ trong một con phố yên tĩnh.\nHe works on a farm. - Anh ấy làm việc ở trang trại.\nThis is my mother. She is a nurse. - Đây là mẹ mình. Mẹ là y tá.\nMy uncle is a farmer. He works on a farm. - Chú mình là nông dân. Người ấy làm việc ở nông trại."
       },
       {
         "id": 294,
@@ -6514,14 +6514,14 @@
           },
           {
             "en": "He works at a school.",
-            "vi": "Ông ấy làm việc ở trường học."
+            "vi": "Anh ấy làm việc ở trường học."
           },
           {
             "en": "Minh lives at 54 Quang Trung Road.",
             "vi": "Minh sống ở số 54, Quang Trung Road."
           }
         ],
-        "hint": "He is at Green Hotel. - Cậu ấy ở khách sạn Green.\nI study at a primary school. - Mình học ở một trường tiểu học.\nHe works at a school. - Ông ấy làm việc ở trường học.\nMinh lives at 54 Quang Trung Road. - Minh sống ở số 54, Quang Trung Road."
+        "hint": "He is at Green Hotel. - Cậu ấy ở khách sạn Green.\nI study at a primary school. - Mình học ở một trường tiểu học.\nHe works at a school. - Anh ấy làm việc ở trường học.\nMinh lives at 54 Quang Trung Road. - Minh sống ở số 54, Quang Trung Road."
       },
       {
         "id": 297,
@@ -6615,7 +6615,7 @@
   },
   {
     "id": 13,
-    "text": " Appearance",
+    "text": "Appearance",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit13.png",
     "scenes": [
       {
@@ -6733,7 +6733,7 @@
         "title": [
           {
             "en": "She has a long nose.",
-            "vi": "Bà ấy có chiếc mũi dài."
+            "vi": "Cô ấy có chiếc mũi dài."
           },
           {
             "en": "My grandfather has long hair.",
@@ -6748,7 +6748,7 @@
             "vi": "Laura thấp. Cô ấy có khuôn mặt tròn."
           }
         ],
-        "hint": "She has a long nose. - Bà ấy có chiếc mũi dài.\nMy grandfather has long hair. - Ông mình có tóc dài.\nTony is tall. He has big eyes. - Tony cao. Cậu ấy có đôi mắt to.\nLaura is short. She has a round face. - Laura thấp. Cô ấy có khuôn mặt tròn."
+        "hint": "She has a long nose. - Cô ấy có chiếc mũi dài.\nMy grandfather has long hair. - Ông mình có tóc dài.\nTony is tall. He has big eyes. - Tony cao. Cậu ấy có đôi mắt to.\nLaura is short. She has a round face. - Laura thấp. Cô ấy có khuôn mặt tròn."
       },
       {
         "id": 307,
@@ -6847,7 +6847,7 @@
           },
           {
             "en": "She has long hair.",
-            "vi": "Bà ấy có tóc dài."
+            "vi": "Cô ấy có tóc dài."
           },
           {
             "en": "My brother is tall. He has round eyes.",
@@ -6858,7 +6858,7 @@
             "vi": "Bố mình có khuôn mặt tròn."
           }
         ],
-        "hint": "Mai is slim. She has a long nose. - Mai mảnh khảnh. Cô ấy có chiếc mũi dài.\nShe has long hair. - Bà ấy có tóc dài.\nMy brother is tall. He has round eyes. - Anh mình cao. Anh có đôi mắt tròn.\nHe has a round face. - Bố mình có khuôn mặt tròn."
+        "hint": "Mai is slim. She has a long nose. - Mai mảnh khảnh. Cô ấy có chiếc mũi dài.\nShe has long hair. - Cô ấy có tóc dài.\nMy brother is tall. He has round eyes. - Anh mình cao. Anh có đôi mắt tròn.\nHe has a round face. - Bố mình có khuôn mặt tròn."
       },
       {
         "id": 312,
@@ -6909,7 +6909,7 @@
         "title": [
           {
             "en": "He's big and tall.",
-            "vi": "Ông ấy to lớn và cao."
+            "vi": "Anh ấy to lớn và cao."
           },
           {
             "en": "How old is your father?",
@@ -6924,7 +6924,7 @@
             "vi": "Nam thấp. Cậu ấy có tóc ngắn."
           }
         ],
-        "hint": "He's big and tall. - Ông ấy to lớn và cao.\nHow old is your father? - Bố bạn bao nhiêu tuổi?\nMy father has short hair. - Bố mình có tóc ngắn.\nNam is short. He has short hair. - Nam thấp. Cậu ấy có tóc ngắn."
+        "hint": "He's big and tall. - Anh ấy to lớn và cao.\nHow old is your father? - Bố bạn bao nhiêu tuổi?\nMy father has short hair. - Bố mình có tóc ngắn.\nNam is short. He has short hair. - Nam thấp. Cậu ấy có tóc ngắn."
       },
       {
         "id": 315,
@@ -7129,7 +7129,7 @@
         "title": [
           {
             "en": "What does he do?",
-            "vi": "Ông ấy/Anh ấy làm nghề gì?"
+            "vi": "Anh ấy làm nghề gì?"
           },
           {
             "en": "He's tall.",
@@ -7144,7 +7144,7 @@
             "vi": "Bố mẹ bạn trông như thế nào?"
           }
         ],
-        "hint": "What does he do? - Ông ấy/Anh ấy làm nghề gì?\nHe's tall. - Anh ấy cao.\nDo you have a brother? - Bạn có anh/em trai không?\nWhat do your parents look like? - Bố mẹ bạn trông như thế nào?"
+        "hint": "What does he do? - Anh ấy làm nghề gì?\nHe's tall. - Anh ấy cao.\nDo you have a brother? - Bạn có anh/em trai không?\nWhat do your parents look like? - Bố mẹ bạn trông như thế nào?"
       },
       {
         "id": 325,
@@ -7243,7 +7243,7 @@
           },
           {
             "en": "What does he look like?",
-            "vi": "Ông ấy/Anh ấy trông như thế nào?"
+            "vi": "Anh ấy trông như thế nào?"
           },
           {
             "en": "He is short. He has a round face.",
@@ -7251,10 +7251,10 @@
           },
           {
             "en": "What does he do?",
-            "vi": "Ông ấy/Anh ấy làm nghề gì?"
+            "vi": "Anh ấy làm nghề gì?"
           }
         ],
-        "hint": "My grandfather and grandmother are big. - Ông bà mình to lớn.\nWhat does he look like? - Ông ấy/Anh ấy trông như thế nào?\nHe is short. He has a round face. - Anh ấy thấp. Anh ấy có khuôn mặt tròn.\nWhat does he do? - Ông ấy/Anh ấy làm nghề gì?"
+        "hint": "My grandfather and grandmother are big. - Ông bà mình to lớn.\nWhat does he look like? - Anh ấy trông như thế nào?\nHe is short. He has a round face. - Anh ấy thấp. Anh ấy có khuôn mặt tròn.\nWhat does he do? - Anh ấy làm nghề gì?"
       },
       {
         "id": 330,
@@ -8009,7 +8009,7 @@
         "title": [
           {
             "en": "What does he do?",
-            "vi": "Ông ấy/Anh ấy làm nghề gì?"
+            "vi": "Anh ấy làm nghề gì?"
           },
           {
             "en": "My mother is a driver.",
@@ -8024,7 +8024,7 @@
             "vi": "Cô ấy mảnh mai. Cô ấy có mái tóc ngắn."
           }
         ],
-        "hint": "What does he do? - Ông ấy/Anh ấy làm nghề gì?\nMy mother is a driver. - Mẹ mình là tài xế.\nShe is big. She has big eyes. - Cô ấy to lớn. Cô ấy có đôi mắt to.\nShe's slim. She has short hair. - Cô ấy mảnh mai. Cô ấy có mái tóc ngắn."
+        "hint": "What does he do? - Anh ấy làm nghề gì?\nMy mother is a driver. - Mẹ mình là tài xế.\nShe is big. She has big eyes. - Cô ấy to lớn. Cô ấy có đôi mắt to.\nShe's slim. She has short hair. - Cô ấy mảnh mai. Cô ấy có mái tóc ngắn."
       },
       {
         "id": 365,
@@ -8461,10 +8461,10 @@
           },
           {
             "en": "He's big and tall.",
-            "vi": "Ông ấy to lớn và cao."
+            "vi": "Anh ấy to lớn và cao."
           }
         ],
-        "hint": "My sister has a round face and big eyes. - Em gái mình có khuôn mặt tròn và đôi mắt to.\nHer face is round. - Khuôn mặt của cô ấy tròn.\nShe is slim. She has short hair. - Cô ấy mảnh mai. Cô ấy có tóc ngắn.\nHe's big and tall. - Ông ấy to lớn và cao."
+        "hint": "My sister has a round face and big eyes. - Em gái mình có khuôn mặt tròn và đôi mắt to.\nHer face is round. - Khuôn mặt của cô ấy tròn.\nShe is slim. She has short hair. - Cô ấy mảnh mai. Cô ấy có tóc ngắn.\nHe's big and tall. - Anh ấy to lớn và cao."
       },
       {
         "id": 385,
@@ -8483,10 +8483,10 @@
           },
           {
             "en": "What does he do?",
-            "vi": "Ông ấy/Anh ấy làm nghề gì?"
+            "vi": "Anh ấy làm nghề gì?"
           }
         ],
-        "hint": "My sister is a teacher. - Chị/em gái mình là giáo viên.\nMy grandmother is slim. She has short hair. - Bà mình mảnh mai. Bà có mái tóc ngắn.\nHow old is your father? - Bố bạn bao nhiêu tuổi?\nWhat does he do? - Ông ấy/Anh ấy làm nghề gì?"
+        "hint": "My sister is a teacher. - Chị/em gái mình là giáo viên.\nMy grandmother is slim. She has short hair. - Bà mình mảnh mai. Bà có mái tóc ngắn.\nHow old is your father? - Bố bạn bao nhiêu tuổi?\nWhat does he do? - Anh ấy làm nghề gì?"
       },
       {
         "id": 386,
@@ -8761,7 +8761,7 @@
           },
           {
             "en": "What does he do?",
-            "vi": "Ông ấy/Anh ấy làm nghề gì?"
+            "vi": "Anh ấy làm nghề gì?"
           },
           {
             "en": "My father is very tall.",
@@ -8772,7 +8772,7 @@
             "vi": "Anh mình cao. Anh có đôi mắt tròn."
           }
         ],
-        "hint": "My uncle has long hands. - Chú mình có đôi bàn tay dài.\nWhat does he do? - Ông ấy/Anh ấy làm nghề gì?\nMy father is very tall. - Bố mình rất cao.\nMy brother is tall. He has round eyes. - Anh mình cao. Anh có đôi mắt tròn."
+        "hint": "My uncle has long hands. - Chú mình có đôi bàn tay dài.\nWhat does he do? - Anh ấy làm nghề gì?\nMy father is very tall. - Bố mình rất cao.\nMy brother is tall. He has round eyes. - Anh mình cao. Anh có đôi mắt tròn."
       },
       {
         "id": 399,
@@ -9319,10 +9319,10 @@
           },
           {
             "en": "He works on a farm.",
-            "vi": "Ông ấy làm việc ở trang trại."
+            "vi": "Anh ấy làm việc ở trang trại."
           }
         ],
-        "hint": "My brother has big eyes. - Anh/em trai mình có đôi mắt to.\nLucy is a farmer. She works on a farm. - Lucy là nông dân. Cô ấy làm việc ở nông trại.\nMy grandfather is a teacher. - Ông mình là giáo viên.\nHe works on a farm. - Ông ấy làm việc ở trang trại."
+        "hint": "My brother has big eyes. - Anh/em trai mình có đôi mắt to.\nLucy is a farmer. She works on a farm. - Lucy là nông dân. Cô ấy làm việc ở nông trại.\nMy grandfather is a teacher. - Ông mình là giáo viên.\nHe works on a farm. - Anh ấy làm việc ở trang trại."
       },
       {
         "id": 424,
@@ -9473,10 +9473,10 @@
           },
           {
             "en": "He has big eyes.",
-            "vi": "Ông ấy có đôi mắt to."
+            "vi": "Anh ấy có đôi mắt to."
           }
         ],
-        "hint": "I am a pupil. I study at a primary school. - Mình là học sinh. Mình học ở một trường tiểu học.\nI like eggs. - Mình thích quả trứng.\nLinh is a nurse. She works at a nursing home. - Linh là y tá. Cô ấy làm việc ở viện dưỡng lão.\nHe has big eyes. - Ông ấy có đôi mắt to."
+        "hint": "I am a pupil. I study at a primary school. - Mình là học sinh. Mình học ở một trường tiểu học.\nI like eggs. - Mình thích quả trứng.\nLinh is a nurse. She works at a nursing home. - Linh là y tá. Cô ấy làm việc ở viện dưỡng lão.\nHe has big eyes. - Anh ấy có đôi mắt to."
       },
       {
         "id": 431,
@@ -9513,14 +9513,14 @@
           },
           {
             "en": "He is a gardener.",
-            "vi": "Ông ấy là người làm vườn."
+            "vi": "Anh ấy là người làm vườn."
           },
           {
             "en": "He is short. He has a round face.",
             "vi": "Anh ấy thấp. Anh ấy có khuôn mặt tròn."
           }
         ],
-        "hint": "I live in a big city. - Mình sống ở thành phố to, lớn.\nWhat do your parents look like? - Bố mẹ bạn trông như thế nào?\nHe is a gardener. - Ông ấy là người làm vườn.\nHe is short. He has a round face. - Anh ấy thấp. Anh ấy có khuôn mặt tròn."
+        "hint": "I live in a big city. - Mình sống ở thành phố to, lớn.\nWhat do your parents look like? - Bố mẹ bạn trông như thế nào?\nHe is a gardener. - Anh ấy là người làm vườn.\nHe is short. He has a round face. - Anh ấy thấp. Anh ấy có khuôn mặt tròn."
       },
       {
         "id": 433,
@@ -9667,21 +9667,21 @@
           },
           {
             "en": "She works at a hospital.",
-            "vi": "Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "Where do you live?",
             "vi": "Bạn sống ở đâu?"
           }
         ],
-        "hint": "What does your mother do? - Mẹ của bạn làm nghề gì?\nHe's tall. - Người ấy cao.\nShe works at a hospital. - Bà ấy làm việc ở bệnh viện.\nWhere do you live? - Bạn sống ở đâu?"
+        "hint": "What does your mother do? - Mẹ của bạn làm nghề gì?\nHe's tall. - Người ấy cao.\nShe works at a hospital. - Cô ấy làm việc ở bệnh viện.\nWhere do you live? - Bạn sống ở đâu?"
       },
       {
         "id": 440,
         "title": [
           {
             "en": "He's big and tall.",
-            "vi": "Ông ấy to lớn và cao."
+            "vi": "Anh ấy to lớn và cao."
           },
           {
             "en": "It's a noisy road.",
@@ -9696,7 +9696,7 @@
             "vi": "Chị/em gái mình là chú cảnh sát."
           }
         ],
-        "hint": "He's big and tall. - Ông ấy to lớn và cao.\nIt's a noisy road. - Đó là con đường ồn ào.\nMy birthday party is on Sunday. Can you come? - Tiệc sinh nhật của mình vào Chủ nhật. Bạn đến được không?\nMy sister is a policeman. - Chị/em gái mình là chú cảnh sát."
+        "hint": "He's big and tall. - Anh ấy to lớn và cao.\nIt's a noisy road. - Đó là con đường ồn ào.\nMy birthday party is on Sunday. Can you come? - Tiệc sinh nhật của mình vào Chủ nhật. Bạn đến được không?\nMy sister is a policeman. - Chị/em gái mình là chú cảnh sát."
       },
       {
         "id": 441,
@@ -9922,7 +9922,7 @@
   },
   {
     "id": 14,
-    "text": " Daily activities",
+    "text": "Daily activities",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit14.png",
     "scenes": [
       {
@@ -10286,7 +10286,7 @@
           },
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "Linh washes the dishes at noon.",
@@ -10297,7 +10297,7 @@
             "vi": "Nam giúp nấu ăn vào buổi tối."
           }
         ],
-        "hint": "What do you do on Sundays, Linh? - Linh, bạn làm gì vào các Chủ nhật?\nHe is a teacher. - Ông ấy là giáo viên.\nLinh washes the dishes at noon. - Linh rửa bát vào buổi trưa.\nNam helps with the cooking in the evening. - Nam giúp nấu ăn vào buổi tối."
+        "hint": "What do you do on Sundays, Linh? - Linh, bạn làm gì vào các Chủ nhật?\nHe is a teacher. - Anh ấy là giáo viên.\nLinh washes the dishes at noon. - Linh rửa bát vào buổi trưa.\nNam helps with the cooking in the evening. - Nam giúp nấu ăn vào buổi tối."
       },
       {
         "id": 468,
@@ -10756,10 +10756,10 @@
           },
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           }
         ],
-        "hint": "I wash my clothes in the evening. - Mình giặt quần áo vào buổi tối.\nMy sister is short. - Chị/em gái mình thấp.\nWhat's your hobby? - Sở thích của bạn là gì?\nHe is a teacher. - Ông ấy là giáo viên."
+        "hint": "I wash my clothes in the evening. - Mình giặt quần áo vào buổi tối.\nMy sister is short. - Chị/em gái mình thấp.\nWhat's your hobby? - Sở thích của bạn là gì?\nHe is a teacher. - Anh ấy là giáo viên."
       },
       {
         "id": 489,
@@ -11812,10 +11812,10 @@
           },
           {
             "en": "He has big eyes.",
-            "vi": "Ông ấy có đôi mắt to."
+            "vi": "Anh ấy có đôi mắt to."
           }
         ],
-        "hint": "Do you watch TV? Yes, I do. - Bạn có xem ti vi không? Có, mình có.\nWho's that? It's my brother. - Đó là ai vậy? Đó là anh mình.\nWhat's your hobby, Mai? - Sở thích của bạn là gì, Mai?\nHe has big eyes. - Ông ấy có đôi mắt to."
+        "hint": "Do you watch TV? Yes, I do. - Bạn có xem ti vi không? Có, mình có.\nWho's that? It's my brother. - Đó là ai vậy? Đó là anh mình.\nWhat's your hobby, Mai? - Sở thích của bạn là gì, Mai?\nHe has big eyes. - Anh ấy có đôi mắt to."
       },
       {
         "id": 537,
@@ -12218,7 +12218,7 @@
         "title": [
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "My grandmother is a driver.",
@@ -12233,7 +12233,7 @@
             "vi": "Khi nào bạn đọc sách?"
           }
         ],
-        "hint": "He is a teacher. - Ông ấy là giáo viên.\nMy grandmother is a driver. - Bà mình là tài xế.\nIt's a busy town. - Đó là thị trấn đông đúc.\nWhen do you read books? - Khi nào bạn đọc sách?"
+        "hint": "He is a teacher. - Anh ấy là giáo viên.\nMy grandmother is a driver. - Bà mình là tài xế.\nIt's a busy town. - Đó là thị trấn đông đúc.\nWhen do you read books? - Khi nào bạn đọc sách?"
       },
       {
         "id": 556,
@@ -12248,14 +12248,14 @@
           },
           {
             "en": "He works at a bus station.",
-            "vi": "Ông ấy làm việc ở bến xe buýt."
+            "vi": "Anh ấy làm việc ở bến xe buýt."
           },
           {
             "en": "My sister is a nurse.",
             "vi": "Chị/em gái mình là y tá."
           }
         ],
-        "hint": "Touch your mouth. - Hãy chạm vào cái miệng của bạn.\nI do a lot of housework on Sundays. - Mình làm rất nhiều việc nhà vào các Chủ nhật.\nHe works at a bus station. - Ông ấy làm việc ở bến xe buýt.\nMy sister is a nurse. - Chị/em gái mình là y tá."
+        "hint": "Touch your mouth. - Hãy chạm vào cái miệng của bạn.\nI do a lot of housework on Sundays. - Mình làm rất nhiều việc nhà vào các Chủ nhật.\nHe works at a bus station. - Anh ấy làm việc ở bến xe buýt.\nMy sister is a nurse. - Chị/em gái mình là y tá."
       },
       {
         "id": 557,
@@ -12350,7 +12350,7 @@
         "title": [
           {
             "en": "She is short.",
-            "vi": "Bà ấy thấp."
+            "vi": "Cô ấy thấp."
           },
           {
             "en": "Where does your mother work?",
@@ -12365,7 +12365,7 @@
             "vi": "Minh sống ở đâu?"
           }
         ],
-        "hint": "She is short. - Bà ấy thấp.\nWhere does your mother work? - Mẹ bạn làm việc ở đâu?\nWhat's the road like? - Con đường đó như thế nào?\nWhere does Minh live? - Minh sống ở đâu?"
+        "hint": "She is short. - Cô ấy thấp.\nWhere does your mother work? - Mẹ bạn làm việc ở đâu?\nWhat's the road like? - Con đường đó như thế nào?\nWhere does Minh live? - Minh sống ở đâu?"
       },
       {
         "id": 562,
@@ -12570,7 +12570,7 @@
         "title": [
           {
             "en": "He works at a school.",
-            "vi": "Ông ấy làm việc ở trường học."
+            "vi": "Anh ấy làm việc ở trường học."
           },
           {
             "en": "My mother has big eyes.",
@@ -12585,14 +12585,14 @@
             "vi": "Bố mình là công nhân."
           }
         ],
-        "hint": "He works at a school. - Ông ấy làm việc ở trường học.\nMy mother has big eyes. - Mẹ mình có đôi mắt to.\nI am in a big town. - Mình ở trong một thị trấn lớn.\nMy father is a worker. - Bố mình là công nhân."
+        "hint": "He works at a school. - Anh ấy làm việc ở trường học.\nMy mother has big eyes. - Mẹ mình có đôi mắt to.\nI am in a big town. - Mình ở trong một thị trấn lớn.\nMy father is a worker. - Bố mình là công nhân."
       },
       {
         "id": 572,
         "title": [
           {
             "en": "He works in a garden.",
-            "vi": "Ông ấy làm việc ở khu vườn."
+            "vi": "Anh ấy làm việc ở khu vườn."
           },
           {
             "en": "It's a teddy bear.",
@@ -12607,7 +12607,7 @@
             "vi": "Đây là gì?"
           }
         ],
-        "hint": "He works in a garden. - Ông ấy làm việc ở khu vườn.\nIt's a teddy bear. - Đó là gấu bông.\nNo, it isn't. It's in December. - Không phải. Vào tháng Mười Hai.\nWhat's this? - Đây là gì?"
+        "hint": "He works in a garden. - Anh ấy làm việc ở khu vườn.\nIt's a teddy bear. - Đó là gấu bông.\nNo, it isn't. It's in December. - Không phải. Vào tháng Mười Hai.\nWhat's this? - Đây là gì?"
       },
       {
         "id": 573,
@@ -12790,7 +12790,7 @@
         "title": [
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           },
           {
             "en": "My father is an office worker.",
@@ -12798,14 +12798,14 @@
           },
           {
             "en": "She works at a hospital.",
-            "vi": "Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "My grandfather is a driver.",
             "vi": "Ông mình là tài xế."
           }
         ],
-        "hint": "She is an office worker. - Bà ấy là nhân viên văn phòng.\nMy father is an office worker. - Bố mình là nhân viên văn phòng.\nShe works at a hospital. - Bà ấy làm việc ở bệnh viện.\nMy grandfather is a driver. - Ông mình là tài xế."
+        "hint": "She is an office worker. - Cô ấy là nhân viên văn phòng.\nMy father is an office worker. - Bố mình là nhân viên văn phòng.\nShe works at a hospital. - Cô ấy làm việc ở bệnh viện.\nMy grandfather is a driver. - Ông mình là tài xế."
       },
       {
         "id": 582,
@@ -12878,7 +12878,7 @@
         "title": [
           {
             "en": "He is a gardener.",
-            "vi": "Ông ấy là người làm vườn."
+            "vi": "Anh ấy là người làm vườn."
           },
           {
             "en": "The girls play tennis.",
@@ -12893,7 +12893,7 @@
             "vi": "Chị/em gái mình là nông dân."
           }
         ],
-        "hint": "He is a gardener. - Ông ấy là người làm vườn.\nThe girls play tennis. - Các bạn nữ chơi quần vợt.\nMy grandfather is an office worker. - Ông mình là nhân viên văn phòng.\nMy sister is a farmer. - Chị/em gái mình là nông dân."
+        "hint": "He is a gardener. - Anh ấy là người làm vườn.\nThe girls play tennis. - Các bạn nữ chơi quần vợt.\nMy grandfather is an office worker. - Ông mình là nhân viên văn phòng.\nMy sister is a farmer. - Chị/em gái mình là nông dân."
       },
       {
         "id": 586,
@@ -13176,10 +13176,10 @@
           },
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           }
         ],
-        "hint": "Mai is slim. She has a long nose. - Mai mảnh khảnh. Cô ấy có chiếc mũi dài.\nMy father is a farmer. - Bố mình là nông dân.\nHe is at Green Hotel. - Cậu ấy ở khách sạn Green.\nShe is an office worker. - Bà ấy là nhân viên văn phòng."
+        "hint": "Mai is slim. She has a long nose. - Mai mảnh khảnh. Cô ấy có chiếc mũi dài.\nMy father is a farmer. - Bố mình là nông dân.\nHe is at Green Hotel. - Cậu ấy ở khách sạn Green.\nShe is an office worker. - Cô ấy là nhân viên văn phòng."
       },
       {
         "id": 599,
@@ -13229,7 +13229,7 @@
   },
   {
     "id": 15,
-    "text": " My family's weekends",
+    "text": "My family's weekends",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit15.png",
     "scenes": [
       {
@@ -13241,7 +13241,7 @@
           },
           {
             "en": "What does he do there?",
-            "vi": "Ông ấy làm gì ở đó?"
+            "vi": "Anh ấy làm gì ở đó?"
           },
           {
             "en": "My brother watches TV in the afternoon.",
@@ -13252,7 +13252,7 @@
             "vi": "Chị mình ăn một bữa vào các Chủ nhật."
           }
         ],
-        "hint": "His mother goes to the shopping centre. - Mẹ cậu ấy đến trung tâm mua sắm.\nWhat does he do there? - Ông ấy làm gì ở đó?\nMy brother watches TV in the afternoon. - Anh mình xem ti vi vào buổi chiều.\nMy sister has a meal on Sundays. - Chị mình ăn một bữa vào các Chủ nhật."
+        "hint": "His mother goes to the shopping centre. - Mẹ cậu ấy đến trung tâm mua sắm.\nWhat does he do there? - Anh ấy làm gì ở đó?\nMy brother watches TV in the afternoon. - Anh mình xem ti vi vào buổi chiều.\nMy sister has a meal on Sundays. - Chị mình ăn một bữa vào các Chủ nhật."
       },
       {
         "id": 602,
@@ -13435,7 +13435,7 @@
         "title": [
           {
             "en": "What does he do there? He plays tennis.",
-            "vi": "Ông ấy làm gì ở đó? Ông ấy chơi quần vợt."
+            "vi": "Anh ấy làm gì ở đó? Anh ấy chơi quần vợt."
           },
           {
             "en": "My brother watches television on Sundays.",
@@ -13450,7 +13450,7 @@
             "vi": "Laura đến phòng tập thể dục vào các ngày thứ Bảy."
           }
         ],
-        "hint": "What does he do there? He plays tennis. - Ông ấy làm gì ở đó? Ông ấy chơi quần vợt.\nMy brother watches television on Sundays. - Anh/em trai mình xem truyền hình vào các ngày Chủ nhật.\nI go to the cinema on Saturdays. - Mình đi xem phim ở rạp vào các thứ Bảy.\nLaura goes to the gym on Saturdays. - Laura đến phòng tập thể dục vào các ngày thứ Bảy."
+        "hint": "What does he do there? He plays tennis. - Anh ấy làm gì ở đó? Anh ấy chơi quần vợt.\nMy brother watches television on Sundays. - Anh/em trai mình xem truyền hình vào các ngày Chủ nhật.\nI go to the cinema on Saturdays. - Mình đi xem phim ở rạp vào các thứ Bảy.\nLaura goes to the gym on Saturdays. - Laura đến phòng tập thể dục vào các ngày thứ Bảy."
       },
       {
         "id": 611,
@@ -13531,14 +13531,14 @@
           },
           {
             "en": "What does she do on Sundays?",
-            "vi": "Bà ấy làm gì vào các Chủ nhật?"
+            "vi": "Cô ấy làm gì vào các Chủ nhật?"
           },
           {
             "en": "Ben stays at home. He watches TV.",
             "vi": "Ben ở nhà. Cậu ấy xem ti vi."
           }
         ],
-        "hint": "My mother goes to the cinema on Saturdays. - Mẹ mình đến rạp chiếu phim vào các ngày thứ Bảy.\nI go to the gym on Saturdays. - Mình đến phòng tập thể dục vào các thứ Bảy.\nWhat does she do on Sundays? - Bà ấy làm gì vào các Chủ nhật?\nBen stays at home. He watches TV. - Ben ở nhà. Cậu ấy xem ti vi."
+        "hint": "My mother goes to the cinema on Saturdays. - Mẹ mình đến rạp chiếu phim vào các ngày thứ Bảy.\nI go to the gym on Saturdays. - Mình đến phòng tập thể dục vào các thứ Bảy.\nWhat does she do on Sundays? - Cô ấy làm gì vào các Chủ nhật?\nBen stays at home. He watches TV. - Ben ở nhà. Cậu ấy xem ti vi."
       },
       {
         "id": 615,
@@ -13743,7 +13743,7 @@
         "title": [
           {
             "en": "What does he do there? He plays tennis.",
-            "vi": "Ông ấy làm gì ở đó? Ông ấy chơi quần vợt."
+            "vi": "Anh ấy làm gì ở đó? Anh ấy chơi quần vợt."
           },
           {
             "en": "Peter is short. He has a round face.",
@@ -13758,7 +13758,7 @@
             "vi": "Anh/em trai mình đến phòng tập thể dục. Người ấy tập yoga."
           }
         ],
-        "hint": "What does he do there? He plays tennis. - Ông ấy làm gì ở đó? Ông ấy chơi quần vợt.\nPeter is short. He has a round face. - Peter thấp. Cậu ấy có khuôn mặt tròn.\nMy mother cooks meals on Sundays. - Mẹ mình nấu ăn vào các ngày Chủ nhật.\nMy brother goes to the gym. He does yoga. - Anh/em trai mình đến phòng tập thể dục. Người ấy tập yoga."
+        "hint": "What does he do there? He plays tennis. - Anh ấy làm gì ở đó? Anh ấy chơi quần vợt.\nPeter is short. He has a round face. - Peter thấp. Cậu ấy có khuôn mặt tròn.\nMy mother cooks meals on Sundays. - Mẹ mình nấu ăn vào các ngày Chủ nhật.\nMy brother goes to the gym. He does yoga. - Anh/em trai mình đến phòng tập thể dục. Người ấy tập yoga."
       },
       {
         "id": 625,
@@ -13883,14 +13883,14 @@
           },
           {
             "en": "What does he do there?",
-            "vi": "Ông ấy làm gì ở đó?"
+            "vi": "Anh ấy làm gì ở đó?"
           },
           {
             "en": "Mai helps with the cooking at noon.",
             "vi": "Mai giúp nấu ăn vào buổi trưa."
           }
         ],
-        "hint": "My brother is tall. He has round eyes. - Anh mình cao. Anh có đôi mắt tròn.\nLinh goes to the swimming pool on Saturdays. - Linh đến bể bơi vào các ngày thứ Bảy.\nWhat does he do there? - Ông ấy làm gì ở đó?\nMai helps with the cooking at noon. - Mai giúp nấu ăn vào buổi trưa."
+        "hint": "My brother is tall. He has round eyes. - Anh mình cao. Anh có đôi mắt tròn.\nLinh goes to the swimming pool on Saturdays. - Linh đến bể bơi vào các ngày thứ Bảy.\nWhat does he do there? - Anh ấy làm gì ở đó?\nMai helps with the cooking at noon. - Mai giúp nấu ăn vào buổi trưa."
       },
       {
         "id": 631,
@@ -14143,7 +14143,7 @@
           },
           {
             "en": "What does she do on Sundays?",
-            "vi": "Bà ấy làm gì vào các Chủ nhật?"
+            "vi": "Cô ấy làm gì vào các Chủ nhật?"
           },
           {
             "en": "My father goes to the gym. He does yoga.",
@@ -14154,7 +14154,7 @@
             "vi": "Họ đi đâu vào các thứ Bảy?"
           }
         ],
-        "hint": "I have a meal on Sundays. - Mình ăn một bữa vào các Chủ nhật.\nWhat does she do on Sundays? - Bà ấy làm gì vào các Chủ nhật?\nMy father goes to the gym. He does yoga. - Bố mình đến phòng tập thể dục. Người ấy tập yoga.\nWhere do they go on Saturdays? - Họ đi đâu vào các thứ Bảy?"
+        "hint": "I have a meal on Sundays. - Mình ăn một bữa vào các Chủ nhật.\nWhat does she do on Sundays? - Cô ấy làm gì vào các Chủ nhật?\nMy father goes to the gym. He does yoga. - Bố mình đến phòng tập thể dục. Người ấy tập yoga.\nWhere do they go on Saturdays? - Họ đi đâu vào các thứ Bảy?"
       },
       {
         "id": 643,
@@ -14213,14 +14213,14 @@
           },
           {
             "en": "What does she do on Sundays?",
-            "vi": "Bà ấy làm gì vào các Chủ nhật?"
+            "vi": "Cô ấy làm gì vào các Chủ nhật?"
           },
           {
             "en": "My father goes to the gym. He does yoga.",
             "vi": "Bố mình đến phòng tập thể dục. Người ấy tập yoga."
           }
         ],
-        "hint": "My sister watches a film on Sundays. - Chị mình xem phim vào các Chủ nhật.\nMy mother cooks meals on Sundays. - Mẹ mình nấu ăn vào các ngày Chủ nhật.\nWhat does she do on Sundays? - Bà ấy làm gì vào các Chủ nhật?\nMy father goes to the gym. He does yoga. - Bố mình đến phòng tập thể dục. Người ấy tập yoga."
+        "hint": "My sister watches a film on Sundays. - Chị mình xem phim vào các Chủ nhật.\nMy mother cooks meals on Sundays. - Mẹ mình nấu ăn vào các ngày Chủ nhật.\nWhat does she do on Sundays? - Cô ấy làm gì vào các Chủ nhật?\nMy father goes to the gym. He does yoga. - Bố mình đến phòng tập thể dục. Người ấy tập yoga."
       },
       {
         "id": 646,
@@ -14547,10 +14547,10 @@
           },
           {
             "en": "She is short.",
-            "vi": "Bà ấy thấp."
+            "vi": "Cô ấy thấp."
           }
         ],
-        "hint": "At noon. - Vào buổi trưa.\nHe swims. - Người ấy bơi.\nShe plays tennis. - Người ấy chơi quần vợt.\nShe is short. - Bà ấy thấp."
+        "hint": "At noon. - Vào buổi trưa.\nHe swims. - Người ấy bơi.\nShe plays tennis. - Người ấy chơi quần vợt.\nShe is short. - Cô ấy thấp."
       },
       {
         "id": 661,
@@ -14583,7 +14583,7 @@
           },
           {
             "en": "What does she do on Sundays?",
-            "vi": "Bà ấy làm gì vào các Chủ nhật?"
+            "vi": "Cô ấy làm gì vào các Chủ nhật?"
           },
           {
             "en": "We watch television on Sundays.",
@@ -14594,7 +14594,7 @@
             "vi": "Chị/em gái mình nấu ăn vào các ngày Chủ nhật."
           }
         ],
-        "hint": "My sister watches a film on Sundays. - Chị mình xem phim vào các Chủ nhật.\nWhat does she do on Sundays? - Bà ấy làm gì vào các Chủ nhật?\nWe watch television on Sundays. - Chúng mình xem ti vi vào các Chủ nhật.\nMy sister cooks meals on Sundays. - Chị/em gái mình nấu ăn vào các ngày Chủ nhật."
+        "hint": "My sister watches a film on Sundays. - Chị mình xem phim vào các Chủ nhật.\nWhat does she do on Sundays? - Cô ấy làm gì vào các Chủ nhật?\nWe watch television on Sundays. - Chúng mình xem ti vi vào các Chủ nhật.\nMy sister cooks meals on Sundays. - Chị/em gái mình nấu ăn vào các ngày Chủ nhật."
       },
       {
         "id": 663,
@@ -14609,14 +14609,14 @@
           },
           {
             "en": "What does he do there?",
-            "vi": "Ông ấy làm gì ở đó?"
+            "vi": "Anh ấy làm gì ở đó?"
           },
           {
             "en": "What does your father do on Sundays?",
             "vi": "Bố bạn làm gì vào các Chủ nhật?"
           }
         ],
-        "hint": "I go to the shopping centre. - Mình đến trung tâm mua sắm.\nHe goes to the sports centre. - Người ấy đến trung tâm thể thao.\nWhat does he do there? - Ông ấy làm gì ở đó?\nWhat does your father do on Sundays? - Bố bạn làm gì vào các Chủ nhật?"
+        "hint": "I go to the shopping centre. - Mình đến trung tâm mua sắm.\nHe goes to the sports centre. - Người ấy đến trung tâm thể thao.\nWhat does he do there? - Anh ấy làm gì ở đó?\nWhat does your father do on Sundays? - Bố bạn làm gì vào các Chủ nhật?"
       },
       {
         "id": 664,
@@ -14675,14 +14675,14 @@
           },
           {
             "en": "What does he do there?",
-            "vi": "Ông ấy làm gì ở đó?"
+            "vi": "Anh ấy làm gì ở đó?"
           },
           {
             "en": "My sister cooks meals on Sundays.",
             "vi": "Chị/em gái mình nấu ăn vào các ngày Chủ nhật."
           }
         ],
-        "hint": "My mother goes to the zoo on Sundays. - Mẹ mình đến sở thú vào các Chủ nhật.\nLaura goes to the gym on Saturdays. - Laura đến phòng tập thể dục vào các ngày thứ Bảy.\nWhat does he do there? - Ông ấy làm gì ở đó?\nMy sister cooks meals on Sundays. - Chị/em gái mình nấu ăn vào các ngày Chủ nhật."
+        "hint": "My mother goes to the zoo on Sundays. - Mẹ mình đến sở thú vào các Chủ nhật.\nLaura goes to the gym on Saturdays. - Laura đến phòng tập thể dục vào các ngày thứ Bảy.\nWhat does he do there? - Anh ấy làm gì ở đó?\nMy sister cooks meals on Sundays. - Chị/em gái mình nấu ăn vào các ngày Chủ nhật."
       },
       {
         "id": 667,
@@ -14741,14 +14741,14 @@
           },
           {
             "en": "What does he do there?",
-            "vi": "Ông ấy làm gì ở đó?"
+            "vi": "Anh ấy làm gì ở đó?"
           },
           {
             "en": "I play table tennis on Sundays.",
             "vi": "Mình chơi bóng bàn vào các Chủ nhật."
           }
         ],
-        "hint": "What about your mother? - Còn mẹ bạn thì sao?\nMai helps with the cooking at noon. - Mai giúp nấu ăn vào buổi trưa.\nWhat does he do there? - Ông ấy làm gì ở đó?\nI play table tennis on Sundays. - Mình chơi bóng bàn vào các Chủ nhật."
+        "hint": "What about your mother? - Còn mẹ bạn thì sao?\nMai helps with the cooking at noon. - Mai giúp nấu ăn vào buổi trưa.\nWhat does he do there? - Anh ấy làm gì ở đó?\nI play table tennis on Sundays. - Mình chơi bóng bàn vào các Chủ nhật."
       },
       {
         "id": 670,
@@ -14987,10 +14987,10 @@
           },
           {
             "en": "He goes to the sports centre.",
-            "vi": "Ông ấy đi đến trung tâm thể thao."
+            "vi": "Anh ấy đi đến trung tâm thể thao."
           }
         ],
-        "hint": "Today is Sunday. - Hôm nay là Chủ nhật.\nI do housework in the morning. - Mình làm việc nhà vào buổi sáng.\nMy sister goes to the gym. She does yoga. - Chị/em gái mình đến phòng tập thể dục. Người ấy tập yoga.\nHe goes to the sports centre. - Ông ấy đi đến trung tâm thể thao."
+        "hint": "Today is Sunday. - Hôm nay là Chủ nhật.\nI do housework in the morning. - Mình làm việc nhà vào buổi sáng.\nMy sister goes to the gym. She does yoga. - Chị/em gái mình đến phòng tập thể dục. Người ấy tập yoga.\nHe goes to the sports centre. - Anh ấy đi đến trung tâm thể thao."
       },
       {
         "id": 681,
@@ -15163,10 +15163,10 @@
           },
           {
             "en": "What does he do there?",
-            "vi": "Ông ấy làm gì ở đó?"
+            "vi": "Anh ấy làm gì ở đó?"
           }
         ],
-        "hint": "My mother plays tennis on Sundays. - Mẹ mình chơi quần vợt vào các Chủ nhật.\nMy brother watches TV in the afternoon. - Anh mình xem ti vi vào buổi chiều.\nI go shopping on Sundays. - Mình đi mua sắm vào các Chủ nhật.\nWhat does he do there? - Ông ấy làm gì ở đó?"
+        "hint": "My mother plays tennis on Sundays. - Mẹ mình chơi quần vợt vào các Chủ nhật.\nMy brother watches TV in the afternoon. - Anh mình xem ti vi vào buổi chiều.\nI go shopping on Sundays. - Mình đi mua sắm vào các Chủ nhật.\nWhat does he do there? - Anh ấy làm gì ở đó?"
       },
       {
         "id": 689,
@@ -15291,14 +15291,14 @@
           },
           {
             "en": "What does he do there?",
-            "vi": "Ông ấy làm gì ở đó?"
+            "vi": "Anh ấy làm gì ở đó?"
           },
           {
             "en": "What does he do there? He plays tennis.",
-            "vi": "Ông ấy làm gì ở đó? Ông ấy chơi quần vợt."
+            "vi": "Anh ấy làm gì ở đó? Anh ấy chơi quần vợt."
           }
         ],
-        "hint": "My father swims on Sundays. - Bố mình bơi vào các Chủ nhật.\nI play table tennis on Sundays. - Mình chơi bóng bàn vào các Chủ nhật.\nWhat does he do there? - Ông ấy làm gì ở đó?\nWhat does he do there? He plays tennis. - Ông ấy làm gì ở đó? Ông ấy chơi quần vợt."
+        "hint": "My father swims on Sundays. - Bố mình bơi vào các Chủ nhật.\nI play table tennis on Sundays. - Mình chơi bóng bàn vào các Chủ nhật.\nWhat does he do there? - Anh ấy làm gì ở đó?\nWhat does he do there? He plays tennis. - Anh ấy làm gì ở đó? Anh ấy chơi quần vợt."
       },
       {
         "id": 695,
@@ -15459,7 +15459,7 @@
         "title": [
           {
             "en": "What does he do there?",
-            "vi": "Ông ấy làm gì ở đó?"
+            "vi": "Anh ấy làm gì ở đó?"
           },
           {
             "en": "I live in a quiet town.",
@@ -15474,7 +15474,7 @@
             "vi": "Bố mình bốn mươi tuổi."
           }
         ],
-        "hint": "What does he do there? - Ông ấy làm gì ở đó?\nI live in a quiet town. - Mình sống ở thị trấn yên tĩnh.\nBill reads books in the afternoon. - Bill đọc sách vào buổi chiều.\nHe's forty. - Bố mình bốn mươi tuổi."
+        "hint": "What does he do there? - Anh ấy làm gì ở đó?\nI live in a quiet town. - Mình sống ở thị trấn yên tĩnh.\nBill reads books in the afternoon. - Bill đọc sách vào buổi chiều.\nHe's forty. - Bố mình bốn mươi tuổi."
       },
       {
         "id": 703,
@@ -15485,7 +15485,7 @@
           },
           {
             "en": "She works at a hospital.",
-            "vi": "Bà ấy làm việc ở bệnh viện."
+            "vi": "Cô ấy làm việc ở bệnh viện."
           },
           {
             "en": "It's a busy road.",
@@ -15496,7 +15496,7 @@
             "vi": "Chú mình là công nhân."
           }
         ],
-        "hint": "Where do they go on Saturdays? - Họ đi đâu vào các thứ Bảy?\nShe works at a hospital. - Bà ấy làm việc ở bệnh viện.\nIt's a busy road. - Đó là con đường đông đúc.\nMy uncle is a worker. - Chú mình là công nhân."
+        "hint": "Where do they go on Saturdays? - Họ đi đâu vào các thứ Bảy?\nShe works at a hospital. - Cô ấy làm việc ở bệnh viện.\nIt's a busy road. - Đó là con đường đông đúc.\nMy uncle is a worker. - Chú mình là công nhân."
       },
       {
         "id": 704,
@@ -15555,14 +15555,14 @@
           },
           {
             "en": "What does he look like?",
-            "vi": "Ông ấy/Anh ấy trông như thế nào?"
+            "vi": "Anh ấy trông như thế nào?"
           },
           {
             "en": "It's a mouse.",
             "vi": "Đó là con chuột."
           }
         ],
-        "hint": "My father is an actor. - Bố mình là diễn viên.\nIt's a big road. - Đó là con đường to, lớn.\nWhat does he look like? - Ông ấy/Anh ấy trông như thế nào?\nIt's a mouse. - Đó là con chuột."
+        "hint": "My father is an actor. - Bố mình là diễn viên.\nIt's a big road. - Đó là con đường to, lớn.\nWhat does he look like? - Anh ấy trông như thế nào?\nIt's a mouse. - Đó là con chuột."
       },
       {
         "id": 707,
@@ -15833,7 +15833,7 @@
         "title": [
           {
             "en": "He's big and tall.",
-            "vi": "Ông ấy to lớn và cao."
+            "vi": "Anh ấy to lớn và cao."
           },
           {
             "en": "It's a pencil.",
@@ -15848,7 +15848,7 @@
             "vi": "Hãy chạm vào cái mũi của bạn."
           }
         ],
-        "hint": "He's big and tall. - Ông ấy to lớn và cao.\nIt's a pencil. - Đó là cái bút chì.\nIt's blue. - Đó là màu màu xanh da trời.\nTouch your nose. - Hãy chạm vào cái mũi của bạn."
+        "hint": "He's big and tall. - Anh ấy to lớn và cao.\nIt's a pencil. - Đó là cái bút chì.\nIt's blue. - Đó là màu màu xanh da trời.\nTouch your nose. - Hãy chạm vào cái mũi của bạn."
       },
       {
         "id": 720,
@@ -15995,14 +15995,14 @@
           },
           {
             "en": "He is a driver.",
-            "vi": "Ông ấy là tài xế."
+            "vi": "Anh ấy là tài xế."
           },
           {
             "en": "It's a bus.",
             "vi": "Đó là xe buýt."
           }
         ],
-        "hint": "Where does your mother work? - Mẹ của bạn làm việc ở đâu?\nIt's a small street. - Đó là phố nhỏ.\nHe is a driver. - Ông ấy là tài xế.\nIt's a bus. - Đó là xe buýt."
+        "hint": "Where does your mother work? - Mẹ của bạn làm việc ở đâu?\nIt's a small street. - Đó là phố nhỏ.\nHe is a driver. - Anh ấy là tài xế.\nIt's a bus. - Đó là xe buýt."
       },
       {
         "id": 727,
@@ -16013,7 +16013,7 @@
           },
           {
             "en": "What does she do?",
-            "vi": "Bà ấy/Chị ấy làm nghề gì?"
+            "vi": "Cô ấy/Chị ấy làm nghề gì?"
           },
           {
             "en": "It's a goldfish.",
@@ -16024,7 +16024,7 @@
             "vi": "Ông mình là nông dân."
           }
         ],
-        "hint": "It's yellow. - Đó là màu màu vàng.\nWhat does she do? - Bà ấy/Chị ấy làm nghề gì?\nIt's a goldfish. - Đó là con cá vàng.\nMy grandfather is a farmer. - Ông mình là nông dân."
+        "hint": "It's yellow. - Đó là màu màu vàng.\nWhat does she do? - Cô ấy/Chị ấy làm nghề gì?\nIt's a goldfish. - Đó là con cá vàng.\nMy grandfather is a farmer. - Ông mình là nông dân."
       },
       {
         "id": 728,
@@ -16303,14 +16303,14 @@
           },
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           },
           {
             "en": "This is my mother.",
             "vi": "Đây là mẹ của mình."
           }
         ],
-        "hint": "I like bananas. - Mình thích quả chuối.\nI live at 54 Hai Ba Trung Street. - Mình sống ở số 54, Hai Ba Trung Street.\nShe is an office worker. - Bà ấy là nhân viên văn phòng.\nThis is my mother. - Đây là mẹ của mình."
+        "hint": "I like bananas. - Mình thích quả chuối.\nI live at 54 Hai Ba Trung Street. - Mình sống ở số 54, Hai Ba Trung Street.\nShe is an office worker. - Cô ấy là nhân viên văn phòng.\nThis is my mother. - Đây là mẹ của mình."
       },
       {
         "id": 741,
@@ -16329,10 +16329,10 @@
           },
           {
             "en": "She is a doctor.",
-            "vi": "Bà ấy là bác sĩ."
+            "vi": "Cô ấy là bác sĩ."
           }
         ],
-        "hint": "My grandparents live in a big house. - Ông bà mình sống trong một ngôi nhà lớn.\nI live in Quang Trung Road. - Mình sống ở Quang Trung Road.\nBill reads books in the afternoon. - Bill đọc sách vào buổi chiều.\nShe is a doctor. - Bà ấy là bác sĩ."
+        "hint": "My grandparents live in a big house. - Ông bà mình sống trong một ngôi nhà lớn.\nI live in Quang Trung Road. - Mình sống ở Quang Trung Road.\nBill reads books in the afternoon. - Bill đọc sách vào buổi chiều.\nShe is a doctor. - Cô ấy là bác sĩ."
       },
       {
         "id": 742,
@@ -16361,7 +16361,7 @@
         "title": [
           {
             "en": "She has long hair.",
-            "vi": "Bà ấy có tóc dài."
+            "vi": "Cô ấy có tóc dài."
           },
           {
             "en": "Kate goes to the cinema on Saturdays.",
@@ -16376,7 +16376,7 @@
             "vi": "Ông mình to lớn."
           }
         ],
-        "hint": "She has long hair. - Bà ấy có tóc dài.\nKate goes to the cinema on Saturdays. - Kate đến rạp chiếu phim vào các ngày thứ Bảy.\nThis is my brother. - Đây là anh/em trai của mình.\nMy grandfather is big. - Ông mình to lớn."
+        "hint": "She has long hair. - Cô ấy có tóc dài.\nKate goes to the cinema on Saturdays. - Kate đến rạp chiếu phim vào các ngày thứ Bảy.\nThis is my brother. - Đây là anh/em trai của mình.\nMy grandfather is big. - Ông mình to lớn."
       },
       {
         "id": 744,
@@ -16409,7 +16409,7 @@
           },
           {
             "en": "She goes to the zoo.",
-            "vi": "Bà ấy đến sở thú."
+            "vi": "Cô ấy đến sở thú."
           },
           {
             "en": "Where does your sister go on Sundays?",
@@ -16420,7 +16420,7 @@
             "vi": "Mẹ của bạn làm gì ở đó?"
           }
         ],
-        "hint": "He's a worker. - Người ấy là công nhân.\nShe goes to the zoo. - Bà ấy đến sở thú.\nWhere does your sister go on Sundays? - Chị bạn đi đâu vào các Chủ nhật?\nWhat does your mother do there? - Mẹ của bạn làm gì ở đó?"
+        "hint": "He's a worker. - Người ấy là công nhân.\nShe goes to the zoo. - Cô ấy đến sở thú.\nWhere does your sister go on Sundays? - Chị bạn đi đâu vào các Chủ nhật?\nWhat does your mother do there? - Mẹ của bạn làm gì ở đó?"
       },
       {
         "id": 746,
@@ -16536,7 +16536,7 @@
   },
   {
     "id": 16,
-    "text": " Weather",
+    "text": "Weather",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit16.png",
     "scenes": [
       {
@@ -17582,7 +17582,7 @@
           },
           {
             "en": "What does she do on Sundays?",
-            "vi": "Bà ấy làm gì vào các Chủ nhật?"
+            "vi": "Cô ấy làm gì vào các Chủ nhật?"
           },
           {
             "en": "It's snowy today.",
@@ -17593,7 +17593,7 @@
             "vi": "Hôm qua trời có nắng."
           }
         ],
-        "hint": "What was the weather like yesterday? - Hôm qua thời tiết thế nào?\nWhat does she do on Sundays? - Bà ấy làm gì vào các Chủ nhật?\nIt's snowy today. - Hôm nay trời có tuyết.\nIt was sunny yesterday. - Hôm qua trời có nắng."
+        "hint": "What was the weather like yesterday? - Hôm qua thời tiết thế nào?\nWhat does she do on Sundays? - Cô ấy làm gì vào các Chủ nhật?\nIt's snowy today. - Hôm nay trời có tuyết.\nIt was sunny yesterday. - Hôm qua trời có nắng."
       },
       {
         "id": 799,
@@ -18730,14 +18730,14 @@
           },
           {
             "en": "What does she do on Sundays?",
-            "vi": "Bà ấy làm gì vào các Chủ nhật?"
+            "vi": "Cô ấy làm gì vào các Chủ nhật?"
           },
           {
             "en": "It was cloudy in Sa Pa last weekend.",
             "vi": "Cuối tuần trước ở Sa Pa trời có mây."
           }
         ],
-        "hint": "It was stormy last Sunday. - Chủ nhật tuần trước trời có bão.\nWe have a happy shopping day. - Chúng mình có một ngày mua sắm vui vẻ.\nWhat does she do on Sundays? - Bà ấy làm gì vào các Chủ nhật?\nIt was cloudy in Sa Pa last weekend. - Cuối tuần trước ở Sa Pa trời có mây."
+        "hint": "It was stormy last Sunday. - Chủ nhật tuần trước trời có bão.\nWe have a happy shopping day. - Chúng mình có một ngày mua sắm vui vẻ.\nWhat does she do on Sundays? - Cô ấy làm gì vào các Chủ nhật?\nIt was cloudy in Sa Pa last weekend. - Cuối tuần trước ở Sa Pa trời có mây."
       },
       {
         "id": 851,
@@ -18756,10 +18756,10 @@
           },
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           }
         ],
-        "hint": "My father has a round face. - Bố mình có khuôn mặt tròn.\nMy sister is tall. - Chị/em gái mình cao.\nHe's a farmer. He works on a farm. - Anh ấy là nông dân. Anh ấy làm việc ở trang trại.\nHe is a teacher. - Ông ấy là giáo viên."
+        "hint": "My father has a round face. - Bố mình có khuôn mặt tròn.\nMy sister is tall. - Chị/em gái mình cao.\nHe's a farmer. He works on a farm. - Anh ấy là nông dân. Anh ấy làm việc ở trang trại.\nHe is a teacher. - Anh ấy là giáo viên."
       },
       {
         "id": 852,
@@ -18818,14 +18818,14 @@
           },
           {
             "en": "She has a long nose.",
-            "vi": "Bà ấy có chiếc mũi dài."
+            "vi": "Cô ấy có chiếc mũi dài."
           },
           {
             "en": "My brother plays table tennis on Sundays.",
             "vi": "Anh mình chơi bóng bàn vào các Chủ nhật."
           }
         ],
-        "hint": "Mary lives at 6 Le Lai Street. - Mary sống ở số 6, Le Lai Street.\nWe wash the dishes together. - Chúng mình rửa bát cùng nhau.\nShe has a long nose. - Bà ấy có chiếc mũi dài.\nMy brother plays table tennis on Sundays. - Anh mình chơi bóng bàn vào các Chủ nhật."
+        "hint": "Mary lives at 6 Le Lai Street. - Mary sống ở số 6, Le Lai Street.\nWe wash the dishes together. - Chúng mình rửa bát cùng nhau.\nShe has a long nose. - Cô ấy có chiếc mũi dài.\nMy brother plays table tennis on Sundays. - Anh mình chơi bóng bàn vào các Chủ nhật."
       },
       {
         "id": 855,
@@ -18972,14 +18972,14 @@
           },
           {
             "en": "She is a doctor.",
-            "vi": "Bà ấy là bác sĩ."
+            "vi": "Cô ấy là bác sĩ."
           },
           {
             "en": "My grandfather and grandmother are big.",
             "vi": "Ông bà mình to lớn."
           }
         ],
-        "hint": "My aunt is a doctor. - Cô mình là bác sĩ.\nIt's a quiet village. - Đó là ngôi làng yên tĩnh.\nShe is a doctor. - Bà ấy là bác sĩ.\nMy grandfather and grandmother are big. - Ông bà mình to lớn."
+        "hint": "My aunt is a doctor. - Cô mình là bác sĩ.\nIt's a quiet village. - Đó là ngôi làng yên tĩnh.\nShe is a doctor. - Cô ấy là bác sĩ.\nMy grandfather and grandmother are big. - Ông bà mình to lớn."
       },
       {
         "id": 862,
@@ -18990,7 +18990,7 @@
           },
           {
             "en": "He works in a garden.",
-            "vi": "Ông ấy làm việc ở khu vườn."
+            "vi": "Anh ấy làm việc ở khu vườn."
           },
           {
             "en": "My aunt is a gardener. She works in a garden.",
@@ -19001,7 +19001,7 @@
             "vi": "Đó là một ngày có mây."
           }
         ],
-        "hint": "This is my mother. - Đây là mẹ của mình.\nHe works in a garden. - Ông ấy làm việc ở khu vườn.\nMy aunt is a gardener. She works in a garden. - Cô mình là người làm vườn. Người ấy làm việc trong vườn.\nIt was a cloudy day. - Đó là một ngày có mây."
+        "hint": "This is my mother. - Đây là mẹ của mình.\nHe works in a garden. - Anh ấy làm việc ở khu vườn.\nMy aunt is a gardener. She works in a garden. - Cô mình là người làm vườn. Người ấy làm việc trong vườn.\nIt was a cloudy day. - Đó là một ngày có mây."
       },
       {
         "id": 863,
@@ -19328,10 +19328,10 @@
           },
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           }
         ],
-        "hint": "What's the street like? - Con phố như thế nào?\nIt's a pencil. - Đó là cái bút chì.\nI watch TV in the morning. - Mình xem ti vi vào buổi sáng.\nHe is a teacher. - Ông ấy là giáo viên."
+        "hint": "What's the street like? - Con phố như thế nào?\nIt's a pencil. - Đó là cái bút chì.\nI watch TV in the morning. - Mình xem ti vi vào buổi sáng.\nHe is a teacher. - Anh ấy là giáo viên."
       },
       {
         "id": 878,
@@ -19426,7 +19426,7 @@
         "title": [
           {
             "en": "What does he look like?",
-            "vi": "Ông ấy/Anh ấy trông như thế nào?"
+            "vi": "Anh ấy trông như thế nào?"
           },
           {
             "en": "My brother watches television on Sundays.",
@@ -19441,7 +19441,7 @@
             "vi": "Kate sống ở số 69, Le Lai Street."
           }
         ],
-        "hint": "What does he look like? - Ông ấy/Anh ấy trông như thế nào?\nMy brother watches television on Sundays. - Anh/em trai mình xem truyền hình vào các ngày Chủ nhật.\nMy sister goes to the gym. She does yoga. - Chị/em gái mình đến phòng tập thể dục. Người ấy tập yoga.\nKate lives at 69 Le Lai Street. - Kate sống ở số 69, Le Lai Street."
+        "hint": "What does he look like? - Anh ấy trông như thế nào?\nMy brother watches television on Sundays. - Anh/em trai mình xem truyền hình vào các ngày Chủ nhật.\nMy sister goes to the gym. She does yoga. - Chị/em gái mình đến phòng tập thể dục. Người ấy tập yoga.\nKate lives at 69 Le Lai Street. - Kate sống ở số 69, Le Lai Street."
       },
       {
         "id": 883,
@@ -19536,7 +19536,7 @@
         "title": [
           {
             "en": "He is a gardener.",
-            "vi": "Ông ấy là người làm vườn."
+            "vi": "Anh ấy là người làm vườn."
           },
           {
             "en": "I live at 28 Nguyen Hue Street.",
@@ -19551,7 +19551,7 @@
             "vi": "Cô ấy sống ở số 25, Thang Long Street."
           }
         ],
-        "hint": "He is a gardener. - Ông ấy là người làm vườn.\nI live at 28 Nguyen Hue Street. - Mình sống ở số 28, Nguyen Hue Street.\nWhat does Lucy look like? - Lucy trông như thế nào?\nShe lives at 25 Thang Long Street. - Cô ấy sống ở số 25, Thang Long Street."
+        "hint": "He is a gardener. - Anh ấy là người làm vườn.\nI live at 28 Nguyen Hue Street. - Mình sống ở số 28, Nguyen Hue Street.\nWhat does Lucy look like? - Lucy trông như thế nào?\nShe lives at 25 Thang Long Street. - Cô ấy sống ở số 25, Thang Long Street."
       },
       {
         "id": 888,
@@ -19778,7 +19778,7 @@
         "title": [
           {
             "en": "She is an office worker.",
-            "vi": "Bà ấy là nhân viên văn phòng."
+            "vi": "Cô ấy là nhân viên văn phòng."
           },
           {
             "en": "Minh goes to the cinema on Saturdays.",
@@ -19793,7 +19793,7 @@
             "vi": "Đó là con dê."
           }
         ],
-        "hint": "She is an office worker. - Bà ấy là nhân viên văn phòng.\nMinh goes to the cinema on Saturdays. - Minh đến rạp chiếu phim vào các ngày thứ Bảy.\nWhen do you wash the clothes? - Khi nào bạn giặt quần áo?\nIt's a goat. - Đó là con dê."
+        "hint": "She is an office worker. - Cô ấy là nhân viên văn phòng.\nMinh goes to the cinema on Saturdays. - Minh đến rạp chiếu phim vào các ngày thứ Bảy.\nWhen do you wash the clothes? - Khi nào bạn giặt quần áo?\nIt's a goat. - Đó là con dê."
       },
       {
         "id": 899,
@@ -19843,7 +19843,7 @@
   },
   {
     "id": 17,
-    "text": " In the city",
+    "text": "In the city",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit17.png",
     "scenes": [
       {
@@ -22239,10 +22239,10 @@
           },
           {
             "en": "What does she do on Sundays?",
-            "vi": "Bà ấy làm gì vào các Chủ nhật?"
+            "vi": "Cô ấy làm gì vào các Chủ nhật?"
           }
         ],
-        "hint": "I watch TV in the evening. - Mình xem ti vi vào buổi tối.\nIt's a small village. - Đó là ngôi làng nhỏ.\nMy father is a doctor. - Bố mình là bác sĩ.\nWhat does she do on Sundays? - Bà ấy làm gì vào các Chủ nhật?"
+        "hint": "I watch TV in the evening. - Mình xem ti vi vào buổi tối.\nIt's a small village. - Đó là ngôi làng nhỏ.\nMy father is a doctor. - Bố mình là bác sĩ.\nWhat does she do on Sundays? - Cô ấy làm gì vào các Chủ nhật?"
       },
       {
         "id": 1010,
@@ -22315,7 +22315,7 @@
         "title": [
           {
             "en": "He works in a garden.",
-            "vi": "Ông ấy làm việc ở khu vườn."
+            "vi": "Anh ấy làm việc ở khu vườn."
           },
           {
             "en": "It's a window.",
@@ -22330,7 +22330,7 @@
             "vi": "Đây là gì?"
           }
         ],
-        "hint": "He works in a garden. - Ông ấy làm việc ở khu vườn.\nIt's a window. - Đó là cửa sổ.\nShe has a long nose. - Người ấy có chiếc mũi dài.\nWhat's this? - Đây là gì?"
+        "hint": "He works in a garden. - Anh ấy làm việc ở khu vườn.\nIt's a window. - Đó là cửa sổ.\nShe has a long nose. - Người ấy có chiếc mũi dài.\nWhat's this? - Đây là gì?"
       },
       {
         "id": 1014,
@@ -22979,7 +22979,7 @@
           },
           {
             "en": "He is a farmer.",
-            "vi": "Ông ấy là nông dân."
+            "vi": "Anh ấy là nông dân."
           },
           {
             "en": "Do you want to go to the bookshop?",
@@ -22990,7 +22990,7 @@
             "vi": "Hôm qua bạn có ở trên bãi biển không?"
           }
         ],
-        "hint": "It's a goat. - Đó là con dê.\nHe is a farmer. - Ông ấy là nông dân.\nDo you want to go to the bookshop? - Bạn có muốn đến hiệu sách không?\nWere you on the beach yesterday? - Hôm qua bạn có ở trên bãi biển không?"
+        "hint": "It's a goat. - Đó là con dê.\nHe is a farmer. - Anh ấy là nông dân.\nDo you want to go to the bookshop? - Bạn có muốn đến hiệu sách không?\nWere you on the beach yesterday? - Hôm qua bạn có ở trên bãi biển không?"
       },
       {
         "id": 1044,
@@ -23150,7 +23150,7 @@
   },
   {
     "id": 18,
-    "text": " At the shopping centre",
+    "text": "At the shopping centre",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit18.png",
     "scenes": [
       {
@@ -25366,14 +25366,14 @@
           },
           {
             "en": "He works at a bus station.",
-            "vi": "Ông ấy làm việc ở bến xe buýt."
+            "vi": "Anh ấy làm việc ở bến xe buýt."
           },
           {
             "en": "My grandmother is a policeman.",
             "vi": "Bà mình là chú cảnh sát."
           }
         ],
-        "hint": "It's a big street. - Đó là phố to, lớn.\nIt says 'go straight'. - Biển báo ghi \"đi thẳng\".\nHe works at a bus station. - Ông ấy làm việc ở bến xe buýt.\nMy grandmother is a policeman. - Bà mình là chú cảnh sát."
+        "hint": "It's a big street. - Đó là phố to, lớn.\nIt says 'go straight'. - Biển báo ghi \"đi thẳng\".\nHe works at a bus station. - Anh ấy làm việc ở bến xe buýt.\nMy grandmother is a policeman. - Bà mình là chú cảnh sát."
       },
       {
         "id": 1152,
@@ -25472,7 +25472,7 @@
           },
           {
             "en": "He has big eyes.",
-            "vi": "Ông ấy có đôi mắt to."
+            "vi": "Anh ấy có đôi mắt to."
           },
           {
             "en": "Tony washes the dishes at noon.",
@@ -25483,7 +25483,7 @@
             "vi": "Mình rửa bát vào buổi tối."
           }
         ],
-        "hint": "I live in a small flat with my parents. - Mình sống trong một căn hộ nhỏ cùng bố mẹ.\nHe has big eyes. - Ông ấy có đôi mắt to.\nTony washes the dishes at noon. - Tony rửa bát vào buổi trưa.\nI wash the dishes in the evening. - Mình rửa bát vào buổi tối."
+        "hint": "I live in a small flat with my parents. - Mình sống trong một căn hộ nhỏ cùng bố mẹ.\nHe has big eyes. - Anh ấy có đôi mắt to.\nTony washes the dishes at noon. - Tony rửa bát vào buổi trưa.\nI wash the dishes in the evening. - Mình rửa bát vào buổi tối."
       },
       {
         "id": 1157,
@@ -25652,14 +25652,14 @@
           },
           {
             "en": "He has big eyes.",
-            "vi": "Ông ấy có đôi mắt to."
+            "vi": "Anh ấy có đôi mắt to."
           },
           {
             "en": "My father swims on Sundays.",
             "vi": "Bố mình bơi vào các Chủ nhật."
           }
         ],
-        "hint": "I help my mum with the cooking. - Mình giúp mẹ nấu ăn.\nWhat was the weather like in Sa Pa? - Ở Sa Pa thời tiết thế nào?\nHe has big eyes. - Ông ấy có đôi mắt to.\nMy father swims on Sundays. - Bố mình bơi vào các Chủ nhật."
+        "hint": "I help my mum with the cooking. - Mình giúp mẹ nấu ăn.\nWhat was the weather like in Sa Pa? - Ở Sa Pa thời tiết thế nào?\nHe has big eyes. - Anh ấy có đôi mắt to.\nMy father swims on Sundays. - Bố mình bơi vào các Chủ nhật."
       },
       {
         "id": 1165,
@@ -26382,10 +26382,10 @@
           },
           {
             "en": "What does he look like?",
-            "vi": "Ông ấy/Anh ấy trông như thế nào?"
+            "vi": "Anh ấy trông như thế nào?"
           }
         ],
-        "hint": "Ben helps with the cooking in the evening. - Ben giúp nấu ăn vào buổi tối.\nMy uncle is an office worker. - Chú mình là nhân viên văn phòng.\nIt's eighty thousand dong. - Nó giá tám mươi nghìn đồng.\nWhat does he look like? - Ông ấy/Anh ấy trông như thế nào?"
+        "hint": "Ben helps with the cooking in the evening. - Ben giúp nấu ăn vào buổi tối.\nMy uncle is an office worker. - Chú mình là nhân viên văn phòng.\nIt's eighty thousand dong. - Nó giá tám mươi nghìn đồng.\nWhat does he look like? - Anh ấy trông như thế nào?"
       },
       {
         "id": 1198,
@@ -26457,7 +26457,7 @@
   },
   {
     "id": 19,
-    "text": " The animal world",
+    "text": "The animal world",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit19.png",
     "scenes": [
       {
@@ -28731,7 +28731,7 @@
         "title": [
           {
             "en": "She goes to the zoo.",
-            "vi": "Bà ấy đến sở thú."
+            "vi": "Cô ấy đến sở thú."
           },
           {
             "en": "It's opposite the bakery.",
@@ -28746,7 +28746,7 @@
             "vi": "Đây là gì?"
           }
         ],
-        "hint": "She goes to the zoo. - Bà ấy đến sở thú.\nIt's opposite the bakery. - Nó ở đối diện tiệm bánh.\nYes, I do. - Có, mình có.\nWhat's this? - Đây là gì?"
+        "hint": "She goes to the zoo. - Cô ấy đến sở thú.\nIt's opposite the bakery. - Nó ở đối diện tiệm bánh.\nYes, I do. - Có, mình có.\nWhat's this? - Đây là gì?"
       },
       {
         "id": 1305,
@@ -29359,10 +29359,10 @@
           },
           {
             "en": "She has long hair.",
-            "vi": "Bà ấy có tóc dài."
+            "vi": "Cô ấy có tóc dài."
           }
         ],
-        "hint": "Guess the price! - Đoán giá nào!\nWe want to buy some books. - Chúng mình muốn mua vài cuốn sách.\nMinh watches TV in the afternoon. - Minh xem ti vi vào buổi chiều.\nShe has long hair. - Bà ấy có tóc dài."
+        "hint": "Guess the price! - Đoán giá nào!\nWe want to buy some books. - Chúng mình muốn mua vài cuốn sách.\nMinh watches TV in the afternoon. - Minh xem ti vi vào buổi chiều.\nShe has long hair. - Cô ấy có tóc dài."
       },
       {
         "id": 1333,
@@ -29513,10 +29513,10 @@
           },
           {
             "en": "He is a farmer.",
-            "vi": "Ông ấy là nông dân."
+            "vi": "Anh ấy là nông dân."
           }
         ],
-        "hint": "My brother is tall. He has round eyes. - Anh mình cao. Anh có đôi mắt tròn.\nIt's a noisy city. - Đó là thành phố ồn ào.\nI was in Tokyo last summer. - Mùa hè năm ngoái mình ở Tô-ky-ô.\nHe is a farmer. - Ông ấy là nông dân."
+        "hint": "My brother is tall. He has round eyes. - Anh mình cao. Anh có đôi mắt tròn.\nIt's a noisy city. - Đó là thành phố ồn ào.\nI was in Tokyo last summer. - Mùa hè năm ngoái mình ở Tô-ky-ô.\nHe is a farmer. - Anh ấy là nông dân."
       },
       {
         "id": 1340,
@@ -29711,10 +29711,10 @@
           },
           {
             "en": "He works at a bus station.",
-            "vi": "Ông ấy làm việc ở bến xe buýt."
+            "vi": "Anh ấy làm việc ở bến xe buýt."
           }
         ],
-        "hint": "He watches television. - Người ấy xem truyền hình.\nWhere does your brother go on Saturdays? - Anh/em trai của bạn đi đâu vào các ngày thứ Bảy?\nWhere does your grandfather work? - Ông bạn làm việc ở đâu?\nHe works at a bus station. - Ông ấy làm việc ở bến xe buýt."
+        "hint": "He watches television. - Người ấy xem truyền hình.\nWhere does your brother go on Saturdays? - Anh/em trai của bạn đi đâu vào các ngày thứ Bảy?\nWhere does your grandfather work? - Ông bạn làm việc ở đâu?\nHe works at a bus station. - Anh ấy làm việc ở bến xe buýt."
       },
       {
         "id": 1349,
@@ -29764,7 +29764,7 @@
   },
   {
     "id": 20,
-    "text": " At summer camp",
+    "text": "At summer camp",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l4/photos/unit20.png",
     "scenes": [
       {
@@ -32192,7 +32192,7 @@
         "title": [
           {
             "en": "He is a teacher.",
-            "vi": "Ông ấy là giáo viên."
+            "vi": "Anh ấy là giáo viên."
           },
           {
             "en": "In the afternoon, I watch TV and read books.",
@@ -32207,7 +32207,7 @@
             "vi": "Mình đến phòng tập thể dục vào các thứ Bảy."
           }
         ],
-        "hint": "He is a teacher. - Ông ấy là giáo viên.\nIn the afternoon, I watch TV and read books. - Vào buổi chiều, mình xem ti vi và đọc sách.\nNam and Linh are dancing around the campfire. - Nam và Linh đang nhảy quanh lửa trại.\nI go to the gym on Saturdays. - Mình đến phòng tập thể dục vào các thứ Bảy."
+        "hint": "He is a teacher. - Anh ấy là giáo viên.\nIn the afternoon, I watch TV and read books. - Vào buổi chiều, mình xem ti vi và đọc sách.\nNam and Linh are dancing around the campfire. - Nam và Linh đang nhảy quanh lửa trại.\nI go to the gym on Saturdays. - Mình đến phòng tập thể dục vào các thứ Bảy."
       },
       {
         "id": 1462,
@@ -32280,7 +32280,7 @@
         "title": [
           {
             "en": "What does she do on Sundays?",
-            "vi": "Bà ấy làm gì vào các Chủ nhật?"
+            "vi": "Cô ấy làm gì vào các Chủ nhật?"
           },
           {
             "en": "Laura lives at 80 Thang Long Street.",
@@ -32295,7 +32295,7 @@
             "vi": "Bạn có muốn đến siêu thị không?"
           }
         ],
-        "hint": "What does she do on Sundays? - Bà ấy làm gì vào các Chủ nhật?\nLaura lives at 80 Thang Long Street. - Laura sống ở số 80, Thang Long Street.\nI want to buy a pen. - Mình muốn mua một bút mực.\nDo you want to go to the supermarket? - Bạn có muốn đến siêu thị không?"
+        "hint": "What does she do on Sundays? - Cô ấy làm gì vào các Chủ nhật?\nLaura lives at 80 Thang Long Street. - Laura sống ở số 80, Thang Long Street.\nI want to buy a pen. - Mình muốn mua một bút mực.\nDo you want to go to the supermarket? - Bạn có muốn đến siêu thị không?"
       },
       {
         "id": 1466,
@@ -32328,7 +32328,7 @@
           },
           {
             "en": "He works on a farm.",
-            "vi": "Ông ấy làm việc ở trang trại."
+            "vi": "Anh ấy làm việc ở trang trại."
           },
           {
             "en": "Lucy is singing songs.",
@@ -32339,7 +32339,7 @@
             "vi": "Đó là cái ghế."
           }
         ],
-        "hint": "It's black. - Đó là màu màu đen.\nHe works on a farm. - Ông ấy làm việc ở trang trại.\nLucy is singing songs. - Lucy đang hát các bài hát.\nIt's a chair. - Đó là cái ghế."
+        "hint": "It's black. - Đó là màu màu đen.\nHe works on a farm. - Anh ấy làm việc ở trang trại.\nLucy is singing songs. - Lucy đang hát các bài hát.\nIt's a chair. - Đó là cái ghế."
       },
       {
         "id": 1468,
@@ -32354,14 +32354,14 @@
           },
           {
             "en": "He is a gardener.",
-            "vi": "Ông ấy là người làm vườn."
+            "vi": "Anh ấy là người làm vườn."
           },
           {
             "en": "She's tall.",
             "vi": "Người ấy cao."
           }
         ],
-        "hint": "He has round eyes. - Người ấy có đôi mắt tròn.\nIt's behind the toy shop. - Nó ở phía sau cửa hàng đồ chơi.\nHe is a gardener. - Ông ấy là người làm vườn.\nShe's tall. - Người ấy cao."
+        "hint": "He has round eyes. - Người ấy có đôi mắt tròn.\nIt's behind the toy shop. - Nó ở phía sau cửa hàng đồ chơi.\nHe is a gardener. - Anh ấy là người làm vườn.\nShe's tall. - Người ấy cao."
       },
       {
         "id": 1469,
