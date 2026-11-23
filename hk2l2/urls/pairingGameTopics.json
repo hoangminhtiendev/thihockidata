@@ -1,7 +1,7 @@
 [
   {
     "id": 9,
-    "text": " In the grocery store",
+    "text": "In the grocery store",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/photos/unit9.png",
     "scenes": [
       {
@@ -536,8 +536,8 @@
         "id": 25,
         "title": [
           {
-            "en": "want",
-            "vi": "muốn"
+            "en": "lemon",
+            "vi": "quả chanh"
           },
           {
             "en": "do",
@@ -552,7 +552,7 @@
             "vi": "cái bút mực"
           }
         ],
-        "hint": "want - muốn\ndo - trợ động từ trong câu hỏi\nwants - muốn (ngôi thứ ba)\npen - cái bút mực"
+        "hint": "lemon - quả chanh\ndo - trợ động từ trong câu hỏi\nwants - muốn (ngôi thứ ba)\npen - cái bút mực"
       },
       {
         "id": 26,
@@ -570,11 +570,11 @@
             "vi": "cái cổng"
           },
           {
-            "en": "want",
-            "vi": "muốn"
+            "en": "cat",
+            "vi": "con mèo"
           }
         ],
-        "hint": "wants - muốn (ngôi thứ ba)\ndo - trợ động từ trong câu hỏi\ngate - cái cổng\nwant - muốn"
+        "hint": "wants - muốn (ngôi thứ ba)\ndo - trợ động từ trong câu hỏi\ngate - cái cổng\ncat - con mèo"
       },
       {
         "id": 27,
@@ -936,8 +936,8 @@
             "vi": "cái túi"
           },
           {
-            "en": "want",
-            "vi": "muốn"
+            "en": "top",
+            "vi": "con quay"
           },
           {
             "en": "do",
@@ -948,7 +948,7 @@
             "vi": "muốn (ngôi thứ ba)"
           }
         ],
-        "hint": "bag - cái túi\nwant - muốn\ndo - trợ động từ trong câu hỏi\nwants - muốn (ngôi thứ ba)"
+        "hint": "bag - cái túi\ntop - con quay\ndo - trợ động từ trong câu hỏi\nwants - muốn (ngôi thứ ba)"
       },
       {
         "id": 44,
@@ -1032,11 +1032,11 @@
             "vi": "muốn (ngôi thứ ba)"
           },
           {
-            "en": "want",
-            "vi": "muốn"
+            "en": "hair",
+            "vi": "tóc"
           }
         ],
-        "hint": "lemon - quả chanh\nsome - một ít, một vài\nwants - muốn (ngôi thứ ba)\nwant - muốn"
+        "hint": "lemon - quả chanh\nsome - một ít, một vài\nwants - muốn (ngôi thứ ba)\nhair - tóc"
       },
       {
         "id": 48,
@@ -1218,8 +1218,8 @@
         "id": 56,
         "title": [
           {
-            "en": "want",
-            "vi": "muốn"
+            "en": "milk",
+            "vi": "sữa"
           },
           {
             "en": "some",
@@ -1234,7 +1234,7 @@
             "vi": "con dê"
           }
         ],
-        "hint": "want - muốn\nsome - một ít, một vài\nwants - muốn (ngôi thứ ba)\ngoat - con dê"
+        "hint": "milk - sữa\nsome - một ít, một vài\nwants - muốn (ngôi thứ ba)\ngoat - con dê"
       },
       {
         "id": 57,
@@ -2208,7 +2208,7 @@
   },
   {
     "id": 10,
-    "text": " At the zoo",
+    "text": "At the zoo",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/photos/unit10.png",
     "scenes": [
       {
@@ -4415,7 +4415,7 @@
   },
   {
     "id": 11,
-    "text": " In the playground",
+    "text": "In the playground",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/photos/unit11.png",
     "scenes": [
       {
@@ -6622,7 +6622,7 @@
   },
   {
     "id": 12,
-    "text": " At the café",
+    "text": "At the café",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/photos/unit12.png",
     "scenes": [
       {
@@ -8829,7 +8829,7 @@
   },
   {
     "id": 13,
-    "text": " In the maths class",
+    "text": "In the maths class",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/photos/unit13.png",
     "scenes": [
       {
@@ -11036,7 +11036,7 @@
   },
   {
     "id": 14,
-    "text": " At home",
+    "text": "At home",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/photos/unit14.png",
     "scenes": [
       {
@@ -13243,7 +13243,7 @@
   },
   {
     "id": 15,
-    "text": " In the clothes shop",
+    "text": "In the clothes shop",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/photos/unit15.png",
     "scenes": [
       {
@@ -15450,7 +15450,7 @@
   },
   {
     "id": 16,
-    "text": " At the campsite",
+    "text": "At the campsite",
     "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk2l2/photos/unit16.png",
     "scenes": [
       {
