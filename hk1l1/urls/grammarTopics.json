@@ -1242,7 +1242,7 @@
       {
         "id": 685,
         "audioUrl": "",
-        "question": "",
+        "question": "xe đạp",
         "correctAnswer": [
           "B",
           "I",
@@ -1259,7 +1259,7 @@
       {
         "id": 686,
         "audioUrl": "",
-        "question": "",
+        "question": "quyển sách",
         "correctAnswer": [
           "B",
           "O",
@@ -1276,7 +1276,7 @@
       {
         "id": 687,
         "audioUrl": "",
-        "question": "",
+        "question": "tạm biệt",
         "correctAnswer": [
           "B",
           "Y",
@@ -1293,7 +1293,7 @@
       {
         "id": 688,
         "audioUrl": "",
-        "question": "",
+        "question": "quả bóng",
         "correctAnswer": [
           "B",
           "A",
@@ -1310,7 +1310,7 @@
       {
         "id": 689,
         "audioUrl": "",
-        "question": "",
+        "question": "bông hoa",
         "correctAnswer": [
           "FL",
           "OW",
@@ -1327,7 +1327,7 @@
       {
         "id": 690,
         "audioUrl": "",
-        "question": "",
+        "question": "quả trứng",
         "correctAnswer": [
           "E",
           "G",
@@ -1344,7 +1344,7 @@
       {
         "id": 691,
         "audioUrl": "",
-        "question": "",
+        "question": "con lợn",
         "correctAnswer": [
           "P",
           "I",
@@ -1361,7 +1361,7 @@
       {
         "id": 692,
         "audioUrl": "",
-        "question": "",
+        "question": "cái giường",
         "correctAnswer": [
           "B",
           "E",
@@ -1378,7 +1378,7 @@
       {
         "id": 693,
         "audioUrl": "",
-        "question": "",
+        "question": "con bò",
         "correctAnswer": [
           "C",
           "O",
@@ -1395,7 +1395,7 @@
       {
         "id": 694,
         "audioUrl": "",
-        "question": "",
+        "question": "người máy",
         "correctAnswer": [
           "RO",
           "BO",
@@ -1412,7 +1412,7 @@
       {
         "id": 695,
         "audioUrl": "",
-        "question": "",
+        "question": "con gà mái",
         "correctAnswer": [
           "H",
           "E",
@@ -1429,7 +1429,7 @@
       {
         "id": 696,
         "audioUrl": "",
-        "question": "",
+        "question": "mũ lưỡi trai",
         "correctAnswer": [
           "C",
           "A",
@@ -1446,7 +1446,7 @@
       {
         "id": 697,
         "audioUrl": "",
-        "question": "",
+        "question": "cái ghế",
         "correctAnswer": [
           "CH",
           "AI",
@@ -1463,7 +1463,7 @@
       {
         "id": 698,
         "audioUrl": "",
-        "question": "",
+        "question": "cánh tay",
         "correctAnswer": [
           "A",
           "R",
@@ -1480,7 +1480,7 @@
       {
         "id": 699,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh quy",
         "correctAnswer": [
           "CO",
           "O",
@@ -1499,7 +1499,7 @@
       {
         "id": 700,
         "audioUrl": "",
-        "question": "",
+        "question": "quả cam",
         "correctAnswer": [
           "OR",
           "A",
@@ -1518,7 +1518,7 @@
       {
         "id": 701,
         "audioUrl": "",
-        "question": "",
+        "question": "con thỏ",
         "correctAnswer": [
           "R",
           "AB",
@@ -1537,7 +1537,7 @@
       {
         "id": 702,
         "audioUrl": "",
-        "question": "",
+        "question": "kẹo",
         "correctAnswer": [
           "C",
           "A",
@@ -1556,7 +1556,7 @@
       {
         "id": 703,
         "audioUrl": "",
-        "question": "",
+        "question": "con cừu",
         "correctAnswer": [
           "SH",
           "E",
@@ -1573,7 +1573,7 @@
       {
         "id": 704,
         "audioUrl": "",
-        "question": "",
+        "question": "ngôi nhà",
         "correctAnswer": [
           "HO",
           "US",
@@ -1590,7 +1590,7 @@
       {
         "id": 705,
         "audioUrl": "",
-        "question": "",
+        "question": "kẹo",
         "correctAnswer": [
           "C",
           "AN",
@@ -1607,7 +1607,7 @@
       {
         "id": 706,
         "audioUrl": "",
-        "question": "",
+        "question": "anh/em trai",
         "correctAnswer": [
           "BR",
           "O",
@@ -1626,7 +1626,7 @@
       {
         "id": 707,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh mì",
         "correctAnswer": [
           "B",
           "RE",
@@ -1643,7 +1643,7 @@
       {
         "id": 708,
         "audioUrl": "",
-        "question": "",
+        "question": "con voi",
         "correctAnswer": [
           "EL",
           "EP",
@@ -1664,7 +1664,7 @@
       {
         "id": 709,
         "audioUrl": "",
-        "question": "",
+        "question": "quả cam",
         "correctAnswer": [
           "OR",
           "A",
@@ -1683,7 +1683,7 @@
       {
         "id": 710,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh mì",
         "correctAnswer": [
           "BR",
           "E",
@@ -1700,7 +1700,7 @@
       {
         "id": 783,
         "audioUrl": "",
-        "question": "",
+        "question": "Bill (tên nhân vật)",
         "correctAnswer": [
           "BI",
           "LL"
@@ -1715,7 +1715,7 @@
       {
         "id": 784,
         "audioUrl": "",
-        "question": "",
+        "question": "lớp học",
         "correctAnswer": [
           "CLASS",
           "ROOM"
@@ -1730,7 +1730,7 @@
       {
         "id": 785,
         "audioUrl": "",
-        "question": "",
+        "question": "con ếch",
         "correctAnswer": [
           "FRO",
           "G"
@@ -1745,7 +1745,7 @@
       {
         "id": 786,
         "audioUrl": "",
-        "question": "",
+        "question": "nước ép",
         "correctAnswer": [
           "JU",
           "ICE"
@@ -1760,7 +1760,7 @@
       {
         "id": 787,
         "audioUrl": "",
-        "question": "",
+        "question": "cái diều",
         "correctAnswer": [
           "KIT",
           "E"
@@ -3396,7 +3396,7 @@
       {
         "id": 711,
         "audioUrl": "",
-        "question": "",
+        "question": "ô tô",
         "correctAnswer": [
           "C",
           "A",
@@ -3413,7 +3413,7 @@
       {
         "id": 712,
         "audioUrl": "",
-        "question": "",
+        "question": "cái cốc",
         "correctAnswer": [
           "C",
           "U",
@@ -3430,7 +3430,7 @@
       {
         "id": 713,
         "audioUrl": "",
-        "question": "",
+        "question": "con mèo",
         "correctAnswer": [
           "C",
           "A",
@@ -3447,7 +3447,7 @@
       {
         "id": 714,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh ngọt",
         "correctAnswer": [
           "C",
           "A",
@@ -3464,7 +3464,7 @@
       {
         "id": 715,
         "audioUrl": "",
-        "question": "",
+        "question": "có",
         "correctAnswer": [
           "H",
           "A",
@@ -3481,7 +3481,7 @@
       {
         "id": 716,
         "audioUrl": "",
-        "question": "",
+        "question": "con thỏ",
         "correctAnswer": [
           "RA",
           "BB",
@@ -3498,7 +3498,7 @@
       {
         "id": 717,
         "audioUrl": "",
-        "question": "",
+        "question": "anh/em trai",
         "correctAnswer": [
           "B",
           "RO",
@@ -3519,7 +3519,7 @@
       {
         "id": 718,
         "audioUrl": "",
-        "question": "",
+        "question": "con voi",
         "correctAnswer": [
           "EL",
           "E",
@@ -3540,7 +3540,7 @@
       {
         "id": 719,
         "audioUrl": "",
-        "question": "",
+        "question": "búp bê",
         "correctAnswer": [
           "D",
           "O",
@@ -3557,7 +3557,7 @@
       {
         "id": 720,
         "audioUrl": "",
-        "question": "",
+        "question": "kẹo",
         "correctAnswer": [
           "C",
           "A",
@@ -3576,7 +3576,7 @@
       {
         "id": 721,
         "audioUrl": "",
-        "question": "",
+        "question": "con ếch",
         "correctAnswer": [
           "F",
           "R",
@@ -3593,7 +3593,7 @@
       {
         "id": 722,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh mì",
         "correctAnswer": [
           "B",
           "R",
@@ -3612,7 +3612,7 @@
       {
         "id": 723,
         "audioUrl": "",
-        "question": "",
+        "question": "cái cây",
         "correctAnswer": [
           "T",
           "R",
@@ -3629,7 +3629,7 @@
       {
         "id": 724,
         "audioUrl": "",
-        "question": "",
+        "question": "nước ép",
         "correctAnswer": [
           "JU",
           "I",
@@ -3646,7 +3646,7 @@
       {
         "id": 725,
         "audioUrl": "",
-        "question": "",
+        "question": "cơm",
         "correctAnswer": [
           "R",
           "I",
@@ -3663,7 +3663,7 @@
       {
         "id": 726,
         "audioUrl": "",
-        "question": "",
+        "question": "cái diều",
         "correctAnswer": [
           "K",
           "I",
@@ -3680,7 +3680,7 @@
       {
         "id": 727,
         "audioUrl": "",
-        "question": "",
+        "question": "chiếc giày",
         "correctAnswer": [
           "S",
           "H",
@@ -3697,7 +3697,7 @@
       {
         "id": 728,
         "audioUrl": "",
-        "question": "",
+        "question": "con cừu",
         "correctAnswer": [
           "SH",
           "EE",
@@ -3714,7 +3714,7 @@
       {
         "id": 729,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh quy",
         "correctAnswer": [
           "CO",
           "OK",
@@ -3731,7 +3731,7 @@
       {
         "id": 788,
         "audioUrl": "",
-        "question": "",
+        "question": "con chim",
         "correctAnswer": [
           "BI",
           "RD"
@@ -3746,7 +3746,7 @@
       {
         "id": 789,
         "audioUrl": "",
-        "question": "",
+        "question": "xe tải",
         "correctAnswer": [
           "T",
           "RUCK"
@@ -5221,7 +5221,7 @@
       {
         "id": 730,
         "audioUrl": "",
-        "question": "",
+        "question": "quả táo",
         "correctAnswer": [
           "A",
           "P",
@@ -5240,7 +5240,7 @@
       {
         "id": 731,
         "audioUrl": "",
-        "question": "",
+        "question": "cái túi",
         "correctAnswer": [
           "B",
           "A",
@@ -5257,7 +5257,7 @@
       {
         "id": 732,
         "audioUrl": "",
-        "question": "",
+        "question": "lon đồ uống",
         "correctAnswer": [
           "C",
           "A",
@@ -5274,7 +5274,7 @@
       {
         "id": 733,
         "audioUrl": "",
-        "question": "",
+        "question": "đây, này",
         "correctAnswer": [
           "T",
           "H",
@@ -5291,7 +5291,7 @@
       {
         "id": 734,
         "audioUrl": "",
-        "question": "",
+        "question": "cái mũ",
         "correctAnswer": [
           "H",
           "A",
@@ -5308,7 +5308,7 @@
       {
         "id": 735,
         "audioUrl": "",
-        "question": "",
+        "question": "quả táo",
         "correctAnswer": [
           "AP",
           "PL",
@@ -5325,7 +5325,7 @@
       {
         "id": 736,
         "audioUrl": "",
-        "question": "",
+        "question": "con cừu",
         "correctAnswer": [
           "S",
           "HE",
@@ -5342,7 +5342,7 @@
       {
         "id": 737,
         "audioUrl": "",
-        "question": "",
+        "question": "cái bàn",
         "correctAnswer": [
           "T",
           "AB",
@@ -5359,7 +5359,7 @@
       {
         "id": 738,
         "audioUrl": "",
-        "question": "",
+        "question": "áo khoác",
         "correctAnswer": [
           "C",
           "O",
@@ -5376,7 +5376,7 @@
       {
         "id": 739,
         "audioUrl": "",
-        "question": "",
+        "question": "con thuyền",
         "correctAnswer": [
           "B",
           "O",
@@ -5393,7 +5393,7 @@
       {
         "id": 740,
         "audioUrl": "",
-        "question": "",
+        "question": "chị/em gái",
         "correctAnswer": [
           "SI",
           "ST",
@@ -5410,7 +5410,7 @@
       {
         "id": 741,
         "audioUrl": "",
-        "question": "",
+        "question": "ngôi nhà",
         "correctAnswer": [
           "H",
           "O",
@@ -5429,7 +5429,7 @@
       {
         "id": 742,
         "audioUrl": "",
-        "question": "",
+        "question": "cái hộp",
         "correctAnswer": [
           "B",
           "O",
@@ -5446,7 +5446,7 @@
       {
         "id": 743,
         "audioUrl": "",
-        "question": "",
+        "question": "con chim",
         "correctAnswer": [
           "B",
           "I",
@@ -5463,7 +5463,7 @@
       {
         "id": 744,
         "audioUrl": "",
-        "question": "",
+        "question": "nước ép",
         "correctAnswer": [
           "JU",
           "IC",
@@ -5480,7 +5480,7 @@
       {
         "id": 745,
         "audioUrl": "",
-        "question": "",
+        "question": "cái bàn",
         "correctAnswer": [
           "TA",
           "BL",
@@ -5497,7 +5497,7 @@
       {
         "id": 746,
         "audioUrl": "",
-        "question": "",
+        "question": "quả cam",
         "correctAnswer": [
           "OR",
           "AN",
@@ -5514,7 +5514,7 @@
       {
         "id": 747,
         "audioUrl": "",
-        "question": "",
+        "question": "con thỏ",
         "correctAnswer": [
           "R",
           "AB",
@@ -5533,7 +5533,7 @@
       {
         "id": 748,
         "audioUrl": "",
-        "question": "",
+        "question": "con voi",
         "correctAnswer": [
           "E",
           "LE",
@@ -5554,7 +5554,7 @@
       {
         "id": 749,
         "audioUrl": "",
-        "question": "",
+        "question": "bông hoa",
         "correctAnswer": [
           "F",
           "LO",
@@ -5573,7 +5573,7 @@
       {
         "id": 750,
         "audioUrl": "",
-        "question": "",
+        "question": "nước ép",
         "correctAnswer": [
           "J",
           "UI",
@@ -5590,7 +5590,7 @@
       {
         "id": 751,
         "audioUrl": "",
-        "question": "",
+        "question": "con voi",
         "correctAnswer": [
           "EL",
           "EP",
@@ -5609,7 +5609,7 @@
       {
         "id": 752,
         "audioUrl": "",
-        "question": "",
+        "question": "chị/em gái",
         "correctAnswer": [
           "S",
           "I",
@@ -5630,7 +5630,7 @@
       {
         "id": 753,
         "audioUrl": "",
-        "question": "",
+        "question": "con voi",
         "correctAnswer": [
           "E",
           "LE",
@@ -5651,7 +5651,7 @@
       {
         "id": 754,
         "audioUrl": "",
-        "question": "",
+        "question": "con voi",
         "correctAnswer": [
           "E",
           "L",
@@ -5672,7 +5672,7 @@
       {
         "id": 790,
         "audioUrl": "",
-        "question": "",
+        "question": "ngôi nhà",
         "correctAnswer": [
           "HO",
           "U",
@@ -5689,7 +5689,7 @@
       {
         "id": 791,
         "audioUrl": "",
-        "question": "",
+        "question": "đây, này",
         "correctAnswer": [
           "THI",
           "S"
@@ -7484,7 +7484,7 @@
       {
         "id": 755,
         "audioUrl": "",
-        "question": "",
+        "question": "con chó",
         "correctAnswer": [
           "D",
           "O",
@@ -7501,7 +7501,7 @@
       {
         "id": 756,
         "audioUrl": "",
-        "question": "",
+        "question": "con vịt",
         "correctAnswer": [
           "D",
           "U",
@@ -7518,7 +7518,7 @@
       {
         "id": 757,
         "audioUrl": "",
-        "question": "",
+        "question": "cái bàn học",
         "correctAnswer": [
           "D",
           "E",
@@ -7535,7 +7535,7 @@
       {
         "id": 758,
         "audioUrl": "",
-        "question": "",
+        "question": "cánh cửa",
         "correctAnswer": [
           "D",
           "O",
@@ -7552,7 +7552,7 @@
       {
         "id": 759,
         "audioUrl": "",
-        "question": "",
+        "question": "ở gần",
         "correctAnswer": [
           "N",
           "E",
@@ -7569,7 +7569,7 @@
       {
         "id": 760,
         "audioUrl": "",
-        "question": "",
+        "question": "cái cửa sổ",
         "correctAnswer": [
           "WI",
           "N",
@@ -7588,7 +7588,7 @@
       {
         "id": 761,
         "audioUrl": "",
-        "question": "",
+        "question": "và",
         "correctAnswer": [
           "A",
           "N",
@@ -7605,7 +7605,7 @@
       {
         "id": 792,
         "audioUrl": "",
-        "question": "",
+        "question": "anh/em trai",
         "correctAnswer": [
           "BR",
           "OTHER"
@@ -9374,7 +9374,7 @@
       {
         "id": 762,
         "audioUrl": "",
-        "question": "",
+        "question": "cá",
         "correctAnswer": [
           "F",
           "I",
@@ -9391,7 +9391,7 @@
       {
         "id": 763,
         "audioUrl": "",
-        "question": "",
+        "question": "thích",
         "correctAnswer": [
           "L",
           "I",
@@ -9408,7 +9408,7 @@
       {
         "id": 764,
         "audioUrl": "",
-        "question": "",
+        "question": "khoai tây chiên",
         "correctAnswer": [
           "CH",
           "I",
@@ -9425,7 +9425,7 @@
       {
         "id": 765,
         "audioUrl": "",
-        "question": "",
+        "question": "sữa",
         "correctAnswer": [
           "M",
           "I",
@@ -9442,7 +9442,7 @@
       {
         "id": 766,
         "audioUrl": "",
-        "question": "",
+        "question": "thịt gà",
         "correctAnswer": [
           "CH",
           "I",
@@ -9461,7 +9461,7 @@
       {
         "id": 793,
         "audioUrl": "",
-        "question": "",
+        "question": "quả cam",
         "correctAnswer": [
           "O",
           "RANG",
@@ -9478,7 +9478,7 @@
       {
         "id": 794,
         "audioUrl": "",
-        "question": "",
+        "question": "thịt gà",
         "correctAnswer": [
           "CHICKE",
           "N"
@@ -11244,7 +11244,7 @@
       {
         "id": 767,
         "audioUrl": "",
-        "question": "",
+        "question": "màu đỏ",
         "correctAnswer": [
           "R",
           "E",
@@ -11261,7 +11261,7 @@
       {
         "id": 768,
         "audioUrl": "",
-        "question": "",
+        "question": "màu sắc",
         "correctAnswer": [
           "C",
           "OL",
@@ -11280,7 +11280,7 @@
       {
         "id": 769,
         "audioUrl": "",
-        "question": "",
+        "question": "cái chuông",
         "correctAnswer": [
           "B",
           "E",
@@ -11297,7 +11297,7 @@
       {
         "id": 770,
         "audioUrl": "",
-        "question": "",
+        "question": "cái bút chì",
         "correctAnswer": [
           "P",
           "E",
@@ -11316,7 +11316,7 @@
       {
         "id": 771,
         "audioUrl": "",
-        "question": "",
+        "question": "cái bút mực",
         "correctAnswer": [
           "P",
           "E",
@@ -11333,7 +11333,7 @@
       {
         "id": 795,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh mì",
         "correctAnswer": [
           "BRE",
           "AD"
@@ -11348,7 +11348,7 @@
       {
         "id": 796,
         "audioUrl": "",
-        "question": "",
+        "question": "bánh quy",
         "correctAnswer": [
           "C",
           "OOKIE"
@@ -11420,7 +11420,7 @@
           "playground.",
           "The boy"
         ],
-        "hint": "Cậu bé đang ở sân chơi. → The boy is in the playground.",
+        "hint": "Bé trai đang ở sân chơi. → The boy is in the playground.",
         "eraseFlag": 0
       },
       {
@@ -11457,7 +11457,7 @@
           "a boy",
           "school."
         ],
-        "hint": "Có một cậu bé ở trường. → There is a boy at school.",
+        "hint": "Có một bé trai ở trường. → There is a boy at school.",
         "eraseFlag": 0
       },
       {
@@ -11756,17 +11756,17 @@
         "audioUrl": "",
         "question": "The boy is in the playground.",
         "correctAnswer": [
-          "Cậu bé",
+          "Bé trai",
           "đang ở",
           "sân chơi."
         ],
         "scramble": [
-          "Cậu bé",
+          "Bé trai",
           "đang ở",
           "vườn.",
           "sân chơi."
         ],
-        "hint": "The boy is in the playground. → Cậu bé đang ở sân chơi.",
+        "hint": "The boy is in the playground. → Bé trai đang ở sân chơi.",
         "eraseFlag": 0
       },
       {
@@ -11827,16 +11827,16 @@
         "question": "There is a boy at school.",
         "correctAnswer": [
           "Có",
-          "một cậu bé",
+          "một bé trai",
           "ở trường."
         ],
         "scramble": [
           "Có",
-          "một cậu bé",
+          "một bé trai",
           "ở sân chơi.",
           "ở trường."
         ],
-        "hint": "There is a boy at school. → Có một cậu bé ở trường.",
+        "hint": "There is a boy at school. → Có một bé trai ở trường.",
         "eraseFlag": 0
       },
       {
@@ -11945,7 +11945,7 @@
         ],
         "scramble": [
           "Có",
-          "một cậu bé",
+          "một bé trai",
           "một bé gái",
           "ở sân chơi."
         ],
@@ -11973,7 +11973,7 @@
       {
         "id": 533,
         "audioUrl": "",
-        "question": "Đây là một cô bé.",
+        "question": "Đây là một bé gái.",
         "correctAnswer": [
           "This",
           "is",
@@ -11986,7 +11986,7 @@
           "girl.",
           "This"
         ],
-        "hint": "Đây là một cô bé. → This is a girl.",
+        "hint": "Đây là một bé gái. → This is a girl.",
         "eraseFlag": 0
       },
       {
@@ -12258,7 +12258,7 @@
       {
         "id": 548,
         "audioUrl": "",
-        "question": "Đó là một cô bé.",
+        "question": "Đó là một bé gái.",
         "correctAnswer": [
           "It's",
           "a",
@@ -12270,7 +12270,7 @@
           "girl.",
           "a"
         ],
-        "hint": "Đó là một cô bé. → It's a girl.",
+        "hint": "Đó là một bé gái. → It's a girl.",
         "eraseFlag": 0
       },
       {
@@ -12459,7 +12459,7 @@
           "There's",
           "a"
         ],
-        "hint": "Có một cô bé. → There's a girl.",
+        "hint": "Có một bé gái. → There's a girl.",
         "eraseFlag": 0
       },
       {
@@ -12495,7 +12495,7 @@
           "too",
           "It's"
         ],
-        "hint": "Đó là một cô bé. → It's a girl.",
+        "hint": "Đó là một bé gái. → It's a girl.",
         "eraseFlag": 0
       },
       {
@@ -12617,7 +12617,7 @@
       {
         "id": 567,
         "audioUrl": "",
-        "question": "Nhìn kìa! Có một cô bé.",
+        "question": "Nhìn kìa! Có một bé gái.",
         "correctAnswer": [
           "Look!",
           "There's",
@@ -12630,7 +12630,7 @@
           "There's",
           "a"
         ],
-        "hint": "Nhìn kìa! Có một cô bé. → Look! There's a girl.",
+        "hint": "Nhìn kìa! Có một bé gái. → Look! There's a girl.",
         "eraseFlag": 0
       },
       {
@@ -12650,7 +12650,7 @@
           "is",
           "of"
         ],
-        "hint": "Đây là một cô bé. → This is a girl.",
+        "hint": "Đây là một bé gái. → This is a girl.",
         "eraseFlag": 0
       },
       {
@@ -12817,7 +12817,7 @@
           "girl",
           "a"
         ],
-        "hint": "Có một cô bé ở trong khu vườn. → There's a girl in the garden.",
+        "hint": "Có một bé gái ở trong khu vườn. → There's a girl in the garden.",
         "eraseFlag": 0
       },
       {
@@ -13138,7 +13138,7 @@
       {
         "id": 772,
         "audioUrl": "",
-        "question": "",
+        "question": "cái cổng",
         "correctAnswer": [
           "G",
           "A",
@@ -13155,7 +13155,7 @@
       {
         "id": 773,
         "audioUrl": "",
-        "question": "",
+        "question": "nhìn",
         "correctAnswer": [
           "L",
           "O",
@@ -13172,7 +13172,7 @@
       {
         "id": 774,
         "audioUrl": "",
-        "question": "",
+        "question": "khu vườn",
         "correctAnswer": [
           "GA",
           "RD",
@@ -13189,7 +13189,7 @@
       {
         "id": 775,
         "audioUrl": "",
-        "question": "",
+        "question": "con dê",
         "correctAnswer": [
           "G",
           "O",
@@ -13206,7 +13206,7 @@
       {
         "id": 776,
         "audioUrl": "",
-        "question": "",
+        "question": "bé gái",
         "correctAnswer": [
           "G",
           "I",
@@ -13217,13 +13217,13 @@
           "RL",
           "I"
         ],
-        "hint": "girl → cô bé",
+        "hint": "girl → bé gái",
         "eraseFlag": 0
       },
       {
         "id": 797,
         "audioUrl": "",
-        "question": "",
+        "question": "con thuyền",
         "correctAnswer": [
           "BO",
           "AT"
@@ -13238,7 +13238,7 @@
       {
         "id": 798,
         "audioUrl": "",
-        "question": "",
+        "question": "áo khoác",
         "correctAnswer": [
           "C",
           "OAT"
@@ -14093,7 +14093,7 @@
       {
         "id": 638,
         "audioUrl": "",
-        "question": "Có một cô bé.",
+        "question": "Có một bé gái.",
         "correctAnswer": [
           "There's",
           "a",
@@ -14104,7 +14104,7 @@
           "There's",
           "a"
         ],
-        "hint": "Có một cô bé. → There's a girl.",
+        "hint": "Có một bé gái. → There's a girl.",
         "eraseFlag": 0
       },
       {
@@ -14345,7 +14345,7 @@
       {
         "id": 651,
         "audioUrl": "",
-        "question": "Cậu bé đang ở sân chơi.",
+        "question": "Bé trai đang ở sân chơi.",
         "correctAnswer": [
           "The boy",
           "is in the",
@@ -14357,7 +14357,7 @@
           "garden.",
           "playground."
         ],
-        "hint": "Cậu bé đang ở sân chơi. → The boy is in the playground.",
+        "hint": "Bé trai đang ở sân chơi. → The boy is in the playground.",
         "eraseFlag": 0
       },
       {
@@ -14388,7 +14388,7 @@
       {
         "id": 653,
         "audioUrl": "",
-        "question": "Có một cậu bé ở trường.",
+        "question": "Có một bé trai ở trường.",
         "correctAnswer": [
           "There is",
           "a boy",
@@ -14400,7 +14400,7 @@
           "at the playground.",
           "at school."
         ],
-        "hint": "Có một cậu bé ở trường. → There is a boy at school.",
+        "hint": "Có một bé trai ở trường. → There is a boy at school.",
         "eraseFlag": 0
       },
       {
@@ -15022,7 +15022,7 @@
       {
         "id": 777,
         "audioUrl": "",
-        "question": "",
+        "question": "của bạn",
         "correctAnswer": [
           "Y",
           "O",
@@ -15039,7 +15039,7 @@
       {
         "id": 778,
         "audioUrl": "",
-        "question": "",
+        "question": "bàn tay",
         "correctAnswer": [
           "H",
           "A",
@@ -15056,7 +15056,7 @@
       {
         "id": 779,
         "audioUrl": "",
-        "question": "",
+        "question": "tóc",
         "correctAnswer": [
           "H",
           "A",
@@ -15073,7 +15073,7 @@
       {
         "id": 780,
         "audioUrl": "",
-        "question": "",
+        "question": "chạm vào",
         "correctAnswer": [
           "TO",
           "UC",
@@ -15090,7 +15090,7 @@
       {
         "id": 781,
         "audioUrl": "",
-        "question": "",
+        "question": "cái đầu",
         "correctAnswer": [
           "H",
           "E",
@@ -15107,7 +15107,7 @@
       {
         "id": 782,
         "audioUrl": "",
-        "question": "",
+        "question": "con ngựa",
         "correctAnswer": [
           "HO",
           "RS",
@@ -15124,7 +15124,7 @@
       {
         "id": 799,
         "audioUrl": "",
-        "question": "",
+        "question": "những bàn tay",
         "correctAnswer": [
           "HAN",
           "D",
@@ -15141,7 +15141,7 @@
       {
         "id": 800,
         "audioUrl": "",
-        "question": "",
+        "question": "tóc",
         "correctAnswer": [
           "HAI",
           "R"

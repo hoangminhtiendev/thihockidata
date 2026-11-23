@@ -4801,7 +4801,7 @@
       },
       {
         "id": 481,
-        "question": "Listen and choose True or False.\nIt is near the window.",
+        "question": "Listen and choose True or False.\nA dog is near the window.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisadogitsonthedesk.mp3",
         "choices": [
@@ -4809,7 +4809,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a dog. It's on the desk.\n→ Nhìn kìa! Đây là con chó. Nó ở trên cái bàn học.\n✅ B. False\nIt is near the window. → Nó ở near the window.\n(Câu đúng: It is on the desk.)"
+        "hint": "🎧 Bài nghe: Look! This is a dog. It's on the desk.\n→ Nhìn kìa! Đây là con chó. Nó ở trên cái bàn học.\n✅ B. False\nA dog is near the window. → Con chó ở gần cái cửa sổ.\n(Câu đúng: A dog is on the desk.)"
       },
       {
         "id": 482,
@@ -4849,7 +4849,7 @@
       },
       {
         "id": 485,
-        "question": "Listen and choose True or False.\nIt is on the desk.",
+        "question": "Listen and choose True or False.\nA bag is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisabagitsonthedesk.mp3",
         "choices": [
@@ -4857,7 +4857,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Bài nghe: Look! This is a bag. It's on the desk.\n→ Nhìn kìa! Đây là cái túi. Nó ở trên cái bàn học.\n✅ A. True\nIt is on the desk. → Nó ở on the desk."
+        "hint": "🎧 Bài nghe: Look! This is a bag. It's on the desk.\n→ Nhìn kìa! Đây là cái túi. Nó ở trên cái bàn học.\n✅ A. True\nA bag is on the desk. → Cái túi ở trên cái bàn học."
       },
       {
         "id": 486,
@@ -4897,7 +4897,7 @@
       },
       {
         "id": 489,
-        "question": "Listen and choose True or False.\nIt is near the window.",
+        "question": "Listen and choose True or False.\nA book is near the window.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisabookitsnearthewindow.mp3",
         "choices": [
@@ -4905,7 +4905,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Bài nghe: Look! This is a book. It's near the window.\n→ Nhìn kìa! Đây là quyển sách. Nó ở gần cái cửa sổ.\n✅ A. True\nIt is near the window. → Nó ở near the window."
+        "hint": "🎧 Bài nghe: Look! This is a book. It's near the window.\n→ Nhìn kìa! Đây là quyển sách. Nó ở gần cái cửa sổ.\n✅ A. True\nA book is near the window. → Quyển sách ở gần cái cửa sổ."
       },
       {
         "id": 490,
@@ -4945,7 +4945,7 @@
       },
       {
         "id": 493,
-        "question": "Listen and choose True or False.\nIt is near the window.",
+        "question": "Listen and choose True or False.\nA dog is near the window.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisadogitsnearthedoor.mp3",
         "choices": [
@@ -4953,7 +4953,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a dog. It's near the door.\n→ Nhìn kìa! Đây là con chó. Nó ở gần cánh cửa.\n✅ B. False\nIt is near the window. → Nó ở near the window.\n(Câu đúng: It is near the door.)"
+        "hint": "🎧 Bài nghe: Look! This is a dog. It's near the door.\n→ Nhìn kìa! Đây là con chó. Nó ở gần cánh cửa.\n✅ B. False\nA dog is near the window. → Con chó ở gần cái cửa sổ.\n(Câu đúng: A dog is near the door.)"
       },
       {
         "id": 494,
@@ -4981,7 +4981,7 @@
       },
       {
         "id": 496,
-        "question": "Listen and choose True or False.\nIt is on the desk.",
+        "question": "Listen and choose True or False.\nA cat is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisacatitsonthedesk.mp3",
         "choices": [
@@ -4989,7 +4989,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Bài nghe: Look! This is a cat. It's on the desk.\n→ Nhìn kìa! Đây là con mèo. Nó ở trên cái bàn học.\n✅ A. True\nIt is on the desk. → Nó ở on the desk."
+        "hint": "🎧 Bài nghe: Look! This is a cat. It's on the desk.\n→ Nhìn kìa! Đây là con mèo. Nó ở trên cái bàn học.\n✅ A. True\nA cat is on the desk. → Con mèo ở trên cái bàn học."
       },
       {
         "id": 497,
@@ -5029,7 +5029,7 @@
       },
       {
         "id": 500,
-        "question": "Listen and choose True or False.\nIt is on the bed.",
+        "question": "Listen and choose True or False.\nA bag is on the bed.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisabagitsnearthewindow.mp3",
         "choices": [
@@ -5037,7 +5037,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a bag. It's near the window.\n→ Nhìn kìa! Đây là cái túi. Nó ở gần cái cửa sổ.\n✅ B. False\nIt is on the bed. → Nó ở on the bed.\n(Câu đúng: It is near the window.)"
+        "hint": "🎧 Bài nghe: Look! This is a bag. It's near the window.\n→ Nhìn kìa! Đây là cái túi. Nó ở gần cái cửa sổ.\n✅ B. False\nA bag is on the bed. → Cái túi ở trên cái giường.\n(Câu đúng: A bag is near the window.)"
       },
       {
         "id": 501,
@@ -6338,7 +6338,7 @@
       },
       {
         "id": 521,
-        "question": "Listen and choose True or False.\nIt is near the window.",
+        "question": "Listen and choose True or False.\nA book is near the window.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisabookitsnearthedoor.mp3",
         "choices": [
@@ -6346,7 +6346,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a book. It's near the door.\n→ Nhìn kìa! Đây là quyển sách. Nó ở gần cánh cửa.\n✅ B. False\nIt is near the window. → Nó ở near the window.\n(Câu đúng: It is near the door.)"
+        "hint": "🎧 Bài nghe: Look! This is a book. It's near the door.\n→ Nhìn kìa! Đây là quyển sách. Nó ở gần cánh cửa.\n✅ B. False\nA book is near the window. → Quyển sách ở gần cái cửa sổ.\n(Câu đúng: A book is near the door.)"
       },
       {
         "id": 522,
@@ -6386,7 +6386,7 @@
       },
       {
         "id": 525,
-        "question": "Listen and choose True or False.\nIt is near the door.",
+        "question": "Listen and choose True or False.\nA book is near the door.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisabookitsonthedesk.mp3",
         "choices": [
@@ -6394,7 +6394,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a book. It's on the desk.\n→ Nhìn kìa! Đây là quyển sách. Nó ở trên cái bàn học.\n✅ B. False\nIt is near the door. → Nó ở near the door.\n(Câu đúng: It is on the desk.)"
+        "hint": "🎧 Bài nghe: Look! This is a book. It's on the desk.\n→ Nhìn kìa! Đây là quyển sách. Nó ở trên cái bàn học.\n✅ B. False\nA book is near the door. → Quyển sách ở gần cánh cửa.\n(Câu đúng: A book is on the desk.)"
       },
       {
         "id": 526,
@@ -7709,7 +7709,7 @@
       },
       {
         "id": 546,
-        "question": "Listen and choose True or False.\nIt is on the bed.",
+        "question": "Listen and choose True or False.\nA cat is on the bed.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisacatitsnearthewindow.mp3",
         "choices": [
@@ -7717,7 +7717,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a cat. It's near the window.\n→ Nhìn kìa! Đây là con mèo. Nó ở gần cái cửa sổ.\n✅ B. False\nIt is on the bed. → Nó ở on the bed.\n(Câu đúng: It is near the window.)"
+        "hint": "🎧 Bài nghe: Look! This is a cat. It's near the window.\n→ Nhìn kìa! Đây là con mèo. Nó ở gần cái cửa sổ.\n✅ B. False\nA cat is on the bed. → Con mèo ở trên cái giường.\n(Câu đúng: A cat is near the window.)"
       },
       {
         "id": 547,
@@ -7757,7 +7757,7 @@
       },
       {
         "id": 550,
-        "question": "Listen and choose True or False.\nIt is on the bed.",
+        "question": "Listen and choose True or False.\nA cat is on the bed.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisacatitsonthedesk.mp3",
         "choices": [
@@ -7765,7 +7765,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a cat. It's on the desk.\n→ Nhìn kìa! Đây là con mèo. Nó ở trên cái bàn học.\n✅ B. False\nIt is on the bed. → Nó ở on the bed.\n(Câu đúng: It is on the desk.)"
+        "hint": "🎧 Bài nghe: Look! This is a cat. It's on the desk.\n→ Nhìn kìa! Đây là con mèo. Nó ở trên cái bàn học.\n✅ B. False\nA cat is on the bed. → Con mèo ở trên cái giường.\n(Câu đúng: A cat is on the desk.)"
       },
       {
         "id": 551,
@@ -8448,11 +8448,11 @@
         "choices": [
           "A. con cừu",
           "B. nước ép",
-          "C. cô bé",
+          "C. bé gái",
           "D. cánh cửa"
         ],
         "correctAnswerIndex": 2,
-        "hint": "girl → cô bé\n✅ C. cô bé"
+        "hint": "girl → bé gái\n✅ C. bé gái"
       },
       {
         "id": 326,
@@ -8466,7 +8466,7 @@
           "D. rice"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Từ bắt đầu bằng chữ G: girl (cô bé).\n✅ B. girl"
+        "hint": "Từ bắt đầu bằng chữ G: girl (bé gái).\n✅ B. girl"
       },
       {
         "id": 327,
@@ -8480,7 +8480,7 @@
           "D. a girl"
         ],
         "correctAnswerIndex": 3,
-        "hint": "🎧 Bài nghe: Look! There's a girl.\n→ Nhìn kìa! Có cô bé.\n❓ What is there? → Có gì ở đó?\n✅ D. a girl"
+        "hint": "🎧 Bài nghe: Look! There's a girl.\n→ Nhìn kìa! Có bé gái.\n❓ What is there? → Có gì ở đó?\n✅ D. a girl"
       },
       {
         "id": 328,
@@ -8522,7 +8522,7 @@
           "D. a"
         ],
         "correctAnswerIndex": 3,
-        "hint": "📝 There's a girl in the garden. → Có một cô bé ở trong khu vườn.\n✅ D. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
+        "hint": "📝 There's a girl in the garden. → Có một bé gái ở trong khu vườn.\n✅ D. a\n💡 a trước phụ âm, an trước nguyên âm (a, e, i, o, u)"
       },
       {
         "id": 331,
@@ -8856,7 +8856,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "✅ B. False\n👉 Hình vẽ: girl (cô bé).\nIt's a tree. → Đó là cái cây.\n(Câu này sai vì hình không phải tree. Câu đúng cho hình: It's a girl.)"
+        "hint": "✅ B. False\n👉 Hình vẽ: girl (bé gái).\nIt's a tree. → Đó là cái cây.\n(Câu này sai vì hình không phải tree. Câu đúng cho hình: It's a girl.)"
       },
       {
         "id": 555,
@@ -9024,7 +9024,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "✅ B. False\nThere's a girl in the garden. → Có một cô bé ở trong khu vườn.\n(Câu \"There's an girl in the garden.\" sai: trước phụ âm dùng a. Câu đúng: There's a girl in the garden.)"
+        "hint": "✅ B. False\nThere's a girl in the garden. → Có một bé gái ở trong khu vườn.\n(Câu \"There's an girl in the garden.\" sai: trước phụ âm dùng a. Câu đúng: There's a girl in the garden.)"
       },
       {
         "id": 569,
@@ -9052,7 +9052,7 @@
       },
       {
         "id": 571,
-        "question": "Listen and choose True or False.\nIt is near the door.",
+        "question": "Listen and choose True or False.\nA cat is near the door.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisacatitsnearthedoor.mp3",
         "choices": [
@@ -9060,7 +9060,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 0,
-        "hint": "🎧 Bài nghe: Look! This is a cat. It's near the door.\n→ Nhìn kìa! Đây là con mèo. Nó ở gần cánh cửa.\n✅ A. True\nIt is near the door. → Nó ở near the door."
+        "hint": "🎧 Bài nghe: Look! This is a cat. It's near the door.\n→ Nhìn kìa! Đây là con mèo. Nó ở gần cánh cửa.\n✅ A. True\nA cat is near the door. → Con mèo ở gần cánh cửa."
       },
       {
         "id": 572,
@@ -9228,7 +9228,7 @@
           "D. e"
         ],
         "correctAnswerIndex": 0,
-        "hint": "girl → cô bé\n✅ A. i"
+        "hint": "girl → bé gái\n✅ A. i"
       },
       {
         "id": 757,
@@ -10225,7 +10225,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "✅ B. False\nIt's a girl. → Đó là một cô bé.\n(Câu \"It's an girl.\" sai: trước phụ âm dùng a. Câu đúng: It's a girl.)"
+        "hint": "✅ B. False\nIt's a girl. → Đó là một bé gái.\n(Câu \"It's an girl.\" sai: trước phụ âm dùng a. Câu đúng: It's a girl.)"
       },
       {
         "id": 581,
@@ -10409,7 +10409,7 @@
       },
       {
         "id": 596,
-        "question": "Listen and choose True or False.\nIt is near the door.",
+        "question": "Listen and choose True or False.\nA bag is near the door.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisabagitsonthedesk.mp3",
         "choices": [
@@ -10417,7 +10417,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a bag. It's on the desk.\n→ Nhìn kìa! Đây là cái túi. Nó ở trên cái bàn học.\n✅ B. False\nIt is near the door. → Nó ở near the door.\n(Câu đúng: It is on the desk.)"
+        "hint": "🎧 Bài nghe: Look! This is a bag. It's on the desk.\n→ Nhìn kìa! Đây là cái túi. Nó ở trên cái bàn học.\n✅ B. False\nA bag is near the door. → Cái túi ở gần cánh cửa.\n(Câu đúng: A bag is on the desk.)"
       },
       {
         "id": 597,
@@ -10457,7 +10457,7 @@
       },
       {
         "id": 600,
-        "question": "Listen and choose True or False.\nIt is on the desk.",
+        "question": "Listen and choose True or False.\nA bag is on the desk.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/lookthisisabagitsnearthewindow.mp3",
         "choices": [
@@ -10465,7 +10465,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "🎧 Bài nghe: Look! This is a bag. It's near the window.\n→ Nhìn kìa! Đây là cái túi. Nó ở gần cái cửa sổ.\n✅ B. False\nIt is on the desk. → Nó ở on the desk.\n(Câu đúng: It is near the window.)"
+        "hint": "🎧 Bài nghe: Look! This is a bag. It's near the window.\n→ Nhìn kìa! Đây là cái túi. Nó ở gần cái cửa sổ.\n✅ B. False\nA bag is on the desk. → Cái túi ở trên cái bàn học.\n(Câu đúng: A bag is near the window.)"
       },
       {
         "id": 601,

@@ -4860,7 +4860,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/boy.png",
         "audioUrl": "",
         "answer": "b",
-        "hint": "boy: cậu bé"
+        "hint": "boy: bé trai"
       },
       {
         "id": 603,
@@ -4900,7 +4900,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/boy.png",
         "audioUrl": "",
         "answer": "y",
-        "hint": "boy: cậu bé"
+        "hint": "boy: bé trai"
       },
       {
         "id": 608,
@@ -4940,7 +4940,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/boy.png",
         "audioUrl": "",
         "answer": "o",
-        "hint": "boy: cậu bé"
+        "hint": "boy: bé trai"
       },
       {
         "id": 613,
@@ -4988,7 +4988,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/wheresthegirl.mp3",
         "answer": "girl",
-        "hint": "Where's the girl: Cô bé ở đâu?"
+        "hint": "Where's the girl: Bé gái ở đâu?"
       },
       {
         "id": 619,
@@ -5108,7 +5108,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/girl.png",
         "audioUrl": "",
         "answer": "i",
-        "hint": "girl: cô bé"
+        "hint": "girl: bé gái"
       },
       {
         "id": 634,
@@ -5204,7 +5204,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/audios/girl.mp3",
         "answer": "girl",
-        "hint": "girl: cô bé"
+        "hint": "girl: bé gái"
       },
       {
         "id": 646,
@@ -5276,7 +5276,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/thisisagirl.png",
         "audioUrl": "",
         "answer": "girl",
-        "hint": "This is a girl: Đây là một cô bé."
+        "hint": "This is a girl: Đây là một bé gái."
       },
       {
         "id": 655,
@@ -5316,7 +5316,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/theresagirlinthegarden.png",
         "audioUrl": "",
         "answer": "girl",
-        "hint": "There's a girl in the garden: Có một cô bé ở trong khu vườn."
+        "hint": "There's a girl in the garden: Có một bé gái ở trong khu vườn."
       },
       {
         "id": 660,
@@ -5444,7 +5444,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/girl.png",
         "audioUrl": "",
         "answer": "r",
-        "hint": "girl: cô bé"
+        "hint": "girl: bé gái"
       },
       {
         "id": 676,
@@ -6043,7 +6043,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/theresagirl.png",
         "audioUrl": "",
         "answer": "girl",
-        "hint": "There's a girl: Có một cô bé."
+        "hint": "There's a girl: Có một bé gái."
       },
       {
         "id": 750,
@@ -6123,7 +6123,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/theresagirlinthegarden.png",
         "audioUrl": "",
         "answer": "garden",
-        "hint": "There's a girl in the garden: Có một cô bé ở trong khu vườn."
+        "hint": "There's a girl in the garden: Có một bé gái ở trong khu vườn."
       },
       {
         "id": 760,
@@ -6155,7 +6155,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/boy.png",
         "audioUrl": "",
         "answer": "b",
-        "hint": "boy: cậu bé"
+        "hint": "boy: bé trai"
       },
       {
         "id": 764,
@@ -6371,7 +6371,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/looktheresagirl.png",
         "audioUrl": "",
         "answer": "girl",
-        "hint": "Look! There's a girl: Nhìn kìa! Có một cô bé."
+        "hint": "Look! There's a girl: Nhìn kìa! Có một bé gái."
       },
       {
         "id": 791,
@@ -6451,7 +6451,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l1/photos/looktheresagirl.png",
         "audioUrl": "",
         "answer": "Look",
-        "hint": "Look! There's a girl: Nhìn kìa! Có một cô bé."
+        "hint": "Look! There's a girl: Nhìn kìa! Có một bé gái."
       }
     ]
   }
