@@ -1379,7 +1379,7 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/lookatthegirl.mp3",
           "answer": "Look",
-          "hint": "Look at the girl: Hãy nhìn cô bé kìa!",
+          "hint": "Look at the girl: Hãy nhìn bé gái kìa!",
           "topicId": 2
         }
       },
@@ -1513,7 +1513,7 @@
         "value": {
           "id": 731,
           "audioUrl": "",
-          "question": "",
+          "question": "chạm vào",
           "correctAnswer": [
             "TO",
             "U",
@@ -1590,7 +1590,7 @@
             "girl"
           ],
           "correctIndex": 2,
-          "hint": "I can see a girl. → Mình nhìn thấy cô bé.\n(Hình đúng: girl – cô bé)",
+          "hint": "I can see a girl. → Mình nhìn thấy bé gái.\n(Hình đúng: girl – bé gái)",
           "topicId": 2
         }
       },
@@ -2117,7 +2117,7 @@
         "value": {
           "id": 774,
           "audioUrl": "",
-          "question": "",
+          "question": "cầu trượt",
           "correctAnswer": [
             "S",
             "LI",
@@ -2670,13 +2670,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thatsbenhehasabike.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/bus.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/car.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/kite.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/ball.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/bike.png"
           ],
           "imageNames": [
-            "bus",
-            "car",
+            "kite",
+            "ball",
             "bike"
           ],
           "correctIndex": 2,
@@ -2953,7 +2953,7 @@
         "value": {
           "id": 181,
           "audioUrl": "",
-          "question": "",
+          "question": "người phụ nữ",
           "correctAnswer": [
             "W",
             "OM",
@@ -3134,10 +3134,10 @@
             },
             {
               "en": "girl",
-              "vi": "cô bé"
+              "vi": "bé gái"
             }
           ],
-          "hint": "three - ba\nwhat - cái gì\nyour - của bạn\ngirl - cô bé",
+          "hint": "three - ba\nwhat - cái gì\nyour - của bạn\ngirl - bé gái",
           "topicId": 2
         }
       },
@@ -3276,12 +3276,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/abrownpencilcase.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/agreenpencil.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/agreenbook.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/awhitepen.png"
           ],
           "imageNames": [
             "a brown pencil case",
-            "a green pencil",
+            "a green book",
             "a white pen"
           ],
           "correctIndex": 0,
@@ -4169,7 +4169,7 @@
         "value": {
           "id": 366,
           "audioUrl": "",
-          "question": "",
+          "question": "vẽ tranh, tô màu",
           "correctAnswer": [
             "P",
             "AI",
@@ -5143,7 +5143,7 @@
         "value": {
           "id": 312,
           "audioUrl": "",
-          "question": "",
+          "question": "nhảy múa",
           "correctAnswer": [
             "D",
             "AN",
@@ -5706,12 +5706,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/icanseetwophotos.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/threepictures.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/fivestars.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/threephotos.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/twophotos.png"
           ],
           "imageNames": [
-            "three pictures",
+            "five stars",
             "three photos",
             "two photos"
           ],
@@ -6062,13 +6062,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/card.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/candle.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/boy.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/bag.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/glue.png"
           ],
           "imageNames": [
             "card",
-            "candle",
-            "boy"
+            "bag",
+            "glue"
           ],
           "correctIndex": 0,
           "hint": "Do you have a card? → Bạn có tấm thiệp không?\n(Hình đúng: card – tấm thiệp)",
@@ -6289,14 +6289,14 @@
             },
             {
               "en": "There's a girl.",
-              "vi": "Có một cô bé."
+              "vi": "Có một bé gái."
             },
             {
               "en": "There's a gate.",
               "vi": "Có một cái cổng."
             }
           ],
-          "hint": "5 is five. - 5 là năm.\nLucy is nine years old. She has an apple. - Lucy chín tuổi. Cô ấy có quả táo.\nThere's a girl. - Có một cô bé.\nThere's a gate. - Có một cái cổng.",
+          "hint": "5 is five. - 5 là năm.\nLucy is nine years old. She has an apple. - Lucy chín tuổi. Cô ấy có quả táo.\nThere's a girl. - Có một bé gái.\nThere's a gate. - Có một cái cổng.",
           "topicId": 3
         }
       },
@@ -7186,7 +7186,7 @@
         "value": {
           "id": 781,
           "audioUrl": "",
-          "question": "",
+          "question": "bóng chuyền",
           "correctAnswer": [
             "VO",
             "L",
@@ -7865,12 +7865,12 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/touchyourhair.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/head.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/feet.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/arm.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/hair.png"
           ],
           "imageNames": [
-            "head",
+            "feet",
             "arm",
             "hair"
           ],
@@ -8202,14 +8202,14 @@
             },
             {
               "en": "girl",
-              "vi": "cô bé"
+              "vi": "bé gái"
             },
             {
               "en": "candle",
               "vi": "cây nến"
             }
           ],
-          "hint": "five - năm\nyour - của bạn\ngirl - cô bé\ncandle - cây nến",
+          "hint": "five - năm\nyour - của bạn\ngirl - bé gái\ncandle - cây nến",
           "topicId": 2
         }
       },
@@ -8586,14 +8586,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thisisaboy.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/card.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/woman.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/boy.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/present.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/girl.png"
           ],
           "imageNames": [
-            "card",
+            "woman",
             "boy",
-            "present"
+            "girl"
           ],
           "correctIndex": 1,
           "hint": "This is a boy. → Đây là bạn nam.\n(Hình đúng: boy – bạn nam)",
@@ -8762,7 +8762,7 @@
         "value": {
           "id": 12,
           "audioUrl": "",
-          "question": "",
+          "question": "con lợn",
           "correctAnswer": [
             "P",
             "I",
@@ -8827,13 +8827,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thisismywindow.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/baby.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/girl.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/floor.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/door.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/window.png"
           ],
           "imageNames": [
-            "baby",
-            "girl",
+            "floor",
+            "door",
             "window"
           ],
           "correctIndex": 2,
@@ -9337,7 +9337,7 @@
         "type": "multiChoice",
         "value": {
           "id": 1101,
-          "question": "Listen and choose True or False.\nThey play volleyball.",
+          "question": "Listen and choose True or False.\nThe class plays volleyball.",
           "questionImageUrl": "",
           "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/ourclassplaysvolleyballatbreaktimeonfridaysitsfun.mp3",
           "choices": [
@@ -9834,7 +9834,7 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theboyisrunning.mp3",
           "answer": "boy",
-          "hint": "The boy is running: Cậu bé đang chạy.",
+          "hint": "The boy is running: Bé trai đang chạy.",
           "topicId": 6
         }
       },
@@ -10732,7 +10732,7 @@
             },
             {
               "en": "I can see a girl.",
-              "vi": "Mình nhìn thấy cô bé."
+              "vi": "Mình nhìn thấy bé gái."
             },
             {
               "en": "There is a boy.",
@@ -10743,7 +10743,7 @@
               "vi": "Đây là bạn nam."
             }
           ],
-          "hint": "I'm Ben. I'm ten years old. - Mình là Ben. Mình mười tuổi.\nI can see a girl. - Mình nhìn thấy cô bé.\nThere is a boy. - Có bạn nam.\nThis is a boy. - Đây là bạn nam.",
+          "hint": "I'm Ben. I'm ten years old. - Mình là Ben. Mình mười tuổi.\nI can see a girl. - Mình nhìn thấy bé gái.\nThere is a boy. - Có bạn nam.\nThis is a boy. - Đây là bạn nam.",
           "topicId": 2
         }
       },
@@ -10942,7 +10942,7 @@
             "running.",
             "the"
           ],
-          "hint": "Hãy nhìn cậu bé. Cậu bé đang chạy. → Look at the boy. He's running.",
+          "hint": "Hãy nhìn bé trai. Bé trai đang chạy. → Look at the boy. He's running.",
           "eraseFlag": 0,
           "topicId": 3
         }
@@ -10976,7 +10976,7 @@
             },
             {
               "en": "girl",
-              "vi": "cô bé"
+              "vi": "bé gái"
             },
             {
               "en": "six",
@@ -10987,7 +10987,7 @@
               "vi": "mở"
             }
           ],
-          "hint": "point to - chỉ vào\ngirl - cô bé\nsix - sáu\nopen - mở",
+          "hint": "point to - chỉ vào\ngirl - bé gái\nsix - sáu\nopen - mở",
           "topicId": 5
         }
       },
@@ -11123,14 +11123,14 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/doyouhaveacandle.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/girl.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/spoon.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/candle.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/card.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/picture.png"
           ],
           "imageNames": [
-            "girl",
+            "spoon",
             "candle",
-            "card"
+            "picture"
           ],
           "correctIndex": 1,
           "hint": "Do you have a candle? → Bạn có cây nến không?\n(Hình đúng: candle – cây nến)",
@@ -11170,7 +11170,7 @@
         "value": {
           "id": 374,
           "audioUrl": "",
-          "question": "",
+          "question": "chạy bộ",
           "correctAnswer": [
             "RU",
             "NN",
@@ -11407,7 +11407,7 @@
         "value": {
           "id": 506,
           "audioUrl": "",
-          "question": "",
+          "question": "lớp học",
           "correctAnswer": [
             "CL",
             "AS",
@@ -12082,13 +12082,13 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/card.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/present.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/boy.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/globe.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/chalk.png"
           ],
           "imageNames": [
             "card",
-            "present",
-            "boy"
+            "globe",
+            "chalk"
           ],
           "correctIndex": 0,
           "hint": "Is this a card? → Đây có phải là tấm thiệp không?\n(Hình đúng: card – tấm thiệp)",
@@ -12610,7 +12610,7 @@
         "value": {
           "id": 724,
           "audioUrl": "",
-          "question": "",
+          "question": "con gà mái",
           "correctAnswer": [
             "H",
             "E",
@@ -13211,7 +13211,7 @@
         "value": {
           "id": 759,
           "audioUrl": "",
-          "question": "",
+          "question": "bập bênh",
           "correctAnswer": [
             "SE",
             "E",
@@ -13445,7 +13445,7 @@
           "imageUrl": "",
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thereisagirl.mp3",
           "answer": "girl",
-          "hint": "There is a girl: Có cô bé.",
+          "hint": "There is a girl: Có bé gái.",
           "topicId": 2
         }
       },
@@ -13579,7 +13579,7 @@
         "value": {
           "id": 719,
           "audioUrl": "",
-          "question": "",
+          "question": "bánh pizza",
           "correctAnswer": [
             "P",
             "IZ",
@@ -13815,7 +13815,7 @@
         "value": {
           "id": 37,
           "audioUrl": "",
-          "question": "",
+          "question": "một",
           "correctAnswer": [
             "O",
             "N",
@@ -14611,13 +14611,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/icanseeaboy.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/candle.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/card.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/baby.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/woman.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/boy.png"
           ],
           "imageNames": [
-            "candle",
-            "card",
+            "baby",
+            "woman",
             "boy"
           ],
           "correctIndex": 2,
@@ -14736,12 +14736,12 @@
           "question": "",
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/pen.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/pencil.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/ruler.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/pencilcase.png"
           ],
           "imageNames": [
             "pen",
-            "pencil",
+            "ruler",
             "pencil case"
           ],
           "correctIndex": 0,
@@ -15185,7 +15185,7 @@
           "title": [
             {
               "en": "girl",
-              "vi": "cô bé"
+              "vi": "bé gái"
             },
             {
               "en": "years old",
@@ -15200,7 +15200,7 @@
               "vi": "cây nến"
             }
           ],
-          "hint": "girl - cô bé\nyears old - tuổi\nyour - của bạn\ncandle - cây nến",
+          "hint": "girl - bé gái\nyears old - tuổi\nyour - của bạn\ncandle - cây nến",
           "topicId": 2
         }
       },
@@ -15211,13 +15211,13 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theresariverneartheroad.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/sea.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/sun.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/flower.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/river.png"
           ],
           "imageNames": [
-            "sea",
             "sun",
+            "flower",
             "river"
           ],
           "correctIndex": 2,
@@ -15779,7 +15779,7 @@
             "D. My name's Mary."
           ],
           "correctAnswerIndex": 2,
-          "hint": "✅ C. I can see an girl.\n👉 Sửa: I can see a girl. (trước phụ âm dùng a)\n→ Mình nhìn thấy cô bé.",
+          "hint": "✅ C. I can see an girl.\n👉 Sửa: I can see a girl. (trước phụ âm dùng a)\n→ Mình nhìn thấy bé gái.",
           "topicId": 2
         }
       },
@@ -16203,7 +16203,7 @@
             "D. y"
           ],
           "correctAnswerIndex": 1,
-          "hint": "Điền chữ cái còn thiếu.\n✅ B. r → girl (cô bé)",
+          "hint": "Điền chữ cái còn thiếu.\n✅ B. r → girl (bé gái)",
           "topicId": 3
         }
       },
@@ -16658,12 +16658,12 @@
           "imageUrls": [
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/fourchalks.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/sixchalks.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/fourcrayons.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/fourboxes.png"
           ],
           "imageNames": [
             "four chalks",
             "six chalks",
-            "four crayons"
+            "four boxes"
           ],
           "correctIndex": 0,
           "hint": "I have four chalks. → Mình có bốn viên phấn.\n(Hình đúng: four chalks – bốn viên phấn)",
@@ -17143,17 +17143,17 @@
           "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thereisagirl.mp3",
           "question": "",
           "imageUrls": [
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/card.png",
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/man.png",
             "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/girl.png",
-            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/present.png"
+            "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/woman.png"
           ],
           "imageNames": [
-            "card",
+            "man",
             "girl",
-            "present"
+            "woman"
           ],
           "correctIndex": 1,
-          "hint": "There is a girl. → Có cô bé.\n(Hình đúng: girl – cô bé)",
+          "hint": "There is a girl. → Có bé gái.\n(Hình đúng: girl – bé gái)",
           "topicId": 2
         }
       },
@@ -17428,7 +17428,7 @@
         "value": {
           "id": 535,
           "audioUrl": "",
-          "question": "",
+          "question": "nghe",
           "correctAnswer": [
             "LI",
             "ST",

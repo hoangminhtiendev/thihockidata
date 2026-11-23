@@ -1281,7 +1281,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/girl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/girl.mp3",
         "answer": "i",
-        "hint": "girl: cô bé"
+        "hint": "girl: bé gái"
       },
       {
         "id": 160,
@@ -1473,7 +1473,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/girl.mp3",
         "answer": "girl",
-        "hint": "girl: cô bé"
+        "hint": "girl: bé gái"
       },
       {
         "id": 184,
@@ -1657,7 +1657,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/itsagirl.mp3",
         "answer": "girl",
-        "hint": "It's a girl: Đó là cô bé."
+        "hint": "It's a girl: Đó là bé gái."
       },
       {
         "id": 207,
@@ -1777,7 +1777,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thereisagirl.mp3",
         "answer": "girl",
-        "hint": "There is a girl: Có cô bé."
+        "hint": "There is a girl: Có bé gái."
       },
       {
         "id": 222,
@@ -1793,7 +1793,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thisisagirl.mp3",
         "answer": "girl",
-        "hint": "This is a girl: Đây là cô bé."
+        "hint": "This is a girl: Đây là bé gái."
       },
       {
         "id": 224,
@@ -1857,7 +1857,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/lookatthegirl.mp3",
         "answer": "Look",
-        "hint": "Look at the girl: Hãy nhìn cô bé kìa!"
+        "hint": "Look at the girl: Hãy nhìn bé gái kìa!"
       },
       {
         "id": 232,
@@ -1945,7 +1945,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/icanseeagirl.mp3",
         "answer": "see",
-        "hint": "I can see a girl: Mình nhìn thấy cô bé."
+        "hint": "I can see a girl: Mình nhìn thấy bé gái."
       },
       {
         "id": 243,
@@ -3512,7 +3512,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theresagirl.mp3",
         "answer": "girl",
-        "hint": "There's a girl: Có một cô bé."
+        "hint": "There's a girl: Có một bé gái."
       },
       {
         "id": 438,
@@ -7069,7 +7069,7 @@
         "imageUrl": "",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theboyisrunning.mp3",
         "answer": "boy",
-        "hint": "The boy is running: Cậu bé đang chạy."
+        "hint": "The boy is running: Bé trai đang chạy."
       },
       {
         "id": 880,
@@ -11737,7 +11737,7 @@
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/girl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/girl.mp3",
         "answer": "r",
-        "hint": "girl: cô bé"
+        "hint": "girl: bé gái"
       },
       {
         "id": 1460,

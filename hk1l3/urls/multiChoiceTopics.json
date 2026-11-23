@@ -3097,7 +3097,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 1,
-        "hint": "✅ B. False\n👉 Hình vẽ: girl (cô bé).\nThis is a candle. → Đây là cây nến.\n(Câu này sai vì hình không phải candle. Câu đúng cho hình: This is a girl.)"
+        "hint": "✅ B. False\n👉 Hình vẽ: girl (bé gái).\nThis is a candle. → Đây là cây nến.\n(Câu này sai vì hình không phải candle. Câu đúng cho hình: This is a girl.)"
       },
       {
         "id": 789,
@@ -3325,7 +3325,7 @@
           "B. False"
         ],
         "correctAnswerIndex": 0,
-        "hint": "✅ A. True\n→ Đó là cô bé."
+        "hint": "✅ A. True\n→ Đó là bé gái."
       },
       {
         "id": 808,
@@ -3683,7 +3683,7 @@
           "D. I can see a girl."
         ],
         "correctAnswerIndex": 3,
-        "hint": "Sắp xếp từ thành câu đúng.\n✅ D. I can see a girl.\n👉 Mình nhìn thấy cô bé."
+        "hint": "Sắp xếp từ thành câu đúng.\n✅ D. I can see a girl.\n👉 Mình nhìn thấy bé gái."
       },
       {
         "id": 1169,
@@ -3851,7 +3851,7 @@
           "D. My name's Mary."
         ],
         "correctAnswerIndex": 2,
-        "hint": "✅ C. I can see an girl.\n👉 Sửa: I can see a girl. (trước phụ âm dùng a)\n→ Mình nhìn thấy cô bé."
+        "hint": "✅ C. I can see an girl.\n👉 Sửa: I can see a girl. (trước phụ âm dùng a)\n→ Mình nhìn thấy bé gái."
       },
       {
         "id": 1181,
@@ -5076,7 +5076,7 @@
           "D. y"
         ],
         "correctAnswerIndex": 1,
-        "hint": "Điền chữ cái còn thiếu.\n✅ B. r → girl (cô bé)"
+        "hint": "Điền chữ cái còn thiếu.\n✅ B. r → girl (bé gái)"
       },
       {
         "id": 223,
@@ -5278,7 +5278,7 @@
       },
       {
         "id": 838,
-        "question": "Listen and choose True or False.\nIt's Ben.",
+        "question": "Listen and choose True or False.\nThe person is Ben.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/aisthatben\nbnoitisntitsbill\naohhellobill.mp3",
         "choices": [
@@ -5290,7 +5290,7 @@
       },
       {
         "id": 839,
-        "question": "Listen and choose True or False.\nIt isn't Lucy.",
+        "question": "Listen and choose True or False.\nThe girl isn't Lucy.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/aisthatlucy\nbyesitisshesmynewfriend\nashesnice.mp3",
         "choices": [
@@ -5314,7 +5314,7 @@
       },
       {
         "id": 841,
-        "question": "Listen and choose True or False.\nIt isn't Ben.",
+        "question": "Listen and choose True or False.\nThe person isn't Ben.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/aisthatben\nbnoitisntitsbill\naohhellobill.mp3",
         "choices": [
@@ -5506,7 +5506,7 @@
       },
       {
         "id": 857,
-        "question": "Listen and choose True or False.\nThey say numbers.",
+        "question": "Listen and choose True or False.\nThe pupils say numbers.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thisisthealphabetabcdefgletssayittogether.mp3",
         "choices": [
@@ -7323,7 +7323,7 @@
       },
       {
         "id": 876,
-        "question": "Listen and choose True or False.\nThey touch their mouth.",
+        "question": "Listen and choose True or False.\nThe pupils touch their mouth.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/mrlonghandsuppleasenowhandsdowntouchyourface.mp3",
         "choices": [
@@ -11377,7 +11377,7 @@
       },
       {
         "id": 949,
-        "question": "Listen and choose True or False.\nIt isn't the classroom.",
+        "question": "Listen and choose True or False.\nThis room isn't their classroom.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/aisthisourclassroom\nbnoitisntitsthemusicroom.mp3",
         "choices": [
@@ -11401,7 +11401,7 @@
       },
       {
         "id": 951,
-        "question": "Listen and choose True or False.\nIt's on the first floor.",
+        "question": "Listen and choose True or False.\nClass 3A is on the first floor.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/isthatyourclassroomyesitisitsclass3aitsonthefirstfloor.mp3",
         "choices": [
@@ -13446,7 +13446,7 @@
       },
       {
         "id": 989,
-        "question": "Listen and choose True or False.\nIt's time for a test.",
+        "question": "Listen and choose True or False.\nThe class has a test now.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/maimayigoout\nmrlongnoyoucantitstimeforthetest.mp3",
         "choices": [
@@ -15659,7 +15659,7 @@
       },
       {
         "id": 1041,
-        "question": "Listen and choose True or False.\nThey touch their ears after their nose.",
+        "question": "Listen and choose True or False.\nThe pupils touch their ears after their nose.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/mshoatouchyournoseplease\npupilsok\nmshoanowtouchyourears.mp3",
         "choices": [
@@ -17716,7 +17716,7 @@
       },
       {
         "id": 1080,
-        "question": "Listen and choose True or False.\nThey touch their eyes first.",
+        "question": "Listen and choose True or False.\nThe pupils touch their eyes first.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/mshoatouchyournoseplease\npupilsok\nmshoanowtouchyourears.mp3",
         "choices": [
@@ -19557,7 +19557,7 @@
       },
       {
         "id": 1101,
-        "question": "Listen and choose True or False.\nThey play volleyball.",
+        "question": "Listen and choose True or False.\nThe class plays volleyball.",
         "questionImageUrl": "",
         "questionAudioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/ourclassplaysvolleyballatbreaktimeonfridaysitsfun.mp3",
         "choices": [

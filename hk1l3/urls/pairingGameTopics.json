@@ -3229,14 +3229,14 @@
           },
           {
             "en": "Look at the girl. She's running.",
-            "vi": "Hãy nhìn cô bé. Cô bé đang chạy."
+            "vi": "Hãy nhìn bé gái. Bé gái đang chạy."
           },
           {
             "en": "There are two clocks.",
             "vi": "Có hai cái đồng hồ."
           }
         ],
-        "hint": "It's a desk. It's near the door. - Đó là một cái bàn học. Nó ở gần cánh cửa.\nThis is my hat. I have a ball. - Đây là cái mũ của mình. Mình có một quả bóng.\nLook at the girl. She's running. - Hãy nhìn cô bé. Cô bé đang chạy.\nThere are two clocks. - Có hai cái đồng hồ."
+        "hint": "It's a desk. It's near the door. - Đó là một cái bàn học. Nó ở gần cánh cửa.\nThis is my hat. I have a ball. - Đây là cái mũ của mình. Mình có một quả bóng.\nLook at the girl. She's running. - Hãy nhìn bé gái. Bé gái đang chạy.\nThere are two clocks. - Có hai cái đồng hồ."
       },
       {
         "id": 148,
@@ -3255,10 +3255,10 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           }
         ],
-        "hint": "There are two footballs. - Có hai quả bóng đá.\nI have a red pen. - Mình có một cái bút mực màu đỏ.\nThis is my bag. I have a book. - Đây là cái túi của mình. Mình có một quyển sách.\nThe boy is running. - Cậu bé đang chạy."
+        "hint": "There are two footballs. - Có hai quả bóng đá.\nI have a red pen. - Mình có một cái bút mực màu đỏ.\nThis is my bag. I have a book. - Đây là cái túi của mình. Mình có một quyển sách.\nThe boy is running. - Bé trai đang chạy."
       },
       {
         "id": 149,
@@ -3350,10 +3350,10 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           }
         ],
-        "hint": "one - một\nyour - của bạn\nyears old - tuổi\ngirl - cô bé"
+        "hint": "one - một\nyour - của bạn\nyears old - tuổi\ngirl - bé gái"
       },
       {
         "id": 153,
@@ -3404,7 +3404,7 @@
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "boy",
@@ -3419,7 +3419,7 @@
             "vi": "ba"
           }
         ],
-        "hint": "girl - cô bé\nboy - bạn nam\ncard - tấm thiệp\nthree - ba"
+        "hint": "girl - bé gái\nboy - bạn nam\ncard - tấm thiệp\nthree - ba"
       },
       {
         "id": 156,
@@ -3496,7 +3496,7 @@
           },
           {
             "en": "This is a girl.",
-            "vi": "Đây là cô bé."
+            "vi": "Đây là bé gái."
           },
           {
             "en": "The candle is near the door.",
@@ -3507,7 +3507,7 @@
             "vi": "Bạn bao nhiêu tuổi?"
           }
         ],
-        "hint": "I'm Lucy. I'm eight years old. - Mình là Lucy. Mình tám tuổi.\nThis is a girl. - Đây là cô bé.\nThe candle is near the door. - Cây nến ở gần cánh cửa.\nHow old are you? - Bạn bao nhiêu tuổi?"
+        "hint": "I'm Lucy. I'm eight years old. - Mình là Lucy. Mình tám tuổi.\nThis is a girl. - Đây là bé gái.\nThe candle is near the door. - Cây nến ở gần cánh cửa.\nHow old are you? - Bạn bao nhiêu tuổi?"
       },
       {
         "id": 160,
@@ -3518,7 +3518,7 @@
           },
           {
             "en": "I can see a girl.",
-            "vi": "Mình nhìn thấy cô bé."
+            "vi": "Mình nhìn thấy bé gái."
           },
           {
             "en": "There is a boy.",
@@ -3529,7 +3529,7 @@
             "vi": "Đây là bạn nam."
           }
         ],
-        "hint": "I'm Ben. I'm ten years old. - Mình là Ben. Mình mười tuổi.\nI can see a girl. - Mình nhìn thấy cô bé.\nThere is a boy. - Có bạn nam.\nThis is a boy. - Đây là bạn nam."
+        "hint": "I'm Ben. I'm ten years old. - Mình là Ben. Mình mười tuổi.\nI can see a girl. - Mình nhìn thấy bé gái.\nThere is a boy. - Có bạn nam.\nThis is a boy. - Đây là bạn nam."
       },
       {
         "id": 161,
@@ -3646,7 +3646,7 @@
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "eight",
@@ -3661,7 +3661,7 @@
             "vi": "tấm thiệp"
           }
         ],
-        "hint": "girl - cô bé\neight - tám\nyears old - tuổi\ncard - tấm thiệp"
+        "hint": "girl - bé gái\neight - tám\nyears old - tuổi\ncard - tấm thiệp"
       },
       {
         "id": 167,
@@ -3900,10 +3900,10 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           }
         ],
-        "hint": "birthday - sinh nhật\nseven - bảy\nyour - của bạn\ngirl - cô bé"
+        "hint": "birthday - sinh nhật\nseven - bảy\nyour - của bạn\ngirl - bé gái"
       },
       {
         "id": 178,
@@ -3988,10 +3988,10 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           }
         ],
-        "hint": "three - ba\nwhat - cái gì\nyour - của bạn\ngirl - cô bé"
+        "hint": "three - ba\nwhat - cái gì\nyour - của bạn\ngirl - bé gái"
       },
       {
         "id": 182,
@@ -4032,10 +4032,10 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           }
         ],
-        "hint": "boy - bạn nam\ncard - tấm thiệp\nnine - chín\ngirl - cô bé"
+        "hint": "boy - bạn nam\ncard - tấm thiệp\nnine - chín\ngirl - bé gái"
       },
       {
         "id": 184,
@@ -4116,14 +4116,14 @@
           },
           {
             "en": "There is a girl.",
-            "vi": "Có cô bé."
+            "vi": "Có bé gái."
           },
           {
             "en": "This is a boy.",
             "vi": "Đây là bạn nam."
           }
         ],
-        "hint": "The present is near the door. - Món quà ở gần cánh cửa.\nLucy is nine years old. She has an apple. - Lucy chín tuổi. Cô ấy có quả táo.\nThere is a girl. - Có cô bé.\nThis is a boy. - Đây là bạn nam."
+        "hint": "The present is near the door. - Món quà ở gần cánh cửa.\nLucy is nine years old. She has an apple. - Lucy chín tuổi. Cô ấy có quả táo.\nThere is a girl. - Có bé gái.\nThis is a boy. - Đây là bạn nam."
       },
       {
         "id": 188,
@@ -4182,14 +4182,14 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "present",
             "vi": "món quà"
           }
         ],
-        "hint": "two - hai\ncandle - cây nến\ngirl - cô bé\npresent - món quà"
+        "hint": "two - hai\ncandle - cây nến\ngirl - bé gái\npresent - món quà"
       },
       {
         "id": 191,
@@ -4204,14 +4204,14 @@
           },
           {
             "en": "Is this a girl?",
-            "vi": "Đây có phải là cô bé không?"
+            "vi": "Đây có phải là bé gái không?"
           },
           {
             "en": "My name's Ben. And you?",
             "vi": "Mình tên là Ben. Còn bạn?"
           }
         ],
-        "hint": "Hi. I'm Nam. What's your name? - Chào bạn. Mình là Nam. Bạn tên là gì?\nIt's near the door. - Nó ở gần cánh cửa.\nIs this a girl? - Đây có phải là cô bé không?\nMy name's Ben. And you? - Mình tên là Ben. Còn bạn?"
+        "hint": "Hi. I'm Nam. What's your name? - Chào bạn. Mình là Nam. Bạn tên là gì?\nIt's near the door. - Nó ở gần cánh cửa.\nIs this a girl? - Đây có phải là bé gái không?\nMy name's Ben. And you? - Mình tên là Ben. Còn bạn?"
       },
       {
         "id": 192,
@@ -4384,10 +4384,10 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           }
         ],
-        "hint": "old - tuổi\nballoon - quả bóng bay\nbirthday - sinh nhật\ngirl - cô bé"
+        "hint": "old - tuổi\nballoon - quả bóng bay\nbirthday - sinh nhật\ngirl - bé gái"
       },
       {
         "id": 200,
@@ -4420,7 +4420,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "what",
@@ -4431,7 +4431,7 @@
             "vi": "tuổi"
           }
         ],
-        "hint": "cake - cái bánh\ngirl - cô bé\nwhat - cái gì\nyears old - tuổi"
+        "hint": "cake - cái bánh\ngirl - bé gái\nwhat - cái gì\nyears old - tuổi"
       },
       {
         "id": 202,
@@ -4504,7 +4504,7 @@
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "five",
@@ -4519,14 +4519,14 @@
             "vi": "tên"
           }
         ],
-        "hint": "girl - cô bé\nfive - năm\nballoon - quả bóng bay\nname - tên"
+        "hint": "girl - bé gái\nfive - năm\nballoon - quả bóng bay\nname - tên"
       },
       {
         "id": 206,
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "two",
@@ -4541,7 +4541,7 @@
             "vi": "tấm thiệp"
           }
         ],
-        "hint": "girl - cô bé\ntwo - hai\nwhat - cái gì\ncard - tấm thiệp"
+        "hint": "girl - bé gái\ntwo - hai\nwhat - cái gì\ncard - tấm thiệp"
       },
       {
         "id": 207,
@@ -4552,7 +4552,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "name",
@@ -4563,7 +4563,7 @@
             "vi": "chín"
           }
         ],
-        "hint": "boy - bạn nam\ngirl - cô bé\nname - tên\nnine - chín"
+        "hint": "boy - bạn nam\ngirl - bé gái\nname - tên\nnine - chín"
       },
       {
         "id": 208,
@@ -4614,7 +4614,7 @@
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "balloon",
@@ -4629,7 +4629,7 @@
             "vi": "tấm thiệp"
           }
         ],
-        "hint": "girl - cô bé\nballoon - quả bóng bay\nthree - ba\ncard - tấm thiệp"
+        "hint": "girl - bé gái\nballoon - quả bóng bay\nthree - ba\ncard - tấm thiệp"
       },
       {
         "id": 211,
@@ -4662,7 +4662,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "balloon",
@@ -4673,7 +4673,7 @@
             "vi": "bảy"
           }
         ],
-        "hint": "years old - tuổi\ngirl - cô bé\nballoon - quả bóng bay\nseven - bảy"
+        "hint": "years old - tuổi\ngirl - bé gái\nballoon - quả bóng bay\nseven - bảy"
       },
       {
         "id": 213,
@@ -4798,14 +4798,14 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "what",
             "vi": "cái gì"
           }
         ],
-        "hint": "your - của bạn\ntwo - hai\ngirl - cô bé\nwhat - cái gì"
+        "hint": "your - của bạn\ntwo - hai\ngirl - bé gái\nwhat - cái gì"
       },
       {
         "id": 219,
@@ -4816,7 +4816,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "nine",
@@ -4827,14 +4827,14 @@
             "vi": "của bạn"
           }
         ],
-        "hint": "birthday - sinh nhật\ngirl - cô bé\nnine - chín\nyour - của bạn"
+        "hint": "birthday - sinh nhật\ngirl - bé gái\nnine - chín\nyour - của bạn"
       },
       {
         "id": 220,
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "years old",
@@ -4849,7 +4849,7 @@
             "vi": "cây nến"
           }
         ],
-        "hint": "girl - cô bé\nyears old - tuổi\nyour - của bạn\ncandle - cây nến"
+        "hint": "girl - bé gái\nyears old - tuổi\nyour - của bạn\ncandle - cây nến"
       },
       {
         "id": 221,
@@ -4878,7 +4878,7 @@
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "ten",
@@ -4893,7 +4893,7 @@
             "vi": "bạn nam"
           }
         ],
-        "hint": "girl - cô bé\nten - mười\npresent - món quà\nboy - bạn nam"
+        "hint": "girl - bé gái\nten - mười\npresent - món quà\nboy - bạn nam"
       },
       {
         "id": 223,
@@ -5000,10 +5000,10 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           }
         ],
-        "hint": "old - tuổi\nwhat - cái gì\nballoon - quả bóng bay\ngirl - cô bé"
+        "hint": "old - tuổi\nwhat - cái gì\nballoon - quả bóng bay\ngirl - bé gái"
       },
       {
         "id": 228,
@@ -5014,7 +5014,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "what",
@@ -5025,7 +5025,7 @@
             "vi": "tuổi"
           }
         ],
-        "hint": "six - sáu\ngirl - cô bé\nwhat - cái gì\nyears old - tuổi"
+        "hint": "six - sáu\ngirl - bé gái\nwhat - cái gì\nyears old - tuổi"
       },
       {
         "id": 229,
@@ -5084,14 +5084,14 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "name",
             "vi": "tên"
           }
         ],
-        "hint": "three - ba\nyears old - tuổi\ngirl - cô bé\nname - tên"
+        "hint": "three - ba\nyears old - tuổi\ngirl - bé gái\nname - tên"
       },
       {
         "id": 232,
@@ -5168,7 +5168,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "candle",
@@ -5179,7 +5179,7 @@
             "vi": "ba"
           }
         ],
-        "hint": "years old - tuổi\ngirl - cô bé\ncandle - cây nến\nthree - ba"
+        "hint": "years old - tuổi\ngirl - bé gái\ncandle - cây nến\nthree - ba"
       },
       {
         "id": 236,
@@ -5194,14 +5194,14 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "candle",
             "vi": "cây nến"
           }
         ],
-        "hint": "five - năm\nyour - của bạn\ngirl - cô bé\ncandle - cây nến"
+        "hint": "five - năm\nyour - của bạn\ngirl - bé gái\ncandle - cây nến"
       },
       {
         "id": 237,
@@ -5242,10 +5242,10 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           }
         ],
-        "hint": "birthday - sinh nhật\nballoon - quả bóng bay\nwhat - cái gì\ngirl - cô bé"
+        "hint": "birthday - sinh nhật\nballoon - quả bóng bay\nwhat - cái gì\ngirl - bé gái"
       },
       {
         "id": 239,
@@ -5274,7 +5274,7 @@
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "years old",
@@ -5289,7 +5289,7 @@
             "vi": "bốn"
           }
         ],
-        "hint": "girl - cô bé\nyears old - tuổi\nboy - bạn nam\nfour - bốn"
+        "hint": "girl - bé gái\nyears old - tuổi\nboy - bạn nam\nfour - bốn"
       },
       {
         "id": 241,
@@ -5348,14 +5348,14 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "what",
             "vi": "cái gì"
           }
         ],
-        "hint": "candle - cây nến\neight - tám\ngirl - cô bé\nwhat - cái gì"
+        "hint": "candle - cây nến\neight - tám\ngirl - bé gái\nwhat - cái gì"
       },
       {
         "id": 244,
@@ -5370,14 +5370,14 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "boy",
             "vi": "bạn nam"
           }
         ],
-        "hint": "birthday - sinh nhật\neight - tám\ngirl - cô bé\nboy - bạn nam"
+        "hint": "birthday - sinh nhật\neight - tám\ngirl - bé gái\nboy - bạn nam"
       },
       {
         "id": 245,
@@ -5410,7 +5410,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "years old",
@@ -5421,7 +5421,7 @@
             "vi": "một"
           }
         ],
-        "hint": "birthday - sinh nhật\ngirl - cô bé\nyears old - tuổi\none - một"
+        "hint": "birthday - sinh nhật\ngirl - bé gái\nyears old - tuổi\none - một"
       },
       {
         "id": 247,
@@ -5586,7 +5586,7 @@
           },
           {
             "en": "There's a girl in the garden.",
-            "vi": "Có một cô bé ở trong khu vườn."
+            "vi": "Có một bé gái ở trong khu vườn."
           },
           {
             "en": "Is the pizza yummy?",
@@ -5597,7 +5597,7 @@
             "vi": "Cô ấy đang ăn hạt lạc."
           }
         ],
-        "hint": "Hi. How are you? Fine, thank you. And you? - Chào. Bạn có khỏe không? Mình khỏe, cảm ơn. Còn bạn?\nThere's a girl in the garden. - Có một cô bé ở trong khu vườn.\nIs the pizza yummy? - Bánh pizza có ngon không?\nShe's having nuts. - Cô ấy đang ăn hạt lạc."
+        "hint": "Hi. How are you? Fine, thank you. And you? - Chào. Bạn có khỏe không? Mình khỏe, cảm ơn. Còn bạn?\nThere's a girl in the garden. - Có một bé gái ở trong khu vườn.\nIs the pizza yummy? - Bánh pizza có ngon không?\nShe's having nuts. - Cô ấy đang ăn hạt lạc."
       },
       {
         "id": 255,
@@ -5656,14 +5656,14 @@
           },
           {
             "en": "Look! There's a girl.",
-            "vi": "Nhìn kìa! Có một cô bé."
+            "vi": "Nhìn kìa! Có một bé gái."
           },
           {
             "en": "He's in the toy shop.",
             "vi": "Cậu ấy ở trong cửa hàng đồ chơi."
           }
         ],
-        "hint": "I have five stars. - Mình có năm ngôi sao.\nHi. I'm Linh. - Chào bạn. Mình là Linh.\nLook! There's a girl. - Nhìn kìa! Có một cô bé.\nHe's in the toy shop. - Cậu ấy ở trong cửa hàng đồ chơi."
+        "hint": "I have five stars. - Mình có năm ngôi sao.\nHi. I'm Linh. - Chào bạn. Mình là Linh.\nLook! There's a girl. - Nhìn kìa! Có một bé gái.\nHe's in the toy shop. - Cậu ấy ở trong cửa hàng đồ chơi."
       },
       {
         "id": 258,
@@ -5832,14 +5832,14 @@
           },
           {
             "en": "Look at the boy. He's running.",
-            "vi": "Hãy nhìn cậu bé. Cậu bé đang chạy."
+            "vi": "Hãy nhìn bé trai. Bé trai đang chạy."
           },
           {
             "en": "That's my football.",
             "vi": "Kia là quả bóng đá của mình."
           }
         ],
-        "hint": "My name's Bill. - Mình tên là Bill.\nThere's a kite in the sky. - Có một con đường gần dòng sông.\nLook at the boy. He's running. - Hãy nhìn cậu bé. Cậu bé đang chạy.\nThat's my football. - Kia là quả bóng đá của mình."
+        "hint": "My name's Bill. - Mình tên là Bill.\nThere's a kite in the sky. - Có một con đường gần dòng sông.\nLook at the boy. He's running. - Hãy nhìn bé trai. Bé trai đang chạy.\nThat's my football. - Kia là quả bóng đá của mình."
       },
       {
         "id": 266,
@@ -9447,14 +9447,14 @@
           },
           {
             "en": "There's a girl.",
-            "vi": "Có một cô bé."
+            "vi": "Có một bé gái."
           },
           {
             "en": "There's a gate.",
             "vi": "Có một cái cổng."
           }
         ],
-        "hint": "5 is five. - 5 là năm.\nLucy is nine years old. She has an apple. - Lucy chín tuổi. Cô ấy có quả táo.\nThere's a girl. - Có một cô bé.\nThere's a gate. - Có một cái cổng."
+        "hint": "5 is five. - 5 là năm.\nLucy is nine years old. She has an apple. - Lucy chín tuổi. Cô ấy có quả táo.\nThere's a girl. - Có một bé gái.\nThere's a gate. - Có một cái cổng."
       },
       {
         "id": 430,
@@ -9847,10 +9847,10 @@
           },
           {
             "en": "There's a girl.",
-            "vi": "Có một cô bé."
+            "vi": "Có một bé gái."
           }
         ],
-        "hint": "She's in the yard. - Cô ấy ở trong sân.\nI have two robots. - Mình có hai con rô-bốt.\nI have eight hats. - Mình có tám cái mũ.\nThere's a girl. - Có một cô bé."
+        "hint": "She's in the yard. - Cô ấy ở trong sân.\nI have two robots. - Mình có hai con rô-bốt.\nI have eight hats. - Mình có tám cái mũ.\nThere's a girl. - Có một bé gái."
       },
       {
         "id": 448,
@@ -12252,10 +12252,10 @@
           },
           {
             "en": "It's a girl.",
-            "vi": "Đó là cô bé."
+            "vi": "Đó là bé gái."
           }
         ],
-        "hint": "Yes, it is. - Vâng, đúng rồi.\nIs this a turtle? - Đây có phải là con rùa không?\nIs that Mary? - Kia có phải là Mary không?\nIt's a girl. - Đó là cô bé."
+        "hint": "Yes, it is. - Vâng, đúng rồi.\nIs this a turtle? - Đây có phải là con rùa không?\nIs that Mary? - Kia có phải là Mary không?\nIt's a girl. - Đó là bé gái."
       },
       {
         "id": 557,
@@ -12662,7 +12662,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "leg",
@@ -12673,7 +12673,7 @@
             "vi": "người đàn ông"
           }
         ],
-        "hint": "fox - con cáo\ngirl - cô bé\nleg - cái chân\nman - người đàn ông"
+        "hint": "fox - con cáo\ngirl - bé gái\nleg - cái chân\nman - người đàn ông"
       },
       {
         "id": 576,
@@ -12706,7 +12706,7 @@
           },
           {
             "en": "There's a girl. She's Ann.",
-            "vi": "Có một cô bé. Đó là Ann."
+            "vi": "Có một bé gái. Đó là Ann."
           },
           {
             "en": "That's a fox.",
@@ -12717,7 +12717,7 @@
             "vi": "Hôm nay là thứ Bảy. Chúng mình đang ở bờ biển."
           }
         ],
-        "hint": "I can see five teddy bears. - Mình nhìn thấy năm con gấu bông.\nThere's a girl. She's Ann. - Có một cô bé. Đó là Ann.\nThat's a fox. - Kia là con cáo.\nIt's Saturday. We're at the seaside. - Hôm nay là thứ Bảy. Chúng mình đang ở bờ biển."
+        "hint": "I can see five teddy bears. - Mình nhìn thấy năm con gấu bông.\nThere's a girl. She's Ann. - Có một bé gái. Đó là Ann.\nThat's a fox. - Kia là con cáo.\nIt's Saturday. We're at the seaside. - Hôm nay là thứ Bảy. Chúng mình đang ở bờ biển."
       },
       {
         "id": 578,
@@ -15925,7 +15925,7 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "six",
@@ -15936,7 +15936,7 @@
             "vi": "mở"
           }
         ],
-        "hint": "point to - chỉ vào\ngirl - cô bé\nsix - sáu\nopen - mở"
+        "hint": "point to - chỉ vào\ngirl - bé gái\nsix - sáu\nopen - mở"
       },
       {
         "id": 724,
@@ -18752,14 +18752,14 @@
           },
           {
             "en": "It's a girl.",
-            "vi": "Đó là cô bé."
+            "vi": "Đó là bé gái."
           },
           {
             "en": "I like swimming.",
             "vi": "Mình thích bơi."
           }
         ],
-        "hint": "Where's the spoon? - Cái thìa ở đâu?\nIs this Ben? - Đây có phải Ben không?\nIt's a girl. - Đó là cô bé.\nI like swimming. - Mình thích bơi."
+        "hint": "Where's the spoon? - Cái thìa ở đâu?\nIs this Ben? - Đây có phải Ben không?\nIt's a girl. - Đó là bé gái.\nI like swimming. - Mình thích bơi."
       },
       {
         "id": 852,
@@ -19196,10 +19196,10 @@
           },
           {
             "en": "The boy is running.",
-            "vi": "Cậu bé đang chạy."
+            "vi": "Bé trai đang chạy."
           }
         ],
-        "hint": "How are you, Ben? - Ben, bạn có khỏe không?\nPoint to the turtle. - Hãy chỉ vào con rùa.\nThis is my friend, Bill. He is seven. - Đây là bạn của mình, Bill. Cậu ấy bảy tuổi.\nThe boy is running. - Cậu bé đang chạy."
+        "hint": "How are you, Ben? - Ben, bạn có khỏe không?\nPoint to the turtle. - Hãy chỉ vào con rùa.\nThis is my friend, Bill. He is seven. - Đây là bạn của mình, Bill. Cậu ấy bảy tuổi.\nThe boy is running. - Bé trai đang chạy."
       },
       {
         "id": 872,
@@ -22975,7 +22975,7 @@
         "title": [
           {
             "en": "Look at the girl!",
-            "vi": "Hãy nhìn cô bé kìa!"
+            "vi": "Hãy nhìn bé gái kìa!"
           },
           {
             "en": "Nam touches his hand.",
@@ -22990,7 +22990,7 @@
             "vi": "Đây là bạn của mình, Minh. Cậu ấy sáu tuổi."
           }
         ],
-        "hint": "Look at the girl! - Hãy nhìn cô bé kìa!\nNam touches his hand. - Nam chạm vào bàn tay của cậu ấy.\nLet's go to the library, Linh! - Chúng ta đến thư viện đi, Linh!\nThis is my friend, Minh. He is six. - Đây là bạn của mình, Minh. Cậu ấy sáu tuổi."
+        "hint": "Look at the girl! - Hãy nhìn bé gái kìa!\nNam touches his hand. - Nam chạm vào bàn tay của cậu ấy.\nLet's go to the library, Linh! - Chúng ta đến thư viện đi, Linh!\nThis is my friend, Minh. He is six. - Đây là bạn của mình, Minh. Cậu ấy sáu tuổi."
       },
       {
         "id": 1044,
@@ -23053,10 +23053,10 @@
           },
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           }
         ],
-        "hint": "good afternoon - chào buổi chiều\nfine - khỏe\nwall - bức tường\ngirl - cô bé"
+        "hint": "good afternoon - chào buổi chiều\nfine - khỏe\nwall - bức tường\ngirl - bé gái"
       },
       {
         "id": 1047,
@@ -29223,14 +29223,14 @@
           },
           {
             "en": "Look! There's a girl.",
-            "vi": "Nhìn kìa! Có một cô bé."
+            "vi": "Nhìn kìa! Có một bé gái."
           },
           {
             "en": "Let's go to the music room, Lucy!",
             "vi": "Chúng ta đến phòng âm nhạc đi, Lucy!"
           }
         ],
-        "hint": "This is my friend, Nam. - Đây là bạn của mình, Nam.\nI have a pen and a pencil. - Mình có một bút mực và một bút chì.\nLook! There's a girl. - Nhìn kìa! Có một cô bé.\nLet's go to the music room, Lucy! - Chúng ta đến phòng âm nhạc đi, Lucy!"
+        "hint": "This is my friend, Nam. - Đây là bạn của mình, Nam.\nI have a pen and a pencil. - Mình có một bút mực và một bút chì.\nLook! There's a girl. - Nhìn kìa! Có một bé gái.\nLet's go to the music room, Lucy! - Chúng ta đến phòng âm nhạc đi, Lucy!"
       },
       {
         "id": 1327,
@@ -29743,7 +29743,7 @@
         "title": [
           {
             "en": "There is a girl.",
-            "vi": "Có cô bé."
+            "vi": "Có bé gái."
           },
           {
             "en": "The banana is white.",
@@ -29758,7 +29758,7 @@
             "vi": "Nhìn kìa! Một con ếch!"
           }
         ],
-        "hint": "There is a girl. - Có cô bé.\nThe banana is white. - Quả chuối màu trắng.\nMy book is white. - Quyển sách của mình màu trắng.\nLook! A frog! - Nhìn kìa! Một con ếch!"
+        "hint": "There is a girl. - Có bé gái.\nThe banana is white. - Quả chuối màu trắng.\nMy book is white. - Quyển sách của mình màu trắng.\nLook! A frog! - Nhìn kìa! Một con ếch!"
       }
     ]
   },
@@ -32214,7 +32214,7 @@
         "title": [
           {
             "en": "Is this a girl?",
-            "vi": "Đây có phải là cô bé không?"
+            "vi": "Đây có phải là bé gái không?"
           },
           {
             "en": "Yes, it is.",
@@ -32229,7 +32229,7 @@
             "vi": "Đây có phải Minh không?"
           }
         ],
-        "hint": "Is this a girl? - Đây có phải là cô bé không?\nYes, it is. - Vâng, đúng rồi.\nI like playing the guitar. - Mình thích chơi đàn ghi-ta.\nIs this Minh? - Đây có phải Minh không?"
+        "hint": "Is this a girl? - Đây có phải là bé gái không?\nYes, it is. - Vâng, đúng rồi.\nI like playing the guitar. - Mình thích chơi đàn ghi-ta.\nIs this Minh? - Đây có phải Minh không?"
       },
       {
         "id": 1463,
@@ -32280,7 +32280,7 @@
         "title": [
           {
             "en": "girl",
-            "vi": "cô bé"
+            "vi": "bé gái"
           },
           {
             "en": "read",
@@ -32295,7 +32295,7 @@
             "vi": "giấy"
           }
         ],
-        "hint": "girl - cô bé\nread - đọc\nkite - cái diều\npaper - giấy"
+        "hint": "girl - bé gái\nread - đọc\nkite - cái diều\npaper - giấy"
       },
       {
         "id": 1466,
@@ -32886,10 +32886,10 @@
           },
           {
             "en": "The boy is running in the sun.",
-            "vi": "Cậu bé đang chạy dưới ánh nắng."
+            "vi": "Bé trai đang chạy dưới ánh nắng."
           }
         ],
-        "hint": "Bill touches his mouth. - Bill chạm vào cái miệng của cậu ấy.\nDo you have any school things? - Bạn có đồ dùng học tập nào không?\nI have an eraser and a notebook. - Mình có một cục tẩy và một quyển vở.\nThe boy is running in the sun. - Cậu bé đang chạy dưới ánh nắng."
+        "hint": "Bill touches his mouth. - Bill chạm vào cái miệng của cậu ấy.\nDo you have any school things? - Bạn có đồ dùng học tập nào không?\nI have an eraser and a notebook. - Mình có một cục tẩy và một quyển vở.\nThe boy is running in the sun. - Bé trai đang chạy dưới ánh nắng."
       },
       {
         "id": 1493,

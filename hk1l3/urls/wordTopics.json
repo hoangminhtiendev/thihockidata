@@ -3493,7 +3493,7 @@
       {
         "id": 498,
         "word": "girl",
-        "meaning": "cô bé",
+        "meaning": "bé gái",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/girl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/girl.mp3"
       },
@@ -3710,7 +3710,7 @@
       {
         "id": 529,
         "word": "I can see a girl.",
-        "meaning": "Mình nhìn thấy cô bé.",
+        "meaning": "Mình nhìn thấy bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/icanseeagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/icanseeagirl.mp3"
       },
@@ -3752,7 +3752,7 @@
       {
         "id": 535,
         "word": "This is a girl.",
-        "meaning": "Đây là cô bé.",
+        "meaning": "Đây là bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/thisisagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thisisagirl.mp3"
       },
@@ -3871,7 +3871,7 @@
       {
         "id": 552,
         "word": "There is a girl.",
-        "meaning": "Có cô bé.",
+        "meaning": "Có bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/thereisagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thereisagirl.mp3"
       },
@@ -3899,7 +3899,7 @@
       {
         "id": 556,
         "word": "Is this a girl?",
-        "meaning": "Đây có phải là cô bé không?",
+        "meaning": "Đây có phải là bé gái không?",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/isthisagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/isthisagirl.mp3"
       },
@@ -4158,7 +4158,7 @@
       {
         "id": 593,
         "word": "Look at the girl!",
-        "meaning": "Hãy nhìn cô bé kìa!",
+        "meaning": "Hãy nhìn bé gái kìa!",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/lookatthegirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/lookatthegirl.mp3"
       },
@@ -4193,7 +4193,7 @@
       {
         "id": 598,
         "word": "It's a girl.",
-        "meaning": "Đó là cô bé.",
+        "meaning": "Đó là bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/itsagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/itsagirl.mp3"
       },
@@ -4214,7 +4214,7 @@
       {
         "id": 601,
         "word": "Look at the boy.",
-        "meaning": "Hãy nhìn cậu bé.",
+        "meaning": "Hãy nhìn bé trai.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/lookattheboy.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/lookattheboy.mp3"
       },
@@ -4256,14 +4256,14 @@
       {
         "id": 607,
         "word": "Look at the boy. He's running.",
-        "meaning": "Hãy nhìn cậu bé. Cậu bé đang chạy.",
+        "meaning": "Hãy nhìn bé trai. Bé trai đang chạy.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/lookattheboyhesrunning.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/lookattheboyhesrunning.mp3"
       },
       {
         "id": 608,
         "word": "There's a girl. There's a goat.",
-        "meaning": "Có một cô bé. Có một con dê.",
+        "meaning": "Có một bé gái. Có một con dê.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/theresagirltheresagoat.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theresagirltheresagoat.mp3"
       },
@@ -4501,7 +4501,7 @@
       {
         "id": 642,
         "word": "Look at the girl. She's running.",
-        "meaning": "Hãy nhìn cô bé. Cô bé đang chạy.",
+        "meaning": "Hãy nhìn bé gái. Bé gái đang chạy.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/lookatthegirlshesrunning.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/lookatthegirlshesrunning.mp3"
       },
@@ -6398,7 +6398,7 @@
       {
         "id": 912,
         "word": "The boy is running.",
-        "meaning": "Cậu bé đang chạy.",
+        "meaning": "Bé trai đang chạy.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/theboyisrunning.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theboyisrunning.mp3"
       },
@@ -6944,7 +6944,7 @@
       {
         "id": 990,
         "word": "There's a girl.",
-        "meaning": "Có một cô bé.",
+        "meaning": "Có một bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/theresagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theresagirl.mp3"
       },
@@ -7917,7 +7917,7 @@
       {
         "id": 1128,
         "word": "Look at the girl.",
-        "meaning": "Hãy nhìn cô bé.",
+        "meaning": "Hãy nhìn bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/lookatthegirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/lookatthegirl.mp3"
       },
@@ -10003,7 +10003,7 @@
       {
         "id": 1425,
         "word": "The boy is running in the sun.",
-        "meaning": "Cậu bé đang chạy dưới ánh nắng.",
+        "meaning": "Bé trai đang chạy dưới ánh nắng.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/theboyisrunninginthesun.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theboyisrunninginthesun.mp3"
       },
@@ -11382,7 +11382,7 @@
       {
         "id": 1621,
         "word": "There's a girl in the park.",
-        "meaning": "Có một cô bé ở trong công viên.",
+        "meaning": "Có một bé gái ở trong công viên.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/theresagirlinthepark.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theresagirlinthepark.mp3"
       },
@@ -11452,7 +11452,7 @@
       {
         "id": 1631,
         "word": "This is my garden. There's a girl.",
-        "meaning": "Đây là khu vườn của mình. Có một cô bé.",
+        "meaning": "Đây là khu vườn của mình. Có một bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/thisismygardentheresagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/thisismygardentheresagirl.mp3"
       },
@@ -11851,7 +11851,7 @@
       {
         "id": 1688,
         "word": "There's a girl in the garden.",
-        "meaning": "Có một cô bé ở trong khu vườn.",
+        "meaning": "Có một bé gái ở trong khu vườn.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/theresagirlinthegarden.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theresagirlinthegarden.mp3"
       },
@@ -15463,7 +15463,7 @@
       {
         "id": 2202,
         "word": "There's a girl near the lake.",
-        "meaning": "Có một cô bé ở gần cái hồ.",
+        "meaning": "Có một bé gái ở gần cái hồ.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/theresagirlnearthelake.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/theresagirlnearthelake.mp3"
       },
@@ -15505,7 +15505,7 @@
       {
         "id": 2208,
         "word": "Look! There's a girl.",
-        "meaning": "Nhìn kìa! Có một cô bé.",
+        "meaning": "Nhìn kìa! Có một bé gái.",
         "imageUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/photos/looktheresagirl.png",
         "audioUrl": "https://hoangminhtiendev.github.io/thihockidata/hk1l3/audios/looktheresagirl.mp3"
       },
